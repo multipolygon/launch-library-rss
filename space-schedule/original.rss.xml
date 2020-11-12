@@ -20,16 +20,18 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg"/>
     </item>
     <item>
-      <title>H-IIA | JDRS-1</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/3f8dd709-4231-49ca-aa9f-694a2c0c107f.json</link>
-      <description>-</description>
+      <title>Falcon 9 Block 5 | Sentinel-6 Michael Freilich</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/56623c2d-7174-489c-b0ed-bf6f039b2412.json</link>
+      <description>The Sentinel-6A mission, also known as Jason Continuity of Service (Jason-CS), is a partnership between NASA, NOAA, ESA, and EUMETSAT. This mission consists of two parts: the first one continues the long-term global sea surface height data record begun by first Jason satellites in 1992. This part of the mission will provide altimeter data necessary for ocean climate monitoring, ocean modelling and numerical ocean prediction, weather forecasting, marine meteorology, coastal altimetry and modelling. A secondary objective of the mission is to collect high-resolution vertical profiles of temperature, using the Global Navigation Satellite System (GNSS) Radio-Occultation sounding technique, to assess temperature changes in the troposphere and stratosphere and to support numerical weather prediction.
+Sentinel-6A is to operate in a highly-inclined circular orbit at an altitude of 1336 km, with an operational mission lasting 5 years.</description>
       <category>commercial</category>
-      <category>h-ii</category>
-      <category>h-iia</category>
-      <category>yoshinobu launch complex</category>
-      <guid isPermaLink="false">~space-schedule~launch~mitsubishi_heavy_industries~3f8dd709-4231-49ca-aa9f-694a2c0c107f</guid>
-      <pubDate>Sun, 29 Nov 2020 07:15:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-ii_image_20190224012325.jpeg"/>
+      <category>falcon</category>
+      <category>falcon 9 block 5</category>
+      <category>earth science</category>
+      <category>space launch complex 4e</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~56623c2d-7174-489c-b0ed-bf6f039b2412</guid>
+      <pubDate>Sat, 21 Nov 2020 17:17:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
     </item>
     <item>
       <title>Russian EVA-46</title>
