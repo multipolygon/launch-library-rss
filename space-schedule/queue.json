@@ -1,0 +1,17 @@
+{
+ "title": "Space-schedule",
+ "description": "All items in subcategories for category.",
+ "items": [],
+ "version": "https://jsonfeed.org/version/1",
+ "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/queue.json",
+ "_feed_url": {
+  "rss": "https://launch-library-rss.multipolygon.net/space-schedule/queue.rss.xml",
+  "atom": "https://launch-library-rss.multipolygon.net/space-schedule/queue.atom.xml"
+ },
+ "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fqueue.json",
+ "_meta": {
+  "itemCount": 0,
+  "pageNumber": 1,
+  "pageCount": 0
+ }
+}

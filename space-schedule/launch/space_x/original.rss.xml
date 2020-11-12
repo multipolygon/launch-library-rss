@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>SpaceX</title>
+    <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json</link>
+    <language>en-us</language>
+    <copyright>© 2020 </copyright>
+    <pubDate>Sun, 15 Nov 2020 00:49:50 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Falcon 9 Block 5 | SpX USCV-1 (NASA Crew Flight 1)</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/0ede12be-ac6d-4571-9d0c-b2a85b5cf280.json</link>
+      <description>SpaceX's first operational flight of manned Dragon 2 vehicle.</description>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon 9 block 5</category>
+      <category>human exploration</category>
+      <category>launch complex 39a</category>
+      <category>object_object</category>
+      <category>object_object</category>
+      <guid isPermaLink="false">0ede12be-ac6d-4571-9d0c-b2a85b5cf280</guid>
+      <pubDate>Sun, 15 Nov 2020 00:49:50 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg"/>
+    </item>
+  </channel>
+</rss>

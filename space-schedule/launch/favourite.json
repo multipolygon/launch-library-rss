@@ -1,0 +1,17 @@
+{
+ "title": "Launch",
+ "description": "All items in Space Schedule > Launch.",
+ "items": [],
+ "version": "https://jsonfeed.org/version/1",
+ "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/launch/favourite.json",
+ "_feed_url": {
+  "rss": "https://launch-library-rss.multipolygon.net/space-schedule/launch/favourite.rss.xml",
+  "atom": "https://launch-library-rss.multipolygon.net/space-schedule/launch/favourite.atom.xml"
+ },
+ "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Ffavourite.json",
+ "_meta": {
+  "itemCount": 0,
+  "pageNumber": 1,
+  "pageCount": 0
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/event/hatch_opening/original.json",
+ "title": "Hatch Opening",
+ "items": [
+  {
+   "id": "186",
+   "title": "SpaceX Crew-1 \"Resilience\" Crew Dragon Hatch Opening",
+   "content_text": "The \"Resilience\" Crew Dragon hatch will be opened, allowing JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to enter the International Space Station as crew members of Expedition 64.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031193109.jpeg",
+   "date_published": "2020-11-15T11:20:00Z",
+   "date_modified": "2020-11-15T11:20:00Z",
+   "tags": [
+    "hatch_opening"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031193109.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1
+   }
+  }
+ ],
+ "_feed_url": {
+  "rss": "https://launch-library-rss.multipolygon.net/space-schedule/event/hatch_opening/original.rss.xml",
+  "atom": "https://launch-library-rss.multipolygon.net/space-schedule/event/hatch_opening/original.atom.xml"
+ },
+ "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fhatch_opening%2Foriginal.json",
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ }
+}

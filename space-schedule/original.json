@@ -1,0 +1,355 @@
+{
+ "title": "Space-schedule",
+ "description": "All items in subcategories for category.",
+ "items": [
+  {
+   "id": "~space-schedule~event~landing~35",
+   "title": "Hayabusa-2 Sample Returns to Earth",
+   "content_text": "When Hayabusa-2 flies past Earth in December 2020, it will release the capsule spinning at one revolution per three seconds. The capsule will re-enter the Earth's atmosphere at 12 km/s and it will deploy a radar-reflective parachute at an altitude of about 10 km, and eject its heat-shield, while transmitting a position beacon signal. The sample capsule will land at the Woomera Test Range in Australia.",
+   "url": "https://en.wikipedia.org/wiki/Hayabusa2",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg",
+   "date_published": "2020-12-01T05:00:00Z",
+   "date_modified": "2020-12-01T05:00:00Z",
+   "tags": [
+    "landing"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Landing"
+   },
+   "_id": {
+    "parent": "35",
+    "global": "~space-schedule~event~landing~35"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~launch~mitsubishi_heavy_industries~3f8dd709-4231-49ca-aa9f-694a2c0c107f",
+   "title": "H-IIA | JDRS-1",
+   "content_text": "-",
+   "url": "https://ll.thespacedevs.com/2.0.0/launch/3f8dd709-4231-49ca-aa9f-694a2c0c107f.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-ii_image_20190224012325.jpeg",
+   "date_published": "2020-11-29T07:15:00Z",
+   "date_modified": "2020-11-29T07:15:00Z",
+   "tags": [
+    "commercial",
+    "h-ii",
+    "h-iia",
+    "yoshinobu launch complex"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-ii_image_20190224012325.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Mitsubishi Heavy Industries"
+   },
+   "_id": {
+    "parent": "3f8dd709-4231-49ca-aa9f-694a2c0c107f",
+    "global": "~space-schedule~launch~mitsubishi_heavy_industries~3f8dd709-4231-49ca-aa9f-694a2c0c107f"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/mitsubishi_heavy_industries/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~eva~188",
+   "title": "Russian EVA-46",
+   "content_text": "Roscosmos cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov will exit the International Space Station through the Pirs airlock to perform a maintenance spacewalk.",
+   "url": "https://youtu.be/21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-46_image_20201031195150.jpeg",
+   "date_published": "2020-11-18T13:30:00Z",
+   "date_modified": "2020-11-18T13:30:00Z",
+   "tags": [
+    "eva"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-46_image_20201031195150.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "EVA"
+   },
+   "_id": {
+    "parent": "188",
+    "global": "~space-schedule~event~eva~188"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~launch~arianespace~d9486816-bb61-4b16-bcfa-0d1e9ba40696",
+   "title": "Vega | Ingenio (SEOSat) & Taranis",
+   "content_text": "Spanish optical Earth-observation satellite. The mission is devoted to providing high resolution multispectral land optical images to different Spanish civil, institutional and government users.",
+   "url": "https://ll.thespacedevs.com/2.0.0/launch/d9486816-bb61-4b16-bcfa-0d1e9ba40696.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
+   "date_published": "2020-11-17T01:52:20Z",
+   "date_modified": "2020-11-17T01:52:20Z",
+   "tags": [
+    "commercial",
+    "vega",
+    "vega",
+    "earth science",
+    "ariane launch area 1"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Arianespace"
+   },
+   "_id": {
+    "parent": "d9486816-bb61-4b16-bcfa-0d1e9ba40696",
+    "global": "~space-schedule~launch~arianespace~d9486816-bb61-4b16-bcfa-0d1e9ba40696"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~launch~rocket_lab_ltd~1514d38c-b1ed-4a4a-9878-04646f0b6b94",
+   "title": "Electron | Return to Sender",
+   "content_text": "\"Return to Sender\" will loft 30 satellites to a sun-synchronous orbit at 500 km altitude for a range of customers, including TriSept, Unseenlabs, Swarm, Te Pūnaha Ātea - Auckland Space Institute, and global gaming software company Valve. The satellites span a range of operations, from TriSept’s tech demonstration of new tether systems designed to accelerate spacecraft reentry and reduce orbital debris, through to the next generation of maritime surveillance satellites for Unseenlabs, as well as communications satellites for Swarm. The mission will also deploy New Zealand’s first student-built satellite, the APSS-1 satellite for Te Pūnaha Ātea - Auckland Space Institute at The University of Auckland.\r\n\r\nThe DRAGRACER mission will test the effectiveness of new tether technologies designed to accelerate spacecraft reentry and reduce orbital debris at the conclusion of space missions. TriSept has completed the integration of a pair of qualified Millennium Space Systems 6U small satellites, one featuring the tether drag device and one without. The controlled spacecraft should deorbit in approximately 45 days, while the second spacecraft is expected to remain in orbit for seven to nine years.\r\n\r\nBRO-2 and BRO-3 are the second and third satellites in French company Unseenlabs’ planned constellation of about 20 satellites dedicated to maritime surveillance. \r\n\r\nSwarm will launch the latest 24 1/4U SpaceBEE satellites to continue building out its planned constellation of 150 satellites to provide affordable satellite communications services to IoT devices in remote regions around the world. \r\n\r\nThe student-built Waka Āmiorangi Aotearoa APSS-1 satellite is designed to monitor electrical activity in Earth’s upper atmosphere to test whether ionospheric disturbances can predict earthquakes.\r\n\r\nExtra payload on this flight is a 150 mm 3D printed Half-Life Gnome Chompski. Created for Valve Software's co-founder Gabe Newell by design studio Weta Workshop, it serves as an homage to the innovation and creativity of gamers worldwide, and also aims to test and qualify a novel 3D printing technique that could be employed for future spacecraft components. Gnome will remain attached to the Kick Stage and will burn up on reentry.\r\n\r\nBesides payloads, this flight will also serve as a test of Electron's reusability. Rocket Lab will attempt to bring Electron’s first stage back to Earth under a parachute system for a controlled water landing before collection by a recovery vessel.",
+   "url": "https://ll.thespacedevs.com/2.0.0/launch/1514d38c-b1ed-4a4a-9878-04646f0b6b94.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/flight252016_image_20201102201340.jpg",
+   "date_published": "2020-11-16T01:44:00Z",
+   "date_modified": "2020-11-16T01:44:00Z",
+   "tags": [
+    "commercial",
+    "electron",
+    "electron",
+    "dedicated rideshare",
+    "rocket lab launch complex 1a"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/flight252016_image_20201102201340.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Rocket Lab Ltd"
+   },
+   "_id": {
+    "parent": "1514d38c-b1ed-4a4a-9878-04646f0b6b94",
+    "global": "~space-schedule~launch~rocket_lab_ltd~1514d38c-b1ed-4a4a-9878-04646f0b6b94"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/rocket_lab_ltd/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~hatch_opening~186",
+   "title": "SpaceX Crew-1 \"Resilience\" Crew Dragon Hatch Opening",
+   "content_text": "The \"Resilience\" Crew Dragon hatch will be opened, allowing JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to enter the International Space Station as crew members of Expedition 64.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031193109.jpeg",
+   "date_published": "2020-11-15T11:20:00Z",
+   "date_modified": "2020-11-15T11:20:00Z",
+   "tags": [
+    "hatch_opening"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031193109.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Hatch Opening"
+   },
+   "_id": {
+    "parent": "186",
+    "global": "~space-schedule~event~hatch_opening~186"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/hatch_opening/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~docking~187",
+   "title": "SpaceX Crew-1 \"Resilience\" Crew Dragon Docking",
+   "content_text": "The \"Resilience\" Crew Dragon will dock autonomously to the International Space Station, carrying JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to the International Space Station as crew members of Expedition 64.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031194914.jpeg",
+   "date_published": "2020-11-15T09:04:00Z",
+   "date_modified": "2020-11-15T09:04:00Z",
+   "tags": [
+    "docking"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031194914.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Docking"
+   },
+   "_id": {
+    "parent": "187",
+    "global": "~space-schedule~event~docking~187"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~launch~space_x~0ede12be-ac6d-4571-9d0c-b2a85b5cf280",
+   "title": "Falcon 9 Block 5 | SpX USCV-1 (NASA Crew Flight 1)",
+   "content_text": "SpaceX's first operational flight of manned Dragon 2 vehicle.",
+   "url": "https://ll.thespacedevs.com/2.0.0/launch/0ede12be-ac6d-4571-9d0c-b2a85b5cf280.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg",
+   "date_published": "2020-11-15T00:49:50Z",
+   "date_modified": "2020-11-15T00:49:50Z",
+   "tags": [
+    "commercial",
+    "falcon",
+    "falcon 9 block 5",
+    "human exploration",
+    "launch complex 39a",
+    "object_object",
+    "object_object"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "SpaceX"
+   },
+   "_id": {
+    "parent": "0ede12be-ac6d-4571-9d0c-b2a85b5cf280",
+    "global": "~space-schedule~launch~space_x~0ede12be-ac6d-4571-9d0c-b2a85b5cf280"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~launch~united_launch_alliance~c5a9ba01-d03f-4fd7-940a-8a10d535809a",
+   "title": "Atlas V 531 | NROL-101",
+   "content_text": "Classified payload for the U.S. National Reconnaissance Office.",
+   "url": "https://ll.thespacedevs.com/2.0.0/launch/c5a9ba01-d03f-4fd7-940a-8a10d535809a.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20201110095715.jpeg",
+   "date_published": "2020-11-13T22:13:00Z",
+   "date_modified": "2020-11-13T22:13:00Z",
+   "tags": [
+    "commercial",
+    "atlas",
+    "atlas v 531",
+    "government/top secret",
+    "space launch complex 41"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20201110095715.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "United Launch Alliance"
+   },
+   "_id": {
+    "parent": "c5a9ba01-d03f-4fd7-940a-8a10d535809a",
+    "global": "~space-schedule~launch~united_launch_alliance~c5a9ba01-d03f-4fd7-940a-8a10d535809a"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/united_launch_alliance/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~launch~china_aerospace_science_and_industry_corporation~c8e75624-fed4-4296-a127-6a192142d57a",
+   "title": "Long March 3B | Tiantong-1-02",
+   "content_text": "Designed by the CAST Institute (China Academy of Space Technology), a subsidiary of the Chinese aerospace group CASC and specialized in spacecraft design, the Tiantong-1 02 satellite will be operated by China Satellite Communications Co. Ltd, another CASC subsidiary which owns about ten communication satellites such as the ChinaStar and APStar.\r\n\r\nTiantong-1 02 is the second satellite of China's first mobile communication network.\r\n\r\nIt uses a Chinese DFH-4 satellite platform, and, according to its manufacturer CAST, has the highest payload mass utilization rate compared to other satellites of the same family.\r\n\r\nThe project was launched in 2010 following the 2008 earthquake in Sichuan, where almost all ground communication networks were paralyzed. China had no mobile communication satellites at the time, so it had to lease services from foreign countries, such as Inmarsat in Europe, for its rescue teams.",
+   "url": "https://ll.thespacedevs.com/2.0.0/launch/c8e75624-fed4-4296-a127-6a192142d57a.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
+   "date_published": "2020-11-12T15:51:00Z",
+   "date_modified": "2020-11-12T15:51:00Z",
+   "tags": [
+    "government",
+    "long march 3",
+    "long march 3",
+    "communications",
+    "launch complex 2 (lc-2)"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "China Aerospace Science and Industry Corporation"
+   },
+   "_id": {
+    "parent": "c8e75624-fed4-4296-a127-6a192142d57a",
+    "global": "~space-schedule~launch~china_aerospace_science_and_industry_corporation~c8e75624-fed4-4296-a127-6a192142d57a"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_industry_corporation/original.json"
+   }
+  }
+ ],
+ "version": "https://jsonfeed.org/version/1",
+ "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/original.json",
+ "_feed_url": {
+  "rss": "https://launch-library-rss.multipolygon.net/space-schedule/original.rss.xml",
+  "atom": "https://launch-library-rss.multipolygon.net/space-schedule/original.atom.xml"
+ },
+ "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
+ "_meta": {
+  "itemCount": 10,
+  "pageNumber": 1,
+  "pageCount": 1
+ }
+}

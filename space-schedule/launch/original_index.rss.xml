@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/original_index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Launch</title>
+    <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal_index.json</link>
+    <description>All feeds in Space Schedule &gt; Launch.</description>
+    <language>en-us</language>
+    <copyright>© 2020 </copyright>
+    <pubDate>Sun, 29 Nov 2020 07:15:00 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Mitsubishi Heavy Industries</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fmitsubishi_heavy_industries%2Foriginal.json</link>
+      <description>1 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/mitsubishi_heavy_industries/original.json</guid>
+      <pubDate>Sun, 29 Nov 2020 07:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arianespace</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Farianespace%2Foriginal.json</link>
+      <description>1 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json</guid>
+      <pubDate>Tue, 17 Nov 2020 01:52:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rocket Lab Ltd</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Frocket_lab_ltd%2Foriginal.json</link>
+      <description>1 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/rocket_lab_ltd/original.json</guid>
+      <pubDate>Mon, 16 Nov 2020 01:44:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SpaceX</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json</link>
+      <description>1 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json</guid>
+      <pubDate>Sun, 15 Nov 2020 00:49:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>United Launch Alliance</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Funited_launch_alliance%2Foriginal.json</link>
+      <description>1 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/united_launch_alliance/original.json</guid>
+      <pubDate>Fri, 13 Nov 2020 22:13:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>China Aerospace Science and Industry Corporation</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_industry_corporation%2Foriginal.json</link>
+      <description>1 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_industry_corporation/original.json</guid>
+      <pubDate>Thu, 12 Nov 2020 15:51:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
