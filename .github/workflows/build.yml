@@ -1,0 +1,44 @@
+name: Build
+
+on:
+  workflow_dispatch:
+
+  push:
+    branches:
+      - master
+
+  schedule:
+    - cron:  '11 11 * * *'      
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v2
+
+      - name: Checkout feeds
+        uses: actions/checkout@v2
+        with:
+          ref: feeds
+          path: feeds
+
+      - name: NPM Install
+        run: npm ci
+
+      - name: Lint
+        run: npm run linter
+
+      - name: Build
+        run: npm run build
+        env:
+          APP_HOST: ${{ secrets.APP_HOST }}
+          CONTENT_HOST: ${{ secrets.CONTENT_HOST }}
+
+      - name: Git Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          BRANCH: feeds
+          FOLDER: feeds
+          CLEAN: true
