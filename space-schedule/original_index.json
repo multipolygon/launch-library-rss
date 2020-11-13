@@ -6,13 +6,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/original_index.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Foriginal_index.json",
    "title": "Event",
-   "content_text": "4 items",
+   "content_text": "5 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg",
    "date_published": "2020-12-01T05:00:00Z",
    "date_modified": "2020-12-01T05:00:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 4,
+    "itemCount": 5,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0
@@ -22,13 +22,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/original_index.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Foriginal_index.json",
    "title": "Launch",
-   "content_text": "5 items",
+   "content_text": "4 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
    "date_published": "2020-11-21T17:17:00Z",
    "date_modified": "2020-11-21T17:17:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 5,
+    "itemCount": 4,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0

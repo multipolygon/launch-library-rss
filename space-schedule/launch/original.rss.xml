@@ -90,24 +90,5 @@ Besides payloads, this flight will also serve as a test of Electron's reusabilit
       <pubDate>Fri, 13 Nov 2020 22:13:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20201110095715.jpeg"/>
     </item>
-    <item>
-      <title>Long March 3B | Tiantong-1-02</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/c8e75624-fed4-4296-a127-6a192142d57a.json</link>
-      <description>Designed by the CAST Institute (China Academy of Space Technology), a subsidiary of the Chinese aerospace group CASC and specialized in spacecraft design, the Tiantong-1 02 satellite will be operated by China Satellite Communications Co. Ltd, another CASC subsidiary which owns about ten communication satellites such as the ChinaStar and APStar.&#xD;
-&#xD;
-Tiantong-1 02 is the second satellite of China's first mobile communication network.&#xD;
-&#xD;
-It uses a Chinese DFH-4 satellite platform, and, according to its manufacturer CAST, has the highest payload mass utilization rate compared to other satellites of the same family.&#xD;
-&#xD;
-The project was launched in 2010 following the 2008 earthquake in Sichuan, where almost all ground communication networks were paralyzed. China had no mobile communication satellites at the time, so it had to lease services from foreign countries, such as Inmarsat in Europe, for its rescue teams.</description>
-      <category>government</category>
-      <category>long march 3</category>
-      <category>long march 3</category>
-      <category>communications</category>
-      <category>launch complex 2 (lc-2)</category>
-      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_industry_corporation~c8e75624-fed4-4296-a127-6a192142d57a</guid>
-      <pubDate>Thu, 12 Nov 2020 15:51:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
-    </item>
   </channel>
 </rss>

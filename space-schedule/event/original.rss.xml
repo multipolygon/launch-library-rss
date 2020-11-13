@@ -26,7 +26,7 @@
       <category>eva</category>
       <guid isPermaLink="false">~space-schedule~event~eva~188</guid>
       <pubDate>Wed, 18 Nov 2020 13:30:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-46_image_20201031195150.jpeg"/>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-46_image_20201113081602.jpeg"/>
     </item>
     <item>
       <title>SpaceX Crew-1 "Resilience" Crew Dragon Hatch Opening</title>
@@ -45,6 +45,16 @@
       <guid isPermaLink="false">~space-schedule~event~docking~187</guid>
       <pubDate>Sun, 15 Nov 2020 09:04:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031194914.jpeg"/>
+    </item>
+    <item>
+      <title>Starship SN8 Static Fire</title>
+      <link>https://www.youtube.com/watch?v=tJAxtqCCyn8</link>
+      <description>SN8 is performed a static fire of its Raptor engines.&#xD;
+The test was followed by a unintentional loss of pneumatic control of the vehicle, as well as possible damage to a raptor engine.</description>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~189</guid>
+      <pubDate>Fri, 13 Nov 2020 01:15:00 GMT</pubDate>
+      <enclosure type="application/octet-stream" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201112224508.jpg_large"/>
     </item>
   </channel>
 </rss>

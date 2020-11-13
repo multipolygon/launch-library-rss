@@ -1,86 +1,8 @@
 {
-    "count": 6,
+    "count": 5,
     "next": null,
     "previous": null,
     "results": [
-        {
-            "id": "c8e75624-fed4-4296-a127-6a192142d57a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/c8e75624-fed4-4296-a127-6a192142d57a.json",
-            "launch_library_id": null,
-            "slug": "long-march-3b-tiantong-1-02",
-            "name": "Long March 3B | Tiantong-1-02",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2020-11-12T16:00:00Z",
-            "window_end": "2020-11-12T17:10:00Z",
-            "window_start": "2020-11-12T15:51:00Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": null,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 184,
-                "url": "https://ll.thespacedevs.com/2.0.0/agencies/184.json",
-                "name": "China Aerospace Science and Industry Corporation",
-                "type": "Government"
-            },
-            "rocket": {
-                "id": 2807,
-                "configuration": {
-                    "id": 50,
-                    "launch_library_id": 69,
-                    "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/50.json",
-                    "name": "Long March 3",
-                    "family": "Long March 3",
-                    "full_name": "Long March 3B/E",
-                    "variant": "B/E"
-                }
-            },
-            "mission": {
-                "id": 1207,
-                "launch_library_id": null,
-                "name": "Tiantong-1-02",
-                "description": "Designed by the CAST Institute (China Academy of Space Technology), a subsidiary of the Chinese aerospace group CASC and specialized in spacecraft design, the Tiantong-1 02 satellite will be operated by China Satellite Communications Co. Ltd, another CASC subsidiary which owns about ten communication satellites such as the ChinaStar and APStar.\r\n\r\nTiantong-1 02 is the second satellite of China's first mobile communication network.\r\n\r\nIt uses a Chinese DFH-4 satellite platform, and, according to its manufacturer CAST, has the highest payload mass utilization rate compared to other satellites of the same family.\r\n\r\nThe project was launched in 2010 following the 2008 earthquake in Sichuan, where almost all ground communication networks were paralyzed. China had no mobile communication satellites at the time, so it had to lease services from foreign countries, such as Inmarsat in Europe, for its rescue teams.",
-                "launch_designator": null,
-                "type": "Communications",
-                "orbit": {
-                    "id": 1,
-                    "name": "Geostationary Orbit",
-                    "abbrev": "Direct-GEO"
-                }
-            },
-            "pad": {
-                "id": 45,
-                "url": "https://ll.thespacedevs.com/2.0.0/pad/45.json",
-                "agency_id": null,
-                "name": "Launch Complex 2 (LC-2)",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center",
-                "map_url": "https://www.google.com/maps/?q=28.246017,102.026556",
-                "latitude": "28.246017",
-                "longitude": "102.026556",
-                "location": {
-                    "id": 16,
-                    "url": "https://ll.thespacedevs.com/2.0.0/location/16.json",
-                    "name": "Xichang Satellite Launch Center, People's Republic of China",
-                    "country_code": "CHN",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg",
-                    "total_launch_count": 96,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_45_20200803143520.jpg",
-                "total_launch_count": 47
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-            "infographic": null,
-            "program": []
-        },
         {
             "id": "c5a9ba01-d03f-4fd7-940a-8a10d535809a",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/c5a9ba01-d03f-4fd7-940a-8a10d535809a.json",
@@ -97,7 +19,7 @@
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,
-            "probability": 80,
+            "probability": 90,
             "holdreason": "",
             "failreason": "",
             "hashtag": "#NROL101",
@@ -171,7 +93,7 @@
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,
-            "probability": 60,
+            "probability": 70,
             "holdreason": "",
             "failreason": "",
             "hashtag": null,
@@ -383,7 +305,7 @@
             },
             "webcast_live": false,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/flight252016_image_20201102201340.jpg",
-            "infographic": null,
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_infographic_20201112150118.png",
             "program": []
         },
         {

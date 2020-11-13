@@ -40,7 +40,7 @@ Sentinel-6A is to operate in a highly-inclined circular orbit at an altitude of 
       <category>eva</category>
       <guid isPermaLink="false">~space-schedule~event~eva~188</guid>
       <pubDate>Wed, 18 Nov 2020 13:30:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-46_image_20201031195150.jpeg"/>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-46_image_20201113081602.jpeg"/>
     </item>
     <item>
       <title>Vega | Ingenio (SEOSat) &amp; Taranis</title>
@@ -127,23 +127,14 @@ Besides payloads, this flight will also serve as a test of Electron's reusabilit
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20201110095715.jpeg"/>
     </item>
     <item>
-      <title>Long March 3B | Tiantong-1-02</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/c8e75624-fed4-4296-a127-6a192142d57a.json</link>
-      <description>Designed by the CAST Institute (China Academy of Space Technology), a subsidiary of the Chinese aerospace group CASC and specialized in spacecraft design, the Tiantong-1 02 satellite will be operated by China Satellite Communications Co. Ltd, another CASC subsidiary which owns about ten communication satellites such as the ChinaStar and APStar.&#xD;
-&#xD;
-Tiantong-1 02 is the second satellite of China's first mobile communication network.&#xD;
-&#xD;
-It uses a Chinese DFH-4 satellite platform, and, according to its manufacturer CAST, has the highest payload mass utilization rate compared to other satellites of the same family.&#xD;
-&#xD;
-The project was launched in 2010 following the 2008 earthquake in Sichuan, where almost all ground communication networks were paralyzed. China had no mobile communication satellites at the time, so it had to lease services from foreign countries, such as Inmarsat in Europe, for its rescue teams.</description>
-      <category>government</category>
-      <category>long march 3</category>
-      <category>long march 3</category>
-      <category>communications</category>
-      <category>launch complex 2 (lc-2)</category>
-      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_industry_corporation~c8e75624-fed4-4296-a127-6a192142d57a</guid>
-      <pubDate>Thu, 12 Nov 2020 15:51:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
+      <title>Starship SN8 Static Fire</title>
+      <link>https://www.youtube.com/watch?v=tJAxtqCCyn8</link>
+      <description>SN8 is performed a static fire of its Raptor engines.&#xD;
+The test was followed by a unintentional loss of pneumatic control of the vehicle, as well as possible damage to a raptor engine.</description>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~189</guid>
+      <pubDate>Fri, 13 Nov 2020 01:15:00 GMT</pubDate>
+      <enclosure type="application/octet-stream" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201112224508.jpg_large"/>
     </item>
   </channel>
 </rss>

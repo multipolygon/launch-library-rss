@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json",
+ "title": "Static Fire",
+ "items": [
+  {
+   "id": "189",
+   "title": "Starship SN8 Static Fire",
+   "content_text": "SN8 is performed a static fire of its Raptor engines.\r\nThe test was followed by a unintentional loss of pneumatic control of the vehicle, as well as possible damage to a raptor engine.",
+   "url": "https://www.youtube.com/watch?v=tJAxtqCCyn8",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201112224508.jpg_large",
+   "date_published": "2020-11-13T01:15:00Z",
+   "date_modified": "2020-11-13T01:15:00Z",
+   "tags": [
+    "static_fire"
+   ],
+   "attachments": [
+    {
+     "mime_type": "application/octet-stream",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201112224508.jpg_large"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 0,
+    "youtubeCount": 1
+   }
+  }
+ ],
+ "_feed_url": {
+  "rss": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.rss.xml",
+  "atom": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.atom.xml"
+ },
+ "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json",
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ }
+}
