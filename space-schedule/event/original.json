@@ -70,8 +70,8 @@
    "content_text": "The \"Resilience\" Crew Dragon hatch will be opened, allowing JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to enter the International Space Station as crew members of Expedition 64.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031193109.jpeg",
-   "date_published": "2020-11-15T11:20:00Z",
-   "date_modified": "2020-11-15T11:20:00Z",
+   "date_published": "2020-11-17T06:40:00Z",
+   "date_modified": "2020-11-17T06:40:00Z",
    "tags": [
     "hatch_opening"
    ],
@@ -102,8 +102,8 @@
    "content_text": "The \"Resilience\" Crew Dragon will dock autonomously to the International Space Station, carrying JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to the International Space Station as crew members of Expedition 64.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031194914.jpeg",
-   "date_published": "2020-11-15T09:04:00Z",
-   "date_modified": "2020-11-15T09:04:00Z",
+   "date_published": "2020-11-17T04:00:00Z",
+   "date_modified": "2020-11-17T04:00:00Z",
    "tags": [
     "docking"
    ],
@@ -127,38 +127,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~static_fire~189",
-   "title": "Starship SN8 Static Fire",
-   "content_text": "SN8 is performed a static fire of its Raptor engines.\r\nThe test was followed by a unintentional loss of pneumatic control of the vehicle, as well as possible damage to a raptor engine.",
-   "url": "https://www.youtube.com/watch?v=tJAxtqCCyn8",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201112224508.jpg_large",
-   "date_published": "2020-11-13T01:15:00Z",
-   "date_modified": "2020-11-13T01:15:00Z",
-   "tags": [
-    "static_fire"
-   ],
-   "attachments": [
-    {
-     "mime_type": "application/octet-stream",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201112224508.jpg_large"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 0,
-    "youtubeCount": 1,
-    "subtitle": "Static Fire"
-   },
-   "_id": {
-    "parent": "189",
-    "global": "~space-schedule~event~static_fire~189"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -169,7 +137,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 5,
+  "itemCount": 4,
   "pageNumber": 1,
   "pageCount": 1
  }

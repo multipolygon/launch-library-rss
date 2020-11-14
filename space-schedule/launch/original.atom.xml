@@ -66,8 +66,8 @@ Besides payloads, this flight will also serve as a test of Electron's reusabilit
   <entry>
     <id>~space-schedule~launch~space_x~0ede12be-ac6d-4571-9d0c-b2a85b5cf280</id>
     <title>Falcon 9 Block 5 | SpX USCV-1 (NASA Crew Flight 1)</title>
-    <updated>2020-11-15T00:49:50Z</updated>
-    <published>2020-11-15T00:49:50Z</published>
+    <updated>2020-11-16T00:27:00Z</updated>
+    <published>2020-11-16T00:27:00Z</published>
     <content type="text">SpaceX's first operational flight of manned Dragon 2 vehicle.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/0ede12be-ac6d-4571-9d0c-b2a85b5cf280.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg"/>
@@ -78,19 +78,5 @@ Besides payloads, this flight will also serve as a test of Electron's reusabilit
     <category term="launch complex 39a"/>
     <category term="object_object"/>
     <category term="object_object"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~united_launch_alliance~c5a9ba01-d03f-4fd7-940a-8a10d535809a</id>
-    <title>Atlas V 531 | NROL-101</title>
-    <updated>2020-11-13T22:13:00Z</updated>
-    <published>2020-11-13T22:13:00Z</published>
-    <content type="text">Classified payload for the U.S. National Reconnaissance Office.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/c5a9ba01-d03f-4fd7-940a-8a10d535809a.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20201110095715.jpeg"/>
-    <category term="commercial"/>
-    <category term="atlas"/>
-    <category term="atlas v 531"/>
-    <category term="government/top secret"/>
-    <category term="space launch complex 41"/>
   </entry>
 </feed>

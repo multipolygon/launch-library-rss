@@ -6,18 +6,8 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
-    <pubDate>Fri, 13 Nov 2020 01:15:00 GMT</pubDate>
+    <pubDate>Sat, 14 Nov 2020 11:17:08 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <item>
-      <title>Starship SN8 Static Fire</title>
-      <link>https://www.youtube.com/watch?v=tJAxtqCCyn8</link>
-      <description>SN8 is performed a static fire of its Raptor engines.&#xD;
-The test was followed by a unintentional loss of pneumatic control of the vehicle, as well as possible damage to a raptor engine.</description>
-      <category>static_fire</category>
-      <guid isPermaLink="false">189</guid>
-      <pubDate>Fri, 13 Nov 2020 01:15:00 GMT</pubDate>
-      <enclosure type="application/octet-stream" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201112224508.jpg_large"/>
-    </item>
   </channel>
 </rss>

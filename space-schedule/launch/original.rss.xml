@@ -74,21 +74,8 @@ Besides payloads, this flight will also serve as a test of Electron's reusabilit
       <category>object_object</category>
       <category>object_object</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~0ede12be-ac6d-4571-9d0c-b2a85b5cf280</guid>
-      <pubDate>Sun, 15 Nov 2020 00:49:50 GMT</pubDate>
+      <pubDate>Mon, 16 Nov 2020 00:27:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg"/>
-    </item>
-    <item>
-      <title>Atlas V 531 | NROL-101</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/c5a9ba01-d03f-4fd7-940a-8a10d535809a.json</link>
-      <description>Classified payload for the U.S. National Reconnaissance Office.</description>
-      <category>commercial</category>
-      <category>atlas</category>
-      <category>atlas v 531</category>
-      <category>government/top secret</category>
-      <category>space launch complex 41</category>
-      <guid isPermaLink="false">~space-schedule~launch~united_launch_alliance~c5a9ba01-d03f-4fd7-940a-8a10d535809a</guid>
-      <pubDate>Fri, 13 Nov 2020 22:13:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20201110095715.jpeg"/>
     </item>
   </channel>
 </rss>

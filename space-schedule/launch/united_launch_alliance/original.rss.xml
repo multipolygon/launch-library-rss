@@ -6,21 +6,8 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Funited_launch_alliance%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
-    <pubDate>Fri, 13 Nov 2020 22:13:00 GMT</pubDate>
+    <pubDate>Sat, 14 Nov 2020 11:17:08 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <item>
-      <title>Atlas V 531 | NROL-101</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/c5a9ba01-d03f-4fd7-940a-8a10d535809a.json</link>
-      <description>Classified payload for the U.S. National Reconnaissance Office.</description>
-      <category>commercial</category>
-      <category>atlas</category>
-      <category>atlas v 531</category>
-      <category>government/top secret</category>
-      <category>space launch complex 41</category>
-      <guid isPermaLink="false">c5a9ba01-d03f-4fd7-940a-8a10d535809a</guid>
-      <pubDate>Fri, 13 Nov 2020 22:13:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20201110095715.jpeg"/>
-    </item>
   </channel>
 </rss>

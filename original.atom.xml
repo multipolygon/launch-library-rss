@@ -44,6 +44,26 @@ Sentinel-6A is to operate in a highly-inclined circular orbit at an altitude of 
     <category term="eva"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~hatch_opening~186</id>
+    <title>SpaceX Crew-1 "Resilience" Crew Dragon Hatch Opening</title>
+    <updated>2020-11-17T06:40:00Z</updated>
+    <published>2020-11-17T06:40:00Z</published>
+    <content type="text">The "Resilience" Crew Dragon hatch will be opened, allowing JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to enter the International Space Station as crew members of Expedition 64.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031193109.jpeg"/>
+    <category term="hatch_opening"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~docking~187</id>
+    <title>SpaceX Crew-1 "Resilience" Crew Dragon Docking</title>
+    <updated>2020-11-17T04:00:00Z</updated>
+    <published>2020-11-17T04:00:00Z</published>
+    <content type="text">The "Resilience" Crew Dragon will dock autonomously to the International Space Station, carrying JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to the International Space Station as crew members of Expedition 64.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031194914.jpeg"/>
+    <category term="docking"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~arianespace~d9486816-bb61-4b16-bcfa-0d1e9ba40696</id>
     <title>Vega | Ingenio (SEOSat) &amp; Taranis</title>
     <updated>2020-11-17T01:52:20Z</updated>
@@ -84,30 +104,10 @@ Besides payloads, this flight will also serve as a test of Electron's reusabilit
     <category term="rocket lab launch complex 1a"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~hatch_opening~186</id>
-    <title>SpaceX Crew-1 "Resilience" Crew Dragon Hatch Opening</title>
-    <updated>2020-11-15T11:20:00Z</updated>
-    <published>2020-11-15T11:20:00Z</published>
-    <content type="text">The "Resilience" Crew Dragon hatch will be opened, allowing JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to enter the International Space Station as crew members of Expedition 64.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031193109.jpeg"/>
-    <category term="hatch_opening"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~docking~187</id>
-    <title>SpaceX Crew-1 "Resilience" Crew Dragon Docking</title>
-    <updated>2020-11-15T09:04:00Z</updated>
-    <published>2020-11-15T09:04:00Z</published>
-    <content type="text">The "Resilience" Crew Dragon will dock autonomously to the International Space Station, carrying JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to the International Space Station as crew members of Expedition 64.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031194914.jpeg"/>
-    <category term="docking"/>
-  </entry>
-  <entry>
     <id>~space-schedule~launch~space_x~0ede12be-ac6d-4571-9d0c-b2a85b5cf280</id>
     <title>Falcon 9 Block 5 | SpX USCV-1 (NASA Crew Flight 1)</title>
-    <updated>2020-11-15T00:49:50Z</updated>
-    <published>2020-11-15T00:49:50Z</published>
+    <updated>2020-11-16T00:27:00Z</updated>
+    <published>2020-11-16T00:27:00Z</published>
     <content type="text">SpaceX's first operational flight of manned Dragon 2 vehicle.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/0ede12be-ac6d-4571-9d0c-b2a85b5cf280.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg"/>
@@ -118,30 +118,5 @@ Besides payloads, this flight will also serve as a test of Electron's reusabilit
     <category term="launch complex 39a"/>
     <category term="object_object"/>
     <category term="object_object"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~united_launch_alliance~c5a9ba01-d03f-4fd7-940a-8a10d535809a</id>
-    <title>Atlas V 531 | NROL-101</title>
-    <updated>2020-11-13T22:13:00Z</updated>
-    <published>2020-11-13T22:13:00Z</published>
-    <content type="text">Classified payload for the U.S. National Reconnaissance Office.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/c5a9ba01-d03f-4fd7-940a-8a10d535809a.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20201110095715.jpeg"/>
-    <category term="commercial"/>
-    <category term="atlas"/>
-    <category term="atlas v 531"/>
-    <category term="government/top secret"/>
-    <category term="space launch complex 41"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~189</id>
-    <title>Starship SN8 Static Fire</title>
-    <updated>2020-11-13T01:15:00Z</updated>
-    <published>2020-11-13T01:15:00Z</published>
-    <content type="text">SN8 is performed a static fire of its Raptor engines.&#xD;
-The test was followed by a unintentional loss of pneumatic control of the vehicle, as well as possible damage to a raptor engine.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=tJAxtqCCyn8"/>
-    <link rel="enclosure" type="application/octet-stream" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201112224508.jpg_large"/>
-    <category term="static_fire"/>
   </entry>
 </feed>
