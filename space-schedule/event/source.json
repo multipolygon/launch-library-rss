@@ -35,7 +35,7 @@
                     "inhold": false,
                     "tbdtime": false,
                     "tbddate": false,
-                    "probability": 60,
+                    "probability": 50,
                     "holdreason": "",
                     "failreason": "",
                     "hashtag": "#LaunchAmerica",
@@ -94,7 +94,7 @@
                     },
                     "webcast_live": false,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg",
-                    "infographic": null,
+                    "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20201115034226.png",
                     "program": [
                         {
                             "id": 5,
@@ -317,7 +317,7 @@
                     "inhold": false,
                     "tbdtime": false,
                     "tbddate": false,
-                    "probability": 60,
+                    "probability": 50,
                     "holdreason": "",
                     "failreason": "",
                     "hashtag": "#LaunchAmerica",
@@ -376,7 +376,7 @@
                     },
                     "webcast_live": false,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg",
-                    "infographic": null,
+                    "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20201115034226.png",
                     "program": [
                         {
                             "id": 5,
@@ -985,11 +985,11 @@
                             "name": "Cape Canaveral, FL, USA",
                             "country_code": "USA",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg",
-                            "total_launch_count": 204,
+                            "total_launch_count": 205,
                             "total_landing_count": 0
                         },
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_29_20200803143528.jpg",
-                        "total_launch_count": 70
+                        "total_launch_count": 71
                     },
                     "webcast_live": true,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20200729144937.jpg",

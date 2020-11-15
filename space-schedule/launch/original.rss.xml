@@ -25,19 +25,6 @@ Sentinel-6A is to operate in a highly-inclined circular orbit at an altitude of 
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
     </item>
     <item>
-      <title>Vega | Ingenio (SEOSat) &amp; Taranis</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/d9486816-bb61-4b16-bcfa-0d1e9ba40696.json</link>
-      <description>Spanish optical Earth-observation satellite. The mission is devoted to providing high resolution multispectral land optical images to different Spanish civil, institutional and government users.</description>
-      <category>commercial</category>
-      <category>vega</category>
-      <category>vega</category>
-      <category>earth science</category>
-      <category>ariane launch area 1</category>
-      <guid isPermaLink="false">~space-schedule~launch~arianespace~d9486816-bb61-4b16-bcfa-0d1e9ba40696</guid>
-      <pubDate>Tue, 17 Nov 2020 01:52:20 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"/>
-    </item>
-    <item>
       <title>Electron | Return to Sender</title>
       <link>https://ll.thespacedevs.com/2.0.0/launch/1514d38c-b1ed-4a4a-9878-04646f0b6b94.json</link>
       <description>"Return to Sender" will loft 30 satellites to a sun-synchronous orbit at 500 km altitude for a range of customers, including TriSept, Unseenlabs, Swarm, Te Pūnaha Ātea - Auckland Space Institute, and global gaming software company Valve. The satellites span a range of operations, from TriSept’s tech demonstration of new tether systems designed to accelerate spacecraft reentry and reduce orbital debris, through to the next generation of maritime surveillance satellites for Unseenlabs, as well as communications satellites for Swarm. The mission will also deploy New Zealand’s first student-built satellite, the APSS-1 satellite for Te Pūnaha Ātea - Auckland Space Institute at The University of Auckland.&#xD;
@@ -59,8 +46,21 @@ Besides payloads, this flight will also serve as a test of Electron's reusabilit
       <category>dedicated rideshare</category>
       <category>rocket lab launch complex 1a</category>
       <guid isPermaLink="false">~space-schedule~launch~rocket_lab_ltd~1514d38c-b1ed-4a4a-9878-04646f0b6b94</guid>
-      <pubDate>Mon, 16 Nov 2020 01:44:00 GMT</pubDate>
+      <pubDate>Thu, 19 Nov 2020 01:44:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/flight252016_image_20201102201340.jpg"/>
+    </item>
+    <item>
+      <title>Vega | Ingenio (SEOSat) &amp; Taranis</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/d9486816-bb61-4b16-bcfa-0d1e9ba40696.json</link>
+      <description>Spanish optical Earth-observation satellite. The mission is devoted to providing high resolution multispectral land optical images to different Spanish civil, institutional and government users.</description>
+      <category>commercial</category>
+      <category>vega</category>
+      <category>vega</category>
+      <category>earth science</category>
+      <category>ariane launch area 1</category>
+      <guid isPermaLink="false">~space-schedule~launch~arianespace~d9486816-bb61-4b16-bcfa-0d1e9ba40696</guid>
+      <pubDate>Tue, 17 Nov 2020 01:52:20 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"/>
     </item>
     <item>
       <title>Falcon 9 Block 5 | SpX USCV-1 (NASA Crew Flight 1)</title>

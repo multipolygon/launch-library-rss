@@ -19,7 +19,7 @@
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,
-            "probability": 60,
+            "probability": 50,
             "holdreason": "",
             "failreason": "",
             "hashtag": "#LaunchAmerica",
@@ -78,7 +78,7 @@
             },
             "webcast_live": false,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg",
-            "infographic": null,
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20201115034226.png",
             "program": [
                 {
                     "id": 5,
@@ -157,84 +157,6 @@
             ]
         },
         {
-            "id": "1514d38c-b1ed-4a4a-9878-04646f0b6b94",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/1514d38c-b1ed-4a4a-9878-04646f0b6b94.json",
-            "launch_library_id": null,
-            "slug": "electron-return-to-sender",
-            "name": "Electron | Return to Sender",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2020-11-16T01:44:00Z",
-            "window_end": "2020-11-16T04:34:00Z",
-            "window_start": "2020-11-16T01:44:00Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": null,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": "#ReturnToSender",
-            "launch_service_provider": {
-                "id": 147,
-                "url": "https://ll.thespacedevs.com/2.0.0/agencies/147.json",
-                "name": "Rocket Lab Ltd",
-                "type": "Commercial"
-            },
-            "rocket": {
-                "id": 2804,
-                "configuration": {
-                    "id": 26,
-                    "launch_library_id": 148,
-                    "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/26.json",
-                    "name": "Electron",
-                    "family": "Electron",
-                    "full_name": "Electron",
-                    "variant": ""
-                }
-            },
-            "mission": {
-                "id": 1204,
-                "launch_library_id": null,
-                "name": "Return to Sender",
-                "description": "\"Return to Sender\" will loft 30 satellites to a sun-synchronous orbit at 500 km altitude for a range of customers, including TriSept, Unseenlabs, Swarm, Te Pūnaha Ātea - Auckland Space Institute, and global gaming software company Valve. The satellites span a range of operations, from TriSept’s tech demonstration of new tether systems designed to accelerate spacecraft reentry and reduce orbital debris, through to the next generation of maritime surveillance satellites for Unseenlabs, as well as communications satellites for Swarm. The mission will also deploy New Zealand’s first student-built satellite, the APSS-1 satellite for Te Pūnaha Ātea - Auckland Space Institute at The University of Auckland.\r\n\r\nThe DRAGRACER mission will test the effectiveness of new tether technologies designed to accelerate spacecraft reentry and reduce orbital debris at the conclusion of space missions. TriSept has completed the integration of a pair of qualified Millennium Space Systems 6U small satellites, one featuring the tether drag device and one without. The controlled spacecraft should deorbit in approximately 45 days, while the second spacecraft is expected to remain in orbit for seven to nine years.\r\n\r\nBRO-2 and BRO-3 are the second and third satellites in French company Unseenlabs’ planned constellation of about 20 satellites dedicated to maritime surveillance. \r\n\r\nSwarm will launch the latest 24 1/4U SpaceBEE satellites to continue building out its planned constellation of 150 satellites to provide affordable satellite communications services to IoT devices in remote regions around the world. \r\n\r\nThe student-built Waka Āmiorangi Aotearoa APSS-1 satellite is designed to monitor electrical activity in Earth’s upper atmosphere to test whether ionospheric disturbances can predict earthquakes.\r\n\r\nExtra payload on this flight is a 150 mm 3D printed Half-Life Gnome Chompski. Created for Valve Software's co-founder Gabe Newell by design studio Weta Workshop, it serves as an homage to the innovation and creativity of gamers worldwide, and also aims to test and qualify a novel 3D printing technique that could be employed for future spacecraft components. Gnome will remain attached to the Kick Stage and will burn up on reentry.\r\n\r\nBesides payloads, this flight will also serve as a test of Electron's reusability. Rocket Lab will attempt to bring Electron’s first stage back to Earth under a parachute system for a controlled water landing before collection by a recovery vessel.",
-                "launch_designator": null,
-                "type": "Dedicated Rideshare",
-                "orbit": {
-                    "id": 17,
-                    "name": "Sun-Synchronous Orbit",
-                    "abbrev": "SSO"
-                }
-            },
-            "pad": {
-                "id": 65,
-                "url": "https://ll.thespacedevs.com/2.0.0/pad/65.json",
-                "agency_id": 147,
-                "name": "Rocket Lab Launch Complex 1A",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1",
-                "map_url": "https://www.google.com/maps/place/-39.262833,177.864469",
-                "latitude": "-39.262833",
-                "longitude": "177.864469",
-                "location": {
-                    "id": 10,
-                    "url": "https://ll.thespacedevs.com/2.0.0/location/10.json",
-                    "name": "Onenui Station, Mahia Peninsula, New Zealand",
-                    "country_code": "NZL",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_10_20200803142509.jpg",
-                    "total_launch_count": 15,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_65_20200803143549.jpg",
-                "total_launch_count": 15
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/flight252016_image_20201102201340.jpg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_infographic_20201112150118.png",
-            "program": []
-        },
-        {
             "id": "d9486816-bb61-4b16-bcfa-0d1e9ba40696",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/d9486816-bb61-4b16-bcfa-0d1e9ba40696.json",
             "launch_library_id": 1643,
@@ -310,6 +232,84 @@
             "webcast_live": false,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
             "infographic": null,
+            "program": []
+        },
+        {
+            "id": "1514d38c-b1ed-4a4a-9878-04646f0b6b94",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1514d38c-b1ed-4a4a-9878-04646f0b6b94.json",
+            "launch_library_id": null,
+            "slug": "electron-return-to-sender",
+            "name": "Electron | Return to Sender",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2020-11-19T01:44:00Z",
+            "window_end": "2020-11-19T04:34:00Z",
+            "window_start": "2020-11-19T01:44:00Z",
+            "inhold": false,
+            "tbdtime": false,
+            "tbddate": false,
+            "probability": null,
+            "holdreason": "",
+            "failreason": "",
+            "hashtag": "#ReturnToSender",
+            "launch_service_provider": {
+                "id": 147,
+                "url": "https://ll.thespacedevs.com/2.0.0/agencies/147.json",
+                "name": "Rocket Lab Ltd",
+                "type": "Commercial"
+            },
+            "rocket": {
+                "id": 2804,
+                "configuration": {
+                    "id": 26,
+                    "launch_library_id": 148,
+                    "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/26.json",
+                    "name": "Electron",
+                    "family": "Electron",
+                    "full_name": "Electron",
+                    "variant": ""
+                }
+            },
+            "mission": {
+                "id": 1204,
+                "launch_library_id": null,
+                "name": "Return to Sender",
+                "description": "\"Return to Sender\" will loft 30 satellites to a sun-synchronous orbit at 500 km altitude for a range of customers, including TriSept, Unseenlabs, Swarm, Te Pūnaha Ātea - Auckland Space Institute, and global gaming software company Valve. The satellites span a range of operations, from TriSept’s tech demonstration of new tether systems designed to accelerate spacecraft reentry and reduce orbital debris, through to the next generation of maritime surveillance satellites for Unseenlabs, as well as communications satellites for Swarm. The mission will also deploy New Zealand’s first student-built satellite, the APSS-1 satellite for Te Pūnaha Ātea - Auckland Space Institute at The University of Auckland.\r\n\r\nThe DRAGRACER mission will test the effectiveness of new tether technologies designed to accelerate spacecraft reentry and reduce orbital debris at the conclusion of space missions. TriSept has completed the integration of a pair of qualified Millennium Space Systems 6U small satellites, one featuring the tether drag device and one without. The controlled spacecraft should deorbit in approximately 45 days, while the second spacecraft is expected to remain in orbit for seven to nine years.\r\n\r\nBRO-2 and BRO-3 are the second and third satellites in French company Unseenlabs’ planned constellation of about 20 satellites dedicated to maritime surveillance. \r\n\r\nSwarm will launch the latest 24 1/4U SpaceBEE satellites to continue building out its planned constellation of 150 satellites to provide affordable satellite communications services to IoT devices in remote regions around the world. \r\n\r\nThe student-built Waka Āmiorangi Aotearoa APSS-1 satellite is designed to monitor electrical activity in Earth’s upper atmosphere to test whether ionospheric disturbances can predict earthquakes.\r\n\r\nExtra payload on this flight is a 150 mm 3D printed Half-Life Gnome Chompski. Created for Valve Software's co-founder Gabe Newell by design studio Weta Workshop, it serves as an homage to the innovation and creativity of gamers worldwide, and also aims to test and qualify a novel 3D printing technique that could be employed for future spacecraft components. Gnome will remain attached to the Kick Stage and will burn up on reentry.\r\n\r\nBesides payloads, this flight will also serve as a test of Electron's reusability. Rocket Lab will attempt to bring Electron’s first stage back to Earth under a parachute system for a controlled water landing before collection by a recovery vessel.",
+                "launch_designator": null,
+                "type": "Dedicated Rideshare",
+                "orbit": {
+                    "id": 17,
+                    "name": "Sun-Synchronous Orbit",
+                    "abbrev": "SSO"
+                }
+            },
+            "pad": {
+                "id": 65,
+                "url": "https://ll.thespacedevs.com/2.0.0/pad/65.json",
+                "agency_id": 147,
+                "name": "Rocket Lab Launch Complex 1A",
+                "info_url": null,
+                "wiki_url": "https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1",
+                "map_url": "https://www.google.com/maps/place/-39.262833,177.864469",
+                "latitude": "-39.262833",
+                "longitude": "177.864469",
+                "location": {
+                    "id": 10,
+                    "url": "https://ll.thespacedevs.com/2.0.0/location/10.json",
+                    "name": "Onenui Station, Mahia Peninsula, New Zealand",
+                    "country_code": "NZL",
+                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_10_20200803142509.jpg",
+                    "total_launch_count": 15,
+                    "total_landing_count": 0
+                },
+                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_65_20200803143549.jpg",
+                "total_launch_count": 15
+            },
+            "webcast_live": false,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/flight252016_image_20201102201340.jpg",
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_infographic_20201112150118.png",
             "program": []
         },
         {
