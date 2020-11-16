@@ -7,7 +7,7 @@
     <description>All items.</description>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
-    <pubDate>Tue, 01 Dec 2020 05:00:00 GMT</pubDate>
+    <pubDate>Sat, 05 Dec 2020 17:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
@@ -16,7 +16,7 @@
       <description>When Hayabusa-2 flies past Earth in December 2020, it will release the capsule spinning at one revolution per three seconds. The capsule will re-enter the Earth's atmosphere at 12 km/s and it will deploy a radar-reflective parachute at an altitude of about 10 km, and eject its heat-shield, while transmitting a position beacon signal. The sample capsule will land at the Woomera Test Range in Australia.</description>
       <category>landing</category>
       <guid isPermaLink="false">~space-schedule~event~landing~35</guid>
-      <pubDate>Tue, 01 Dec 2020 05:00:00 GMT</pubDate>
+      <pubDate>Sat, 05 Dec 2020 17:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg"/>
     </item>
     <item>
@@ -97,21 +97,6 @@ Besides payloads, this flight will also serve as a test of Electron's reusabilit
       <guid isPermaLink="false">~space-schedule~launch~arianespace~d9486816-bb61-4b16-bcfa-0d1e9ba40696</guid>
       <pubDate>Tue, 17 Nov 2020 01:52:20 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"/>
-    </item>
-    <item>
-      <title>Falcon 9 Block 5 | SpX USCV-1 (NASA Crew Flight 1)</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/0ede12be-ac6d-4571-9d0c-b2a85b5cf280.json</link>
-      <description>SpaceX's first operational flight of manned Dragon 2 vehicle.</description>
-      <category>commercial</category>
-      <category>falcon</category>
-      <category>falcon 9 block 5</category>
-      <category>human exploration</category>
-      <category>launch complex 39a</category>
-      <category>object_object</category>
-      <category>object_object</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~0ede12be-ac6d-4571-9d0c-b2a85b5cf280</guid>
-      <pubDate>Mon, 16 Nov 2020 00:27:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg"/>
     </item>
   </channel>
 </rss>

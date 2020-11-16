@@ -8,8 +8,8 @@
    "content_text": "When Hayabusa-2 flies past Earth in December 2020, it will release the capsule spinning at one revolution per three seconds. The capsule will re-enter the Earth's atmosphere at 12 km/s and it will deploy a radar-reflective parachute at an altitude of about 10 km, and eject its heat-shield, while transmitting a position beacon signal. The sample capsule will land at the Woomera Test Range in Australia.",
    "url": "https://en.wikipedia.org/wiki/Hayabusa2",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg",
-   "date_published": "2020-12-01T05:00:00Z",
-   "date_modified": "2020-12-01T05:00:00Z",
+   "date_published": "2020-12-05T17:00:00Z",
+   "date_modified": "2020-12-05T17:00:00Z",
    "tags": [
     "landing"
    ],
@@ -232,43 +232,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~space_x~0ede12be-ac6d-4571-9d0c-b2a85b5cf280",
-   "title": "Falcon 9 Block 5 | SpX USCV-1 (NASA Crew Flight 1)",
-   "content_text": "SpaceX's first operational flight of manned Dragon 2 vehicle.",
-   "url": "https://ll.thespacedevs.com/2.0.0/launch/0ede12be-ac6d-4571-9d0c-b2a85b5cf280.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg",
-   "date_published": "2020-11-16T00:27:00Z",
-   "date_modified": "2020-11-16T00:27:00Z",
-   "tags": [
-    "commercial",
-    "falcon",
-    "falcon 9 block 5",
-    "human exploration",
-    "launch complex 39a",
-    "object_object",
-    "object_object"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "SpaceX"
-   },
-   "_id": {
-    "parent": "0ede12be-ac6d-4571-9d0c-b2a85b5cf280",
-    "global": "~space-schedule~launch~space_x~0ede12be-ac6d-4571-9d0c-b2a85b5cf280"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -279,7 +242,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 8,
+  "itemCount": 7,
   "pageNumber": 1,
   "pageCount": 1
  }

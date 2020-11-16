@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Space-schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/original.atom.xml</id>
-  <updated>2020-12-01T05:00:00Z</updated>
+  <updated>2020-12-05T17:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json"/>
@@ -11,8 +11,8 @@
   <entry>
     <id>~space-schedule~event~landing~35</id>
     <title>Hayabusa-2 Sample Returns to Earth</title>
-    <updated>2020-12-01T05:00:00Z</updated>
-    <published>2020-12-01T05:00:00Z</published>
+    <updated>2020-12-05T17:00:00Z</updated>
+    <published>2020-12-05T17:00:00Z</published>
     <content type="text">When Hayabusa-2 flies past Earth in December 2020, it will release the capsule spinning at one revolution per three seconds. The capsule will re-enter the Earth's atmosphere at 12 km/s and it will deploy a radar-reflective parachute at an altitude of about 10 km, and eject its heat-shield, while transmitting a position beacon signal. The sample capsule will land at the Woomera Test Range in Australia.</content>
     <link rel="alternate" href="https://en.wikipedia.org/wiki/Hayabusa2"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg"/>
@@ -102,21 +102,5 @@ Besides payloads, this flight will also serve as a test of Electron's reusabilit
     <category term="vega"/>
     <category term="earth science"/>
     <category term="ariane launch area 1"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~space_x~0ede12be-ac6d-4571-9d0c-b2a85b5cf280</id>
-    <title>Falcon 9 Block 5 | SpX USCV-1 (NASA Crew Flight 1)</title>
-    <updated>2020-11-16T00:27:00Z</updated>
-    <published>2020-11-16T00:27:00Z</published>
-    <content type="text">SpaceX's first operational flight of manned Dragon 2 vehicle.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/0ede12be-ac6d-4571-9d0c-b2a85b5cf280.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg"/>
-    <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon 9 block 5"/>
-    <category term="human exploration"/>
-    <category term="launch complex 39a"/>
-    <category term="object_object"/>
-    <category term="object_object"/>
   </entry>
 </feed>

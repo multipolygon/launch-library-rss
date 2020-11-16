@@ -26,16 +26,16 @@
                     "slug": "falcon-9-block-5-spx-uscv-1-nasa-crew-flight-1",
                     "name": "Falcon 9 Block 5 | SpX USCV-1 (NASA Crew Flight 1)",
                     "status": {
-                        "id": 1,
-                        "name": "Go"
+                        "id": 3,
+                        "name": "Success"
                     },
-                    "net": "2020-11-16T00:27:00Z",
-                    "window_end": "2020-11-16T00:27:00Z",
-                    "window_start": "2020-11-16T00:27:00Z",
+                    "net": "2020-11-16T00:27:17Z",
+                    "window_end": "2020-11-16T00:27:17Z",
+                    "window_start": "2020-11-16T00:27:17Z",
                     "inhold": false,
                     "tbdtime": false,
                     "tbddate": false,
-                    "probability": 50,
+                    "probability": 80,
                     "holdreason": "",
                     "failreason": "",
                     "hashtag": "#LaunchAmerica",
@@ -92,7 +92,7 @@
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_87_20200803143537.jpg",
                         "total_launch_count": 122
                     },
-                    "webcast_live": false,
+                    "webcast_live": true,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg",
                     "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20201115034226.png",
                     "program": [
@@ -308,16 +308,16 @@
                     "slug": "falcon-9-block-5-spx-uscv-1-nasa-crew-flight-1",
                     "name": "Falcon 9 Block 5 | SpX USCV-1 (NASA Crew Flight 1)",
                     "status": {
-                        "id": 1,
-                        "name": "Go"
+                        "id": 3,
+                        "name": "Success"
                     },
-                    "net": "2020-11-16T00:27:00Z",
-                    "window_end": "2020-11-16T00:27:00Z",
-                    "window_start": "2020-11-16T00:27:00Z",
+                    "net": "2020-11-16T00:27:17Z",
+                    "window_end": "2020-11-16T00:27:17Z",
+                    "window_start": "2020-11-16T00:27:17Z",
                     "inhold": false,
                     "tbdtime": false,
                     "tbddate": false,
-                    "probability": 50,
+                    "probability": 80,
                     "holdreason": "",
                     "failreason": "",
                     "hashtag": "#LaunchAmerica",
@@ -374,7 +374,7 @@
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_87_20200803143537.jpg",
                         "total_launch_count": 122
                     },
-                    "webcast_live": false,
+                    "webcast_live": true,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg",
                     "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20201115034226.png",
                     "program": [
@@ -678,7 +678,7 @@
             "news_url": "https://en.wikipedia.org/wiki/Hayabusa2",
             "video_url": null,
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg",
-            "date": "2020-12-01T05:00:00Z",
+            "date": "2020-12-05T17:00:00Z",
             "launches": [],
             "expeditions": [],
             "spacestations": [],

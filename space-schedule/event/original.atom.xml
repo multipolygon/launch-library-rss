@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Event</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/original.atom.xml</id>
-  <updated>2020-12-01T05:00:00Z</updated>
+  <updated>2020-12-05T17:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json"/>
@@ -11,8 +11,8 @@
   <entry>
     <id>~space-schedule~event~landing~35</id>
     <title>Hayabusa-2 Sample Returns to Earth</title>
-    <updated>2020-12-01T05:00:00Z</updated>
-    <published>2020-12-01T05:00:00Z</published>
+    <updated>2020-12-05T17:00:00Z</updated>
+    <published>2020-12-05T17:00:00Z</published>
     <content type="text">When Hayabusa-2 flies past Earth in December 2020, it will release the capsule spinning at one revolution per three seconds. The capsule will re-enter the Earth's atmosphere at 12 km/s and it will deploy a radar-reflective parachute at an altitude of about 10 km, and eject its heat-shield, while transmitting a position beacon signal. The sample capsule will land at the Woomera Test Range in Australia.</content>
     <link rel="alternate" href="https://en.wikipedia.org/wiki/Hayabusa2"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg"/>

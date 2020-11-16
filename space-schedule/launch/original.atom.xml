@@ -63,20 +63,4 @@ Besides payloads, this flight will also serve as a test of Electron's reusabilit
     <category term="earth science"/>
     <category term="ariane launch area 1"/>
   </entry>
-  <entry>
-    <id>~space-schedule~launch~space_x~0ede12be-ac6d-4571-9d0c-b2a85b5cf280</id>
-    <title>Falcon 9 Block 5 | SpX USCV-1 (NASA Crew Flight 1)</title>
-    <updated>2020-11-16T00:27:00Z</updated>
-    <published>2020-11-16T00:27:00Z</published>
-    <content type="text">SpaceX's first operational flight of manned Dragon 2 vehicle.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/0ede12be-ac6d-4571-9d0c-b2a85b5cf280.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg"/>
-    <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon 9 block 5"/>
-    <category term="human exploration"/>
-    <category term="launch complex 39a"/>
-    <category term="object_object"/>
-    <category term="object_object"/>
-  </entry>
 </feed>

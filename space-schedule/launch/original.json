@@ -106,43 +106,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~space_x~0ede12be-ac6d-4571-9d0c-b2a85b5cf280",
-   "title": "Falcon 9 Block 5 | SpX USCV-1 (NASA Crew Flight 1)",
-   "content_text": "SpaceX's first operational flight of manned Dragon 2 vehicle.",
-   "url": "https://ll.thespacedevs.com/2.0.0/launch/0ede12be-ac6d-4571-9d0c-b2a85b5cf280.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg",
-   "date_published": "2020-11-16T00:27:00Z",
-   "date_modified": "2020-11-16T00:27:00Z",
-   "tags": [
-    "commercial",
-    "falcon",
-    "falcon 9 block 5",
-    "human exploration",
-    "launch complex 39a",
-    "object_object",
-    "object_object"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "SpaceX"
-   },
-   "_id": {
-    "parent": "0ede12be-ac6d-4571-9d0c-b2a85b5cf280",
-    "global": "~space-schedule~launch~space_x~0ede12be-ac6d-4571-9d0c-b2a85b5cf280"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -153,7 +116,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 4,
+  "itemCount": 3,
   "pageNumber": 1,
   "pageCount": 1
  }
