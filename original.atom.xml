@@ -75,7 +75,7 @@ Besides payloads, this flight will also serve as a test of Electron's reusabilit
     <updated>2020-11-17T06:40:00Z</updated>
     <published>2020-11-17T06:40:00Z</published>
     <content type="text">The "Resilience" Crew Dragon hatch will be opened, allowing JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to enter the International Space Station as crew members of Expedition 64.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=aT4rITutAwA"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031193109.jpeg"/>
     <category term="hatch_opening"/>
   </entry>
@@ -85,22 +85,8 @@ Besides payloads, this flight will also serve as a test of Electron's reusabilit
     <updated>2020-11-17T04:00:00Z</updated>
     <published>2020-11-17T04:00:00Z</published>
     <content type="text">The "Resilience" Crew Dragon will dock autonomously to the International Space Station, carrying JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to the International Space Station as crew members of Expedition 64.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=aT4rITutAwA"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031194914.jpeg"/>
     <category term="docking"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~arianespace~d9486816-bb61-4b16-bcfa-0d1e9ba40696</id>
-    <title>Vega | Ingenio (SEOSat) &amp; Taranis</title>
-    <updated>2020-11-17T01:52:20Z</updated>
-    <published>2020-11-17T01:52:20Z</published>
-    <content type="text">Spanish optical Earth-observation satellite. The mission is devoted to providing high resolution multispectral land optical images to different Spanish civil, institutional and government users.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/d9486816-bb61-4b16-bcfa-0d1e9ba40696.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"/>
-    <category term="commercial"/>
-    <category term="vega"/>
-    <category term="vega"/>
-    <category term="earth science"/>
-    <category term="ariane launch area 1"/>
   </entry>
 </feed>

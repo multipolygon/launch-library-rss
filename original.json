@@ -138,7 +138,7 @@
    "id": "~space-schedule~event~hatch_opening~186",
    "title": "SpaceX Crew-1 \"Resilience\" Crew Dragon Hatch Opening",
    "content_text": "The \"Resilience\" Crew Dragon hatch will be opened, allowing JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to enter the International Space Station as crew members of Expedition 64.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "url": "https://www.youtube.com/watch?v=aT4rITutAwA",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031193109.jpeg",
    "date_published": "2020-11-17T06:40:00Z",
    "date_modified": "2020-11-17T06:40:00Z",
@@ -170,7 +170,7 @@
    "id": "~space-schedule~event~docking~187",
    "title": "SpaceX Crew-1 \"Resilience\" Crew Dragon Docking",
    "content_text": "The \"Resilience\" Crew Dragon will dock autonomously to the International Space Station, carrying JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to the International Space Station as crew members of Expedition 64.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "url": "https://www.youtube.com/watch?v=aT4rITutAwA",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031194914.jpeg",
    "date_published": "2020-11-17T04:00:00Z",
    "date_modified": "2020-11-17T04:00:00Z",
@@ -197,41 +197,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~arianespace~d9486816-bb61-4b16-bcfa-0d1e9ba40696",
-   "title": "Vega | Ingenio (SEOSat) & Taranis",
-   "content_text": "Spanish optical Earth-observation satellite. The mission is devoted to providing high resolution multispectral land optical images to different Spanish civil, institutional and government users.",
-   "url": "https://ll.thespacedevs.com/2.0.0/launch/d9486816-bb61-4b16-bcfa-0d1e9ba40696.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
-   "date_published": "2020-11-17T01:52:20Z",
-   "date_modified": "2020-11-17T01:52:20Z",
-   "tags": [
-    "commercial",
-    "vega",
-    "vega",
-    "earth science",
-    "ariane launch area 1"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Arianespace"
-   },
-   "_id": {
-    "parent": "d9486816-bb61-4b16-bcfa-0d1e9ba40696",
-    "global": "~space-schedule~launch~arianespace~d9486816-bb61-4b16-bcfa-0d1e9ba40696"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -242,7 +207,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 7,
+  "itemCount": 6,
   "pageNumber": 1,
   "pageCount": 1
  }

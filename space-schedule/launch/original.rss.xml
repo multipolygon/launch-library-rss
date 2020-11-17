@@ -49,18 +49,5 @@ Besides payloads, this flight will also serve as a test of Electron's reusabilit
       <pubDate>Thu, 19 Nov 2020 01:44:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/flight252016_image_20201102201340.jpg"/>
     </item>
-    <item>
-      <title>Vega | Ingenio (SEOSat) &amp; Taranis</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/d9486816-bb61-4b16-bcfa-0d1e9ba40696.json</link>
-      <description>Spanish optical Earth-observation satellite. The mission is devoted to providing high resolution multispectral land optical images to different Spanish civil, institutional and government users.</description>
-      <category>commercial</category>
-      <category>vega</category>
-      <category>vega</category>
-      <category>earth science</category>
-      <category>ariane launch area 1</category>
-      <guid isPermaLink="false">~space-schedule~launch~arianespace~d9486816-bb61-4b16-bcfa-0d1e9ba40696</guid>
-      <pubDate>Tue, 17 Nov 2020 01:52:20 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"/>
-    </item>
   </channel>
 </rss>

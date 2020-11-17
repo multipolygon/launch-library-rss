@@ -1,86 +1,8 @@
 {
-    "count": 3,
+    "count": 2,
     "next": null,
     "previous": null,
     "results": [
-        {
-            "id": "d9486816-bb61-4b16-bcfa-0d1e9ba40696",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d9486816-bb61-4b16-bcfa-0d1e9ba40696.json",
-            "launch_library_id": 1643,
-            "slug": "vega-ingenio-seosat-taranis",
-            "name": "Vega | Ingenio (SEOSat) & Taranis",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2020-11-17T01:52:20Z",
-            "window_end": "2020-11-17T01:52:20Z",
-            "window_start": "2020-11-17T01:52:20Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": -1,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 115,
-                "url": "https://ll.thespacedevs.com/2.0.0/agencies/115.json",
-                "name": "Arianespace",
-                "type": "Commercial"
-            },
-            "rocket": {
-                "id": 2141,
-                "configuration": {
-                    "id": 167,
-                    "launch_library_id": 18,
-                    "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/167.json",
-                    "name": "Vega",
-                    "family": "Vega",
-                    "full_name": "Vega",
-                    "variant": ""
-                }
-            },
-            "mission": {
-                "id": 693,
-                "launch_library_id": 882,
-                "name": "Ingenio (SEOSat)",
-                "description": "Spanish optical Earth-observation satellite. The mission is devoted to providing high resolution multispectral land optical images to different Spanish civil, institutional and government users.",
-                "launch_designator": null,
-                "type": "Earth Science",
-                "orbit": {
-                    "id": 17,
-                    "name": "Sun-Synchronous Orbit",
-                    "abbrev": "SSO"
-                }
-            },
-            "pad": {
-                "id": 34,
-                "url": "https://ll.thespacedevs.com/2.0.0/pad/34.json",
-                "agency_id": 115,
-                "name": "Ariane Launch Area 1",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/ELA-1",
-                "map_url": "https://www.google.com/maps/?q=5.239,-52.775",
-                "latitude": "5.236",
-                "longitude": "-52.775",
-                "location": {
-                    "id": 13,
-                    "url": "https://ll.thespacedevs.com/2.0.0/location/13.json",
-                    "name": "Kourou, French Guiana",
-                    "country_code": "GUF",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_13_20200803142412.jpg",
-                    "total_launch_count": 148,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_34_20200803143527.jpg",
-                "total_launch_count": 16
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
-            "infographic": null,
-            "program": []
-        },
         {
             "id": "1514d38c-b1ed-4a4a-9878-04646f0b6b94",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/1514d38c-b1ed-4a4a-9878-04646f0b6b94.json",

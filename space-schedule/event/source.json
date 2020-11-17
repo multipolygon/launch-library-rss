@@ -15,7 +15,7 @@
             "description": "The \"Resilience\" Crew Dragon will dock autonomously to the International Space Station, carrying JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to the International Space Station as crew members of Expedition 64.",
             "location": "International Space Station",
             "news_url": null,
-            "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+            "video_url": "https://www.youtube.com/watch?v=aT4rITutAwA",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031194914.jpeg",
             "date": "2020-11-17T04:00:00Z",
             "launches": [
@@ -86,11 +86,11 @@
                             "name": "Kennedy Space Center, FL, USA",
                             "country_code": "USA",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg",
-                            "total_launch_count": 179,
+                            "total_launch_count": 180,
                             "total_landing_count": 0
                         },
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_87_20200803143537.jpg",
-                        "total_launch_count": 122
+                        "total_launch_count": 123
                     },
                     "webcast_live": true,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg",
@@ -297,7 +297,7 @@
             "description": "The \"Resilience\" Crew Dragon hatch will be opened, allowing JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to enter the International Space Station as crew members of Expedition 64.",
             "location": "International Space Station",
             "news_url": null,
-            "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+            "video_url": "https://www.youtube.com/watch?v=aT4rITutAwA",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031193109.jpeg",
             "date": "2020-11-17T06:40:00Z",
             "launches": [
@@ -368,11 +368,11 @@
                             "name": "Kennedy Space Center, FL, USA",
                             "country_code": "USA",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg",
-                            "total_launch_count": 179,
+                            "total_launch_count": 180,
                             "total_landing_count": 0
                         },
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_87_20200803143537.jpg",
-                        "total_launch_count": 122
+                        "total_launch_count": 123
                     },
                     "webcast_live": true,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg",

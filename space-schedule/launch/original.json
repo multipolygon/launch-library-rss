@@ -71,41 +71,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/rocket_lab_ltd/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~arianespace~d9486816-bb61-4b16-bcfa-0d1e9ba40696",
-   "title": "Vega | Ingenio (SEOSat) & Taranis",
-   "content_text": "Spanish optical Earth-observation satellite. The mission is devoted to providing high resolution multispectral land optical images to different Spanish civil, institutional and government users.",
-   "url": "https://ll.thespacedevs.com/2.0.0/launch/d9486816-bb61-4b16-bcfa-0d1e9ba40696.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
-   "date_published": "2020-11-17T01:52:20Z",
-   "date_modified": "2020-11-17T01:52:20Z",
-   "tags": [
-    "commercial",
-    "vega",
-    "vega",
-    "earth science",
-    "ariane launch area 1"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Arianespace"
-   },
-   "_id": {
-    "parent": "d9486816-bb61-4b16-bcfa-0d1e9ba40696",
-    "global": "~space-schedule~launch~arianespace~d9486816-bb61-4b16-bcfa-0d1e9ba40696"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -116,7 +81,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 3,
+  "itemCount": 2,
   "pageNumber": 1,
   "pageCount": 1
  }
