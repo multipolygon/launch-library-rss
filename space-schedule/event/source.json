@@ -1,571 +1,106 @@
 {
-    "count": 10,
+    "count": 9,
     "next": null,
     "previous": null,
     "results": [
         {
-            "id": 187,
-            "url": "https://ll.thespacedevs.com/2.0.0/event/187.json",
-            "slug": "spacex-crew-1-resilience-crew-dragon-docking",
-            "name": "SpaceX Crew-1 \"Resilience\" Crew Dragon Docking",
+            "id": 190,
+            "url": "https://ll.thespacedevs.com/2.0.0/event/190.json",
+            "slug": "arianespace-vv17-failure-press-conference",
+            "name": "Arianespace VV17 failure press conference",
             "type": {
-                "id": 2,
-                "name": "Docking"
+                "id": 20,
+                "name": "Press Event"
             },
-            "description": "The \"Resilience\" Crew Dragon will dock autonomously to the International Space Station, carrying JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to the International Space Station as crew members of Expedition 64.",
-            "location": "International Space Station",
-            "news_url": null,
-            "video_url": "https://www.youtube.com/watch?v=aT4rITutAwA",
-            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031194914.jpeg",
-            "date": "2020-11-17T04:00:00Z",
+            "description": "8 minutes after liftoff of Vega mission VV17, following the first ignition of the engine of the Avum upper stage, a deviation of trajectory was identified, entailing the loss of the mission. There will be a press conference Tuesday, November 17th, 2020 at 10:00 am Kourou time / 2:00 pm Paris time.",
+            "location": "Guyana Space Center, Kourou, French Guiana",
+            "news_url": "https://www.arianespace.com/press-release/arianespace-flight-vega-vv17-seosat-ingenio-taranis-mission-failure/",
+            "video_url": null,
+            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/arianespace_vv1_image_20201117120738.jpeg",
+            "date": "2020-11-17T13:00:00Z",
             "launches": [
                 {
-                    "id": "0ede12be-ac6d-4571-9d0c-b2a85b5cf280",
-                    "url": "https://ll.thespacedevs.com/2.0.0/launch/0ede12be-ac6d-4571-9d0c-b2a85b5cf280.json",
-                    "launch_library_id": 1657,
-                    "slug": "falcon-9-block-5-spx-uscv-1-nasa-crew-flight-1",
-                    "name": "Falcon 9 Block 5 | SpX USCV-1 (NASA Crew Flight 1)",
+                    "id": "d9486816-bb61-4b16-bcfa-0d1e9ba40696",
+                    "url": "https://ll.thespacedevs.com/2.0.0/launch/d9486816-bb61-4b16-bcfa-0d1e9ba40696.json",
+                    "launch_library_id": 1643,
+                    "slug": "vega-seosat-ingenio-taranis",
+                    "name": "Vega | SEOSAT-Ingenio & Taranis",
                     "status": {
-                        "id": 3,
-                        "name": "Success"
+                        "id": 4,
+                        "name": "Failure"
                     },
-                    "net": "2020-11-16T00:27:17Z",
-                    "window_end": "2020-11-16T00:27:17Z",
-                    "window_start": "2020-11-16T00:27:17Z",
+                    "net": "2020-11-17T01:52:20Z",
+                    "window_end": "2020-11-17T01:52:20Z",
+                    "window_start": "2020-11-17T01:52:20Z",
                     "inhold": false,
                     "tbdtime": false,
                     "tbddate": false,
-                    "probability": 80,
+                    "probability": -1,
                     "holdreason": "",
-                    "failreason": "",
-                    "hashtag": "#LaunchAmerica",
+                    "failreason": "AVUM upper stage tumbled uncontrollably during the first burn because cables in the engine control system were improperly connected.",
+                    "hashtag": "#SEOSATIngenio",
                     "launch_service_provider": {
-                        "id": 121,
-                        "url": "https://ll.thespacedevs.com/2.0.0/agencies/121.json",
-                        "name": "SpaceX",
+                        "id": 115,
+                        "url": "https://ll.thespacedevs.com/2.0.0/agencies/115.json",
+                        "name": "Arianespace",
                         "type": "Commercial"
                     },
                     "rocket": {
-                        "id": 2166,
+                        "id": 2141,
                         "configuration": {
-                            "id": 164,
-                            "launch_library_id": 188,
-                            "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/164.json",
-                            "name": "Falcon 9 Block 5",
-                            "family": "Falcon",
-                            "full_name": "Falcon 9 Block 5",
-                            "variant": "Block 5"
+                            "id": 167,
+                            "launch_library_id": 18,
+                            "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/167.json",
+                            "name": "Vega",
+                            "family": "Vega",
+                            "full_name": "Vega",
+                            "variant": ""
                         }
                     },
                     "mission": {
-                        "id": 54,
-                        "launch_library_id": 1160,
-                        "name": "SpX USCV-1 (NASA Crew Flight 1)",
-                        "description": "SpaceX's first operational flight of manned Dragon 2 vehicle.",
+                        "id": 693,
+                        "launch_library_id": 882,
+                        "name": "SEOSAT-Ingenio & Taranis",
+                        "description": "SEOSAT-Ingenio is a high-resolution optical imaging mission of Spain - the flagship mission of the Spanish space strategic plan. Its mission is devoted to ensure an even coverage of the areas of national interest, providing a large operational capability in the capture of high-resolution multi-spectral land optical images for numerous user groups, as well as supporting and optimizing the development in Spain of teledetection-based applications in Spain. The overall mission objective is to provide information for applications in cartography, land use, urban management, water management, environmental monitoring, risk management and security.\r\n\r\nTARANIS (Tool for the Analysis of RAdiation from lightNIngand Sprites), the Celtic god of thunder and lightning, is the first satellite designed to observe luminous, radiative and electromagnetic phenomena occurring at altitudes of 20 to 100 km over thunderstorms. Discovered 20 years ago, such transient luminous events (TLEs) such as red sprites, blue jets, elves, sprite halos, etc. remain shrouded in mystery. They are sometimes accompanied by terrestrial gamma-ray flashes (TGFs). The TARANIS microsatellite will fly over thousands of TLEs and TGFs for at least four years and will be capable of detecting these events and recording their luminous and radiative signatures at high resolution, as well as the electromagnetic perturbations they set off in Earth’s upper atmosphere. The payload includes numerous sensors to observe the TLEs and to perform in-situ measurements of perturbations caused on the local plasma (fields, waves and particles).",
                         "launch_designator": null,
-                        "type": "Human Exploration",
+                        "type": "Earth Science",
                         "orbit": {
-                            "id": 8,
-                            "name": "Low Earth Orbit",
-                            "abbrev": "LEO"
+                            "id": 17,
+                            "name": "Sun-Synchronous Orbit",
+                            "abbrev": "SSO"
                         }
                     },
                     "pad": {
-                        "id": 87,
-                        "url": "https://ll.thespacedevs.com/2.0.0/pad/87.json",
-                        "agency_id": null,
-                        "name": "Launch Complex 39A",
+                        "id": 34,
+                        "url": "https://ll.thespacedevs.com/2.0.0/pad/34.json",
+                        "agency_id": 115,
+                        "name": "Ariane Launch Area 1",
                         "info_url": null,
-                        "wiki_url": "https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A",
-                        "map_url": "http://maps.google.com/maps?q=28.608+N,+80.604+W",
-                        "latitude": "28.60822681",
-                        "longitude": "-80.60428186",
+                        "wiki_url": "https://en.wikipedia.org/wiki/ELA-1",
+                        "map_url": "https://www.google.com/maps/?q=5.239,-52.775",
+                        "latitude": "5.236",
+                        "longitude": "-52.775",
                         "location": {
-                            "id": 27,
-                            "url": "https://ll.thespacedevs.com/2.0.0/location/27.json",
-                            "name": "Kennedy Space Center, FL, USA",
-                            "country_code": "USA",
-                            "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg",
-                            "total_launch_count": 180,
+                            "id": 13,
+                            "url": "https://ll.thespacedevs.com/2.0.0/location/13.json",
+                            "name": "Kourou, French Guiana",
+                            "country_code": "GUF",
+                            "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_13_20200803142412.jpg",
+                            "total_launch_count": 149,
                             "total_landing_count": 0
                         },
-                        "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_87_20200803143537.jpg",
-                        "total_launch_count": 123
+                        "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_34_20200803143527.jpg",
+                        "total_launch_count": 17
                     },
                     "webcast_live": true,
-                    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg",
-                    "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20201115034226.png",
-                    "program": [
-                        {
-                            "id": 5,
-                            "url": "https://ll.thespacedevs.com/2.0.0/program/5.json",
-                            "name": "Commercial Crew Program",
-                            "description": "The Commercial Crew Program (CCP) is a human spaceflight program operated by NASA, in association with American aerospace manufacturers Boeing and SpaceX. The program conducts rotations between the expeditions of the International Space Station program, transporting crews to and from the International Space Station (ISS) aboard Boeing Starliner and SpaceX Crew Dragon capsules, in the first crewed orbital spaceflights operated by private companies.",
-                            "agencies": [
-                                {
-                                    "id": 80,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/80.json",
-                                    "name": "Boeing",
-                                    "type": "Commercial"
-                                },
-                                {
-                                    "id": 44,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/44.json",
-                                    "name": "National Aeronautics and Space Administration",
-                                    "type": "Government"
-                                },
-                                {
-                                    "id": 121,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/121.json",
-                                    "name": "SpaceX",
-                                    "type": "Commercial"
-                                }
-                            ],
-                            "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/commercial2520_program_20200820201209.png",
-                            "start_date": "2011-04-18T00:00:00Z",
-                            "end_date": null,
-                            "info_url": "https://www.nasa.gov/exploration/commercial/crew/index.html",
-                            "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Crew_Program"
-                        },
-                        {
-                            "id": 17,
-                            "url": "https://ll.thespacedevs.com/2.0.0/program/17.json",
-                            "name": "International Space Station",
-                            "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
-                            "agencies": [
-                                {
-                                    "id": 16,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/16.json",
-                                    "name": "Canadian Space Agency",
-                                    "type": "Government"
-                                },
-                                {
-                                    "id": 27,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/27.json",
-                                    "name": "European Space Agency",
-                                    "type": "Multinational"
-                                },
-                                {
-                                    "id": 37,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/37.json",
-                                    "name": "Japan Aerospace Exploration Agency",
-                                    "type": "Government"
-                                },
-                                {
-                                    "id": 44,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/44.json",
-                                    "name": "National Aeronautics and Space Administration",
-                                    "type": "Government"
-                                },
-                                {
-                                    "id": 63,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/63.json",
-                                    "name": "Russian Federal Space Agency (ROSCOSMOS)",
-                                    "type": "Government"
-                                }
-                            ],
-                            "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/international2_program_20200821092901.jpeg",
-                            "start_date": "1998-11-20T06:40:00Z",
-                            "end_date": null,
-                            "info_url": "https://www.nasa.gov/mission_pages/station/main/index.html",
-                            "wiki_url": "https://en.wikipedia.org/wiki/International_Space_Station_programme"
-                        }
-                    ]
+                    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
+                    "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/vega2520257c_infographic_20201116161633.png",
+                    "program": []
                 }
             ],
-            "expeditions": [
-                {
-                    "id": 140,
-                    "url": "https://ll.thespacedevs.com/2.0.0/expedition/140.json",
-                    "name": "Expedition 64",
-                    "start": "2020-10-20T20:15:00Z",
-                    "end": null,
-                    "spacestation": {
-                        "id": 4,
-                        "url": "https://ll.thespacedevs.com/2.0.0/spacestation/4.json",
-                        "name": "International Space Station",
-                        "status": {
-                            "id": 1,
-                            "name": "Active"
-                        },
-                        "orbit": "Low Earth Orbit",
-                        "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/spacestation_images/international2520space2520station_image_20190220215716.jpeg"
-                    }
-                }
-            ],
-            "spacestations": [
-                {
-                    "id": 4,
-                    "url": "https://ll.thespacedevs.com/2.0.0/spacestation/4.json",
-                    "name": "International Space Station",
-                    "status": {
-                        "id": 1,
-                        "name": "Active"
-                    },
-                    "founded": "1998-11-20",
-                    "description": "The International Space Station (ISS) is a space station, or a habitable artificial satellite, in low Earth orbit. Its first component was launched into orbit in 1998, with the first long-term residents arriving in November 2000. It has been inhabited continuously since that date. The last pressurised module was fitted in 2011, and an experimental inflatable space habitat was added in 2016. The station is expected to operate until 2030. Development and assembly of the station continues, with several new elements scheduled for launch in 2019. The ISS is the largest human-made body in low Earth orbit and can often be seen with the naked eye from Earth. The ISS consists of pressurised habitation modules, structural trusses, solar arrays, radiators, docking ports, experiment bays and robotic arms. ISS components have been launched by Russian Proton and Soyuz rockets, and American Space Shuttles.",
-                    "orbit": "Low Earth Orbit",
-                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/spacestation_images/international2520space2520station_image_20190220215716.jpeg"
-                }
-            ],
-            "program": [
-                {
-                    "id": 5,
-                    "url": "https://ll.thespacedevs.com/2.0.0/program/5.json",
-                    "name": "Commercial Crew Program",
-                    "description": "The Commercial Crew Program (CCP) is a human spaceflight program operated by NASA, in association with American aerospace manufacturers Boeing and SpaceX. The program conducts rotations between the expeditions of the International Space Station program, transporting crews to and from the International Space Station (ISS) aboard Boeing Starliner and SpaceX Crew Dragon capsules, in the first crewed orbital spaceflights operated by private companies.",
-                    "agencies": [
-                        {
-                            "id": 80,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/80.json",
-                            "name": "Boeing",
-                            "type": "Commercial"
-                        },
-                        {
-                            "id": 44,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/44.json",
-                            "name": "National Aeronautics and Space Administration",
-                            "type": "Government"
-                        },
-                        {
-                            "id": 121,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/121.json",
-                            "name": "SpaceX",
-                            "type": "Commercial"
-                        }
-                    ],
-                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/commercial2520_program_20200820201209.png",
-                    "start_date": "2011-04-18T00:00:00Z",
-                    "end_date": null,
-                    "info_url": "https://www.nasa.gov/exploration/commercial/crew/index.html",
-                    "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Crew_Program"
-                },
-                {
-                    "id": 17,
-                    "url": "https://ll.thespacedevs.com/2.0.0/program/17.json",
-                    "name": "International Space Station",
-                    "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
-                    "agencies": [
-                        {
-                            "id": 16,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/16.json",
-                            "name": "Canadian Space Agency",
-                            "type": "Government"
-                        },
-                        {
-                            "id": 27,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/27.json",
-                            "name": "European Space Agency",
-                            "type": "Multinational"
-                        },
-                        {
-                            "id": 37,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/37.json",
-                            "name": "Japan Aerospace Exploration Agency",
-                            "type": "Government"
-                        },
-                        {
-                            "id": 44,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/44.json",
-                            "name": "National Aeronautics and Space Administration",
-                            "type": "Government"
-                        },
-                        {
-                            "id": 63,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/63.json",
-                            "name": "Russian Federal Space Agency (ROSCOSMOS)",
-                            "type": "Government"
-                        }
-                    ],
-                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/international2_program_20200821092901.jpeg",
-                    "start_date": "1998-11-20T06:40:00Z",
-                    "end_date": null,
-                    "info_url": "https://www.nasa.gov/mission_pages/station/main/index.html",
-                    "wiki_url": "https://en.wikipedia.org/wiki/International_Space_Station_programme"
-                }
-            ]
-        },
-        {
-            "id": 186,
-            "url": "https://ll.thespacedevs.com/2.0.0/event/186.json",
-            "slug": "spacex-crew-1-resilience-crew-dragon-hatch-opening",
-            "name": "SpaceX Crew-1 \"Resilience\" Crew Dragon Hatch Opening",
-            "type": {
-                "id": 12,
-                "name": "Hatch Opening"
-            },
-            "description": "The \"Resilience\" Crew Dragon hatch will be opened, allowing JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to enter the International Space Station as crew members of Expedition 64.",
-            "location": "International Space Station",
-            "news_url": null,
-            "video_url": "https://www.youtube.com/watch?v=aT4rITutAwA",
-            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031193109.jpeg",
-            "date": "2020-11-17T06:40:00Z",
-            "launches": [
-                {
-                    "id": "0ede12be-ac6d-4571-9d0c-b2a85b5cf280",
-                    "url": "https://ll.thespacedevs.com/2.0.0/launch/0ede12be-ac6d-4571-9d0c-b2a85b5cf280.json",
-                    "launch_library_id": 1657,
-                    "slug": "falcon-9-block-5-spx-uscv-1-nasa-crew-flight-1",
-                    "name": "Falcon 9 Block 5 | SpX USCV-1 (NASA Crew Flight 1)",
-                    "status": {
-                        "id": 3,
-                        "name": "Success"
-                    },
-                    "net": "2020-11-16T00:27:17Z",
-                    "window_end": "2020-11-16T00:27:17Z",
-                    "window_start": "2020-11-16T00:27:17Z",
-                    "inhold": false,
-                    "tbdtime": false,
-                    "tbddate": false,
-                    "probability": 80,
-                    "holdreason": "",
-                    "failreason": "",
-                    "hashtag": "#LaunchAmerica",
-                    "launch_service_provider": {
-                        "id": 121,
-                        "url": "https://ll.thespacedevs.com/2.0.0/agencies/121.json",
-                        "name": "SpaceX",
-                        "type": "Commercial"
-                    },
-                    "rocket": {
-                        "id": 2166,
-                        "configuration": {
-                            "id": 164,
-                            "launch_library_id": 188,
-                            "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/164.json",
-                            "name": "Falcon 9 Block 5",
-                            "family": "Falcon",
-                            "full_name": "Falcon 9 Block 5",
-                            "variant": "Block 5"
-                        }
-                    },
-                    "mission": {
-                        "id": 54,
-                        "launch_library_id": 1160,
-                        "name": "SpX USCV-1 (NASA Crew Flight 1)",
-                        "description": "SpaceX's first operational flight of manned Dragon 2 vehicle.",
-                        "launch_designator": null,
-                        "type": "Human Exploration",
-                        "orbit": {
-                            "id": 8,
-                            "name": "Low Earth Orbit",
-                            "abbrev": "LEO"
-                        }
-                    },
-                    "pad": {
-                        "id": 87,
-                        "url": "https://ll.thespacedevs.com/2.0.0/pad/87.json",
-                        "agency_id": null,
-                        "name": "Launch Complex 39A",
-                        "info_url": null,
-                        "wiki_url": "https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A",
-                        "map_url": "http://maps.google.com/maps?q=28.608+N,+80.604+W",
-                        "latitude": "28.60822681",
-                        "longitude": "-80.60428186",
-                        "location": {
-                            "id": 27,
-                            "url": "https://ll.thespacedevs.com/2.0.0/location/27.json",
-                            "name": "Kennedy Space Center, FL, USA",
-                            "country_code": "USA",
-                            "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg",
-                            "total_launch_count": 180,
-                            "total_landing_count": 0
-                        },
-                        "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_87_20200803143537.jpg",
-                        "total_launch_count": 123
-                    },
-                    "webcast_live": true,
-                    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg",
-                    "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20201115034226.png",
-                    "program": [
-                        {
-                            "id": 5,
-                            "url": "https://ll.thespacedevs.com/2.0.0/program/5.json",
-                            "name": "Commercial Crew Program",
-                            "description": "The Commercial Crew Program (CCP) is a human spaceflight program operated by NASA, in association with American aerospace manufacturers Boeing and SpaceX. The program conducts rotations between the expeditions of the International Space Station program, transporting crews to and from the International Space Station (ISS) aboard Boeing Starliner and SpaceX Crew Dragon capsules, in the first crewed orbital spaceflights operated by private companies.",
-                            "agencies": [
-                                {
-                                    "id": 80,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/80.json",
-                                    "name": "Boeing",
-                                    "type": "Commercial"
-                                },
-                                {
-                                    "id": 44,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/44.json",
-                                    "name": "National Aeronautics and Space Administration",
-                                    "type": "Government"
-                                },
-                                {
-                                    "id": 121,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/121.json",
-                                    "name": "SpaceX",
-                                    "type": "Commercial"
-                                }
-                            ],
-                            "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/commercial2520_program_20200820201209.png",
-                            "start_date": "2011-04-18T00:00:00Z",
-                            "end_date": null,
-                            "info_url": "https://www.nasa.gov/exploration/commercial/crew/index.html",
-                            "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Crew_Program"
-                        },
-                        {
-                            "id": 17,
-                            "url": "https://ll.thespacedevs.com/2.0.0/program/17.json",
-                            "name": "International Space Station",
-                            "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
-                            "agencies": [
-                                {
-                                    "id": 16,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/16.json",
-                                    "name": "Canadian Space Agency",
-                                    "type": "Government"
-                                },
-                                {
-                                    "id": 27,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/27.json",
-                                    "name": "European Space Agency",
-                                    "type": "Multinational"
-                                },
-                                {
-                                    "id": 37,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/37.json",
-                                    "name": "Japan Aerospace Exploration Agency",
-                                    "type": "Government"
-                                },
-                                {
-                                    "id": 44,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/44.json",
-                                    "name": "National Aeronautics and Space Administration",
-                                    "type": "Government"
-                                },
-                                {
-                                    "id": 63,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/63.json",
-                                    "name": "Russian Federal Space Agency (ROSCOSMOS)",
-                                    "type": "Government"
-                                }
-                            ],
-                            "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/international2_program_20200821092901.jpeg",
-                            "start_date": "1998-11-20T06:40:00Z",
-                            "end_date": null,
-                            "info_url": "https://www.nasa.gov/mission_pages/station/main/index.html",
-                            "wiki_url": "https://en.wikipedia.org/wiki/International_Space_Station_programme"
-                        }
-                    ]
-                }
-            ],
-            "expeditions": [
-                {
-                    "id": 140,
-                    "url": "https://ll.thespacedevs.com/2.0.0/expedition/140.json",
-                    "name": "Expedition 64",
-                    "start": "2020-10-20T20:15:00Z",
-                    "end": null,
-                    "spacestation": {
-                        "id": 4,
-                        "url": "https://ll.thespacedevs.com/2.0.0/spacestation/4.json",
-                        "name": "International Space Station",
-                        "status": {
-                            "id": 1,
-                            "name": "Active"
-                        },
-                        "orbit": "Low Earth Orbit",
-                        "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/spacestation_images/international2520space2520station_image_20190220215716.jpeg"
-                    }
-                }
-            ],
-            "spacestations": [
-                {
-                    "id": 4,
-                    "url": "https://ll.thespacedevs.com/2.0.0/spacestation/4.json",
-                    "name": "International Space Station",
-                    "status": {
-                        "id": 1,
-                        "name": "Active"
-                    },
-                    "founded": "1998-11-20",
-                    "description": "The International Space Station (ISS) is a space station, or a habitable artificial satellite, in low Earth orbit. Its first component was launched into orbit in 1998, with the first long-term residents arriving in November 2000. It has been inhabited continuously since that date. The last pressurised module was fitted in 2011, and an experimental inflatable space habitat was added in 2016. The station is expected to operate until 2030. Development and assembly of the station continues, with several new elements scheduled for launch in 2019. The ISS is the largest human-made body in low Earth orbit and can often be seen with the naked eye from Earth. The ISS consists of pressurised habitation modules, structural trusses, solar arrays, radiators, docking ports, experiment bays and robotic arms. ISS components have been launched by Russian Proton and Soyuz rockets, and American Space Shuttles.",
-                    "orbit": "Low Earth Orbit",
-                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/spacestation_images/international2520space2520station_image_20190220215716.jpeg"
-                }
-            ],
-            "program": [
-                {
-                    "id": 5,
-                    "url": "https://ll.thespacedevs.com/2.0.0/program/5.json",
-                    "name": "Commercial Crew Program",
-                    "description": "The Commercial Crew Program (CCP) is a human spaceflight program operated by NASA, in association with American aerospace manufacturers Boeing and SpaceX. The program conducts rotations between the expeditions of the International Space Station program, transporting crews to and from the International Space Station (ISS) aboard Boeing Starliner and SpaceX Crew Dragon capsules, in the first crewed orbital spaceflights operated by private companies.",
-                    "agencies": [
-                        {
-                            "id": 80,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/80.json",
-                            "name": "Boeing",
-                            "type": "Commercial"
-                        },
-                        {
-                            "id": 44,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/44.json",
-                            "name": "National Aeronautics and Space Administration",
-                            "type": "Government"
-                        },
-                        {
-                            "id": 121,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/121.json",
-                            "name": "SpaceX",
-                            "type": "Commercial"
-                        }
-                    ],
-                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/commercial2520_program_20200820201209.png",
-                    "start_date": "2011-04-18T00:00:00Z",
-                    "end_date": null,
-                    "info_url": "https://www.nasa.gov/exploration/commercial/crew/index.html",
-                    "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Crew_Program"
-                },
-                {
-                    "id": 17,
-                    "url": "https://ll.thespacedevs.com/2.0.0/program/17.json",
-                    "name": "International Space Station",
-                    "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
-                    "agencies": [
-                        {
-                            "id": 16,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/16.json",
-                            "name": "Canadian Space Agency",
-                            "type": "Government"
-                        },
-                        {
-                            "id": 27,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/27.json",
-                            "name": "European Space Agency",
-                            "type": "Multinational"
-                        },
-                        {
-                            "id": 37,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/37.json",
-                            "name": "Japan Aerospace Exploration Agency",
-                            "type": "Government"
-                        },
-                        {
-                            "id": 44,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/44.json",
-                            "name": "National Aeronautics and Space Administration",
-                            "type": "Government"
-                        },
-                        {
-                            "id": 63,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/63.json",
-                            "name": "Russian Federal Space Agency (ROSCOSMOS)",
-                            "type": "Government"
-                        }
-                    ],
-                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/international2_program_20200821092901.jpeg",
-                    "start_date": "1998-11-20T06:40:00Z",
-                    "end_date": null,
-                    "info_url": "https://www.nasa.gov/mission_pages/station/main/index.html",
-                    "wiki_url": "https://en.wikipedia.org/wiki/International_Space_Station_programme"
-                }
-            ]
+            "expeditions": [],
+            "spacestations": [],
+            "program": []
         },
         {
             "id": 188,

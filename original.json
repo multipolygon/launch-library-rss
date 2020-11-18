@@ -74,8 +74,8 @@
    "content_text": "\"Return to Sender\" will loft 30 satellites to a sun-synchronous orbit at 500 km altitude for a range of customers, including TriSept, Unseenlabs, Swarm, Te Pūnaha Ātea - Auckland Space Institute, and global gaming software company Valve. The satellites span a range of operations, from TriSept’s tech demonstration of new tether systems designed to accelerate spacecraft reentry and reduce orbital debris, through to the next generation of maritime surveillance satellites for Unseenlabs, as well as communications satellites for Swarm. The mission will also deploy New Zealand’s first student-built satellite, the APSS-1 satellite for Te Pūnaha Ātea - Auckland Space Institute at The University of Auckland.\r\n\r\nThe DRAGRACER mission will test the effectiveness of new tether technologies designed to accelerate spacecraft reentry and reduce orbital debris at the conclusion of space missions. TriSept has completed the integration of a pair of qualified Millennium Space Systems 6U small satellites, one featuring the tether drag device and one without. The controlled spacecraft should deorbit in approximately 45 days, while the second spacecraft is expected to remain in orbit for seven to nine years.\r\n\r\nBRO-2 and BRO-3 are the second and third satellites in French company Unseenlabs’ planned constellation of about 20 satellites dedicated to maritime surveillance. \r\n\r\nSwarm will launch the latest 24 1/4U SpaceBEE satellites to continue building out its planned constellation of 150 satellites to provide affordable satellite communications services to IoT devices in remote regions around the world. \r\n\r\nThe student-built Waka Āmiorangi Aotearoa APSS-1 satellite is designed to monitor electrical activity in Earth’s upper atmosphere to test whether ionospheric disturbances can predict earthquakes.\r\n\r\nExtra payload on this flight is a 150 mm 3D printed Half-Life Gnome Chompski. Created for Valve Software's co-founder Gabe Newell by design studio Weta Workshop, it serves as an homage to the innovation and creativity of gamers worldwide, and also aims to test and qualify a novel 3D printing technique that could be employed for future spacecraft components. Gnome will remain attached to the Kick Stage and will burn up on reentry.\r\n\r\nBesides payloads, this flight will also serve as a test of Electron's reusability. Rocket Lab will attempt to bring Electron’s first stage back to Earth under a parachute system for a controlled water landing before collection by a recovery vessel.",
    "url": "https://ll.thespacedevs.com/2.0.0/launch/1514d38c-b1ed-4a4a-9878-04646f0b6b94.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/flight252016_image_20201102201340.jpg",
-   "date_published": "2020-11-19T01:44:00Z",
-   "date_modified": "2020-11-19T01:44:00Z",
+   "date_published": "2020-11-20T01:44:00Z",
+   "date_modified": "2020-11-20T01:44:00Z",
    "tags": [
     "commercial",
     "electron",
@@ -135,67 +135,34 @@
    }
   },
   {
-   "id": "~space-schedule~event~hatch_opening~186",
-   "title": "SpaceX Crew-1 \"Resilience\" Crew Dragon Hatch Opening",
-   "content_text": "The \"Resilience\" Crew Dragon hatch will be opened, allowing JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to enter the International Space Station as crew members of Expedition 64.",
-   "url": "https://www.youtube.com/watch?v=aT4rITutAwA",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031193109.jpeg",
-   "date_published": "2020-11-17T06:40:00Z",
-   "date_modified": "2020-11-17T06:40:00Z",
+   "id": "~space-schedule~event~press_event~190",
+   "title": "Arianespace VV17 failure press conference",
+   "content_text": "8 minutes after liftoff of Vega mission VV17, following the first ignition of the engine of the Avum upper stage, a deviation of trajectory was identified, entailing the loss of the mission. There will be a press conference Tuesday, November 17th, 2020 at 10:00 am Kourou time / 2:00 pm Paris time.",
+   "url": "https://www.arianespace.com/press-release/arianespace-flight-vega-vv17-seosat-ingenio-taranis-mission-failure/",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/arianespace_vv1_image_20201117120738.jpeg",
+   "date_published": "2020-11-17T13:00:00Z",
+   "date_modified": "2020-11-17T13:00:00Z",
    "tags": [
-    "hatch_opening"
+    "press_event"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031193109.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/arianespace_vv1_image_20201117120738.jpeg"
     }
    ],
    "_meta": {
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Hatch Opening"
+    "subtitle": "Press Event"
    },
    "_id": {
-    "parent": "186",
-    "global": "~space-schedule~event~hatch_opening~186"
+    "parent": "190",
+    "global": "~space-schedule~event~press_event~190"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/hatch_opening/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~docking~187",
-   "title": "SpaceX Crew-1 \"Resilience\" Crew Dragon Docking",
-   "content_text": "The \"Resilience\" Crew Dragon will dock autonomously to the International Space Station, carrying JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to the International Space Station as crew members of Expedition 64.",
-   "url": "https://www.youtube.com/watch?v=aT4rITutAwA",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031194914.jpeg",
-   "date_published": "2020-11-17T04:00:00Z",
-   "date_modified": "2020-11-17T04:00:00Z",
-   "tags": [
-    "docking"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031194914.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Docking"
-   },
-   "_id": {
-    "parent": "187",
-    "global": "~space-schedule~event~docking~187"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
    }
   }
  ],
@@ -207,7 +174,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 6,
+  "itemCount": 5,
   "pageNumber": 1,
   "pageCount": 1
  }

@@ -55,7 +55,7 @@ Besides payloads, this flight will also serve as a test of Electron's reusabilit
       <category>dedicated rideshare</category>
       <category>rocket lab launch complex 1a</category>
       <guid isPermaLink="false">~space-schedule~launch~rocket_lab_ltd~1514d38c-b1ed-4a4a-9878-04646f0b6b94</guid>
-      <pubDate>Thu, 19 Nov 2020 01:44:00 GMT</pubDate>
+      <pubDate>Fri, 20 Nov 2020 01:44:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/flight252016_image_20201102201340.jpg"/>
     </item>
     <item>
@@ -68,22 +68,13 @@ Besides payloads, this flight will also serve as a test of Electron's reusabilit
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-46_image_20201113081602.jpeg"/>
     </item>
     <item>
-      <title>SpaceX Crew-1 "Resilience" Crew Dragon Hatch Opening</title>
-      <link>https://www.youtube.com/watch?v=aT4rITutAwA</link>
-      <description>The "Resilience" Crew Dragon hatch will be opened, allowing JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to enter the International Space Station as crew members of Expedition 64.</description>
-      <category>hatch_opening</category>
-      <guid isPermaLink="false">~space-schedule~event~hatch_opening~186</guid>
-      <pubDate>Tue, 17 Nov 2020 06:40:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031193109.jpeg"/>
-    </item>
-    <item>
-      <title>SpaceX Crew-1 "Resilience" Crew Dragon Docking</title>
-      <link>https://www.youtube.com/watch?v=aT4rITutAwA</link>
-      <description>The "Resilience" Crew Dragon will dock autonomously to the International Space Station, carrying JAXA astronaut Soichi Noguchi and NASA astronauts Victor J. Glover, Shannon Walker and Michael S. Hopkins to the International Space Station as crew members of Expedition 64.</description>
-      <category>docking</category>
-      <guid isPermaLink="false">~space-schedule~event~docking~187</guid>
-      <pubDate>Tue, 17 Nov 2020 04:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-1__image_20201031194914.jpeg"/>
+      <title>Arianespace VV17 failure press conference</title>
+      <link>https://www.arianespace.com/press-release/arianespace-flight-vega-vv17-seosat-ingenio-taranis-mission-failure/</link>
+      <description>8 minutes after liftoff of Vega mission VV17, following the first ignition of the engine of the Avum upper stage, a deviation of trajectory was identified, entailing the loss of the mission. There will be a press conference Tuesday, November 17th, 2020 at 10:00 am Kourou time / 2:00 pm Paris time.</description>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~190</guid>
+      <pubDate>Tue, 17 Nov 2020 13:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/arianespace_vv1_image_20201117120738.jpeg"/>
     </item>
   </channel>
 </rss>
