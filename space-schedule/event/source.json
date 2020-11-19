@@ -1,117 +1,18 @@
 {
-    "count": 9,
+    "count": 8,
     "next": null,
     "previous": null,
     "results": [
         {
-            "id": 190,
-            "url": "https://ll.thespacedevs.com/2.0.0/event/190.json",
-            "slug": "arianespace-vv17-failure-press-conference",
-            "name": "Arianespace VV17 failure press conference",
-            "type": {
-                "id": 20,
-                "name": "Press Event"
-            },
-            "description": "8 minutes after liftoff of Vega mission VV17, following the first ignition of the engine of the Avum upper stage, a deviation of trajectory was identified, entailing the loss of the mission. There will be a press conference Tuesday, November 17th, 2020 at 10:00 am Kourou time / 2:00 pm Paris time.",
-            "location": "Guyana Space Center, Kourou, French Guiana",
-            "news_url": "https://www.arianespace.com/press-release/arianespace-flight-vega-vv17-seosat-ingenio-taranis-mission-failure/",
-            "video_url": null,
-            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/arianespace_vv1_image_20201117120738.jpeg",
-            "date": "2020-11-17T13:00:00Z",
-            "launches": [
-                {
-                    "id": "d9486816-bb61-4b16-bcfa-0d1e9ba40696",
-                    "url": "https://ll.thespacedevs.com/2.0.0/launch/d9486816-bb61-4b16-bcfa-0d1e9ba40696.json",
-                    "launch_library_id": 1643,
-                    "slug": "vega-seosat-ingenio-taranis",
-                    "name": "Vega | SEOSAT-Ingenio & Taranis",
-                    "status": {
-                        "id": 4,
-                        "name": "Failure"
-                    },
-                    "net": "2020-11-17T01:52:20Z",
-                    "window_end": "2020-11-17T01:52:20Z",
-                    "window_start": "2020-11-17T01:52:20Z",
-                    "inhold": false,
-                    "tbdtime": false,
-                    "tbddate": false,
-                    "probability": -1,
-                    "holdreason": "",
-                    "failreason": "AVUM upper stage tumbled uncontrollably during the first burn because cables in the engine control system were improperly connected.",
-                    "hashtag": "#SEOSATIngenio",
-                    "launch_service_provider": {
-                        "id": 115,
-                        "url": "https://ll.thespacedevs.com/2.0.0/agencies/115.json",
-                        "name": "Arianespace",
-                        "type": "Commercial"
-                    },
-                    "rocket": {
-                        "id": 2141,
-                        "configuration": {
-                            "id": 167,
-                            "launch_library_id": 18,
-                            "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/167.json",
-                            "name": "Vega",
-                            "family": "Vega",
-                            "full_name": "Vega",
-                            "variant": ""
-                        }
-                    },
-                    "mission": {
-                        "id": 693,
-                        "launch_library_id": 882,
-                        "name": "SEOSAT-Ingenio & Taranis",
-                        "description": "SEOSAT-Ingenio is a high-resolution optical imaging mission of Spain - the flagship mission of the Spanish space strategic plan. Its mission is devoted to ensure an even coverage of the areas of national interest, providing a large operational capability in the capture of high-resolution multi-spectral land optical images for numerous user groups, as well as supporting and optimizing the development in Spain of teledetection-based applications in Spain. The overall mission objective is to provide information for applications in cartography, land use, urban management, water management, environmental monitoring, risk management and security.\r\n\r\nTARANIS (Tool for the Analysis of RAdiation from lightNIngand Sprites), the Celtic god of thunder and lightning, is the first satellite designed to observe luminous, radiative and electromagnetic phenomena occurring at altitudes of 20 to 100 km over thunderstorms. Discovered 20 years ago, such transient luminous events (TLEs) such as red sprites, blue jets, elves, sprite halos, etc. remain shrouded in mystery. They are sometimes accompanied by terrestrial gamma-ray flashes (TGFs). The TARANIS microsatellite will fly over thousands of TLEs and TGFs for at least four years and will be capable of detecting these events and recording their luminous and radiative signatures at high resolution, as well as the electromagnetic perturbations they set off in Earth’s upper atmosphere. The payload includes numerous sensors to observe the TLEs and to perform in-situ measurements of perturbations caused on the local plasma (fields, waves and particles).",
-                        "launch_designator": null,
-                        "type": "Earth Science",
-                        "orbit": {
-                            "id": 17,
-                            "name": "Sun-Synchronous Orbit",
-                            "abbrev": "SSO"
-                        }
-                    },
-                    "pad": {
-                        "id": 34,
-                        "url": "https://ll.thespacedevs.com/2.0.0/pad/34.json",
-                        "agency_id": 115,
-                        "name": "Ariane Launch Area 1",
-                        "info_url": null,
-                        "wiki_url": "https://en.wikipedia.org/wiki/ELA-1",
-                        "map_url": "https://www.google.com/maps/?q=5.239,-52.775",
-                        "latitude": "5.236",
-                        "longitude": "-52.775",
-                        "location": {
-                            "id": 13,
-                            "url": "https://ll.thespacedevs.com/2.0.0/location/13.json",
-                            "name": "Kourou, French Guiana",
-                            "country_code": "GUF",
-                            "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_13_20200803142412.jpg",
-                            "total_launch_count": 149,
-                            "total_landing_count": 0
-                        },
-                        "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_34_20200803143527.jpg",
-                        "total_launch_count": 17
-                    },
-                    "webcast_live": true,
-                    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
-                    "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/vega2520257c_infographic_20201116161633.png",
-                    "program": []
-                }
-            ],
-            "expeditions": [],
-            "spacestations": [],
-            "program": []
-        },
-        {
             "id": 188,
             "url": "https://ll.thespacedevs.com/2.0.0/event/188.json",
-            "slug": "russian-eva-46",
-            "name": "Russian EVA-46",
+            "slug": "russian-eva-47",
+            "name": "Russian EVA-47",
             "type": {
                 "id": 3,
                 "name": "EVA"
             },
-            "description": "Roscosmos cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov will exit the International Space Station through the Pirs airlock to perform a maintenance spacewalk.",
+            "description": "Roscosmos cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov will exit the International Space Station through the Poisk airlock to perform a maintenance spacewalk.",
             "location": "International Space Station",
             "news_url": null,
             "video_url": "https://youtu.be/21X5lGlDOfg",

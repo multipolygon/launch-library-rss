@@ -24,12 +24,4 @@
     <content type="text">1 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Feva%2Foriginal.json"/>
   </entry>
-  <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json</id>
-    <title>Press Event</title>
-    <updated>2020-11-17T13:00:00Z</updated>
-    <published>2020-11-17T13:00:00Z</published>
-    <content type="text">1 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json"/>
-  </entry>
 </feed>

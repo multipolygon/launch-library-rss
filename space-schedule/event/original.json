@@ -35,8 +35,8 @@
   },
   {
    "id": "~space-schedule~event~eva~188",
-   "title": "Russian EVA-46",
-   "content_text": "Roscosmos cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov will exit the International Space Station through the Pirs airlock to perform a maintenance spacewalk.",
+   "title": "Russian EVA-47",
+   "content_text": "Roscosmos cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov will exit the International Space Station through the Poisk airlock to perform a maintenance spacewalk.",
    "url": "https://youtu.be/21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-46_image_20201113081602.jpeg",
    "date_published": "2020-11-18T13:30:00Z",
@@ -63,37 +63,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~press_event~190",
-   "title": "Arianespace VV17 failure press conference",
-   "content_text": "8 minutes after liftoff of Vega mission VV17, following the first ignition of the engine of the Avum upper stage, a deviation of trajectory was identified, entailing the loss of the mission. There will be a press conference Tuesday, November 17th, 2020 at 10:00 am Kourou time / 2:00 pm Paris time.",
-   "url": "https://www.arianespace.com/press-release/arianespace-flight-vega-vv17-seosat-ingenio-taranis-mission-failure/",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/arianespace_vv1_image_20201117120738.jpeg",
-   "date_published": "2020-11-17T13:00:00Z",
-   "date_modified": "2020-11-17T13:00:00Z",
-   "tags": [
-    "press_event"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/arianespace_vv1_image_20201117120738.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Press Event"
-   },
-   "_id": {
-    "parent": "190",
-    "global": "~space-schedule~event~press_event~190"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -104,7 +73,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 3,
+  "itemCount": 2,
   "pageNumber": 1,
   "pageCount": 1
  }

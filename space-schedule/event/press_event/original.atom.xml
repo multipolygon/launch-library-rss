@@ -2,19 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Press Event</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.atom.xml</id>
-  <updated>2020-11-17T13:00:00Z</updated>
+  <updated>2020-11-19T11:19:06.509Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
-  <entry>
-    <id>190</id>
-    <title>Arianespace VV17 failure press conference</title>
-    <updated>2020-11-17T13:00:00Z</updated>
-    <published>2020-11-17T13:00:00Z</published>
-    <content type="text">8 minutes after liftoff of Vega mission VV17, following the first ignition of the engine of the Avum upper stage, a deviation of trajectory was identified, entailing the loss of the mission. There will be a press conference Tuesday, November 17th, 2020 at 10:00 am Kourou time / 2:00 pm Paris time.</content>
-    <link rel="alternate" href="https://www.arianespace.com/press-release/arianespace-flight-vega-vv17-seosat-ingenio-taranis-mission-failure/"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/arianespace_vv1_image_20201117120738.jpeg"/>
-    <category term="press_event"/>
-  </entry>
 </feed>

@@ -20,22 +20,13 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg"/>
     </item>
     <item>
-      <title>Russian EVA-46</title>
+      <title>Russian EVA-47</title>
       <link>https://youtu.be/21X5lGlDOfg</link>
-      <description>Roscosmos cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov will exit the International Space Station through the Pirs airlock to perform a maintenance spacewalk.</description>
+      <description>Roscosmos cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov will exit the International Space Station through the Poisk airlock to perform a maintenance spacewalk.</description>
       <category>eva</category>
       <guid isPermaLink="false">~space-schedule~event~eva~188</guid>
       <pubDate>Wed, 18 Nov 2020 13:30:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-46_image_20201113081602.jpeg"/>
-    </item>
-    <item>
-      <title>Arianespace VV17 failure press conference</title>
-      <link>https://www.arianespace.com/press-release/arianespace-flight-vega-vv17-seosat-ingenio-taranis-mission-failure/</link>
-      <description>8 minutes after liftoff of Vega mission VV17, following the first ignition of the engine of the Avum upper stage, a deviation of trajectory was identified, entailing the loss of the mission. There will be a press conference Tuesday, November 17th, 2020 at 10:00 am Kourou time / 2:00 pm Paris time.</description>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~190</guid>
-      <pubDate>Tue, 17 Nov 2020 13:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/arianespace_vv1_image_20201117120738.jpeg"/>
     </item>
   </channel>
 </rss>

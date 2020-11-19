@@ -10,9 +10,9 @@
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
-      <title>Russian EVA-46</title>
+      <title>Russian EVA-47</title>
       <link>https://youtu.be/21X5lGlDOfg</link>
-      <description>Roscosmos cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov will exit the International Space Station through the Pirs airlock to perform a maintenance spacewalk.</description>
+      <description>Roscosmos cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov will exit the International Space Station through the Poisk airlock to perform a maintenance spacewalk.</description>
       <category>eva</category>
       <guid isPermaLink="false">188</guid>
       <pubDate>Wed, 18 Nov 2020 13:30:00 GMT</pubDate>

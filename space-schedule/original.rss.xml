@@ -20,6 +20,19 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg"/>
     </item>
     <item>
+      <title>Falcon 9 Block 5 | Starlink 15</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/145b2935-8b72-44b2-8bda-4c27887721fd.json</link>
+      <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon 9 block 5</category>
+      <category>communications</category>
+      <category>space launch complex 40</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~145b2935-8b72-44b2-8bda-4c27887721fd</guid>
+      <pubDate>Sun, 22 Nov 2020 03:17:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201116063830.png"/>
+    </item>
+    <item>
       <title>Falcon 9 Block 5 | Sentinel-6 Michael Freilich</title>
       <link>https://ll.thespacedevs.com/2.0.0/launch/56623c2d-7174-489c-b0ed-bf6f039b2412.json</link>
       <description>The Sentinel-6A mission, also known as Jason Continuity of Service (Jason-CS), is a partnership between NASA, NOAA, ESA, and EUMETSAT. This mission consists of two parts: the first one continues the long-term global sea surface height data record begun by first Jason satellites in 1992. This part of the mission will provide altimeter data necessary for ocean climate monitoring, ocean modelling and numerical ocean prediction, weather forecasting, marine meteorology, coastal altimetry and modelling. A secondary objective of the mission is to collect high-resolution vertical profiles of temperature, using the Global Navigation Satellite System (GNSS) Radio-Occultation sounding technique, to assess temperature changes in the troposphere and stratosphere and to support numerical weather prediction.
@@ -59,22 +72,13 @@ Besides payloads, this flight will also serve as a test of Electron's reusabilit
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/flight252016_image_20201102201340.jpg"/>
     </item>
     <item>
-      <title>Russian EVA-46</title>
+      <title>Russian EVA-47</title>
       <link>https://youtu.be/21X5lGlDOfg</link>
-      <description>Roscosmos cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov will exit the International Space Station through the Pirs airlock to perform a maintenance spacewalk.</description>
+      <description>Roscosmos cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov will exit the International Space Station through the Poisk airlock to perform a maintenance spacewalk.</description>
       <category>eva</category>
       <guid isPermaLink="false">~space-schedule~event~eva~188</guid>
       <pubDate>Wed, 18 Nov 2020 13:30:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-46_image_20201113081602.jpeg"/>
-    </item>
-    <item>
-      <title>Arianespace VV17 failure press conference</title>
-      <link>https://www.arianespace.com/press-release/arianespace-flight-vega-vv17-seosat-ingenio-taranis-mission-failure/</link>
-      <description>8 minutes after liftoff of Vega mission VV17, following the first ignition of the engine of the Avum upper stage, a deviation of trajectory was identified, entailing the loss of the mission. There will be a press conference Tuesday, November 17th, 2020 at 10:00 am Kourou time / 2:00 pm Paris time.</description>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~190</guid>
-      <pubDate>Tue, 17 Nov 2020 13:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/arianespace_vv1_image_20201117120738.jpeg"/>
     </item>
   </channel>
 </rss>

@@ -9,10 +9,10 @@
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <entry>
     <id>188</id>
-    <title>Russian EVA-46</title>
+    <title>Russian EVA-47</title>
     <updated>2020-11-18T13:30:00Z</updated>
     <published>2020-11-18T13:30:00Z</published>
-    <content type="text">Roscosmos cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov will exit the International Space Station through the Pirs airlock to perform a maintenance spacewalk.</content>
+    <content type="text">Roscosmos cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov will exit the International Space Station through the Poisk airlock to perform a maintenance spacewalk.</content>
     <link rel="alternate" href="https://youtu.be/21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-46_image_20201113081602.jpeg"/>
     <category term="eva"/>

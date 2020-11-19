@@ -2,39 +2,15 @@
  "version": "https://jsonfeed.org/version/1",
  "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json",
  "title": "Press Event",
- "items": [
-  {
-   "id": "190",
-   "title": "Arianespace VV17 failure press conference",
-   "content_text": "8 minutes after liftoff of Vega mission VV17, following the first ignition of the engine of the Avum upper stage, a deviation of trajectory was identified, entailing the loss of the mission. There will be a press conference Tuesday, November 17th, 2020 at 10:00 am Kourou time / 2:00 pm Paris time.",
-   "url": "https://www.arianespace.com/press-release/arianespace-flight-vega-vv17-seosat-ingenio-taranis-mission-failure/",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/arianespace_vv1_image_20201117120738.jpeg",
-   "date_published": "2020-11-17T13:00:00Z",
-   "date_modified": "2020-11-17T13:00:00Z",
-   "tags": [
-    "press_event"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/arianespace_vv1_image_20201117120738.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1
-   }
-  }
- ],
+ "items": [],
  "_feed_url": {
   "rss": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.rss.xml",
   "atom": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.atom.xml"
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json",
  "_meta": {
-  "itemCount": 1,
+  "itemCount": 0,
   "pageNumber": 1,
-  "pageCount": 1
+  "pageCount": 0
  }
 }
