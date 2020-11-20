@@ -25,7 +25,7 @@ export default function () {
             .filter((i) => i.launch_service_provider.name === provider)
             .map((item) => ({
                 id: item.id,
-                title: item.name,
+                title: `${item.name}`,
                 content_text:
                     [
                         (item.mission || {}).description,
@@ -41,17 +41,19 @@ export default function () {
                 image: item.image,
                 date_published: item.window_start,
                 date_modified: item.window_start,
-                tags: [
+                tags: _.uniq([
+                    'launch',
+                    provider,
                     (item.launch_service_provider || {}).type,
                     ((item.rocket || {}).configuration || {}).family,
                     ((item.rocket || {}).configuration || {}).name,
                     (item.mission || {}).type,
                     (item.pad || {}).name,
                     (item.pad || {}).country_code,
-                    ...(item.program || []).map((i) => _.snakeCase(i)),
-                ]
+                    ...(item.program || []),
+                ])
                     .filter(Boolean)
-                    .map((i) => i.toLowerCase()),
+                    .map((i) => _.snakeCase(i)),
                 attachments: [item.image].filter(Boolean).map((i) => ({
                     mime_type: mime.get(i),
                     url: i,
@@ -63,9 +65,7 @@ export default function () {
             dirPath: path.join(TOP_LEVEL_DIR, LAUNCH_DIR, _.snakeCase(provider)),
             name: 'original',
             feed: {
-                version: null,
-                feed_url: null,
-                title: provider,
+                title: `${provider} | Launch | Space Schedule`,
                 items,
             },
         });

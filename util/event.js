@@ -23,13 +23,15 @@ export default function () {
             .filter((i) => i.type.name === eventType)
             .map((item) => ({
                 id: `${item.id}`,
-                title: item.name,
+                title: `${item.name}`,
                 content_text: item.description,
                 url: item.video_url || item.news_url || item.url,
                 image: item.feature_image,
                 date_published: item.date,
                 date_modified: item.date,
-                tags: [(item.type || {}).name].filter(Boolean).map((i) => _.snakeCase(i)),
+                tags: _.uniq(['event', eventType, (item.type || {}).name])
+                    .filter(Boolean)
+                    .map((i) => _.snakeCase(i)),
                 attachments: [item.feature_image].filter(Boolean).map((i) => ({
                     mime_type: mime.get(i),
                     url: i,
@@ -43,7 +45,7 @@ export default function () {
             feed: {
                 version: null,
                 feed_url: null,
-                title: eventType,
+                title: `${eventType} | Event | Space Schedule`,
                 items,
             },
         });
