@@ -1,0 +1,45 @@
+{
+ "title": "Astra Space | Launch | Space Schedule",
+ "items": [
+  {
+   "id": "ffaceda9-2d21-4c79-b854-3414b774d8af",
+   "title": "Astra Rocket 3.2 | Flight 2",
+   "content_text": "Astra will attempt a second test flight of Rocket 3.0 following an unsuccessful first flight",
+   "url": "https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg",
+   "date_published": "2020-12-07T19:00:00Z",
+   "date_modified": "2020-12-07T19:00:00Z",
+   "tags": [
+    "launch",
+    "astra_space",
+    "astra_rocket",
+    "astra_rocket_3_0",
+    "test_flight",
+    "lp_3_b"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1
+   }
+  }
+ ],
+ "version": "https://jsonfeed.org/version/1",
+ "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/launch/astra_space/original.json",
+ "_feed_url": {
+  "rss": "https://launch-library-rss.multipolygon.net/space-schedule/launch/astra_space/original.rss.xml",
+  "atom": "https://launch-library-rss.multipolygon.net/space-schedule/launch/astra_space/original.atom.xml"
+ },
+ "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fastra_space%2Foriginal.json",
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ }
+}

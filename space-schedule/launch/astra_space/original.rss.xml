@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/astra_space/original.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Astra Space | Launch | Space Schedule</title>
+    <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fastra_space%2Foriginal.json</link>
+    <language>en-us</language>
+    <copyright>© 2020 </copyright>
+    <pubDate>Mon, 07 Dec 2020 19:00:00 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Astra Rocket 3.2 | Flight 2</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af.json</link>
+      <description>Astra will attempt a second test flight of Rocket 3.0 following an unsuccessful first flight</description>
+      <category>launch</category>
+      <category>astra_space</category>
+      <category>astra_rocket</category>
+      <category>astra_rocket_3_0</category>
+      <category>test_flight</category>
+      <category>lp_3_b</category>
+      <guid isPermaLink="false">ffaceda9-2d21-4c79-b854-3414b774d8af</guid>
+      <pubDate>Mon, 07 Dec 2020 19:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"/>
+    </item>
+  </channel>
+</rss>

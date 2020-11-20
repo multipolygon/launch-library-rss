@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Landing</title>
+    <title>Landing | Event | Space Schedule</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Flanding%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
@@ -13,6 +13,7 @@
       <title>Hayabusa-2 Sample Returns to Earth</title>
       <link>https://en.wikipedia.org/wiki/Hayabusa2</link>
       <description>When Hayabusa-2 flies past Earth in December 2020, it will release the capsule spinning at one revolution per three seconds. The capsule will re-enter the Earth's atmosphere at 12 km/s and it will deploy a radar-reflective parachute at an altitude of about 10 km, and eject its heat-shield, while transmitting a position beacon signal. The sample capsule will land at the Woomera Test Range in Australia.</description>
+      <category>event</category>
       <category>landing</category>
       <guid isPermaLink="false">35</guid>
       <pubDate>Sat, 05 Dec 2020 17:00:00 GMT</pubDate>

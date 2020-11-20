@@ -2,12 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>All Items</title>
   <id>https://launch-library-rss.multipolygon.net/original.atom.xml</id>
-  <updated>2020-12-05T17:00:00Z</updated>
+  <updated>2020-12-07T19:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items.</subtitle>
+  <entry>
+    <id>~space-schedule~launch~astra_space~ffaceda9-2d21-4c79-b854-3414b774d8af</id>
+    <title>Astra Rocket 3.2 | Flight 2</title>
+    <updated>2020-12-07T19:00:00Z</updated>
+    <published>2020-12-07T19:00:00Z</published>
+    <content type="text">Astra will attempt a second test flight of Rocket 3.0 following an unsuccessful first flight</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"/>
+    <category term="launch"/>
+    <category term="astra_space"/>
+    <category term="astra_rocket"/>
+    <category term="astra_rocket_3_0"/>
+    <category term="test_flight"/>
+    <category term="lp_3_b"/>
+  </entry>
   <entry>
     <id>~space-schedule~event~landing~35</id>
     <title>Hayabusa-2 Sample Returns to Earth</title>
@@ -16,7 +31,23 @@
     <content type="text">When Hayabusa-2 flies past Earth in December 2020, it will release the capsule spinning at one revolution per three seconds. The capsule will re-enter the Earth's atmosphere at 12 km/s and it will deploy a radar-reflective parachute at an altitude of about 10 km, and eject its heat-shield, while transmitting a position beacon signal. The sample capsule will land at the Woomera Test Range in Australia.</content>
     <link rel="alternate" href="https://en.wikipedia.org/wiki/Hayabusa2"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg"/>
+    <category term="event"/>
     <category term="landing"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~9828537e-e017-4f77-96b6-49799d439363</id>
+    <title>Long March 5  | Chang'e 5</title>
+    <updated>2020-11-23T20:00:00Z</updated>
+    <published>2020-11-23T20:00:00Z</published>
+    <content type="text">Chang'e 5 is China's robotic sample return mission, which is set to bring back at lest 2 kg of lunar soils and rock samples. The probe will perform a soft landing on the Moon, then rendezvous and dock with the return module in lunar orbit and fly back to the Earth.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/9828537e-e017-4f77-96b6-49799d439363.json"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20201119165033.png"/>
+    <category term="launch"/>
+    <category term="china_aerospace_science_and_technology_corporation"/>
+    <category term="government"/>
+    <category term="long_march_5"/>
+    <category term="robotic_exploration"/>
+    <category term="wenchang"/>
   </entry>
   <entry>
     <id>~space-schedule~launch~space_x~145b2935-8b72-44b2-8bda-4c27887721fd</id>
@@ -26,11 +57,13 @@
     <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/145b2935-8b72-44b2-8bda-4c27887721fd.json"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201116063830.png"/>
+    <category term="launch"/>
+    <category term="space_x"/>
     <category term="commercial"/>
     <category term="falcon"/>
-    <category term="falcon 9 block 5"/>
+    <category term="falcon_9_block_5"/>
     <category term="communications"/>
-    <category term="space launch complex 40"/>
+    <category term="space_launch_complex_40"/>
   </entry>
   <entry>
     <id>~space-schedule~launch~space_x~56623c2d-7174-489c-b0ed-bf6f039b2412</id>
@@ -40,47 +73,13 @@
     <content type="text">The Sentinel-6A mission, also known as Jason Continuity of Service (Jason-CS), is a partnership between NASA, NOAA, ESA, and EUMETSAT. This mission consists of two parts: the first one continues the long-term global sea surface height data record begun by first Jason satellites in 1992. This part of the mission will provide altimeter data necessary for ocean climate monitoring, ocean modelling and numerical ocean prediction, weather forecasting, marine meteorology, coastal altimetry and modelling. A secondary objective of the mission is to collect high-resolution vertical profiles of temperature, using the Global Navigation Satellite System (GNSS) Radio-Occultation sounding technique, to assess temperature changes in the troposphere and stratosphere and to support numerical weather prediction.
 Sentinel-6A is to operate in a highly-inclined circular orbit at an altitude of 1336 km, with an operational mission lasting 5 years.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/56623c2d-7174-489c-b0ed-bf6f039b2412.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201119211105.jpeg"/>
+    <category term="launch"/>
+    <category term="space_x"/>
     <category term="commercial"/>
     <category term="falcon"/>
-    <category term="falcon 9 block 5"/>
-    <category term="earth science"/>
-    <category term="space launch complex 4e"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~rocket_lab_ltd~1514d38c-b1ed-4a4a-9878-04646f0b6b94</id>
-    <title>Electron | Return to Sender</title>
-    <updated>2020-11-20T01:44:00Z</updated>
-    <published>2020-11-20T01:44:00Z</published>
-    <content type="text">"Return to Sender" will loft 30 satellites to a sun-synchronous orbit at 500 km altitude for a range of customers, including TriSept, Unseenlabs, Swarm, Te Pūnaha Ātea - Auckland Space Institute, and global gaming software company Valve. The satellites span a range of operations, from TriSept’s tech demonstration of new tether systems designed to accelerate spacecraft reentry and reduce orbital debris, through to the next generation of maritime surveillance satellites for Unseenlabs, as well as communications satellites for Swarm. The mission will also deploy New Zealand’s first student-built satellite, the APSS-1 satellite for Te Pūnaha Ātea - Auckland Space Institute at The University of Auckland.&#xD;
-&#xD;
-The DRAGRACER mission will test the effectiveness of new tether technologies designed to accelerate spacecraft reentry and reduce orbital debris at the conclusion of space missions. TriSept has completed the integration of a pair of qualified Millennium Space Systems 6U small satellites, one featuring the tether drag device and one without. The controlled spacecraft should deorbit in approximately 45 days, while the second spacecraft is expected to remain in orbit for seven to nine years.&#xD;
-&#xD;
-BRO-2 and BRO-3 are the second and third satellites in French company Unseenlabs’ planned constellation of about 20 satellites dedicated to maritime surveillance. &#xD;
-&#xD;
-Swarm will launch the latest 24 1/4U SpaceBEE satellites to continue building out its planned constellation of 150 satellites to provide affordable satellite communications services to IoT devices in remote regions around the world. &#xD;
-&#xD;
-The student-built Waka Āmiorangi Aotearoa APSS-1 satellite is designed to monitor electrical activity in Earth’s upper atmosphere to test whether ionospheric disturbances can predict earthquakes.&#xD;
-&#xD;
-Extra payload on this flight is a 150 mm 3D printed Half-Life Gnome Chompski. Created for Valve Software's co-founder Gabe Newell by design studio Weta Workshop, it serves as an homage to the innovation and creativity of gamers worldwide, and also aims to test and qualify a novel 3D printing technique that could be employed for future spacecraft components. Gnome will remain attached to the Kick Stage and will burn up on reentry.&#xD;
-&#xD;
-Besides payloads, this flight will also serve as a test of Electron's reusability. Rocket Lab will attempt to bring Electron’s first stage back to Earth under a parachute system for a controlled water landing before collection by a recovery vessel.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/1514d38c-b1ed-4a4a-9878-04646f0b6b94.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/flight252016_image_20201102201340.jpg"/>
-    <category term="commercial"/>
-    <category term="electron"/>
-    <category term="electron"/>
-    <category term="dedicated rideshare"/>
-    <category term="rocket lab launch complex 1a"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~eva~188</id>
-    <title>Russian EVA-47</title>
-    <updated>2020-11-18T13:30:00Z</updated>
-    <published>2020-11-18T13:30:00Z</published>
-    <content type="text">Roscosmos cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov will exit the International Space Station through the Poisk airlock to perform a maintenance spacewalk.</content>
-    <link rel="alternate" href="https://youtu.be/21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-46_image_20201113081602.jpeg"/>
-    <category term="eva"/>
+    <category term="falcon_9_block_5"/>
+    <category term="earth_science"/>
+    <category term="space_launch_complex_4_e"/>
   </entry>
 </feed>

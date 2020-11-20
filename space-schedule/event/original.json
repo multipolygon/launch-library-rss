@@ -11,6 +11,7 @@
    "date_published": "2020-12-05T17:00:00Z",
    "date_modified": "2020-12-05T17:00:00Z",
    "tags": [
+    "event",
     "landing"
    ],
    "attachments": [
@@ -23,7 +24,7 @@
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "subtitle": "Landing"
+    "subtitle": "Landing | Event | Space Schedule"
    },
    "_id": {
     "parent": "35",
@@ -31,37 +32,6 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~eva~188",
-   "title": "Russian EVA-47",
-   "content_text": "Roscosmos cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov will exit the International Space Station through the Poisk airlock to perform a maintenance spacewalk.",
-   "url": "https://youtu.be/21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-46_image_20201113081602.jpeg",
-   "date_published": "2020-11-18T13:30:00Z",
-   "date_modified": "2020-11-18T13:30:00Z",
-   "tags": [
-    "eva"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-46_image_20201113081602.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "EVA"
-   },
-   "_id": {
-    "parent": "188",
-    "global": "~space-schedule~event~eva~188"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
    }
   }
  ],
@@ -73,7 +43,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 2,
+  "itemCount": 1,
   "pageNumber": 1,
   "pageCount": 1
  }

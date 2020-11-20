@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>China Aerospace Science and Technology Corporation | Launch | Space Schedule</title>
+    <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_technology_corporation%2Foriginal.json</link>
+    <language>en-us</language>
+    <copyright>© 2020 </copyright>
+    <pubDate>Mon, 23 Nov 2020 20:00:00 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Long March 5  | Chang'e 5</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/9828537e-e017-4f77-96b6-49799d439363.json</link>
+      <description>Chang'e 5 is China's robotic sample return mission, which is set to bring back at lest 2 kg of lunar soils and rock samples. The probe will perform a soft landing on the Moon, then rendezvous and dock with the return module in lunar orbit and fly back to the Earth.</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_technology_corporation</category>
+      <category>government</category>
+      <category>long_march_5</category>
+      <category>robotic_exploration</category>
+      <category>wenchang</category>
+      <guid isPermaLink="false">9828537e-e017-4f77-96b6-49799d439363</guid>
+      <pubDate>Mon, 23 Nov 2020 20:00:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20201119165033.png"/>
+    </item>
+  </channel>
+</rss>

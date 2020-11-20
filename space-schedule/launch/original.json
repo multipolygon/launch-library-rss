@@ -3,6 +3,78 @@
  "description": "All items in Space Schedule > Launch.",
  "items": [
   {
+   "id": "~space-schedule~launch~astra_space~ffaceda9-2d21-4c79-b854-3414b774d8af",
+   "title": "Astra Rocket 3.2 | Flight 2",
+   "content_text": "Astra will attempt a second test flight of Rocket 3.0 following an unsuccessful first flight",
+   "url": "https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg",
+   "date_published": "2020-12-07T19:00:00Z",
+   "date_modified": "2020-12-07T19:00:00Z",
+   "tags": [
+    "launch",
+    "astra_space",
+    "astra_rocket",
+    "astra_rocket_3_0",
+    "test_flight",
+    "lp_3_b"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Astra Space | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "ffaceda9-2d21-4c79-b854-3414b774d8af",
+    "global": "~space-schedule~launch~astra_space~ffaceda9-2d21-4c79-b854-3414b774d8af"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/astra_space/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~9828537e-e017-4f77-96b6-49799d439363",
+   "title": "Long March 5  | Chang'e 5",
+   "content_text": "Chang'e 5 is China's robotic sample return mission, which is set to bring back at lest 2 kg of lunar soils and rock samples. The probe will perform a soft landing on the Moon, then rendezvous and dock with the return module in lunar orbit and fly back to the Earth.",
+   "url": "https://ll.thespacedevs.com/2.0.0/launch/9828537e-e017-4f77-96b6-49799d439363.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20201119165033.png",
+   "date_published": "2020-11-23T20:00:00Z",
+   "date_modified": "2020-11-23T20:00:00Z",
+   "tags": [
+    "launch",
+    "china_aerospace_science_and_technology_corporation",
+    "government",
+    "long_march_5",
+    "robotic_exploration",
+    "wenchang"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/png",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20201119165033.png"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "9828537e-e017-4f77-96b6-49799d439363",
+    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~9828537e-e017-4f77-96b6-49799d439363"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~launch~space_x~145b2935-8b72-44b2-8bda-4c27887721fd",
    "title": "Falcon 9 Block 5 | Starlink 15",
    "content_text": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
@@ -11,11 +83,13 @@
    "date_published": "2020-11-22T03:17:00Z",
    "date_modified": "2020-11-22T03:17:00Z",
    "tags": [
+    "launch",
+    "space_x",
     "commercial",
     "falcon",
-    "falcon 9 block 5",
+    "falcon_9_block_5",
     "communications",
-    "space launch complex 40"
+    "space_launch_complex_40"
    ],
    "attachments": [
     {
@@ -27,7 +101,7 @@
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "subtitle": "SpaceX"
+    "subtitle": "SpaceX | Launch | Space Schedule"
    },
    "_id": {
     "parent": "145b2935-8b72-44b2-8bda-4c27887721fd",
@@ -42,27 +116,29 @@
    "title": "Falcon 9 Block 5 | Sentinel-6 Michael Freilich",
    "content_text": "The Sentinel-6A mission, also known as Jason Continuity of Service (Jason-CS), is a partnership between NASA, NOAA, ESA, and EUMETSAT. This mission consists of two parts: the first one continues the long-term global sea surface height data record begun by first Jason satellites in 1992. This part of the mission will provide altimeter data necessary for ocean climate monitoring, ocean modelling and numerical ocean prediction, weather forecasting, marine meteorology, coastal altimetry and modelling. A secondary objective of the mission is to collect high-resolution vertical profiles of temperature, using the Global Navigation Satellite System (GNSS) Radio-Occultation sounding technique, to assess temperature changes in the troposphere and stratosphere and to support numerical weather prediction.\nSentinel-6A is to operate in a highly-inclined circular orbit at an altitude of 1336 km, with an operational mission lasting 5 years.",
    "url": "https://ll.thespacedevs.com/2.0.0/launch/56623c2d-7174-489c-b0ed-bf6f039b2412.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201119211105.jpeg",
    "date_published": "2020-11-21T17:17:00Z",
    "date_modified": "2020-11-21T17:17:00Z",
    "tags": [
+    "launch",
+    "space_x",
     "commercial",
     "falcon",
-    "falcon 9 block 5",
-    "earth science",
-    "space launch complex 4e"
+    "falcon_9_block_5",
+    "earth_science",
+    "space_launch_complex_4_e"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201119211105.jpeg"
     }
    ],
    "_meta": {
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "subtitle": "SpaceX"
+    "subtitle": "SpaceX | Launch | Space Schedule"
    },
    "_id": {
     "parent": "56623c2d-7174-489c-b0ed-bf6f039b2412",
@@ -70,41 +146,6 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~launch~rocket_lab_ltd~1514d38c-b1ed-4a4a-9878-04646f0b6b94",
-   "title": "Electron | Return to Sender",
-   "content_text": "\"Return to Sender\" will loft 30 satellites to a sun-synchronous orbit at 500 km altitude for a range of customers, including TriSept, Unseenlabs, Swarm, Te Pūnaha Ātea - Auckland Space Institute, and global gaming software company Valve. The satellites span a range of operations, from TriSept’s tech demonstration of new tether systems designed to accelerate spacecraft reentry and reduce orbital debris, through to the next generation of maritime surveillance satellites for Unseenlabs, as well as communications satellites for Swarm. The mission will also deploy New Zealand’s first student-built satellite, the APSS-1 satellite for Te Pūnaha Ātea - Auckland Space Institute at The University of Auckland.\r\n\r\nThe DRAGRACER mission will test the effectiveness of new tether technologies designed to accelerate spacecraft reentry and reduce orbital debris at the conclusion of space missions. TriSept has completed the integration of a pair of qualified Millennium Space Systems 6U small satellites, one featuring the tether drag device and one without. The controlled spacecraft should deorbit in approximately 45 days, while the second spacecraft is expected to remain in orbit for seven to nine years.\r\n\r\nBRO-2 and BRO-3 are the second and third satellites in French company Unseenlabs’ planned constellation of about 20 satellites dedicated to maritime surveillance. \r\n\r\nSwarm will launch the latest 24 1/4U SpaceBEE satellites to continue building out its planned constellation of 150 satellites to provide affordable satellite communications services to IoT devices in remote regions around the world. \r\n\r\nThe student-built Waka Āmiorangi Aotearoa APSS-1 satellite is designed to monitor electrical activity in Earth’s upper atmosphere to test whether ionospheric disturbances can predict earthquakes.\r\n\r\nExtra payload on this flight is a 150 mm 3D printed Half-Life Gnome Chompski. Created for Valve Software's co-founder Gabe Newell by design studio Weta Workshop, it serves as an homage to the innovation and creativity of gamers worldwide, and also aims to test and qualify a novel 3D printing technique that could be employed for future spacecraft components. Gnome will remain attached to the Kick Stage and will burn up on reentry.\r\n\r\nBesides payloads, this flight will also serve as a test of Electron's reusability. Rocket Lab will attempt to bring Electron’s first stage back to Earth under a parachute system for a controlled water landing before collection by a recovery vessel.",
-   "url": "https://ll.thespacedevs.com/2.0.0/launch/1514d38c-b1ed-4a4a-9878-04646f0b6b94.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/flight252016_image_20201102201340.jpg",
-   "date_published": "2020-11-20T01:44:00Z",
-   "date_modified": "2020-11-20T01:44:00Z",
-   "tags": [
-    "commercial",
-    "electron",
-    "electron",
-    "dedicated rideshare",
-    "rocket lab launch complex 1a"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/flight252016_image_20201102201340.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Rocket Lab Ltd"
-   },
-   "_id": {
-    "parent": "1514d38c-b1ed-4a4a-9878-04646f0b6b94",
-    "global": "~space-schedule~launch~rocket_lab_ltd~1514d38c-b1ed-4a4a-9878-04646f0b6b94"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/rocket_lab_ltd/original.json"
    }
   }
  ],
@@ -116,7 +157,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 3,
+  "itemCount": 4,
   "pageNumber": 1,
   "pageCount": 1
  }

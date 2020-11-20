@@ -14,19 +14,11 @@
       <title>Hayabusa-2 Sample Returns to Earth</title>
       <link>https://en.wikipedia.org/wiki/Hayabusa2</link>
       <description>When Hayabusa-2 flies past Earth in December 2020, it will release the capsule spinning at one revolution per three seconds. The capsule will re-enter the Earth's atmosphere at 12 km/s and it will deploy a radar-reflective parachute at an altitude of about 10 km, and eject its heat-shield, while transmitting a position beacon signal. The sample capsule will land at the Woomera Test Range in Australia.</description>
+      <category>event</category>
       <category>landing</category>
       <guid isPermaLink="false">~space-schedule~event~landing~35</guid>
       <pubDate>Sat, 05 Dec 2020 17:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg"/>
-    </item>
-    <item>
-      <title>Russian EVA-47</title>
-      <link>https://youtu.be/21X5lGlDOfg</link>
-      <description>Roscosmos cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov will exit the International Space Station through the Poisk airlock to perform a maintenance spacewalk.</description>
-      <category>eva</category>
-      <guid isPermaLink="false">~space-schedule~event~eva~188</guid>
-      <pubDate>Wed, 18 Nov 2020 13:30:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-46_image_20201113081602.jpeg"/>
     </item>
   </channel>
 </rss>
