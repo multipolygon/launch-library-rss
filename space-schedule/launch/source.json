@@ -19,7 +19,7 @@
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,
-            "probability": -1,
+            "probability": 80,
             "holdreason": "",
             "failreason": "",
             "hashtag": "#SeeingTheSeas",
@@ -77,8 +77,8 @@
                 "total_launch_count": 15
             },
             "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201119211105.jpeg",
-            "infographic": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201121073649.jpeg",
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20201120193858.png",
             "program": []
         },
         {
@@ -91,9 +91,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2020-11-22T03:17:00Z",
-            "window_end": "2020-11-22T03:17:00Z",
-            "window_start": "2020-11-22T03:17:00Z",
+            "net": "2020-11-23T02:56:00Z",
+            "window_end": "2020-11-23T02:56:00Z",
+            "window_start": "2020-11-23T02:56:00Z",
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,
@@ -156,7 +156,7 @@
             },
             "webcast_live": false,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201116063830.png",
-            "infographic": null,
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20201120194911.png",
             "program": []
         },
         {
