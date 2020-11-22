@@ -54,21 +54,4 @@
     <category term="communications"/>
     <category term="space_launch_complex_40"/>
   </entry>
-  <entry>
-    <id>~space-schedule~launch~space_x~56623c2d-7174-489c-b0ed-bf6f039b2412</id>
-    <title>Falcon 9 Block 5 | Sentinel-6 Michael Freilich</title>
-    <updated>2020-11-21T17:17:00Z</updated>
-    <published>2020-11-21T17:17:00Z</published>
-    <content type="text">The Sentinel-6A mission, also known as Jason Continuity of Service (Jason-CS), is a partnership between NASA, NOAA, ESA, and EUMETSAT. This mission consists of two parts: the first one continues the long-term global sea surface height data record begun by first Jason satellites in 1992. This part of the mission will provide altimeter data necessary for ocean climate monitoring, ocean modelling and numerical ocean prediction, weather forecasting, marine meteorology, coastal altimetry and modelling. A secondary objective of the mission is to collect high-resolution vertical profiles of temperature, using the Global Navigation Satellite System (GNSS) Radio-Occultation sounding technique, to assess temperature changes in the troposphere and stratosphere and to support numerical weather prediction.
-Sentinel-6A is to operate in a highly-inclined circular orbit at an altitude of 1336 km, with an operational mission lasting 5 years.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/56623c2d-7174-489c-b0ed-bf6f039b2412.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201121073649.jpeg"/>
-    <category term="launch"/>
-    <category term="space_x"/>
-    <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon_9_block_5"/>
-    <category term="earth_science"/>
-    <category term="space_launch_complex_4_e"/>
-  </entry>
 </feed>

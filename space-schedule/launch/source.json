@@ -1,86 +1,8 @@
 {
-    "count": 4,
+    "count": 3,
     "next": null,
     "previous": null,
     "results": [
-        {
-            "id": "56623c2d-7174-489c-b0ed-bf6f039b2412",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/56623c2d-7174-489c-b0ed-bf6f039b2412.json",
-            "launch_library_id": 1390,
-            "slug": "falcon-9-block-5-sentinel-6-michael-freilich",
-            "name": "Falcon 9 Block 5 | Sentinel-6 Michael Freilich",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2020-11-21T17:17:00Z",
-            "window_end": "2020-11-21T17:17:00Z",
-            "window_start": "2020-11-21T17:17:00Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": 80,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": "#SeeingTheSeas",
-            "launch_service_provider": {
-                "id": 121,
-                "url": "https://ll.thespacedevs.com/2.0.0/agencies/121.json",
-                "name": "SpaceX",
-                "type": "Commercial"
-            },
-            "rocket": {
-                "id": 164,
-                "configuration": {
-                    "id": 164,
-                    "launch_library_id": 188,
-                    "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/164.json",
-                    "name": "Falcon 9 Block 5",
-                    "family": "Falcon",
-                    "full_name": "Falcon 9 Block 5",
-                    "variant": "Block 5"
-                }
-            },
-            "mission": {
-                "id": 910,
-                "launch_library_id": 619,
-                "name": "Sentinel-6A (Jason-CS)",
-                "description": "The Sentinel-6A mission, also known as Jason Continuity of Service (Jason-CS), is a partnership between NASA, NOAA, ESA, and EUMETSAT. This mission consists of two parts: the first one continues the long-term global sea surface height data record begun by first Jason satellites in 1992. This part of the mission will provide altimeter data necessary for ocean climate monitoring, ocean modelling and numerical ocean prediction, weather forecasting, marine meteorology, coastal altimetry and modelling. A secondary objective of the mission is to collect high-resolution vertical profiles of temperature, using the Global Navigation Satellite System (GNSS) Radio-Occultation sounding technique, to assess temperature changes in the troposphere and stratosphere and to support numerical weather prediction.\nSentinel-6A is to operate in a highly-inclined circular orbit at an altitude of 1336 km, with an operational mission lasting 5 years.",
-                "launch_designator": null,
-                "type": "Earth Science",
-                "orbit": {
-                    "id": 8,
-                    "name": "Low Earth Orbit",
-                    "abbrev": "LEO"
-                }
-            },
-            "pad": {
-                "id": 16,
-                "url": "https://ll.thespacedevs.com/2.0.0/pad/16.json",
-                "agency_id": null,
-                "name": "Space Launch Complex 4E",
-                "info_url": null,
-                "wiki_url": "",
-                "map_url": "http://maps.google.com/maps?q=34.632+N,+120.611+W",
-                "latitude": "34.632",
-                "longitude": "-120.611",
-                "location": {
-                    "id": 11,
-                    "url": "https://ll.thespacedevs.com/2.0.0/location/11.json",
-                    "name": "Vandenberg AFB, CA, USA",
-                    "country_code": "USA",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_11_20200803142416.jpg",
-                    "total_launch_count": 82,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_16_20200803143532.jpg",
-                "total_launch_count": 15
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201121073649.jpeg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20201120193858.png",
-            "program": []
-        },
         {
             "id": "145b2935-8b72-44b2-8bda-4c27887721fd",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/145b2935-8b72-44b2-8bda-4c27887721fd.json",
@@ -97,7 +19,7 @@
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,
-            "probability": null,
+            "probability": 60,
             "holdreason": "",
             "failreason": "",
             "hashtag": null,
