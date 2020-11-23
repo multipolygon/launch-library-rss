@@ -7,9 +7,19 @@
     <description>All items in Space Schedule &gt; Event.</description>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
-    <pubDate>Sat, 05 Dec 2020 17:00:00 GMT</pubDate>
+    <pubDate>Tue, 15 Dec 2020 00:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Chang'e 5 Sample Returns to Earth</title>
+      <link>https://en.wikipedia.org/wiki/Chang%27e_5</link>
+      <description>The Chang'e 5 sample-return capsule will enter the Earth's atmosphere and land in Dorbod Banner, Inner Mongolia.</description>
+      <category>event</category>
+      <category>landing</category>
+      <guid isPermaLink="false">~space-schedule~event~landing~192</guid>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"/>
+    </item>
     <item>
       <title>Hayabusa-2 Sample Returns to Earth</title>
       <link>https://en.wikipedia.org/wiki/Hayabusa2</link>
@@ -19,6 +29,16 @@
       <guid isPermaLink="false">~space-schedule~event~landing~35</guid>
       <pubDate>Sat, 05 Dec 2020 17:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg"/>
+    </item>
+    <item>
+      <title>Chang'e 5 Lunar Landing</title>
+      <link>https://en.wikipedia.org/wiki/Chang%27e_5</link>
+      <description>The Chinese Chang'e 5 spacecraft is scheduled to land in the Mons Rümker region of Oceanus Procellarum, located in the northwest region of the near side of the Moon. The lander will collect 2 kg of samples which will then be placed in an ascent vehicle and brought back to Earth.</description>
+      <category>event</category>
+      <category>moon_landing</category>
+      <guid isPermaLink="false">~space-schedule~event~moon_landing~191</guid>
+      <pubDate>Mon, 30 Nov 2020 20:30:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_l_image_20201122181736.png"/>
     </item>
   </channel>
 </rss>

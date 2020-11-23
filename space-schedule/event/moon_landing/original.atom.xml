@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Moon Landing | Event | Space Schedule</title>
+  <id>https://launch-library-rss.multipolygon.net/space-schedule/event/moon_landing/original.atom.xml</id>
+  <updated>2020-11-30T20:30:00Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/moon_landing/original.atom.xml"/>
+  <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/moon_landing/original.json"/>
+  <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fmoon_landing%2Foriginal.json"/>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
+  <entry>
+    <id>191</id>
+    <title>Chang'e 5 Lunar Landing</title>
+    <updated>2020-11-30T20:30:00Z</updated>
+    <published>2020-11-30T20:30:00Z</published>
+    <content type="text">The Chinese Chang'e 5 spacecraft is scheduled to land in the Mons Rümker region of Oceanus Procellarum, located in the northwest region of the near side of the Moon. The lander will collect 2 kg of samples which will then be placed in an ascent vehicle and brought back to Earth.</content>
+    <link rel="alternate" href="https://en.wikipedia.org/wiki/Chang%27e_5"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_l_image_20201122181736.png"/>
+    <category term="event"/>
+    <category term="moon_landing"/>
+  </entry>
+</feed>

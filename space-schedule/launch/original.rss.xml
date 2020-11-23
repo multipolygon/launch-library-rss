@@ -25,20 +25,6 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"/>
     </item>
     <item>
-      <title>Long March 5  | Chang'e 5</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/9828537e-e017-4f77-96b6-49799d439363.json</link>
-      <description>Chang'e 5 is China's robotic sample return mission, which is set to bring back at lest 2 kg of lunar soils and rock samples. The probe will perform a soft landing on the Moon, then rendezvous and dock with the return module in lunar orbit and fly back to the Earth.</description>
-      <category>launch</category>
-      <category>china_aerospace_science_and_technology_corporation</category>
-      <category>government</category>
-      <category>long_march_5</category>
-      <category>robotic_exploration</category>
-      <category>wenchang</category>
-      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~9828537e-e017-4f77-96b6-49799d439363</guid>
-      <pubDate>Mon, 23 Nov 2020 20:00:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20201119165033.png"/>
-    </item>
-    <item>
       <title>Falcon 9 Block 5 | Starlink 15</title>
       <link>https://ll.thespacedevs.com/2.0.0/launch/145b2935-8b72-44b2-8bda-4c27887721fd.json</link>
       <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
@@ -50,8 +36,23 @@
       <category>communications</category>
       <category>space_launch_complex_40</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~145b2935-8b72-44b2-8bda-4c27887721fd</guid>
-      <pubDate>Mon, 23 Nov 2020 02:56:00 GMT</pubDate>
+      <pubDate>Tue, 24 Nov 2020 02:34:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201116063830.png"/>
+    </item>
+    <item>
+      <title>Long March 5  | Chang'e 5</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/9828537e-e017-4f77-96b6-49799d439363.json</link>
+      <description>Chang'e 5 is China's robotic lunar sample return mission, which is set to bring back at least 2 kg of lunar soils and rock samples. The probe will perform a soft landing on the Moon, then rendezvous and dock with the return module in lunar orbit and fly back to Earth.</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_technology_corporation</category>
+      <category>government</category>
+      <category>long_march_5</category>
+      <category>robotic_exploration</category>
+      <category>wenchang</category>
+      <category>object_object</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~9828537e-e017-4f77-96b6-49799d439363</guid>
+      <pubDate>Mon, 23 Nov 2020 20:25:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20201119165033.png"/>
     </item>
   </channel>
 </rss>

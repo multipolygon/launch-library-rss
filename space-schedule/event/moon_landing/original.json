@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/event/moon_landing/original.json",
+ "title": "Moon Landing | Event | Space Schedule",
+ "items": [
+  {
+   "id": "191",
+   "title": "Chang'e 5 Lunar Landing",
+   "content_text": "The Chinese Chang'e 5 spacecraft is scheduled to land in the Mons Rümker region of Oceanus Procellarum, located in the northwest region of the near side of the Moon. The lander will collect 2 kg of samples which will then be placed in an ascent vehicle and brought back to Earth.",
+   "url": "https://en.wikipedia.org/wiki/Chang%27e_5",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_l_image_20201122181736.png",
+   "date_published": "2020-11-30T20:30:00Z",
+   "date_modified": "2020-11-30T20:30:00Z",
+   "tags": [
+    "event",
+    "moon_landing"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/png",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_l_image_20201122181736.png"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1
+   }
+  }
+ ],
+ "_feed_url": {
+  "rss": "https://launch-library-rss.multipolygon.net/space-schedule/event/moon_landing/original.rss.xml",
+  "atom": "https://launch-library-rss.multipolygon.net/space-schedule/event/moon_landing/original.atom.xml"
+ },
+ "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fmoon_landing%2Foriginal.json",
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ }
+}
