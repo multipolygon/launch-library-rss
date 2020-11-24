@@ -26,12 +26,12 @@
                     "slug": "long-march-5-change-5",
                     "name": "Long March 5  | Chang'e 5",
                     "status": {
-                        "id": 1,
-                        "name": "Go"
+                        "id": 3,
+                        "name": "Success"
                     },
-                    "net": "2020-11-23T20:25:00Z",
-                    "window_end": "2020-11-23T21:15:00Z",
-                    "window_start": "2020-11-23T20:25:00Z",
+                    "net": "2020-11-23T20:30:21Z",
+                    "window_end": "2020-11-23T21:15:07Z",
+                    "window_start": "2020-11-23T20:30:12Z",
                     "inhold": false,
                     "tbdtime": false,
                     "tbddate": false,
@@ -86,13 +86,13 @@
                             "name": "Wenchang Satellite Launch Center, People's Republic of China",
                             "country_code": "CHN",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_8_20200803142445.jpg",
-                            "total_launch_count": 8,
+                            "total_launch_count": 9,
                             "total_landing_count": 0
                         },
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_78_20200803143548.jpg",
-                        "total_launch_count": 8
+                        "total_launch_count": 9
                     },
-                    "webcast_live": false,
+                    "webcast_live": true,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20201119165033.png",
                     "infographic": null,
                     "program": [
@@ -185,12 +185,12 @@
                     "slug": "long-march-5-change-5",
                     "name": "Long March 5  | Chang'e 5",
                     "status": {
-                        "id": 1,
-                        "name": "Go"
+                        "id": 3,
+                        "name": "Success"
                     },
-                    "net": "2020-11-23T20:25:00Z",
-                    "window_end": "2020-11-23T21:15:00Z",
-                    "window_start": "2020-11-23T20:25:00Z",
+                    "net": "2020-11-23T20:30:21Z",
+                    "window_end": "2020-11-23T21:15:07Z",
+                    "window_start": "2020-11-23T20:30:12Z",
                     "inhold": false,
                     "tbdtime": false,
                     "tbddate": false,
@@ -245,13 +245,13 @@
                             "name": "Wenchang Satellite Launch Center, People's Republic of China",
                             "country_code": "CHN",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_8_20200803142445.jpg",
-                            "total_launch_count": 8,
+                            "total_launch_count": 9,
                             "total_landing_count": 0
                         },
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_78_20200803143548.jpg",
-                        "total_launch_count": 8
+                        "total_launch_count": 9
                     },
-                    "webcast_live": false,
+                    "webcast_live": true,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20201119165033.png",
                     "infographic": null,
                     "program": [
@@ -503,11 +503,11 @@
                             "name": "Wenchang Satellite Launch Center, People's Republic of China",
                             "country_code": "CHN",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_8_20200803142445.jpg",
-                            "total_launch_count": 8,
+                            "total_launch_count": 9,
                             "total_landing_count": 0
                         },
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_78_20200803143548.jpg",
-                        "total_launch_count": 8
+                        "total_launch_count": 9
                     },
                     "webcast_live": false,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25205_image_20191228095452.jpg",
@@ -701,11 +701,11 @@
                             "name": "Wenchang Satellite Launch Center, People's Republic of China",
                             "country_code": "CHN",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_8_20200803142445.jpg",
-                            "total_launch_count": 8,
+                            "total_launch_count": 9,
                             "total_landing_count": 0
                         },
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_78_20200803143548.jpg",
-                        "total_launch_count": 8
+                        "total_launch_count": 9
                     },
                     "webcast_live": false,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25205_image_20191228095452.jpg",
