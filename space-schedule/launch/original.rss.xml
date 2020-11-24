@@ -34,10 +34,25 @@
       <category>falcon</category>
       <category>falcon_9_block_5</category>
       <category>launch_complex_39_a</category>
-      <category>object_object</category>
+      <category>commercial_resupply_services</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~06dfcb34-0b76-4fbc-9046-09ab66db7b83</guid>
       <pubDate>Sat, 05 Dec 2020 16:39:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
+    </item>
+    <item>
+      <title>H-IIA | JDRS-1</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/3f8dd709-4231-49ca-aa9f-694a2c0c107f.json</link>
+      <description>JDRS-1 is a Japanese Data Relay Satellite.</description>
+      <category>launch</category>
+      <category>mitsubishi_heavy_industries</category>
+      <category>commercial</category>
+      <category>h_ii</category>
+      <category>h_iia</category>
+      <category>communications</category>
+      <category>yoshinobu_launch_complex</category>
+      <guid isPermaLink="false">~space-schedule~launch~mitsubishi_heavy_industries~3f8dd709-4231-49ca-aa9f-694a2c0c107f</guid>
+      <pubDate>Sun, 29 Nov 2020 07:15:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-ii_image_20190224012325.jpeg"/>
     </item>
     <item>
       <title>Falcon 9 Block 5 | Starlink 15</title>

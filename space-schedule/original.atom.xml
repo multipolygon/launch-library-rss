@@ -59,7 +59,7 @@
     <category term="falcon"/>
     <category term="falcon_9_block_5"/>
     <category term="launch_complex_39_a"/>
-    <category term="object_object"/>
+    <category term="commercial_resupply_services"/>
   </entry>
   <entry>
     <id>~space-schedule~event~moon_landing~191</id>
@@ -71,6 +71,22 @@
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_l_image_20201122181736.png"/>
     <category term="event"/>
     <category term="moon_landing"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~mitsubishi_heavy_industries~3f8dd709-4231-49ca-aa9f-694a2c0c107f</id>
+    <title>H-IIA | JDRS-1</title>
+    <updated>2020-11-29T07:15:00Z</updated>
+    <published>2020-11-29T07:15:00Z</published>
+    <content type="text">JDRS-1 is a Japanese Data Relay Satellite.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/3f8dd709-4231-49ca-aa9f-694a2c0c107f.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-ii_image_20190224012325.jpeg"/>
+    <category term="launch"/>
+    <category term="mitsubishi_heavy_industries"/>
+    <category term="commercial"/>
+    <category term="h_ii"/>
+    <category term="h_iia"/>
+    <category term="communications"/>
+    <category term="yoshinobu_launch_complex"/>
   </entry>
   <entry>
     <id>~space-schedule~launch~space_x~145b2935-8b72-44b2-8bda-4c27887721fd</id>
@@ -87,5 +103,16 @@
     <category term="falcon_9_block_5"/>
     <category term="communications"/>
     <category term="space_launch_complex_40"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~static_fire~193</id>
+    <title>Starship SN8 Static Fire</title>
+    <updated>2020-11-24T23:00:00Z</updated>
+    <published>2020-11-24T23:00:00Z</published>
+    <content type="text">SN8 is scheduled to perform a static fire of its Raptor engines.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201124165142.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
   </entry>
 </feed>

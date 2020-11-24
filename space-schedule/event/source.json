@@ -1,8 +1,48 @@
 {
-    "count": 9,
+    "count": 10,
     "next": null,
     "previous": null,
     "results": [
+        {
+            "id": 193,
+            "url": "https://ll.thespacedevs.com/2.0.0/event/193.json",
+            "slug": "starship-sn8-static-fire-4",
+            "name": "Starship SN8 Static Fire",
+            "type": {
+                "id": 5,
+                "name": "Static Fire"
+            },
+            "description": "SN8 is scheduled to perform a static fire of its Raptor engines.",
+            "location": "Boca Chica, Texas",
+            "news_url": null,
+            "video_url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
+            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201124165142.jpeg",
+            "date": "2020-11-24T23:00:00Z",
+            "launches": [],
+            "expeditions": [],
+            "spacestations": [],
+            "program": [
+                {
+                    "id": 1,
+                    "url": "https://ll.thespacedevs.com/2.0.0/program/1.json",
+                    "name": "SpaceX Starship",
+                    "description": "The SpaceX Starship is a fully reusable super heavy-lift launch vehicle under development by SpaceX since 2012, as a self-funded private spaceflight project.  The second stage of the Starship — is designed as a long-duration cargo and passenger-carrying spacecraft. It is expected to be initially used without any booster stage at all, as part of an extensive development program to prove out launch-and-landing and iterate on a variety of design details, particularly with respect to the vehicle's atmospheric reentry.",
+                    "agencies": [
+                        {
+                            "id": 121,
+                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/121.json",
+                            "name": "SpaceX",
+                            "type": "Commercial"
+                        }
+                    ],
+                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/starship_program_20200820174737.jpeg",
+                    "start_date": "2019-03-01T05:00:00Z",
+                    "end_date": null,
+                    "info_url": "https://www.spacex.com/vehicles/starship/",
+                    "wiki_url": "https://en.wikipedia.org/wiki/SpaceX_Starship"
+                }
+            ]
+        },
         {
             "id": 191,
             "url": "https://ll.thespacedevs.com/2.0.0/event/191.json",
