@@ -50,7 +50,7 @@ export default function () {
                     (item.mission || {}).type,
                     (item.pad || {}).name,
                     (item.pad || {}).country_code,
-                    ...(item.program || []),
+                    ...(item.program || []).map(i => i.name),
                 ])
                     .filter(Boolean)
                     .map((i) => _.snakeCase(i)),
