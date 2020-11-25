@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/event/release/original.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Release | Event | Space Schedule</title>
+    <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Frelease%2Foriginal.json</link>
+    <language>en-us</language>
+    <copyright>© 2020 </copyright>
+    <pubDate>Wed, 16 Dec 2020 14:35:00 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>NG-14 Cygnus Release &amp; Reentry</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The Northrop Grumman NG-14 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</description>
+      <category>event</category>
+      <category>release</category>
+      <guid isPermaLink="false">196</guid>
+      <pubDate>Wed, 16 Dec 2020 14:35:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg"/>
+    </item>
+  </channel>
+</rss>

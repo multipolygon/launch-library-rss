@@ -23,20 +23,4 @@
     <category term="launch_complex_39_a"/>
     <category term="commercial_resupply_services"/>
   </entry>
-  <entry>
-    <id>145b2935-8b72-44b2-8bda-4c27887721fd</id>
-    <title>Falcon 9 Block 5 | Starlink 15</title>
-    <updated>2020-11-25T02:13:00Z</updated>
-    <published>2020-11-25T02:13:00Z</published>
-    <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/145b2935-8b72-44b2-8bda-4c27887721fd.json"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201116063830.png"/>
-    <category term="launch"/>
-    <category term="space_x"/>
-    <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon_9_block_5"/>
-    <category term="communications"/>
-    <category term="space_launch_complex_40"/>
-  </entry>
 </feed>

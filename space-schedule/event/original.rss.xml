@@ -7,9 +7,19 @@
     <description>All items in Space Schedule &gt; Event.</description>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
-    <pubDate>Tue, 15 Dec 2020 00:00:00 GMT</pubDate>
+    <pubDate>Wed, 16 Dec 2020 14:35:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>NG-14 Cygnus Release &amp; Reentry</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The Northrop Grumman NG-14 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</description>
+      <category>event</category>
+      <category>release</category>
+      <guid isPermaLink="false">~space-schedule~event~release~196</guid>
+      <pubDate>Wed, 16 Dec 2020 14:35:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg"/>
+    </item>
     <item>
       <title>Chang'e 5 Sample Returns to Earth</title>
       <link>https://en.wikipedia.org/wiki/Chang%27e_5</link>
@@ -21,6 +31,16 @@
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"/>
     </item>
     <item>
+      <title>CRS-21 Dragon Docking</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>Following its launch atop a Falcon 9, the CRS-21 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.</description>
+      <category>event</category>
+      <category>docking</category>
+      <guid isPermaLink="false">~space-schedule~event~docking~195</guid>
+      <pubDate>Sun, 06 Dec 2020 11:30:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_d_image_20201124230032.jpeg"/>
+    </item>
+    <item>
       <title>Hayabusa-2 Sample Returns to Earth</title>
       <link>https://en.wikipedia.org/wiki/Hayabusa2</link>
       <description>When Hayabusa-2 flies past Earth in December 2020, it will release the capsule spinning at one revolution per three seconds. The capsule will re-enter the Earth's atmosphere at 12 km/s and it will deploy a radar-reflective parachute at an altitude of about 10 km, and eject its heat-shield, while transmitting a position beacon signal. The sample capsule will land at the Woomera Test Range in Australia.</description>
@@ -29,6 +49,16 @@
       <guid isPermaLink="false">~space-schedule~event~landing~35</guid>
       <pubDate>Sat, 05 Dec 2020 17:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg"/>
+    </item>
+    <item>
+      <title>CRS-21 Pre-Launch News Conference</title>
+      <link>https://youtu.be/21X5lGlDOfg</link>
+      <description>Representatives from NASA’s International Space Station Program, SpaceX, and the U.S. Air Force’s 45th Space Wing will host a Prelaunch news conference detailing information about the CRS-21 Mission.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~194</guid>
+      <pubDate>Fri, 04 Dec 2020 20:00:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_pre-laun_image_20201124225737.png"/>
     </item>
     <item>
       <title>Chang'e 5 Lunar Landing</title>
@@ -43,11 +73,11 @@
     <item>
       <title>Starship SN8 Static Fire</title>
       <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SN8 is scheduled to perform a static fire of its Raptor engines.</description>
+      <description>SN8 successfully performed a static fire of its Raptor engines.</description>
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">~space-schedule~event~static_fire~193</guid>
-      <pubDate>Tue, 24 Nov 2020 23:00:00 GMT</pubDate>
+      <pubDate>Tue, 24 Nov 2020 23:23:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201124165142.jpeg"/>
     </item>
   </channel>

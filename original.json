@@ -3,6 +3,39 @@
  "description": "All items.",
  "items": [
   {
+   "id": "~space-schedule~event~release~196",
+   "title": "NG-14 Cygnus Release & Reentry",
+   "content_text": "The Northrop Grumman NG-14 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg",
+   "date_published": "2020-12-16T14:35:00Z",
+   "date_modified": "2020-12-16T14:35:00Z",
+   "tags": [
+    "event",
+    "release"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Release | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "196",
+    "global": "~space-schedule~event~release~196"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/release/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~landing~192",
    "title": "Chang'e 5 Sample Returns to Earth",
    "content_text": "The Chang'e 5 sample-return capsule will enter the Earth's atmosphere and land in Dorbod Banner, Inner Mongolia.",
@@ -68,6 +101,39 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/astra_space/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~docking~195",
+   "title": "CRS-21 Dragon Docking",
+   "content_text": "Following its launch atop a Falcon 9, the CRS-21 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_d_image_20201124230032.jpeg",
+   "date_published": "2020-12-06T11:30:00Z",
+   "date_modified": "2020-12-06T11:30:00Z",
+   "tags": [
+    "event",
+    "docking"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_d_image_20201124230032.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Docking | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "195",
+    "global": "~space-schedule~event~docking~195"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
    }
   },
   {
@@ -140,6 +206,38 @@
    }
   },
   {
+   "id": "~space-schedule~event~press_event~194",
+   "title": "CRS-21 Pre-Launch News Conference",
+   "content_text": "Representatives from NASA’s International Space Station Program, SpaceX, and the U.S. Air Force’s 45th Space Wing will host a Prelaunch news conference detailing information about the CRS-21 Mission.",
+   "url": "https://youtu.be/21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_pre-laun_image_20201124225737.png",
+   "date_published": "2020-12-04T20:00:00Z",
+   "date_modified": "2020-12-04T20:00:00Z",
+   "tags": [
+    "event",
+    "press_event"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/png",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_pre-laun_image_20201124225737.png"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Press Event | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "194",
+    "global": "~space-schedule~event~press_event~194"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~moon_landing~191",
    "title": "Chang'e 5 Lunar Landing",
    "content_text": "The Chinese Chang'e 5 spacecraft is scheduled to land in the Mons Rümker region of Oceanus Procellarum, located in the northwest region of the near side of the Moon. The lander will collect 2 kg of samples which will then be placed in an ascent vehicle and brought back to Earth.",
@@ -209,50 +307,13 @@
    }
   },
   {
-   "id": "~space-schedule~launch~space_x~145b2935-8b72-44b2-8bda-4c27887721fd",
-   "title": "Falcon 9 Block 5 | Starlink 15",
-   "content_text": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-   "url": "https://ll.thespacedevs.com/2.0.0/launch/145b2935-8b72-44b2-8bda-4c27887721fd.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201116063830.png",
-   "date_published": "2020-11-25T02:13:00Z",
-   "date_modified": "2020-11-25T02:13:00Z",
-   "tags": [
-    "launch",
-    "space_x",
-    "commercial",
-    "falcon",
-    "falcon_9_block_5",
-    "communications",
-    "space_launch_complex_40"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201116063830.png"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "SpaceX | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "145b2935-8b72-44b2-8bda-4c27887721fd",
-    "global": "~space-schedule~launch~space_x~145b2935-8b72-44b2-8bda-4c27887721fd"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~event~static_fire~193",
    "title": "Starship SN8 Static Fire",
-   "content_text": "SN8 is scheduled to perform a static fire of its Raptor engines.",
+   "content_text": "SN8 successfully performed a static fire of its Raptor engines.",
    "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201124165142.jpeg",
-   "date_published": "2020-11-24T23:00:00Z",
-   "date_modified": "2020-11-24T23:00:00Z",
+   "date_published": "2020-11-24T23:23:00Z",
+   "date_modified": "2020-11-24T23:23:00Z",
    "tags": [
     "event",
     "static_fire"
@@ -287,7 +348,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 8,
+  "itemCount": 10,
   "pageNumber": 1,
   "pageCount": 1
  }

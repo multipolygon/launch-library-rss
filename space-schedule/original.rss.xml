@@ -7,9 +7,19 @@
     <description>All items in subcategories for category.</description>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
-    <pubDate>Tue, 15 Dec 2020 00:00:00 GMT</pubDate>
+    <pubDate>Wed, 16 Dec 2020 14:35:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>NG-14 Cygnus Release &amp; Reentry</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The Northrop Grumman NG-14 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</description>
+      <category>event</category>
+      <category>release</category>
+      <guid isPermaLink="false">~space-schedule~event~release~196</guid>
+      <pubDate>Wed, 16 Dec 2020 14:35:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg"/>
+    </item>
     <item>
       <title>Chang'e 5 Sample Returns to Earth</title>
       <link>https://en.wikipedia.org/wiki/Chang%27e_5</link>
@@ -33,6 +43,16 @@
       <guid isPermaLink="false">~space-schedule~launch~astra_space~ffaceda9-2d21-4c79-b854-3414b774d8af</guid>
       <pubDate>Mon, 07 Dec 2020 19:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"/>
+    </item>
+    <item>
+      <title>CRS-21 Dragon Docking</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>Following its launch atop a Falcon 9, the CRS-21 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.</description>
+      <category>event</category>
+      <category>docking</category>
+      <guid isPermaLink="false">~space-schedule~event~docking~195</guid>
+      <pubDate>Sun, 06 Dec 2020 11:30:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_d_image_20201124230032.jpeg"/>
     </item>
     <item>
       <title>Hayabusa-2 Sample Returns to Earth</title>
@@ -60,6 +80,16 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
     </item>
     <item>
+      <title>CRS-21 Pre-Launch News Conference</title>
+      <link>https://youtu.be/21X5lGlDOfg</link>
+      <description>Representatives from NASA’s International Space Station Program, SpaceX, and the U.S. Air Force’s 45th Space Wing will host a Prelaunch news conference detailing information about the CRS-21 Mission.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~194</guid>
+      <pubDate>Fri, 04 Dec 2020 20:00:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_pre-laun_image_20201124225737.png"/>
+    </item>
+    <item>
       <title>Chang'e 5 Lunar Landing</title>
       <link>https://en.wikipedia.org/wiki/Chang%27e_5</link>
       <description>The Chinese Chang'e 5 spacecraft is scheduled to land in the Mons Rümker region of Oceanus Procellarum, located in the northwest region of the near side of the Moon. The lander will collect 2 kg of samples which will then be placed in an ascent vehicle and brought back to Earth.</description>
@@ -85,28 +115,13 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-ii_image_20190224012325.jpeg"/>
     </item>
     <item>
-      <title>Falcon 9 Block 5 | Starlink 15</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/145b2935-8b72-44b2-8bda-4c27887721fd.json</link>
-      <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
-      <category>launch</category>
-      <category>space_x</category>
-      <category>commercial</category>
-      <category>falcon</category>
-      <category>falcon_9_block_5</category>
-      <category>communications</category>
-      <category>space_launch_complex_40</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~145b2935-8b72-44b2-8bda-4c27887721fd</guid>
-      <pubDate>Wed, 25 Nov 2020 02:13:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201116063830.png"/>
-    </item>
-    <item>
       <title>Starship SN8 Static Fire</title>
       <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SN8 is scheduled to perform a static fire of its Raptor engines.</description>
+      <description>SN8 successfully performed a static fire of its Raptor engines.</description>
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">~space-schedule~event~static_fire~193</guid>
-      <pubDate>Tue, 24 Nov 2020 23:00:00 GMT</pubDate>
+      <pubDate>Tue, 24 Nov 2020 23:23:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201124165142.jpeg"/>
     </item>
   </channel>
