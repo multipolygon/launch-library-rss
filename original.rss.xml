@@ -114,15 +114,5 @@
       <pubDate>Sun, 29 Nov 2020 07:15:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-ii_image_20190224012325.jpeg"/>
     </item>
-    <item>
-      <title>Starship SN8 Static Fire</title>
-      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SN8 successfully performed a static fire of its Raptor engines.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~193</guid>
-      <pubDate>Tue, 24 Nov 2020 23:23:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201124165142.jpeg"/>
-    </item>
   </channel>
 </rss>

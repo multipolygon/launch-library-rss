@@ -195,39 +195,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/moon_landing/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~static_fire~193",
-   "title": "Starship SN8 Static Fire",
-   "content_text": "SN8 successfully performed a static fire of its Raptor engines.",
-   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201124165142.jpeg",
-   "date_published": "2020-11-24T23:23:00Z",
-   "date_modified": "2020-11-24T23:23:00Z",
-   "tags": [
-    "event",
-    "static_fire"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201124165142.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Static Fire | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "193",
-    "global": "~space-schedule~event~static_fire~193"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -238,7 +205,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 7,
+  "itemCount": 6,
   "pageNumber": 1,
   "pageCount": 1
  }

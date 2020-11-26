@@ -74,15 +74,4 @@
     <category term="event"/>
     <category term="moon_landing"/>
   </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~193</id>
-    <title>Starship SN8 Static Fire</title>
-    <updated>2020-11-24T23:23:00Z</updated>
-    <published>2020-11-24T23:23:00Z</published>
-    <content type="text">SN8 successfully performed a static fire of its Raptor engines.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201124165142.jpeg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
-  </entry>
 </feed>
