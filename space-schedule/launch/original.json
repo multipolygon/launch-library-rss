@@ -111,6 +111,43 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/mitsubishi_heavy_industries/original.json"
    }
+  },
+  {
+   "id": "~space-schedule~launch~arianespace~4a6fdee5-34db-4f9a-9f02-888a84b29d05",
+   "title": "Soyuz STA/Fregat | Falcon Eye 2",
+   "content_text": "Falcon Eye 2 is a high-resolution Earth-imaging satellite for the United Arab Emirates. Built by Airbus Defense and Space with an optical imaging payload from Thales Alenia Space, Falcon Eye is the second of two surveillance satellites ordered by the UAEâ€™s military.",
+   "url": "https://ll.thespacedevs.com/2.0.0/launch/4a6fdee5-34db-4f9a-9f02-888a84b29d05.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg",
+   "date_published": "2020-11-29T01:33:28Z",
+   "date_modified": "2020-11-29T01:33:28Z",
+   "tags": [
+    "launch",
+    "arianespace",
+    "commercial",
+    "soyuz",
+    "soyuz_sta",
+    "government_top_secret",
+    "soyuz_launch_complex"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Arianespace | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "4a6fdee5-34db-4f9a-9f02-888a84b29d05",
+    "global": "~space-schedule~launch~arianespace~4a6fdee5-34db-4f9a-9f02-888a84b29d05"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
+   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -121,7 +158,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 3,
+  "itemCount": 4,
   "pageNumber": 1,
   "pageCount": 1
  }

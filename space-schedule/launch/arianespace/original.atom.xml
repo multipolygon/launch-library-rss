@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Arianespace</title>
+  <title>Arianespace | Launch | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.atom.xml</id>
-  <updated>2020-11-27T11:20:59.145Z</updated>
+  <updated>2020-11-29T01:33:28Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Farianespace%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
+  <entry>
+    <id>4a6fdee5-34db-4f9a-9f02-888a84b29d05</id>
+    <title>Soyuz STA/Fregat | Falcon Eye 2</title>
+    <updated>2020-11-29T01:33:28Z</updated>
+    <published>2020-11-29T01:33:28Z</published>
+    <content type="text">Falcon Eye 2 is a high-resolution Earth-imaging satellite for the United Arab Emirates. Built by Airbus Defense and Space with an optical imaging payload from Thales Alenia Space, Falcon Eye is the second of two surveillance satellites ordered by the UAEâ€™s military.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/4a6fdee5-34db-4f9a-9f02-888a84b29d05.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg"/>
+    <category term="launch"/>
+    <category term="arianespace"/>
+    <category term="commercial"/>
+    <category term="soyuz"/>
+    <category term="soyuz_sta"/>
+    <category term="government_top_secret"/>
+    <category term="soyuz_launch_complex"/>
+  </entry>
 </feed>
