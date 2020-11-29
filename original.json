@@ -171,7 +171,7 @@
   {
    "id": "~space-schedule~launch~space_x~06dfcb34-0b76-4fbc-9046-09ab66db7b83",
    "title": "Falcon 9 Block 5 | Dragon CRS-2 SpX-21",
-   "content_text": "-",
+   "content_text": "SpaceX will launch the first cargo variant of its Dragon 2 spacecraft on their 21st commercial resupply services mission to the International Space Station. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nDragon will be filled with supplies and payloads, including critical materials to directly support more than 250 science and research investigations that occur onboard the orbiting laboratory.",
    "url": "https://ll.thespacedevs.com/2.0.0/launch/06dfcb34-0b76-4fbc-9046-09ab66db7b83.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
    "date_published": "2020-12-05T16:39:00Z",
@@ -182,8 +182,10 @@
     "commercial",
     "falcon",
     "falcon_9_block_5",
+    "resupply",
     "launch_complex_39_a",
-    "commercial_resupply_services"
+    "commercial_resupply_services",
+    "international_space_station"
    ],
    "attachments": [
     {
@@ -240,11 +242,11 @@
   {
    "id": "~space-schedule~event~moon_landing~191",
    "title": "Chang'e 5 Lunar Landing",
-   "content_text": "The Chinese Chang'e 5 spacecraft is scheduled to land in the Mons Rümker region of Oceanus Procellarum, located in the northwest region of the near side of the Moon. The lander will collect 2 kg of samples which will then be placed in an ascent vehicle and brought back to Earth.",
+   "content_text": "The Chinese Chang'e 5 spacecraft is scheduled to land in the Mons Rümker region of Oceanus Procellarum, located in the northwest region of the near side of the Moon. The lander will collect 2 kg of samples which will then be placed in an ascent vehicle and brought back to Earth.\r\n\r\nLanding time is approximate and not accurately known.",
    "url": "https://en.wikipedia.org/wiki/Chang%27e_5",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_l_image_20201122181736.png",
-   "date_published": "2020-11-30T20:30:00Z",
-   "date_modified": "2020-11-30T20:30:00Z",
+   "date_published": "2020-12-01T12:00:00Z",
+   "date_modified": "2020-12-01T12:00:00Z",
    "tags": [
     "event",
     "moon_landing"
@@ -270,50 +272,13 @@
    }
   },
   {
-   "id": "~space-schedule~launch~mitsubishi_heavy_industries~3f8dd709-4231-49ca-aa9f-694a2c0c107f",
-   "title": "H-IIA | JDRS-1",
-   "content_text": "JDRS-1 is a Japanese Data Relay Satellite.",
-   "url": "https://ll.thespacedevs.com/2.0.0/launch/3f8dd709-4231-49ca-aa9f-694a2c0c107f.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-ii_image_20190224012325.jpeg",
-   "date_published": "2020-11-29T07:25:00Z",
-   "date_modified": "2020-11-29T07:25:00Z",
-   "tags": [
-    "launch",
-    "mitsubishi_heavy_industries",
-    "commercial",
-    "h_ii",
-    "h_iia",
-    "communications",
-    "yoshinobu_launch_complex"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-ii_image_20190224012325.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Mitsubishi Heavy Industries | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "3f8dd709-4231-49ca-aa9f-694a2c0c107f",
-    "global": "~space-schedule~launch~mitsubishi_heavy_industries~3f8dd709-4231-49ca-aa9f-694a2c0c107f"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/mitsubishi_heavy_industries/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~launch~arianespace~4a6fdee5-34db-4f9a-9f02-888a84b29d05",
    "title": "Soyuz STA/Fregat | Falcon Eye 2",
    "content_text": "Falcon Eye 2 is a high-resolution Earth-imaging satellite for the United Arab Emirates. Built by Airbus Defense and Space with an optical imaging payload from Thales Alenia Space, Falcon Eye is the second of two surveillance satellites ordered by the UAEâ€™s military.",
    "url": "https://ll.thespacedevs.com/2.0.0/launch/4a6fdee5-34db-4f9a-9f02-888a84b29d05.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg",
-   "date_published": "2020-11-29T01:33:28Z",
-   "date_modified": "2020-11-29T01:33:28Z",
+   "date_published": "2020-11-30T01:33:00Z",
+   "date_modified": "2020-11-30T01:33:00Z",
    "tags": [
     "launch",
     "arianespace",
@@ -352,7 +317,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 10,
+  "itemCount": 9,
   "pageNumber": 1,
   "pageCount": 1
  }

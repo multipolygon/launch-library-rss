@@ -12,7 +12,9 @@
     <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-21</title>
     <updated>2020-12-05T16:39:00Z</updated>
     <published>2020-12-05T16:39:00Z</published>
-    <content type="text">-</content>
+    <content type="text">SpaceX will launch the first cargo variant of its Dragon 2 spacecraft on their 21st commercial resupply services mission to the International Space Station. The flight will be conducted under the second Commercial Resupply Services contract with NASA.&#xD;
+&#xD;
+Dragon will be filled with supplies and payloads, including critical materials to directly support more than 250 science and research investigations that occur onboard the orbiting laboratory.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/06dfcb34-0b76-4fbc-9046-09ab66db7b83.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
     <category term="launch"/>
@@ -20,7 +22,9 @@
     <category term="commercial"/>
     <category term="falcon"/>
     <category term="falcon_9_block_5"/>
+    <category term="resupply"/>
     <category term="launch_complex_39_a"/>
     <category term="commercial_resupply_services"/>
+    <category term="international_space_station"/>
   </entry>
 </feed>

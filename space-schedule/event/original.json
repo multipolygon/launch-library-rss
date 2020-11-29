@@ -167,11 +167,11 @@
   {
    "id": "~space-schedule~event~moon_landing~191",
    "title": "Chang'e 5 Lunar Landing",
-   "content_text": "The Chinese Chang'e 5 spacecraft is scheduled to land in the Mons Rümker region of Oceanus Procellarum, located in the northwest region of the near side of the Moon. The lander will collect 2 kg of samples which will then be placed in an ascent vehicle and brought back to Earth.",
+   "content_text": "The Chinese Chang'e 5 spacecraft is scheduled to land in the Mons Rümker region of Oceanus Procellarum, located in the northwest region of the near side of the Moon. The lander will collect 2 kg of samples which will then be placed in an ascent vehicle and brought back to Earth.\r\n\r\nLanding time is approximate and not accurately known.",
    "url": "https://en.wikipedia.org/wiki/Chang%27e_5",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_l_image_20201122181736.png",
-   "date_published": "2020-11-30T20:30:00Z",
-   "date_modified": "2020-11-30T20:30:00Z",
+   "date_published": "2020-12-01T12:00:00Z",
+   "date_modified": "2020-12-01T12:00:00Z",
    "tags": [
     "event",
     "moon_landing"

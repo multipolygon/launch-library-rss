@@ -27,32 +27,21 @@
     <item>
       <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-21</title>
       <link>https://ll.thespacedevs.com/2.0.0/launch/06dfcb34-0b76-4fbc-9046-09ab66db7b83.json</link>
-      <description>-</description>
+      <description>SpaceX will launch the first cargo variant of its Dragon 2 spacecraft on their 21st commercial resupply services mission to the International Space Station. The flight will be conducted under the second Commercial Resupply Services contract with NASA.&#xD;
+&#xD;
+Dragon will be filled with supplies and payloads, including critical materials to directly support more than 250 science and research investigations that occur onboard the orbiting laboratory.</description>
       <category>launch</category>
       <category>space_x</category>
       <category>commercial</category>
       <category>falcon</category>
       <category>falcon_9_block_5</category>
+      <category>resupply</category>
       <category>launch_complex_39_a</category>
       <category>commercial_resupply_services</category>
+      <category>international_space_station</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~06dfcb34-0b76-4fbc-9046-09ab66db7b83</guid>
       <pubDate>Sat, 05 Dec 2020 16:39:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
-    </item>
-    <item>
-      <title>H-IIA | JDRS-1</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/3f8dd709-4231-49ca-aa9f-694a2c0c107f.json</link>
-      <description>JDRS-1 is a Japanese Data Relay Satellite.</description>
-      <category>launch</category>
-      <category>mitsubishi_heavy_industries</category>
-      <category>commercial</category>
-      <category>h_ii</category>
-      <category>h_iia</category>
-      <category>communications</category>
-      <category>yoshinobu_launch_complex</category>
-      <guid isPermaLink="false">~space-schedule~launch~mitsubishi_heavy_industries~3f8dd709-4231-49ca-aa9f-694a2c0c107f</guid>
-      <pubDate>Sun, 29 Nov 2020 07:25:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-ii_image_20190224012325.jpeg"/>
     </item>
     <item>
       <title>Soyuz STA/Fregat | Falcon Eye 2</title>
@@ -66,7 +55,7 @@
       <category>government_top_secret</category>
       <category>soyuz_launch_complex</category>
       <guid isPermaLink="false">~space-schedule~launch~arianespace~4a6fdee5-34db-4f9a-9f02-888a84b29d05</guid>
-      <pubDate>Sun, 29 Nov 2020 01:33:28 GMT</pubDate>
+      <pubDate>Mon, 30 Nov 2020 01:33:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg"/>
     </item>
   </channel>

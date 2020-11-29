@@ -12,12 +12,12 @@
                 "id": 7,
                 "name": "Moon Landing"
             },
-            "description": "The Chinese Chang'e 5 spacecraft is scheduled to land in the Mons Rümker region of Oceanus Procellarum, located in the northwest region of the near side of the Moon. The lander will collect 2 kg of samples which will then be placed in an ascent vehicle and brought back to Earth.",
+            "description": "The Chinese Chang'e 5 spacecraft is scheduled to land in the Mons Rümker region of Oceanus Procellarum, located in the northwest region of the near side of the Moon. The lander will collect 2 kg of samples which will then be placed in an ascent vehicle and brought back to Earth.\r\n\r\nLanding time is approximate and not accurately known.",
             "location": "Mons Rümker, Moon",
             "news_url": "https://en.wikipedia.org/wiki/Chang%27e_5",
             "video_url": null,
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_l_image_20201122181736.png",
-            "date": "2020-11-30T20:30:00Z",
+            "date": "2020-12-01T12:00:00Z",
             "launches": [
                 {
                     "id": "9828537e-e017-4f77-96b6-49799d439363",
@@ -196,7 +196,19 @@
                             "variant": "Block 5"
                         }
                     },
-                    "mission": null,
+                    "mission": {
+                        "id": 1212,
+                        "launch_library_id": null,
+                        "name": "Dragon CRS-2 SpX-21",
+                        "description": "SpaceX will launch the first cargo variant of its Dragon 2 spacecraft on their 21st commercial resupply services mission to the International Space Station. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nDragon will be filled with supplies and payloads, including critical materials to directly support more than 250 science and research investigations that occur onboard the orbiting laboratory.",
+                        "launch_designator": null,
+                        "type": "Resupply",
+                        "orbit": {
+                            "id": 8,
+                            "name": "Low Earth Orbit",
+                            "abbrev": "LEO"
+                        }
+                    },
                     "pad": {
                         "id": 87,
                         "url": "https://ll.thespacedevs.com/2.0.0/pad/87.json",
@@ -259,6 +271,49 @@
                             "end_date": null,
                             "info_url": null,
                             "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Resupply_Services#Commercial_Resupply_Services"
+                        },
+                        {
+                            "id": 17,
+                            "url": "https://ll.thespacedevs.com/2.0.0/program/17.json",
+                            "name": "International Space Station",
+                            "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
+                            "agencies": [
+                                {
+                                    "id": 16,
+                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/16.json",
+                                    "name": "Canadian Space Agency",
+                                    "type": "Government"
+                                },
+                                {
+                                    "id": 27,
+                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/27.json",
+                                    "name": "European Space Agency",
+                                    "type": "Multinational"
+                                },
+                                {
+                                    "id": 37,
+                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/37.json",
+                                    "name": "Japan Aerospace Exploration Agency",
+                                    "type": "Government"
+                                },
+                                {
+                                    "id": 44,
+                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/44.json",
+                                    "name": "National Aeronautics and Space Administration",
+                                    "type": "Government"
+                                },
+                                {
+                                    "id": 63,
+                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/63.json",
+                                    "name": "Russian Federal Space Agency (ROSCOSMOS)",
+                                    "type": "Government"
+                                }
+                            ],
+                            "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/international2_program_20200821092901.jpeg",
+                            "start_date": "1998-11-20T06:40:00Z",
+                            "end_date": null,
+                            "info_url": "https://www.nasa.gov/mission_pages/station/main/index.html",
+                            "wiki_url": "https://en.wikipedia.org/wiki/International_Space_Station_programme"
                         }
                     ]
                 }
@@ -436,7 +491,19 @@
                             "variant": "Block 5"
                         }
                     },
-                    "mission": null,
+                    "mission": {
+                        "id": 1212,
+                        "launch_library_id": null,
+                        "name": "Dragon CRS-2 SpX-21",
+                        "description": "SpaceX will launch the first cargo variant of its Dragon 2 spacecraft on their 21st commercial resupply services mission to the International Space Station. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nDragon will be filled with supplies and payloads, including critical materials to directly support more than 250 science and research investigations that occur onboard the orbiting laboratory.",
+                        "launch_designator": null,
+                        "type": "Resupply",
+                        "orbit": {
+                            "id": 8,
+                            "name": "Low Earth Orbit",
+                            "abbrev": "LEO"
+                        }
+                    },
                     "pad": {
                         "id": 87,
                         "url": "https://ll.thespacedevs.com/2.0.0/pad/87.json",
@@ -499,6 +566,49 @@
                             "end_date": null,
                             "info_url": null,
                             "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Resupply_Services#Commercial_Resupply_Services"
+                        },
+                        {
+                            "id": 17,
+                            "url": "https://ll.thespacedevs.com/2.0.0/program/17.json",
+                            "name": "International Space Station",
+                            "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
+                            "agencies": [
+                                {
+                                    "id": 16,
+                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/16.json",
+                                    "name": "Canadian Space Agency",
+                                    "type": "Government"
+                                },
+                                {
+                                    "id": 27,
+                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/27.json",
+                                    "name": "European Space Agency",
+                                    "type": "Multinational"
+                                },
+                                {
+                                    "id": 37,
+                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/37.json",
+                                    "name": "Japan Aerospace Exploration Agency",
+                                    "type": "Government"
+                                },
+                                {
+                                    "id": 44,
+                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/44.json",
+                                    "name": "National Aeronautics and Space Administration",
+                                    "type": "Government"
+                                },
+                                {
+                                    "id": 63,
+                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/63.json",
+                                    "name": "Russian Federal Space Agency (ROSCOSMOS)",
+                                    "type": "Government"
+                                }
+                            ],
+                            "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/international2_program_20200821092901.jpeg",
+                            "start_date": "1998-11-20T06:40:00Z",
+                            "end_date": null,
+                            "info_url": "https://www.nasa.gov/mission_pages/station/main/index.html",
+                            "wiki_url": "https://en.wikipedia.org/wiki/International_Space_Station_programme"
                         }
                     ]
                 }

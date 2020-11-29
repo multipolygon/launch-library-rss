@@ -28,7 +28,9 @@
     <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-21</title>
     <updated>2020-12-05T16:39:00Z</updated>
     <published>2020-12-05T16:39:00Z</published>
-    <content type="text">-</content>
+    <content type="text">SpaceX will launch the first cargo variant of its Dragon 2 spacecraft on their 21st commercial resupply services mission to the International Space Station. The flight will be conducted under the second Commercial Resupply Services contract with NASA.&#xD;
+&#xD;
+Dragon will be filled with supplies and payloads, including critical materials to directly support more than 250 science and research investigations that occur onboard the orbiting laboratory.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/06dfcb34-0b76-4fbc-9046-09ab66db7b83.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
     <category term="launch"/>
@@ -36,30 +38,16 @@
     <category term="commercial"/>
     <category term="falcon"/>
     <category term="falcon_9_block_5"/>
+    <category term="resupply"/>
     <category term="launch_complex_39_a"/>
     <category term="commercial_resupply_services"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~mitsubishi_heavy_industries~3f8dd709-4231-49ca-aa9f-694a2c0c107f</id>
-    <title>H-IIA | JDRS-1</title>
-    <updated>2020-11-29T07:25:00Z</updated>
-    <published>2020-11-29T07:25:00Z</published>
-    <content type="text">JDRS-1 is a Japanese Data Relay Satellite.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/3f8dd709-4231-49ca-aa9f-694a2c0c107f.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-ii_image_20190224012325.jpeg"/>
-    <category term="launch"/>
-    <category term="mitsubishi_heavy_industries"/>
-    <category term="commercial"/>
-    <category term="h_ii"/>
-    <category term="h_iia"/>
-    <category term="communications"/>
-    <category term="yoshinobu_launch_complex"/>
+    <category term="international_space_station"/>
   </entry>
   <entry>
     <id>~space-schedule~launch~arianespace~4a6fdee5-34db-4f9a-9f02-888a84b29d05</id>
     <title>Soyuz STA/Fregat | Falcon Eye 2</title>
-    <updated>2020-11-29T01:33:28Z</updated>
-    <published>2020-11-29T01:33:28Z</published>
+    <updated>2020-11-30T01:33:00Z</updated>
+    <published>2020-11-30T01:33:00Z</published>
     <content type="text">Falcon Eye 2 is a high-resolution Earth-imaging satellite for the United Arab Emirates. Built by Airbus Defense and Space with an optical imaging payload from Thales Alenia Space, Falcon Eye is the second of two surveillance satellites ordered by the UAEâ€™s military.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/4a6fdee5-34db-4f9a-9f02-888a84b29d05.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg"/>
