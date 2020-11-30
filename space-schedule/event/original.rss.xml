@@ -47,7 +47,7 @@
       <category>event</category>
       <category>landing</category>
       <guid isPermaLink="false">~space-schedule~event~landing~35</guid>
-      <pubDate>Sat, 05 Dec 2020 17:00:00 GMT</pubDate>
+      <pubDate>Sat, 05 Dec 2020 17:52:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg"/>
     </item>
     <item>
@@ -69,8 +69,18 @@ Landing time is approximate and not accurately known.</description>
       <category>event</category>
       <category>moon_landing</category>
       <guid isPermaLink="false">~space-schedule~event~moon_landing~191</guid>
-      <pubDate>Tue, 01 Dec 2020 12:00:00 GMT</pubDate>
+      <pubDate>Tue, 01 Dec 2020 15:13:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_l_image_20201122181736.png"/>
+    </item>
+    <item>
+      <title>Starship SN8 Static Fire</title>
+      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
+      <description>SN8 will perform a static fire of its Raptor engines.</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~197</guid>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201129190547.jpeg"/>
     </item>
   </channel>
 </rss>

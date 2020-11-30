@@ -59,8 +59,8 @@
   <entry>
     <id>~space-schedule~event~landing~35</id>
     <title>Hayabusa-2 Sample Returns to Earth</title>
-    <updated>2020-12-05T17:00:00Z</updated>
-    <published>2020-12-05T17:00:00Z</published>
+    <updated>2020-12-05T17:52:00Z</updated>
+    <published>2020-12-05T17:52:00Z</published>
     <content type="text">When Hayabusa-2 flies past Earth in December 2020, it will release the capsule spinning at one revolution per three seconds. The capsule will re-enter the Earth's atmosphere at 12 km/s and it will deploy a radar-reflective parachute at an altitude of about 10 km, and eject its heat-shield, while transmitting a position beacon signal. The sample capsule will land at the Woomera Test Range in Australia.</content>
     <link rel="alternate" href="https://en.wikipedia.org/wiki/Hayabusa2"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg"/>
@@ -101,8 +101,8 @@ Dragon will be filled with supplies and payloads, including critical materials t
   <entry>
     <id>~space-schedule~event~moon_landing~191</id>
     <title>Chang'e 5 Lunar Landing</title>
-    <updated>2020-12-01T12:00:00Z</updated>
-    <published>2020-12-01T12:00:00Z</published>
+    <updated>2020-12-01T15:13:00Z</updated>
+    <published>2020-12-01T15:13:00Z</published>
     <content type="text">The Chinese Chang'e 5 spacecraft is scheduled to land in the Mons Rümker region of Oceanus Procellarum, located in the northwest region of the near side of the Moon. The lander will collect 2 kg of samples which will then be placed in an ascent vehicle and brought back to Earth.&#xD;
 &#xD;
 Landing time is approximate and not accurately known.</content>
@@ -114,9 +114,9 @@ Landing time is approximate and not accurately known.</content>
   <entry>
     <id>~space-schedule~launch~arianespace~4a6fdee5-34db-4f9a-9f02-888a84b29d05</id>
     <title>Soyuz STA/Fregat | Falcon Eye 2</title>
-    <updated>2020-11-30T01:33:00Z</updated>
-    <published>2020-11-30T01:33:00Z</published>
-    <content type="text">Falcon Eye 2 is a high-resolution Earth-imaging satellite for the United Arab Emirates. Built by Airbus Defense and Space with an optical imaging payload from Thales Alenia Space, Falcon Eye is the second of two surveillance satellites ordered by the UAEâ€™s military.</content>
+    <updated>2020-12-01T01:33:28Z</updated>
+    <published>2020-12-01T01:33:28Z</published>
+    <content type="text">Falcon Eye 2 is a high-resolution Earth-imaging satellite for the United Arab Emirates. Built by Airbus Defense and Space with an optical imaging payload from Thales Alenia Space, Falcon Eye is the second of two surveillance satellites ordered by the UAE's military.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/4a6fdee5-34db-4f9a-9f02-888a84b29d05.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg"/>
     <category term="launch"/>
@@ -126,5 +126,16 @@ Landing time is approximate and not accurately known.</content>
     <category term="soyuz_sta"/>
     <category term="government_top_secret"/>
     <category term="soyuz_launch_complex"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~static_fire~197</id>
+    <title>Starship SN8 Static Fire</title>
+    <updated>2020-12-01T00:00:00Z</updated>
+    <published>2020-12-01T00:00:00Z</published>
+    <content type="text">SN8 will perform a static fire of its Raptor engines.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201129190547.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
   </entry>
 </feed>

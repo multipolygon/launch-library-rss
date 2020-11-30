@@ -142,8 +142,8 @@
    "content_text": "When Hayabusa-2 flies past Earth in December 2020, it will release the capsule spinning at one revolution per three seconds. The capsule will re-enter the Earth's atmosphere at 12 km/s and it will deploy a radar-reflective parachute at an altitude of about 10 km, and eject its heat-shield, while transmitting a position beacon signal. The sample capsule will land at the Woomera Test Range in Australia.",
    "url": "https://en.wikipedia.org/wiki/Hayabusa2",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg",
-   "date_published": "2020-12-05T17:00:00Z",
-   "date_modified": "2020-12-05T17:00:00Z",
+   "date_published": "2020-12-05T17:52:00Z",
+   "date_modified": "2020-12-05T17:52:00Z",
    "tags": [
     "event",
     "landing"
@@ -245,8 +245,8 @@
    "content_text": "The Chinese Chang'e 5 spacecraft is scheduled to land in the Mons Rümker region of Oceanus Procellarum, located in the northwest region of the near side of the Moon. The lander will collect 2 kg of samples which will then be placed in an ascent vehicle and brought back to Earth.\r\n\r\nLanding time is approximate and not accurately known.",
    "url": "https://en.wikipedia.org/wiki/Chang%27e_5",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_l_image_20201122181736.png",
-   "date_published": "2020-12-01T12:00:00Z",
-   "date_modified": "2020-12-01T12:00:00Z",
+   "date_published": "2020-12-01T15:13:00Z",
+   "date_modified": "2020-12-01T15:13:00Z",
    "tags": [
     "event",
     "moon_landing"
@@ -274,11 +274,11 @@
   {
    "id": "~space-schedule~launch~arianespace~4a6fdee5-34db-4f9a-9f02-888a84b29d05",
    "title": "Soyuz STA/Fregat | Falcon Eye 2",
-   "content_text": "Falcon Eye 2 is a high-resolution Earth-imaging satellite for the United Arab Emirates. Built by Airbus Defense and Space with an optical imaging payload from Thales Alenia Space, Falcon Eye is the second of two surveillance satellites ordered by the UAEâ€™s military.",
+   "content_text": "Falcon Eye 2 is a high-resolution Earth-imaging satellite for the United Arab Emirates. Built by Airbus Defense and Space with an optical imaging payload from Thales Alenia Space, Falcon Eye is the second of two surveillance satellites ordered by the UAE's military.",
    "url": "https://ll.thespacedevs.com/2.0.0/launch/4a6fdee5-34db-4f9a-9f02-888a84b29d05.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg",
-   "date_published": "2020-11-30T01:33:00Z",
-   "date_modified": "2020-11-30T01:33:00Z",
+   "date_published": "2020-12-01T01:33:28Z",
+   "date_modified": "2020-12-01T01:33:28Z",
    "tags": [
     "launch",
     "arianespace",
@@ -307,6 +307,39 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
    }
+  },
+  {
+   "id": "~space-schedule~event~static_fire~197",
+   "title": "Starship SN8 Static Fire",
+   "content_text": "SN8 will perform a static fire of its Raptor engines.",
+   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201129190547.jpeg",
+   "date_published": "2020-12-01T00:00:00Z",
+   "date_modified": "2020-12-01T00:00:00Z",
+   "tags": [
+    "event",
+    "static_fire"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201129190547.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Static Fire | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "197",
+    "global": "~space-schedule~event~static_fire~197"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
+   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -317,7 +350,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 9,
+  "itemCount": 10,
   "pageNumber": 1,
   "pageCount": 1
  }
