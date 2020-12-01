@@ -7,9 +7,35 @@
     <description>All items in subcategories for category.</description>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
-    <pubDate>Wed, 16 Dec 2020 14:35:00 GMT</pubDate>
+    <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>SLS Green Run Hot Fire</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The core stage of the 'Space Launch System' will undergo a 'Green Run' test, where the stage and major components will be tested as a full stack to ensure safety of the vehicle.&#xD;
+&#xD;
+Part of the testing will involve a 8 minute 'Hot Fire' of the core stage, demonstrating performance similar to an actual launch.</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~38</guid>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20200830035331.jpg"/>
+    </item>
+    <item>
+      <title>LauncherOne | Launch Demo 2</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>virgin_orbit</category>
+      <category>commercial</category>
+      <category>launcher</category>
+      <category>launcher_one</category>
+      <category>mojave_air_and_space_port</category>
+      <guid isPermaLink="false">~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5</guid>
+      <pubDate>Sat, 19 Dec 2020 18:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg"/>
+    </item>
     <item>
       <title>NG-14 Cygnus Release &amp; Reentry</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
@@ -29,6 +55,18 @@
       <guid isPermaLink="false">~space-schedule~event~landing~192</guid>
       <pubDate>Tue, 15 Dec 2020 00:00:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"/>
+    </item>
+    <item>
+      <title>8th meeting of the National Space Council</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>US Vice President Mike Pence will convene the 8th meeting of the National Space Council at NASA's Kennedy Space Center on December 9 at 12:30 p.m. ET. &#xD;
+&#xD;
+The meeting will be livestreamed on NASA TV.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~198</guid>
+      <pubDate>Wed, 09 Dec 2020 17:30:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/8th_meeting_of__image_20201201090808.jpeg"/>
     </item>
     <item>
       <title>Astra Rocket 3.2 | Flight 2</title>
@@ -94,16 +132,14 @@ Dragon will be filled with supplies and payloads, including critical materials t
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_pre-laun_image_20201124225737.png"/>
     </item>
     <item>
-      <title>Chang'e 5 Lunar Landing</title>
-      <link>https://en.wikipedia.org/wiki/Chang%27e_5</link>
-      <description>The Chinese Chang'e 5 spacecraft is scheduled to land in the Mons Rümker region of Oceanus Procellarum, located in the northwest region of the near side of the Moon. The lander will collect 2 kg of samples which will then be placed in an ascent vehicle and brought back to Earth.&#xD;
-&#xD;
-Landing time is approximate and not accurately known.</description>
+      <title>Starship SN8 Static Fire</title>
+      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
+      <description>SN8 will perform a static fire of its Raptor engines.</description>
       <category>event</category>
-      <category>moon_landing</category>
-      <guid isPermaLink="false">~space-schedule~event~moon_landing~191</guid>
-      <pubDate>Tue, 01 Dec 2020 15:13:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_l_image_20201122181736.png"/>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~197</guid>
+      <pubDate>Wed, 02 Dec 2020 23:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201129190547.jpeg"/>
     </item>
     <item>
       <title>Soyuz STA/Fregat | Falcon Eye 2</title>
@@ -117,18 +153,20 @@ Landing time is approximate and not accurately known.</description>
       <category>government_top_secret</category>
       <category>soyuz_launch_complex</category>
       <guid isPermaLink="false">~space-schedule~launch~arianespace~4a6fdee5-34db-4f9a-9f02-888a84b29d05</guid>
-      <pubDate>Tue, 01 Dec 2020 01:33:28 GMT</pubDate>
+      <pubDate>Wed, 02 Dec 2020 01:33:28 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg"/>
     </item>
     <item>
-      <title>Starship SN8 Static Fire</title>
-      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SN8 will perform a static fire of its Raptor engines.</description>
+      <title>Chang'e 5 Lunar Landing</title>
+      <link>https://en.wikipedia.org/wiki/Chang%27e_5</link>
+      <description>The Chinese Chang'e 5 spacecraft is scheduled to land in the Mons Rümker region of Oceanus Procellarum, located in the northwest region of the near side of the Moon. The lander will collect 2 kg of samples which will then be placed in an ascent vehicle and brought back to Earth.&#xD;
+&#xD;
+Landing time is approximate and not accurately known.</description>
       <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~197</guid>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201129190547.jpeg"/>
+      <category>moon_landing</category>
+      <guid isPermaLink="false">~space-schedule~event~moon_landing~191</guid>
+      <pubDate>Tue, 01 Dec 2020 15:13:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_l_image_20201122181736.png"/>
     </item>
   </channel>
 </rss>

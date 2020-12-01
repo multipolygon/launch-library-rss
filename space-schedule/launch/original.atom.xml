@@ -2,12 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Launch</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/original.atom.xml</id>
-  <updated>2020-12-07T19:00:00Z</updated>
+  <updated>2020-12-19T18:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items in Space Schedule &gt; Launch.</subtitle>
+  <entry>
+    <id>~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5</id>
+    <title>LauncherOne | Launch Demo 2</title>
+    <updated>2020-12-19T18:00:00Z</updated>
+    <published>2020-12-19T18:00:00Z</published>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg"/>
+    <category term="launch"/>
+    <category term="virgin_orbit"/>
+    <category term="commercial"/>
+    <category term="launcher"/>
+    <category term="launcher_one"/>
+    <category term="mojave_air_and_space_port"/>
+  </entry>
   <entry>
     <id>~space-schedule~launch~astra_space~ffaceda9-2d21-4c79-b854-3414b774d8af</id>
     <title>Astra Rocket 3.2 | Flight 2</title>
@@ -46,8 +61,8 @@ Dragon will be filled with supplies and payloads, including critical materials t
   <entry>
     <id>~space-schedule~launch~arianespace~4a6fdee5-34db-4f9a-9f02-888a84b29d05</id>
     <title>Soyuz STA/Fregat | Falcon Eye 2</title>
-    <updated>2020-12-01T01:33:28Z</updated>
-    <published>2020-12-01T01:33:28Z</published>
+    <updated>2020-12-02T01:33:28Z</updated>
+    <published>2020-12-02T01:33:28Z</published>
     <content type="text">Falcon Eye 2 is a high-resolution Earth-imaging satellite for the United Arab Emirates. Built by Airbus Defense and Space with an optical imaging payload from Thales Alenia Space, Falcon Eye is the second of two surveillance satellites ordered by the UAE's military.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/4a6fdee5-34db-4f9a-9f02-888a84b29d05.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg"/>
