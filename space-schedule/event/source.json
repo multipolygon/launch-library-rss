@@ -145,13 +145,13 @@
         {
             "id": 197,
             "url": "https://ll.thespacedevs.com/2.0.0/event/197.json",
-            "slug": "starship-sn8-static-fire-5",
-            "name": "Starship SN8 Static Fire",
+            "slug": "starship-sn8-testing",
+            "name": "Starship SN8 Testing",
             "type": {
-                "id": 5,
-                "name": "Static Fire"
+                "id": 21,
+                "name": "Cryoproof Test"
             },
-            "description": "SN8 will perform a static fire of its Raptor engines.",
+            "description": "SN8 will perform tests before the 15 km flight.",
             "location": "Boca Chica, Texas",
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",

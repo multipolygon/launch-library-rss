@@ -231,16 +231,16 @@
    }
   },
   {
-   "id": "~space-schedule~event~static_fire~197",
-   "title": "Starship SN8 Static Fire",
-   "content_text": "SN8 will perform a static fire of its Raptor engines.",
+   "id": "~space-schedule~event~cryoproof_test~197",
+   "title": "Starship SN8 Testing",
+   "content_text": "SN8 will perform tests before the 15 km flight.",
    "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201129190547.jpeg",
    "date_published": "2020-12-02T23:00:00Z",
    "date_modified": "2020-12-02T23:00:00Z",
    "tags": [
     "event",
-    "static_fire"
+    "cryoproof_test"
    ],
    "attachments": [
     {
@@ -253,14 +253,14 @@
     "videoCount": 0,
     "imageCount": 1,
     "youtubeCount": 1,
-    "subtitle": "Static Fire | Event | Space Schedule"
+    "subtitle": "Cryoproof Test | Event | Space Schedule"
    },
    "_id": {
     "parent": "197",
-    "global": "~space-schedule~event~static_fire~197"
+    "global": "~space-schedule~event~cryoproof_test~197"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/cryoproof_test/original.json"
    }
   },
   {

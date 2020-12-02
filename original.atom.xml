@@ -140,31 +140,31 @@ Dragon will be filled with supplies and payloads, including critical materials t
     <category term="press_event"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~static_fire~197</id>
-    <title>Starship SN8 Static Fire</title>
+    <id>~space-schedule~launch~russian_space_forces~107fb32b-7f28-4560-af33-2790bc4118e8</id>
+    <title>Soyuz 2.1b/Fregat-M | Gonets-M30, Gonets-M31, Gonets-M32</title>
+    <updated>2020-12-03T01:00:00Z</updated>
+    <published>2020-12-03T01:00:00Z</published>
+    <content type="text">Gonets-M are an upgraded version of Gonets satellites, derived from military  communications system Strela-3. Gonets-M constellation is tasked with monitoring ecological and industrial objects, providing communication and data transmission services, covering also the remote areas like the Far North region.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/107fb32b-7f28-4560-af33-2790bc4118e8.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"/>
+    <category term="launch"/>
+    <category term="russian_space_forces"/>
+    <category term="government"/>
+    <category term="soyuz"/>
+    <category term="soyuz_2_1_b"/>
+    <category term="communications"/>
+    <category term="43_3_43_l"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~cryoproof_test~197</id>
+    <title>Starship SN8 Testing</title>
     <updated>2020-12-02T23:00:00Z</updated>
     <published>2020-12-02T23:00:00Z</published>
-    <content type="text">SN8 will perform a static fire of its Raptor engines.</content>
+    <content type="text">SN8 will perform tests before the 15 km flight.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201129190547.jpeg"/>
     <category term="event"/>
-    <category term="static_fire"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~arianespace~4a6fdee5-34db-4f9a-9f02-888a84b29d05</id>
-    <title>Soyuz STA/Fregat | Falcon Eye 2</title>
-    <updated>2020-12-02T01:33:28Z</updated>
-    <published>2020-12-02T01:33:28Z</published>
-    <content type="text">Falcon Eye 2 is a high-resolution Earth-imaging satellite for the United Arab Emirates. Built by Airbus Defense and Space with an optical imaging payload from Thales Alenia Space, Falcon Eye is the second of two surveillance satellites ordered by the UAE's military.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/4a6fdee5-34db-4f9a-9f02-888a84b29d05.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg"/>
-    <category term="launch"/>
-    <category term="arianespace"/>
-    <category term="commercial"/>
-    <category term="soyuz"/>
-    <category term="soyuz_sta"/>
-    <category term="government_top_secret"/>
-    <category term="soyuz_launch_complex"/>
+    <category term="cryoproof_test"/>
   </entry>
   <entry>
     <id>~space-schedule~event~moon_landing~191</id>

@@ -114,40 +114,40 @@
    }
   },
   {
-   "id": "~space-schedule~launch~arianespace~4a6fdee5-34db-4f9a-9f02-888a84b29d05",
-   "title": "Soyuz STA/Fregat | Falcon Eye 2",
-   "content_text": "Falcon Eye 2 is a high-resolution Earth-imaging satellite for the United Arab Emirates. Built by Airbus Defense and Space with an optical imaging payload from Thales Alenia Space, Falcon Eye is the second of two surveillance satellites ordered by the UAE's military.",
-   "url": "https://ll.thespacedevs.com/2.0.0/launch/4a6fdee5-34db-4f9a-9f02-888a84b29d05.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg",
-   "date_published": "2020-12-02T01:33:28Z",
-   "date_modified": "2020-12-02T01:33:28Z",
+   "id": "~space-schedule~launch~russian_space_forces~107fb32b-7f28-4560-af33-2790bc4118e8",
+   "title": "Soyuz 2.1b/Fregat-M | Gonets-M30, Gonets-M31, Gonets-M32",
+   "content_text": "Gonets-M are an upgraded version of Gonets satellites, derived from military  communications system Strela-3. Gonets-M constellation is tasked with monitoring ecological and industrial objects, providing communication and data transmission services, covering also the remote areas like the Far North region.",
+   "url": "https://ll.thespacedevs.com/2.0.0/launch/107fb32b-7f28-4560-af33-2790bc4118e8.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
+   "date_published": "2020-12-03T01:00:00Z",
+   "date_modified": "2020-12-03T01:00:00Z",
    "tags": [
     "launch",
-    "arianespace",
-    "commercial",
+    "russian_space_forces",
+    "government",
     "soyuz",
-    "soyuz_sta",
-    "government_top_secret",
-    "soyuz_launch_complex"
+    "soyuz_2_1_b",
+    "communications",
+    "43_3_43_l"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"
     }
    ],
    "_meta": {
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "subtitle": "Arianespace | Launch | Space Schedule"
+    "subtitle": "Russian Space Forces | Launch | Space Schedule"
    },
    "_id": {
-    "parent": "4a6fdee5-34db-4f9a-9f02-888a84b29d05",
-    "global": "~space-schedule~launch~arianespace~4a6fdee5-34db-4f9a-9f02-888a84b29d05"
+    "parent": "107fb32b-7f28-4560-af33-2790bc4118e8",
+    "global": "~space-schedule~launch~russian_space_forces~107fb32b-7f28-4560-af33-2790bc4118e8"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_space_forces/original.json"
    }
   }
  ],

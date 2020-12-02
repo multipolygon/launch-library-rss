@@ -21,15 +21,5 @@ Part of the testing will involve a 8 minute 'Hot Fire' of the core stage, demons
       <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20200830035331.jpg"/>
     </item>
-    <item>
-      <title>Starship SN8 Static Fire</title>
-      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SN8 will perform a static fire of its Raptor engines.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">197</guid>
-      <pubDate>Wed, 02 Dec 2020 23:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201129190547.jpeg"/>
-    </item>
   </channel>
 </rss>

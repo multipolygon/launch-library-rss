@@ -85,12 +85,12 @@ The meeting will be livestreamed on NASA TV.</description>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_pre-laun_image_20201124225737.png"/>
     </item>
     <item>
-      <title>Starship SN8 Static Fire</title>
+      <title>Starship SN8 Testing</title>
       <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SN8 will perform a static fire of its Raptor engines.</description>
+      <description>SN8 will perform tests before the 15 km flight.</description>
       <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~197</guid>
+      <category>cryoproof_test</category>
+      <guid isPermaLink="false">~space-schedule~event~cryoproof_test~197</guid>
       <pubDate>Wed, 02 Dec 2020 23:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201129190547.jpeg"/>
     </item>

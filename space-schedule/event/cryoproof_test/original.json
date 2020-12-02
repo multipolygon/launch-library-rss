@@ -1,0 +1,42 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/event/cryoproof_test/original.json",
+ "title": "Cryoproof Test | Event | Space Schedule",
+ "items": [
+  {
+   "id": "197",
+   "title": "Starship SN8 Testing",
+   "content_text": "SN8 will perform tests before the 15 km flight.",
+   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201129190547.jpeg",
+   "date_published": "2020-12-02T23:00:00Z",
+   "date_modified": "2020-12-02T23:00:00Z",
+   "tags": [
+    "event",
+    "cryoproof_test"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201129190547.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1
+   }
+  }
+ ],
+ "_feed_url": {
+  "rss": "https://launch-library-rss.multipolygon.net/space-schedule/event/cryoproof_test/original.rss.xml",
+  "atom": "https://launch-library-rss.multipolygon.net/space-schedule/event/cryoproof_test/original.atom.xml"
+ },
+ "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fcryoproof_test%2Foriginal.json",
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ }
+}
