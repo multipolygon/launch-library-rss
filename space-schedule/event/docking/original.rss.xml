@@ -19,5 +19,15 @@
       <pubDate>Sun, 06 Dec 2020 11:30:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_d_image_20201124230032.jpeg"/>
     </item>
+    <item>
+      <title>Chang'e 5 Ascent Stage-Orbiter Docking</title>
+      <link>https://ll.thespacedevs.com/2.0.0/event/200.json</link>
+      <description>The Chang'e 5 ascent stage, loaded with lunar samples, will autonomously dock with the orbiter around the moon.</description>
+      <category>event</category>
+      <category>docking</category>
+      <guid isPermaLink="false">200</guid>
+      <pubDate>Thu, 03 Dec 2020 21:40:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203062051.jpg"/>
+    </item>
   </channel>
 </rss>

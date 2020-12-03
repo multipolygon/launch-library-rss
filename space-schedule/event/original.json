@@ -231,13 +231,77 @@
    }
   },
   {
+   "id": "~space-schedule~event~docking~200",
+   "title": "Chang'e 5 Ascent Stage-Orbiter Docking",
+   "content_text": "The Chang'e 5 ascent stage, loaded with lunar samples, will autonomously dock with the orbiter around the moon.",
+   "url": "https://ll.thespacedevs.com/2.0.0/event/200.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203062051.jpg",
+   "date_published": "2020-12-03T21:40:00Z",
+   "date_modified": "2020-12-03T21:40:00Z",
+   "tags": [
+    "event",
+    "docking"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203062051.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Docking | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "200",
+    "global": "~space-schedule~event~docking~200"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~launch~199",
+   "title": "Chang'e 5 Ascent Stage Liftoff",
+   "content_text": "The Chang'e 5 ascent stage will launch from the surface of the Moon with lunar soil samples that will be returned to Earth.",
+   "url": "https://ll.thespacedevs.com/2.0.0/event/199.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203095059.jpg",
+   "date_published": "2020-12-03T15:13:00Z",
+   "date_modified": "2020-12-03T15:13:00Z",
+   "tags": [
+    "event",
+    "launch"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203095059.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Launch | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "199",
+    "global": "~space-schedule~event~launch~199"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/launch/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~cryoproof_test~197",
    "title": "Starship SN8 Testing",
-   "content_text": "SN8 will perform tests before the 15 km flight.",
+   "content_text": "SN8 performed a Wet Dress Rehearsal to validate tank performance before the 15 km flight.",
    "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201129190547.jpeg",
-   "date_published": "2020-12-02T23:00:00Z",
-   "date_modified": "2020-12-02T23:00:00Z",
+   "date_published": "2020-12-03T03:00:00Z",
+   "date_modified": "2020-12-03T03:00:00Z",
    "tags": [
     "event",
     "cryoproof_test"
@@ -262,38 +326,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/cryoproof_test/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~moon_landing~191",
-   "title": "Chang'e 5 Lunar Landing",
-   "content_text": "The Chinese Chang'e 5 spacecraft is scheduled to land in the Mons Rümker region of Oceanus Procellarum, located in the northwest region of the near side of the Moon. The lander will collect 2 kg of samples which will then be placed in an ascent vehicle and brought back to Earth.\r\n\r\nLanding time is approximate and not accurately known.",
-   "url": "https://en.wikipedia.org/wiki/Chang%27e_5",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_l_image_20201122181736.png",
-   "date_published": "2020-12-01T15:13:00Z",
-   "date_modified": "2020-12-01T15:13:00Z",
-   "tags": [
-    "event",
-    "moon_landing"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_l_image_20201122181736.png"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Moon Landing | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "191",
-    "global": "~space-schedule~event~moon_landing~191"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/moon_landing/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -304,7 +336,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 9,
+  "itemCount": 10,
   "pageNumber": 1,
   "pageCount": 1
  }

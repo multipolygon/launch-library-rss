@@ -132,41 +132,34 @@ Dragon will be filled with supplies and payloads, including critical materials t
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_pre-laun_image_20201124225737.png"/>
     </item>
     <item>
-      <title>Soyuz 2.1b/Fregat-M | Gonets-M30, Gonets-M31, Gonets-M32</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/107fb32b-7f28-4560-af33-2790bc4118e8.json</link>
-      <description>Gonets-M are an upgraded version of Gonets satellites, derived from military  communications system Strela-3. Gonets-M constellation is tasked with monitoring ecological and industrial objects, providing communication and data transmission services, covering also the remote areas like the Far North region.</description>
+      <title>Chang'e 5 Ascent Stage-Orbiter Docking</title>
+      <link>https://ll.thespacedevs.com/2.0.0/event/200.json</link>
+      <description>The Chang'e 5 ascent stage, loaded with lunar samples, will autonomously dock with the orbiter around the moon.</description>
+      <category>event</category>
+      <category>docking</category>
+      <guid isPermaLink="false">~space-schedule~event~docking~200</guid>
+      <pubDate>Thu, 03 Dec 2020 21:40:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203062051.jpg"/>
+    </item>
+    <item>
+      <title>Chang'e 5 Ascent Stage Liftoff</title>
+      <link>https://ll.thespacedevs.com/2.0.0/event/199.json</link>
+      <description>The Chang'e 5 ascent stage will launch from the surface of the Moon with lunar soil samples that will be returned to Earth.</description>
+      <category>event</category>
       <category>launch</category>
-      <category>russian_space_forces</category>
-      <category>government</category>
-      <category>soyuz</category>
-      <category>soyuz_2_1_b</category>
-      <category>communications</category>
-      <category>43_3_43_l</category>
-      <guid isPermaLink="false">~space-schedule~launch~russian_space_forces~107fb32b-7f28-4560-af33-2790bc4118e8</guid>
-      <pubDate>Thu, 03 Dec 2020 01:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"/>
+      <guid isPermaLink="false">~space-schedule~event~launch~199</guid>
+      <pubDate>Thu, 03 Dec 2020 15:13:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203095059.jpg"/>
     </item>
     <item>
       <title>Starship SN8 Testing</title>
       <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SN8 will perform tests before the 15 km flight.</description>
+      <description>SN8 performed a Wet Dress Rehearsal to validate tank performance before the 15 km flight.</description>
       <category>event</category>
       <category>cryoproof_test</category>
       <guid isPermaLink="false">~space-schedule~event~cryoproof_test~197</guid>
-      <pubDate>Wed, 02 Dec 2020 23:00:00 GMT</pubDate>
+      <pubDate>Thu, 03 Dec 2020 03:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201129190547.jpeg"/>
-    </item>
-    <item>
-      <title>Chang'e 5 Lunar Landing</title>
-      <link>https://en.wikipedia.org/wiki/Chang%27e_5</link>
-      <description>The Chinese Chang'e 5 spacecraft is scheduled to land in the Mons Rümker region of Oceanus Procellarum, located in the northwest region of the near side of the Moon. The lander will collect 2 kg of samples which will then be placed in an ascent vehicle and brought back to Earth.&#xD;
-&#xD;
-Landing time is approximate and not accurately known.</description>
-      <category>event</category>
-      <category>moon_landing</category>
-      <guid isPermaLink="false">~space-schedule~event~moon_landing~191</guid>
-      <pubDate>Tue, 01 Dec 2020 15:13:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_l_image_20201122181736.png"/>
     </item>
   </channel>
 </rss>

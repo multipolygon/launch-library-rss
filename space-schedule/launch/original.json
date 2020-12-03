@@ -112,43 +112,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~russian_space_forces~107fb32b-7f28-4560-af33-2790bc4118e8",
-   "title": "Soyuz 2.1b/Fregat-M | Gonets-M30, Gonets-M31, Gonets-M32",
-   "content_text": "Gonets-M are an upgraded version of Gonets satellites, derived from military  communications system Strela-3. Gonets-M constellation is tasked with monitoring ecological and industrial objects, providing communication and data transmission services, covering also the remote areas like the Far North region.",
-   "url": "https://ll.thespacedevs.com/2.0.0/launch/107fb32b-7f28-4560-af33-2790bc4118e8.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
-   "date_published": "2020-12-03T01:00:00Z",
-   "date_modified": "2020-12-03T01:00:00Z",
-   "tags": [
-    "launch",
-    "russian_space_forces",
-    "government",
-    "soyuz",
-    "soyuz_2_1_b",
-    "communications",
-    "43_3_43_l"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Russian Space Forces | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "107fb32b-7f28-4560-af33-2790bc4118e8",
-    "global": "~space-schedule~launch~russian_space_forces~107fb32b-7f28-4560-af33-2790bc4118e8"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_space_forces/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -159,7 +122,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 4,
+  "itemCount": 3,
   "pageNumber": 1,
   "pageCount": 1
  }

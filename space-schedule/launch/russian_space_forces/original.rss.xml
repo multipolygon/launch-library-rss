@@ -2,27 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_space_forces/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Russian Space Forces | Launch | Space Schedule</title>
+    <title>Russian Space Forces</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Frussian_space_forces%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
-    <pubDate>Thu, 03 Dec 2020 01:00:00 GMT</pubDate>
+    <pubDate>Thu, 03 Dec 2020 11:22:55 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <item>
-      <title>Soyuz 2.1b/Fregat-M | Gonets-M30, Gonets-M31, Gonets-M32</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/107fb32b-7f28-4560-af33-2790bc4118e8.json</link>
-      <description>Gonets-M are an upgraded version of Gonets satellites, derived from military  communications system Strela-3. Gonets-M constellation is tasked with monitoring ecological and industrial objects, providing communication and data transmission services, covering also the remote areas like the Far North region.</description>
-      <category>launch</category>
-      <category>russian_space_forces</category>
-      <category>government</category>
-      <category>soyuz</category>
-      <category>soyuz_2_1_b</category>
-      <category>communications</category>
-      <category>43_3_43_l</category>
-      <guid isPermaLink="false">107fb32b-7f28-4560-af33-2790bc4118e8</guid>
-      <pubDate>Thu, 03 Dec 2020 01:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"/>
-    </item>
   </channel>
 </rss>

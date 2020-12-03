@@ -90,27 +90,36 @@ The meeting will be livestreamed on NASA TV.</content>
     <category term="press_event"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~docking~200</id>
+    <title>Chang'e 5 Ascent Stage-Orbiter Docking</title>
+    <updated>2020-12-03T21:40:00Z</updated>
+    <published>2020-12-03T21:40:00Z</published>
+    <content type="text">The Chang'e 5 ascent stage, loaded with lunar samples, will autonomously dock with the orbiter around the moon.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/event/200.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203062051.jpg"/>
+    <category term="event"/>
+    <category term="docking"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~launch~199</id>
+    <title>Chang'e 5 Ascent Stage Liftoff</title>
+    <updated>2020-12-03T15:13:00Z</updated>
+    <published>2020-12-03T15:13:00Z</published>
+    <content type="text">The Chang'e 5 ascent stage will launch from the surface of the Moon with lunar soil samples that will be returned to Earth.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/event/199.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203095059.jpg"/>
+    <category term="event"/>
+    <category term="launch"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~cryoproof_test~197</id>
     <title>Starship SN8 Testing</title>
-    <updated>2020-12-02T23:00:00Z</updated>
-    <published>2020-12-02T23:00:00Z</published>
-    <content type="text">SN8 will perform tests before the 15 km flight.</content>
+    <updated>2020-12-03T03:00:00Z</updated>
+    <published>2020-12-03T03:00:00Z</published>
+    <content type="text">SN8 performed a Wet Dress Rehearsal to validate tank performance before the 15 km flight.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201129190547.jpeg"/>
     <category term="event"/>
     <category term="cryoproof_test"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~moon_landing~191</id>
-    <title>Chang'e 5 Lunar Landing</title>
-    <updated>2020-12-01T15:13:00Z</updated>
-    <published>2020-12-01T15:13:00Z</published>
-    <content type="text">The Chinese Chang'e 5 spacecraft is scheduled to land in the Mons Rümker region of Oceanus Procellarum, located in the northwest region of the near side of the Moon. The lander will collect 2 kg of samples which will then be placed in an ascent vehicle and brought back to Earth.&#xD;
-&#xD;
-Landing time is approximate and not accurately known.</content>
-    <link rel="alternate" href="https://en.wikipedia.org/wiki/Chang%27e_5"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_l_image_20201122181736.png"/>
-    <category term="event"/>
-    <category term="moon_landing"/>
   </entry>
 </feed>

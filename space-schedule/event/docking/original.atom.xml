@@ -18,4 +18,15 @@
     <category term="event"/>
     <category term="docking"/>
   </entry>
+  <entry>
+    <id>200</id>
+    <title>Chang'e 5 Ascent Stage-Orbiter Docking</title>
+    <updated>2020-12-03T21:40:00Z</updated>
+    <published>2020-12-03T21:40:00Z</published>
+    <content type="text">The Chang'e 5 ascent stage, loaded with lunar samples, will autonomously dock with the orbiter around the moon.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/event/200.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203062051.jpg"/>
+    <category term="event"/>
+    <category term="docking"/>
+  </entry>
 </feed>
