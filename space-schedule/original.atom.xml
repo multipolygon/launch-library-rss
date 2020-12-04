@@ -98,12 +98,27 @@ The meeting will be livestreamed on NASA TV.</content>
     <category term="docking"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~b83dc12b-3758-4f13-a079-74493a8228e2</id>
+    <title>Long March 3B/E | Gaofen 14</title>
+    <updated>2020-12-06T03:49:00Z</updated>
+    <published>2020-12-06T03:49:00Z</published>
+    <content type="text">Gaofen is a series of civilian Earth observation satellites developed and launched for the China High-definition Earth Observation System (CHEOS), a state-sponsored programme aimed to develop a near-real time, all-weather, global surveillance network consisting of satellite, near-space (stratosphere) airships, and aerial observation platforms.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/b83dc12b-3758-4f13-a079-74493a8228e2.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
+    <category term="launch"/>
+    <category term="china_aerospace_science_and_technology_corporation"/>
+    <category term="government"/>
+    <category term="long_march_3"/>
+    <category term="earth_science"/>
+    <category term="launch_complex_3_lc_3_la_1"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~landing~35</id>
     <title>Hayabusa-2 Sample Returns to Earth</title>
     <updated>2020-12-05T17:52:00Z</updated>
     <published>2020-12-05T17:52:00Z</published>
     <content type="text">When Hayabusa-2 flies past Earth in December 2020, it will release the capsule spinning at one revolution per three seconds. The capsule will re-enter the Earth's atmosphere at 12 km/s and it will deploy a radar-reflective parachute at an altitude of about 10 km, and eject its heat-shield, while transmitting a position beacon signal. The sample capsule will land at the Woomera Test Range in Australia.</content>
-    <link rel="alternate" href="https://en.wikipedia.org/wiki/Hayabusa2"/>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Dq_6FRV91Hs"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg"/>
     <category term="event"/>
     <category term="landing"/>
@@ -131,8 +146,8 @@ Dragon will be filled with supplies and payloads, including critical materials t
   <entry>
     <id>~space-schedule~event~press_event~194</id>
     <title>CRS-21 Pre-Launch News Conference</title>
-    <updated>2020-12-04T20:00:00Z</updated>
-    <published>2020-12-04T20:00:00Z</published>
+    <updated>2020-12-04T21:00:00Z</updated>
+    <published>2020-12-04T21:00:00Z</published>
     <content type="text">Representatives from NASA’s International Space Station Program, SpaceX, and the U.S. Air Force’s 45th Space Wing will host a Prelaunch news conference detailing information about the CRS-21 Mission.</content>
     <link rel="alternate" href="https://youtu.be/21X5lGlDOfg"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_pre-laun_image_20201124225737.png"/>
@@ -160,16 +175,5 @@ Dragon will be filled with supplies and payloads, including critical materials t
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203095059.jpg"/>
     <category term="event"/>
     <category term="launch"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~cryoproof_test~197</id>
-    <title>Starship SN8 Testing</title>
-    <updated>2020-12-03T03:00:00Z</updated>
-    <published>2020-12-03T03:00:00Z</published>
-    <content type="text">SN8 performed a Wet Dress Rehearsal to validate tank performance before the 15 km flight.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201129190547.jpeg"/>
-    <category term="event"/>
-    <category term="cryoproof_test"/>
   </entry>
 </feed>

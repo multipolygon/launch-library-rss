@@ -39,6 +39,21 @@
     <category term="lp_3_b"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~b83dc12b-3758-4f13-a079-74493a8228e2</id>
+    <title>Long March 3B/E | Gaofen 14</title>
+    <updated>2020-12-06T03:49:00Z</updated>
+    <published>2020-12-06T03:49:00Z</published>
+    <content type="text">Gaofen is a series of civilian Earth observation satellites developed and launched for the China High-definition Earth Observation System (CHEOS), a state-sponsored programme aimed to develop a near-real time, all-weather, global surveillance network consisting of satellite, near-space (stratosphere) airships, and aerial observation platforms.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/b83dc12b-3758-4f13-a079-74493a8228e2.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
+    <category term="launch"/>
+    <category term="china_aerospace_science_and_technology_corporation"/>
+    <category term="government"/>
+    <category term="long_march_3"/>
+    <category term="earth_science"/>
+    <category term="launch_complex_3_lc_3_la_1"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~space_x~06dfcb34-0b76-4fbc-9046-09ab66db7b83</id>
     <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-21</title>
     <updated>2020-12-05T16:39:00Z</updated>

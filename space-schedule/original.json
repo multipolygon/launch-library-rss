@@ -239,10 +239,46 @@
    }
   },
   {
+   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~b83dc12b-3758-4f13-a079-74493a8228e2",
+   "title": "Long March 3B/E | Gaofen 14",
+   "content_text": "Gaofen is a series of civilian Earth observation satellites developed and launched for the China High-definition Earth Observation System (CHEOS), a state-sponsored programme aimed to develop a near-real time, all-weather, global surveillance network consisting of satellite, near-space (stratosphere) airships, and aerial observation platforms.",
+   "url": "https://ll.thespacedevs.com/2.0.0/launch/b83dc12b-3758-4f13-a079-74493a8228e2.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
+   "date_published": "2020-12-06T03:49:00Z",
+   "date_modified": "2020-12-06T03:49:00Z",
+   "tags": [
+    "launch",
+    "china_aerospace_science_and_technology_corporation",
+    "government",
+    "long_march_3",
+    "earth_science",
+    "launch_complex_3_lc_3_la_1"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "b83dc12b-3758-4f13-a079-74493a8228e2",
+    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~b83dc12b-3758-4f13-a079-74493a8228e2"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~landing~35",
    "title": "Hayabusa-2 Sample Returns to Earth",
    "content_text": "When Hayabusa-2 flies past Earth in December 2020, it will release the capsule spinning at one revolution per three seconds. The capsule will re-enter the Earth's atmosphere at 12 km/s and it will deploy a radar-reflective parachute at an altitude of about 10 km, and eject its heat-shield, while transmitting a position beacon signal. The sample capsule will land at the Woomera Test Range in Australia.",
-   "url": "https://en.wikipedia.org/wiki/Hayabusa2",
+   "url": "https://www.youtube.com/watch?v=Dq_6FRV91Hs",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg",
    "date_published": "2020-12-05T17:52:00Z",
    "date_modified": "2020-12-05T17:52:00Z",
@@ -260,6 +296,7 @@
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
+    "youtubeCount": 1,
     "subtitle": "Landing | Event | Space Schedule"
    },
    "_id": {
@@ -315,8 +352,8 @@
    "content_text": "Representatives from NASA’s International Space Station Program, SpaceX, and the U.S. Air Force’s 45th Space Wing will host a Prelaunch news conference detailing information about the CRS-21 Mission.",
    "url": "https://youtu.be/21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_pre-laun_image_20201124225737.png",
-   "date_published": "2020-12-04T20:00:00Z",
-   "date_modified": "2020-12-04T20:00:00Z",
+   "date_published": "2020-12-04T21:00:00Z",
+   "date_modified": "2020-12-04T21:00:00Z",
    "tags": [
     "event",
     "press_event"
@@ -403,39 +440,6 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/launch/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~cryoproof_test~197",
-   "title": "Starship SN8 Testing",
-   "content_text": "SN8 performed a Wet Dress Rehearsal to validate tank performance before the 15 km flight.",
-   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201129190547.jpeg",
-   "date_published": "2020-12-03T03:00:00Z",
-   "date_modified": "2020-12-03T03:00:00Z",
-   "tags": [
-    "event",
-    "cryoproof_test"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201129190547.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Cryoproof Test | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "197",
-    "global": "~space-schedule~event~cryoproof_test~197"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/cryoproof_test/original.json"
    }
   }
  ],

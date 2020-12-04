@@ -1,5 +1,5 @@
 {
-    "count": 3,
+    "count": 4,
     "next": null,
     "previous": null,
     "results": [
@@ -17,8 +17,8 @@
             "window_end": "2020-12-05T16:39:00Z",
             "window_start": "2020-12-05T16:39:00Z",
             "inhold": false,
-            "tbdtime": true,
-            "tbddate": true,
+            "tbdtime": false,
+            "tbddate": false,
             "probability": 40,
             "holdreason": "",
             "failreason": "",
@@ -161,6 +161,84 @@
                     "wiki_url": "https://en.wikipedia.org/wiki/International_Space_Station_programme"
                 }
             ]
+        },
+        {
+            "id": "b83dc12b-3758-4f13-a079-74493a8228e2",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/b83dc12b-3758-4f13-a079-74493a8228e2.json",
+            "launch_library_id": null,
+            "slug": "long-march-3be-gaofen-14",
+            "name": "Long March 3B/E | Gaofen 14",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2020-12-06T03:55:00Z",
+            "window_end": "2020-12-06T04:17:00Z",
+            "window_start": "2020-12-06T03:49:00Z",
+            "inhold": false,
+            "tbdtime": false,
+            "tbddate": false,
+            "probability": null,
+            "holdreason": "",
+            "failreason": "",
+            "hashtag": null,
+            "launch_service_provider": {
+                "id": 88,
+                "url": "https://ll.thespacedevs.com/2.0.0/agencies/88.json",
+                "name": "China Aerospace Science and Technology Corporation",
+                "type": "Government"
+            },
+            "rocket": {
+                "id": 2810,
+                "configuration": {
+                    "id": 50,
+                    "launch_library_id": 69,
+                    "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/50.json",
+                    "name": "Long March 3",
+                    "family": "Long March 3",
+                    "full_name": "Long March 3B/E",
+                    "variant": "B/E"
+                }
+            },
+            "mission": {
+                "id": 1215,
+                "launch_library_id": null,
+                "name": "Gaofen 14",
+                "description": "Gaofen is a series of civilian Earth observation satellites developed and launched for the China High-definition Earth Observation System (CHEOS), a state-sponsored programme aimed to develop a near-real time, all-weather, global surveillance network consisting of satellite, near-space (stratosphere) airships, and aerial observation platforms.",
+                "launch_designator": null,
+                "type": "Earth Science",
+                "orbit": {
+                    "id": 17,
+                    "name": "Sun-Synchronous Orbit",
+                    "abbrev": "SSO"
+                }
+            },
+            "pad": {
+                "id": 66,
+                "url": "https://ll.thespacedevs.com/2.0.0/pad/66.json",
+                "agency_id": 17,
+                "name": "Launch Complex 3 ( LC-3 ) ( LA-1 )",
+                "info_url": null,
+                "wiki_url": "https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center",
+                "map_url": "https://www.google.com/maps/?q=28.246017,102.026556",
+                "latitude": "28.246017",
+                "longitude": "102.026556",
+                "location": {
+                    "id": 16,
+                    "url": "https://ll.thespacedevs.com/2.0.0/location/16.json",
+                    "name": "Xichang Satellite Launch Center, People's Republic of China",
+                    "country_code": "CHN",
+                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg",
+                    "total_launch_count": 97,
+                    "total_landing_count": 0
+                },
+                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_66_20200803143611.jpg",
+                "total_launch_count": 33
+            },
+            "webcast_live": false,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
+            "infographic": null,
+            "program": []
         },
         {
             "id": "ffaceda9-2d21-4c79-b854-3414b774d8af",

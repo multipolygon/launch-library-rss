@@ -66,7 +66,7 @@ The meeting will be livestreamed on NASA TV.</description>
     </item>
     <item>
       <title>Hayabusa-2 Sample Returns to Earth</title>
-      <link>https://en.wikipedia.org/wiki/Hayabusa2</link>
+      <link>https://www.youtube.com/watch?v=Dq_6FRV91Hs</link>
       <description>When Hayabusa-2 flies past Earth in December 2020, it will release the capsule spinning at one revolution per three seconds. The capsule will re-enter the Earth's atmosphere at 12 km/s and it will deploy a radar-reflective parachute at an altitude of about 10 km, and eject its heat-shield, while transmitting a position beacon signal. The sample capsule will land at the Woomera Test Range in Australia.</description>
       <category>event</category>
       <category>landing</category>
@@ -81,7 +81,7 @@ The meeting will be livestreamed on NASA TV.</description>
       <category>event</category>
       <category>press_event</category>
       <guid isPermaLink="false">~space-schedule~event~press_event~194</guid>
-      <pubDate>Fri, 04 Dec 2020 20:00:00 GMT</pubDate>
+      <pubDate>Fri, 04 Dec 2020 21:00:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_pre-laun_image_20201124225737.png"/>
     </item>
     <item>
@@ -103,16 +103,6 @@ The meeting will be livestreamed on NASA TV.</description>
       <guid isPermaLink="false">~space-schedule~event~launch~199</guid>
       <pubDate>Thu, 03 Dec 2020 15:13:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203095059.jpg"/>
-    </item>
-    <item>
-      <title>Starship SN8 Testing</title>
-      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SN8 performed a Wet Dress Rehearsal to validate tank performance before the 15 km flight.</description>
-      <category>event</category>
-      <category>cryoproof_test</category>
-      <guid isPermaLink="false">~space-schedule~event~cryoproof_test~197</guid>
-      <pubDate>Thu, 03 Dec 2020 03:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_st_image_20201129190547.jpeg"/>
     </item>
   </channel>
 </rss>
