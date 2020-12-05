@@ -89,26 +89,4 @@ The meeting will be livestreamed on NASA TV.</content>
     <category term="event"/>
     <category term="press_event"/>
   </entry>
-  <entry>
-    <id>~space-schedule~event~docking~200</id>
-    <title>Chang'e 5 Ascent Stage-Orbiter Docking</title>
-    <updated>2020-12-03T21:40:00Z</updated>
-    <published>2020-12-03T21:40:00Z</published>
-    <content type="text">The Chang'e 5 ascent stage, loaded with lunar samples, will autonomously dock with the orbiter around the moon.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/event/200.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203062051.jpg"/>
-    <category term="event"/>
-    <category term="docking"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~launch~199</id>
-    <title>Chang'e 5 Ascent Stage Liftoff</title>
-    <updated>2020-12-03T15:13:00Z</updated>
-    <published>2020-12-03T15:13:00Z</published>
-    <content type="text">The Chang'e 5 ascent stage will launch from the surface of the Moon with lunar soil samples that will be returned to Earth.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/event/199.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203095059.jpg"/>
-    <category term="event"/>
-    <category term="launch"/>
-  </entry>
 </feed>

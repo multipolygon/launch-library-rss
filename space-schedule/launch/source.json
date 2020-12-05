@@ -78,7 +78,7 @@
             },
             "webcast_live": false,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
-            "infographic": null,
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20201204221852.png",
             "program": [
                 {
                     "id": 11,
@@ -250,9 +250,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2020-12-07T19:00:00Z",
-            "window_end": "2020-12-07T22:00:00Z",
-            "window_start": "2020-12-07T19:00:00Z",
+            "net": "2020-12-10T19:00:00Z",
+            "window_end": "2020-12-10T22:00:00Z",
+            "window_start": "2020-12-10T19:00:00Z",
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,

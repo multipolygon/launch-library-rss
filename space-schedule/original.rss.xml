@@ -57,18 +57,6 @@ Part of the testing will involve a 8 minute 'Hot Fire' of the core stage, demons
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"/>
     </item>
     <item>
-      <title>8th meeting of the National Space Council</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>US Vice President Mike Pence will convene the 8th meeting of the National Space Council at NASA's Kennedy Space Center on December 9 at 12:30 p.m. ET. &#xD;
-&#xD;
-The meeting will be livestreamed on NASA TV.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~198</guid>
-      <pubDate>Wed, 09 Dec 2020 17:30:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/8th_meeting_of__image_20201201090808.jpeg"/>
-    </item>
-    <item>
       <title>Astra Rocket 3.2 | Flight 2</title>
       <link>https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af.json</link>
       <description>Astra will attempt a second test flight of Rocket 3.0 following an unsuccessful first flight</description>
@@ -79,8 +67,20 @@ The meeting will be livestreamed on NASA TV.</description>
       <category>test_flight</category>
       <category>lp_3_b</category>
       <guid isPermaLink="false">~space-schedule~launch~astra_space~ffaceda9-2d21-4c79-b854-3414b774d8af</guid>
-      <pubDate>Mon, 07 Dec 2020 19:00:00 GMT</pubDate>
+      <pubDate>Thu, 10 Dec 2020 19:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"/>
+    </item>
+    <item>
+      <title>8th meeting of the National Space Council</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>US Vice President Mike Pence will convene the 8th meeting of the National Space Council at NASA's Kennedy Space Center on December 9 at 12:30 p.m. ET. &#xD;
+&#xD;
+The meeting will be livestreamed on NASA TV.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~198</guid>
+      <pubDate>Wed, 09 Dec 2020 17:30:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/8th_meeting_of__image_20201201090808.jpeg"/>
     </item>
     <item>
       <title>CRS-21 Dragon Docking</title>
@@ -144,26 +144,6 @@ Dragon will be filled with supplies and payloads, including critical materials t
       <guid isPermaLink="false">~space-schedule~event~press_event~194</guid>
       <pubDate>Fri, 04 Dec 2020 21:00:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_pre-laun_image_20201124225737.png"/>
-    </item>
-    <item>
-      <title>Chang'e 5 Ascent Stage-Orbiter Docking</title>
-      <link>https://ll.thespacedevs.com/2.0.0/event/200.json</link>
-      <description>The Chang'e 5 ascent stage, loaded with lunar samples, will autonomously dock with the orbiter around the moon.</description>
-      <category>event</category>
-      <category>docking</category>
-      <guid isPermaLink="false">~space-schedule~event~docking~200</guid>
-      <pubDate>Thu, 03 Dec 2020 21:40:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203062051.jpg"/>
-    </item>
-    <item>
-      <title>Chang'e 5 Ascent Stage Liftoff</title>
-      <link>https://ll.thespacedevs.com/2.0.0/event/199.json</link>
-      <description>The Chang'e 5 ascent stage will launch from the surface of the Moon with lunar soil samples that will be returned to Earth.</description>
-      <category>event</category>
-      <category>launch</category>
-      <guid isPermaLink="false">~space-schedule~event~launch~199</guid>
-      <pubDate>Thu, 03 Dec 2020 15:13:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203095059.jpg"/>
     </item>
   </channel>
 </rss>

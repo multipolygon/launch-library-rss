@@ -230,70 +230,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~docking~200",
-   "title": "Chang'e 5 Ascent Stage-Orbiter Docking",
-   "content_text": "The Chang'e 5 ascent stage, loaded with lunar samples, will autonomously dock with the orbiter around the moon.",
-   "url": "https://ll.thespacedevs.com/2.0.0/event/200.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203062051.jpg",
-   "date_published": "2020-12-03T21:40:00Z",
-   "date_modified": "2020-12-03T21:40:00Z",
-   "tags": [
-    "event",
-    "docking"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203062051.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Docking | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "200",
-    "global": "~space-schedule~event~docking~200"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~launch~199",
-   "title": "Chang'e 5 Ascent Stage Liftoff",
-   "content_text": "The Chang'e 5 ascent stage will launch from the surface of the Moon with lunar soil samples that will be returned to Earth.",
-   "url": "https://ll.thespacedevs.com/2.0.0/event/199.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203095059.jpg",
-   "date_published": "2020-12-03T15:13:00Z",
-   "date_modified": "2020-12-03T15:13:00Z",
-   "tags": [
-    "event",
-    "launch"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_a_image_20201203095059.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Launch | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "199",
-    "global": "~space-schedule~event~launch~199"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/launch/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -304,7 +240,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 9,
+  "itemCount": 7,
   "pageNumber": 1,
   "pageCount": 1
  }
