@@ -12,14 +12,12 @@
     <item>
       <title>SLS Green Run Hot Fire</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The core stage of the 'Space Launch System' will undergo a 'Green Run' test, where the stage and major components will be tested as a full stack to ensure safety of the vehicle.&#xD;
-&#xD;
-Part of the testing will involve a 8 minute 'Hot Fire' of the core stage, demonstrating performance similar to an actual launch.</description>
+      <description>The core stage of the Space Launch System will undergo the final 'Green Run' test, where the core stage will be fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">38</guid>
       <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20200830035331.jpg"/>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
     </item>
   </channel>
 </rss>

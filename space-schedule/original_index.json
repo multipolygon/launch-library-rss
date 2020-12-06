@@ -6,13 +6,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/original_index.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Foriginal_index.json",
    "title": "Event",
-   "content_text": "5 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20200830035331.jpg",
+   "content_text": "7 items",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg",
    "date_published": "2020-12-31T00:00:00Z",
    "date_modified": "2020-12-31T00:00:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 5,
+    "itemCount": 7,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0
@@ -22,13 +22,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/original_index.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Foriginal_index.json",
    "title": "Launch",
-   "content_text": "4 items",
+   "content_text": "3 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
    "date_published": "2020-12-19T18:00:00Z",
    "date_modified": "2020-12-19T18:00:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 4,
+    "itemCount": 3,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0

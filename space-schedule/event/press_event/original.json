@@ -27,30 +27,6 @@
     "imageCount": 1,
     "youtubeCount": 1
    }
-  },
-  {
-   "id": "194",
-   "title": "CRS-21 Pre-Launch News Conference",
-   "content_text": "Representatives from NASA’s International Space Station Program, SpaceX, and the U.S. Air Force’s 45th Space Wing will host a Prelaunch news conference detailing information about the CRS-21 Mission.",
-   "url": "https://youtu.be/21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_pre-laun_image_20201124225737.png",
-   "date_published": "2020-12-04T21:00:00Z",
-   "date_modified": "2020-12-04T21:00:00Z",
-   "tags": [
-    "event",
-    "press_event"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_pre-laun_image_20201124225737.png"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1
-   }
   }
  ],
  "_feed_url": {
@@ -59,7 +35,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json",
  "_meta": {
-  "itemCount": 2,
+  "itemCount": 1,
   "pageNumber": 1,
   "pageCount": 1
  }

@@ -13,11 +13,9 @@
     <title>SLS Green Run Hot Fire</title>
     <updated>2020-12-31T00:00:00Z</updated>
     <published>2020-12-31T00:00:00Z</published>
-    <content type="text">The core stage of the 'Space Launch System' will undergo a 'Green Run' test, where the stage and major components will be tested as a full stack to ensure safety of the vehicle.&#xD;
-&#xD;
-Part of the testing will involve a 8 minute 'Hot Fire' of the core stage, demonstrating performance similar to an actual launch.</content>
+    <content type="text">The core stage of the Space Launch System will undergo the final 'Green Run' test, where the core stage will be fired for 8 minutes, demonstrating performance similar to an actual launch.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20200830035331.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
     <category term="event"/>
     <category term="static_fire"/>
   </entry>
@@ -35,13 +33,24 @@ Part of the testing will involve a 8 minute 'Hot Fire' of the core stage, demons
   <entry>
     <id>~space-schedule~event~landing~192</id>
     <title>Chang'e 5 Sample Returns to Earth</title>
-    <updated>2020-12-15T00:00:00Z</updated>
-    <published>2020-12-15T00:00:00Z</published>
+    <updated>2020-12-16T00:00:00Z</updated>
+    <published>2020-12-16T00:00:00Z</published>
     <content type="text">The Chang'e 5 sample-return capsule will enter the Earth's atmosphere and land in Dorbod Banner, Inner Mongolia.</content>
     <link rel="alternate" href="https://en.wikipedia.org/wiki/Chang%27e_5"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"/>
     <category term="event"/>
     <category term="landing"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~celestial_event~202</id>
+    <title>Total Solar Eclipse in South America</title>
+    <updated>2020-12-14T15:30:00Z</updated>
+    <published>2020-12-14T15:30:00Z</published>
+    <content type="text">Camera views of the total solar eclipse in South America will be broadcasted on NASA TV.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/total_solar_ecl_image_20201206083620.jpeg"/>
+    <category term="event"/>
+    <category term="celestial_event"/>
   </entry>
   <entry>
     <id>~space-schedule~event~press_event~198</id>
@@ -59,13 +68,24 @@ The meeting will be livestreamed on NASA TV.</content>
   <entry>
     <id>~space-schedule~event~docking~195</id>
     <title>CRS-21 Dragon Docking</title>
-    <updated>2020-12-06T11:30:00Z</updated>
-    <published>2020-12-06T11:30:00Z</published>
+    <updated>2020-12-07T18:30:00Z</updated>
+    <published>2020-12-07T18:30:00Z</published>
     <content type="text">Following its launch atop a Falcon 9, the CRS-21 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_d_image_20201124230032.jpeg"/>
     <category term="event"/>
     <category term="docking"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~wet_dress_rehearsal~201</id>
+    <title>SLS Green Run Wet Dress Rehearsal</title>
+    <updated>2020-12-07T17:00:00Z</updated>
+    <published>2020-12-07T17:00:00Z</published>
+    <content type="text">The core stage of the Space Launch System will undergo the next 'Green Run' test, where the stage will be loaded with more than 700,000 gallons of cryogenic propellant.</content>
+    <link rel="alternate" href="https://blogs.nasa.gov/artemis/2020/12/04/nasa-go-for-green-run-wet-dress-rehearsal"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_w_image_20201205114845.jpg"/>
+    <category term="event"/>
+    <category term="wet_dress_rehearsal"/>
   </entry>
   <entry>
     <id>~space-schedule~event~landing~35</id>
@@ -77,16 +97,5 @@ The meeting will be livestreamed on NASA TV.</content>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg"/>
     <category term="event"/>
     <category term="landing"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~press_event~194</id>
-    <title>CRS-21 Pre-Launch News Conference</title>
-    <updated>2020-12-04T21:00:00Z</updated>
-    <published>2020-12-04T21:00:00Z</published>
-    <content type="text">Representatives from NASA’s International Space Station Program, SpaceX, and the U.S. Air Force’s 45th Space Wing will host a Prelaunch news conference detailing information about the CRS-21 Mission.</content>
-    <link rel="alternate" href="https://youtu.be/21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_pre-laun_image_20201124225737.png"/>
-    <category term="event"/>
-    <category term="press_event"/>
   </entry>
 </feed>

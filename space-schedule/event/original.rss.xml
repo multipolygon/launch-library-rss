@@ -13,14 +13,12 @@
     <item>
       <title>SLS Green Run Hot Fire</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The core stage of the 'Space Launch System' will undergo a 'Green Run' test, where the stage and major components will be tested as a full stack to ensure safety of the vehicle.&#xD;
-&#xD;
-Part of the testing will involve a 8 minute 'Hot Fire' of the core stage, demonstrating performance similar to an actual launch.</description>
+      <description>The core stage of the Space Launch System will undergo the final 'Green Run' test, where the core stage will be fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">~space-schedule~event~static_fire~38</guid>
       <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20200830035331.jpg"/>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
     </item>
     <item>
       <title>NG-14 Cygnus Release &amp; Reentry</title>
@@ -39,8 +37,18 @@ Part of the testing will involve a 8 minute 'Hot Fire' of the core stage, demons
       <category>event</category>
       <category>landing</category>
       <guid isPermaLink="false">~space-schedule~event~landing~192</guid>
-      <pubDate>Tue, 15 Dec 2020 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"/>
+    </item>
+    <item>
+      <title>Total Solar Eclipse in South America</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>Camera views of the total solar eclipse in South America will be broadcasted on NASA TV.</description>
+      <category>event</category>
+      <category>celestial_event</category>
+      <guid isPermaLink="false">~space-schedule~event~celestial_event~202</guid>
+      <pubDate>Mon, 14 Dec 2020 15:30:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/total_solar_ecl_image_20201206083620.jpeg"/>
     </item>
     <item>
       <title>8th meeting of the National Space Council</title>
@@ -61,8 +69,18 @@ The meeting will be livestreamed on NASA TV.</description>
       <category>event</category>
       <category>docking</category>
       <guid isPermaLink="false">~space-schedule~event~docking~195</guid>
-      <pubDate>Sun, 06 Dec 2020 11:30:00 GMT</pubDate>
+      <pubDate>Mon, 07 Dec 2020 18:30:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_d_image_20201124230032.jpeg"/>
+    </item>
+    <item>
+      <title>SLS Green Run Wet Dress Rehearsal</title>
+      <link>https://blogs.nasa.gov/artemis/2020/12/04/nasa-go-for-green-run-wet-dress-rehearsal</link>
+      <description>The core stage of the Space Launch System will undergo the next 'Green Run' test, where the stage will be loaded with more than 700,000 gallons of cryogenic propellant.</description>
+      <category>event</category>
+      <category>wet_dress_rehearsal</category>
+      <guid isPermaLink="false">~space-schedule~event~wet_dress_rehearsal~201</guid>
+      <pubDate>Mon, 07 Dec 2020 17:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_w_image_20201205114845.jpg"/>
     </item>
     <item>
       <title>Hayabusa-2 Sample Returns to Earth</title>
@@ -73,16 +91,6 @@ The meeting will be livestreamed on NASA TV.</description>
       <guid isPermaLink="false">~space-schedule~event~landing~35</guid>
       <pubDate>Sat, 05 Dec 2020 17:52:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg"/>
-    </item>
-    <item>
-      <title>CRS-21 Pre-Launch News Conference</title>
-      <link>https://youtu.be/21X5lGlDOfg</link>
-      <description>Representatives from NASA’s International Space Station Program, SpaceX, and the U.S. Air Force’s 45th Space Wing will host a Prelaunch news conference detailing information about the CRS-21 Mission.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~194</guid>
-      <pubDate>Fri, 04 Dec 2020 21:00:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_pre-laun_image_20201124225737.png"/>
     </item>
   </channel>
 </rss>

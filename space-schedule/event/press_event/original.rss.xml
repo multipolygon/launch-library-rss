@@ -21,15 +21,5 @@ The meeting will be livestreamed on NASA TV.</description>
       <pubDate>Wed, 09 Dec 2020 17:30:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/8th_meeting_of__image_20201201090808.jpeg"/>
     </item>
-    <item>
-      <title>CRS-21 Pre-Launch News Conference</title>
-      <link>https://youtu.be/21X5lGlDOfg</link>
-      <description>Representatives from NASA’s International Space Station Program, SpaceX, and the U.S. Air Force’s 45th Space Wing will host a Prelaunch news conference detailing information about the CRS-21 Mission.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">194</guid>
-      <pubDate>Fri, 04 Dec 2020 21:00:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_pre-laun_image_20201124225737.png"/>
-    </item>
   </channel>
 </rss>

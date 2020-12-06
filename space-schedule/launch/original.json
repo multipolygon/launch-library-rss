@@ -75,49 +75,13 @@
    }
   },
   {
-   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~b83dc12b-3758-4f13-a079-74493a8228e2",
-   "title": "Long March 3B/E | Gaofen 14",
-   "content_text": "Gaofen is a series of civilian Earth observation satellites developed and launched for the China High-definition Earth Observation System (CHEOS), a state-sponsored programme aimed to develop a near-real time, all-weather, global surveillance network consisting of satellite, near-space (stratosphere) airships, and aerial observation platforms.",
-   "url": "https://ll.thespacedevs.com/2.0.0/launch/b83dc12b-3758-4f13-a079-74493a8228e2.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-   "date_published": "2020-12-06T03:49:00Z",
-   "date_modified": "2020-12-06T03:49:00Z",
-   "tags": [
-    "launch",
-    "china_aerospace_science_and_technology_corporation",
-    "government",
-    "long_march_3",
-    "earth_science",
-    "launch_complex_3_lc_3_la_1"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "b83dc12b-3758-4f13-a079-74493a8228e2",
-    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~b83dc12b-3758-4f13-a079-74493a8228e2"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~launch~space_x~06dfcb34-0b76-4fbc-9046-09ab66db7b83",
    "title": "Falcon 9 Block 5 | Dragon CRS-2 SpX-21",
    "content_text": "SpaceX will launch the first cargo variant of its Dragon 2 spacecraft on their 21st commercial resupply services mission to the International Space Station. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nDragon will be filled with supplies and payloads, including critical materials to directly support more than 250 science and research investigations that occur onboard the orbiting laboratory.",
    "url": "https://ll.thespacedevs.com/2.0.0/launch/06dfcb34-0b76-4fbc-9046-09ab66db7b83.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
-   "date_published": "2020-12-05T16:39:00Z",
-   "date_modified": "2020-12-05T16:39:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201205112911.jpg",
+   "date_published": "2020-12-06T16:17:00Z",
+   "date_modified": "2020-12-06T16:17:00Z",
    "tags": [
     "launch",
     "space_x",
@@ -132,7 +96,7 @@
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201205112911.jpg"
     }
    ],
    "_meta": {
@@ -158,7 +122,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 4,
+  "itemCount": 3,
   "pageNumber": 1,
   "pageCount": 1
  }

@@ -35,29 +35,13 @@
    }
   },
   {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_technology_corporation%2Foriginal.json",
-   "title": "China Aerospace Science and Technology Corporation | Launch | Space Schedule",
-   "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-   "date_published": "2020-12-06T03:49:00Z",
-   "date_modified": "2020-12-06T03:49:00Z",
-   "_geo": {},
-   "_meta": {
-    "itemCount": 1,
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 0
-   }
-  },
-  {
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json",
    "title": "SpaceX | Launch | Space Schedule",
    "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
-   "date_published": "2020-12-05T16:39:00Z",
-   "date_modified": "2020-12-05T16:39:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201205112911.jpg",
+   "date_published": "2020-12-06T16:17:00Z",
+   "date_modified": "2020-12-06T16:17:00Z",
    "_geo": {},
    "_meta": {
     "itemCount": 1,
@@ -75,7 +59,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal_index.json",
  "_meta": {
-  "itemCount": 4,
+  "itemCount": 3,
   "pageNumber": 1,
   "pageCount": 1
  }
