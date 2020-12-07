@@ -27,7 +27,7 @@
       <category>event</category>
       <category>release</category>
       <guid isPermaLink="false">~space-schedule~event~release~196</guid>
-      <pubDate>Wed, 16 Dec 2020 14:35:00 GMT</pubDate>
+      <pubDate>Wed, 16 Dec 2020 15:35:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg"/>
     </item>
     <item>
@@ -81,16 +81,6 @@ The meeting will be livestreamed on NASA TV.</description>
       <guid isPermaLink="false">~space-schedule~event~wet_dress_rehearsal~201</guid>
       <pubDate>Mon, 07 Dec 2020 17:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_w_image_20201205114845.jpg"/>
-    </item>
-    <item>
-      <title>Hayabusa-2 Sample Returns to Earth</title>
-      <link>https://www.youtube.com/watch?v=Dq_6FRV91Hs</link>
-      <description>When Hayabusa-2 flies past Earth in December 2020, it will release the capsule spinning at one revolution per three seconds. The capsule will re-enter the Earth's atmosphere at 12 km/s and it will deploy a radar-reflective parachute at an altitude of about 10 km, and eject its heat-shield, while transmitting a position beacon signal. The sample capsule will land at the Woomera Test Range in Australia.</description>
-      <category>event</category>
-      <category>landing</category>
-      <guid isPermaLink="false">~space-schedule~event~landing~35</guid>
-      <pubDate>Sat, 05 Dec 2020 17:52:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg"/>
     </item>
   </channel>
 </rss>

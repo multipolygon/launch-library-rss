@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Khrunichev State Research and Production Space Center | Launch | Space Schedule</title>
+  <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/khrunichev_state_research_and_production_space_center/original.atom.xml</id>
+  <updated>2020-12-14T05:50:00Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/khrunichev_state_research_and_production_space_center/original.atom.xml"/>
+  <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/khrunichev_state_research_and_production_space_center/original.json"/>
+  <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fkhrunichev_state_research_and_production_space_center%2Foriginal.json"/>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
+  <entry>
+    <id>5ef7ae3d-8667-49c9-aeea-548a34f82776</id>
+    <title>Angara A5/Briz-M | Dummy payload</title>
+    <updated>2020-12-14T05:50:00Z</updated>
+    <published>2020-12-14T05:50:00Z</published>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/5ef7ae3d-8667-49c9-aeea-548a34f82776.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara2520a5_image_20190630234836.jpg"/>
+    <category term="launch"/>
+    <category term="khrunichev_state_research_and_production_space_center"/>
+    <category term="government"/>
+    <category term="angara"/>
+    <category term="angara_a_5"/>
+    <category term="35_1"/>
+  </entry>
+</feed>

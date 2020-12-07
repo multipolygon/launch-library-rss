@@ -37,8 +37,8 @@
   <entry>
     <id>~space-schedule~event~release~196</id>
     <title>NG-14 Cygnus Release &amp; Reentry</title>
-    <updated>2020-12-16T14:35:00Z</updated>
-    <published>2020-12-16T14:35:00Z</published>
+    <updated>2020-12-16T15:35:00Z</updated>
+    <published>2020-12-16T15:35:00Z</published>
     <content type="text">The Northrop Grumman NG-14 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg"/>
@@ -66,6 +66,21 @@
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/total_solar_ecl_image_20201206083620.jpeg"/>
     <category term="event"/>
     <category term="celestial_event"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~khrunichev_state_research_and_production_space_center~5ef7ae3d-8667-49c9-aeea-548a34f82776</id>
+    <title>Angara A5/Briz-M | Dummy payload</title>
+    <updated>2020-12-14T05:50:00Z</updated>
+    <published>2020-12-14T05:50:00Z</published>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/5ef7ae3d-8667-49c9-aeea-548a34f82776.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara2520a5_image_20190630234836.jpg"/>
+    <category term="launch"/>
+    <category term="khrunichev_state_research_and_production_space_center"/>
+    <category term="government"/>
+    <category term="angara"/>
+    <category term="angara_a_5"/>
+    <category term="35_1"/>
   </entry>
   <entry>
     <id>~space-schedule~launch~astra_space~ffaceda9-2d21-4c79-b854-3414b774d8af</id>
@@ -116,36 +131,5 @@ The meeting will be livestreamed on NASA TV.</content>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_w_image_20201205114845.jpg"/>
     <category term="event"/>
     <category term="wet_dress_rehearsal"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~space_x~06dfcb34-0b76-4fbc-9046-09ab66db7b83</id>
-    <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-21</title>
-    <updated>2020-12-06T16:17:00Z</updated>
-    <published>2020-12-06T16:17:00Z</published>
-    <content type="text">SpaceX will launch the first cargo variant of its Dragon 2 spacecraft on their 21st commercial resupply services mission to the International Space Station. The flight will be conducted under the second Commercial Resupply Services contract with NASA.&#xD;
-&#xD;
-Dragon will be filled with supplies and payloads, including critical materials to directly support more than 250 science and research investigations that occur onboard the orbiting laboratory.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/06dfcb34-0b76-4fbc-9046-09ab66db7b83.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201205112911.jpg"/>
-    <category term="launch"/>
-    <category term="space_x"/>
-    <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon_9_block_5"/>
-    <category term="resupply"/>
-    <category term="launch_complex_39_a"/>
-    <category term="commercial_resupply_services"/>
-    <category term="international_space_station"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~landing~35</id>
-    <title>Hayabusa-2 Sample Returns to Earth</title>
-    <updated>2020-12-05T17:52:00Z</updated>
-    <published>2020-12-05T17:52:00Z</published>
-    <content type="text">When Hayabusa-2 flies past Earth in December 2020, it will release the capsule spinning at one revolution per three seconds. The capsule will re-enter the Earth's atmosphere at 12 km/s and it will deploy a radar-reflective parachute at an altitude of about 10 km, and eject its heat-shield, while transmitting a position beacon signal. The sample capsule will land at the Woomera Test Range in Australia.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Dq_6FRV91Hs"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg"/>
-    <category term="event"/>
-    <category term="landing"/>
   </entry>
 </feed>

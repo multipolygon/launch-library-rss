@@ -77,8 +77,8 @@
    "content_text": "The Northrop Grumman NG-14 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg",
-   "date_published": "2020-12-16T14:35:00Z",
-   "date_modified": "2020-12-16T14:35:00Z",
+   "date_published": "2020-12-16T15:35:00Z",
+   "date_modified": "2020-12-16T15:35:00Z",
    "tags": [
     "event",
     "release"
@@ -167,6 +167,42 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/celestial_event/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~launch~khrunichev_state_research_and_production_space_center~5ef7ae3d-8667-49c9-aeea-548a34f82776",
+   "title": "Angara A5/Briz-M | Dummy payload",
+   "content_text": "-",
+   "url": "https://ll.thespacedevs.com/2.0.0/launch/5ef7ae3d-8667-49c9-aeea-548a34f82776.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara2520a5_image_20190630234836.jpg",
+   "date_published": "2020-12-14T05:50:00Z",
+   "date_modified": "2020-12-14T05:50:00Z",
+   "tags": [
+    "launch",
+    "khrunichev_state_research_and_production_space_center",
+    "government",
+    "angara",
+    "angara_a_5",
+    "35_1"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara2520a5_image_20190630234836.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Khrunichev State Research and Production Space Center | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "5ef7ae3d-8667-49c9-aeea-548a34f82776",
+    "global": "~space-schedule~launch~khrunichev_state_research_and_production_space_center~5ef7ae3d-8667-49c9-aeea-548a34f82776"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/khrunichev_state_research_and_production_space_center/original.json"
    }
   },
   {
@@ -302,78 +338,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/wet_dress_rehearsal/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~space_x~06dfcb34-0b76-4fbc-9046-09ab66db7b83",
-   "title": "Falcon 9 Block 5 | Dragon CRS-2 SpX-21",
-   "content_text": "SpaceX will launch the first cargo variant of its Dragon 2 spacecraft on their 21st commercial resupply services mission to the International Space Station. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nDragon will be filled with supplies and payloads, including critical materials to directly support more than 250 science and research investigations that occur onboard the orbiting laboratory.",
-   "url": "https://ll.thespacedevs.com/2.0.0/launch/06dfcb34-0b76-4fbc-9046-09ab66db7b83.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201205112911.jpg",
-   "date_published": "2020-12-06T16:17:00Z",
-   "date_modified": "2020-12-06T16:17:00Z",
-   "tags": [
-    "launch",
-    "space_x",
-    "commercial",
-    "falcon",
-    "falcon_9_block_5",
-    "resupply",
-    "launch_complex_39_a",
-    "commercial_resupply_services",
-    "international_space_station"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201205112911.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "SpaceX | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "06dfcb34-0b76-4fbc-9046-09ab66db7b83",
-    "global": "~space-schedule~launch~space_x~06dfcb34-0b76-4fbc-9046-09ab66db7b83"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~landing~35",
-   "title": "Hayabusa-2 Sample Returns to Earth",
-   "content_text": "When Hayabusa-2 flies past Earth in December 2020, it will release the capsule spinning at one revolution per three seconds. The capsule will re-enter the Earth's atmosphere at 12 km/s and it will deploy a radar-reflective parachute at an altitude of about 10 km, and eject its heat-shield, while transmitting a position beacon signal. The sample capsule will land at the Woomera Test Range in Australia.",
-   "url": "https://www.youtube.com/watch?v=Dq_6FRV91Hs",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg",
-   "date_published": "2020-12-05T17:52:00Z",
-   "date_modified": "2020-12-05T17:52:00Z",
-   "tags": [
-    "event",
-    "landing"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/hayabusa-22520sample2520returns2520to2520earth_image_20190729040322.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Landing | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "35",
-    "global": "~space-schedule~event~landing~35"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -384,7 +348,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 11,
+  "itemCount": 10,
   "pageNumber": 1,
   "pageCount": 1
  }

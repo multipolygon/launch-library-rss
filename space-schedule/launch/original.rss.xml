@@ -25,6 +25,20 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg"/>
     </item>
     <item>
+      <title>Angara A5/Briz-M | Dummy payload</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/5ef7ae3d-8667-49c9-aeea-548a34f82776.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>khrunichev_state_research_and_production_space_center</category>
+      <category>government</category>
+      <category>angara</category>
+      <category>angara_a_5</category>
+      <category>35_1</category>
+      <guid isPermaLink="false">~space-schedule~launch~khrunichev_state_research_and_production_space_center~5ef7ae3d-8667-49c9-aeea-548a34f82776</guid>
+      <pubDate>Mon, 14 Dec 2020 05:50:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara2520a5_image_20190630234836.jpg"/>
+    </item>
+    <item>
       <title>Astra Rocket 3.2 | Flight 2</title>
       <link>https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af.json</link>
       <description>Astra will attempt a second test flight of Rocket 3.0 following an unsuccessful first flight</description>
@@ -37,25 +51,6 @@
       <guid isPermaLink="false">~space-schedule~launch~astra_space~ffaceda9-2d21-4c79-b854-3414b774d8af</guid>
       <pubDate>Thu, 10 Dec 2020 19:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"/>
-    </item>
-    <item>
-      <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-21</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/06dfcb34-0b76-4fbc-9046-09ab66db7b83.json</link>
-      <description>SpaceX will launch the first cargo variant of its Dragon 2 spacecraft on their 21st commercial resupply services mission to the International Space Station. The flight will be conducted under the second Commercial Resupply Services contract with NASA.&#xD;
-&#xD;
-Dragon will be filled with supplies and payloads, including critical materials to directly support more than 250 science and research investigations that occur onboard the orbiting laboratory.</description>
-      <category>launch</category>
-      <category>space_x</category>
-      <category>commercial</category>
-      <category>falcon</category>
-      <category>falcon_9_block_5</category>
-      <category>resupply</category>
-      <category>launch_complex_39_a</category>
-      <category>commercial_resupply_services</category>
-      <category>international_space_station</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~06dfcb34-0b76-4fbc-9046-09ab66db7b83</guid>
-      <pubDate>Sun, 06 Dec 2020 16:17:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201205112911.jpg"/>
     </item>
   </channel>
 </rss>
