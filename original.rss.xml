@@ -79,6 +79,40 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara2520a5_image_20190630234836.jpg"/>
     </item>
     <item>
+      <title>Falcon 9 Block 5 | Sirius SXM-7</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/fd63c683-f3e4-465a-8230-b9ba62744c7d.json</link>
+      <description>SXM-7 is a large high power broadcasting satellite for SiriusXM's digital audio radio service (DARS).&#xD;
+&#xD;
+Space Systems/Loral (SS/L) got in July 2016 the contract to build the two satellites based on their SSL-1300 bus - SXM-7 and SXM-8. Both operate in the S-band spectrum. Each satellite will generate more than 20-kW of power and will have a large unfurlable antenna reflector, which enables broadcast to radios without the need for large dish-type antennas on the ground.&#xD;
+&#xD;
+SXM-7 is meant to replace the XM-3 satellite.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon_9_block_5</category>
+      <category>communications</category>
+      <category>space_launch_complex_40</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~fd63c683-f3e4-465a-8230-b9ba62744c7d</guid>
+      <pubDate>Fri, 11 Dec 2020 16:19:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
+    </item>
+    <item>
+      <title>Delta IV Heavy | NROL-44</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/6cdf9823-7574-4c0d-a3b2-956c7b364756.json</link>
+      <description>Classified payload for NRO.</description>
+      <category>launch</category>
+      <category>united_launch_alliance</category>
+      <category>commercial</category>
+      <category>delta</category>
+      <category>delta_iv_heavy</category>
+      <category>government_top_secret</category>
+      <category>space_launch_complex_37_b</category>
+      <guid isPermaLink="false">~space-schedule~launch~united_launch_alliance~6cdf9823-7574-4c0d-a3b2-956c7b364756</guid>
+      <pubDate>Thu, 10 Dec 2020 22:50:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/delta2520iv25_image_20200828105447.jpeg"/>
+    </item>
+    <item>
       <title>Astra Rocket 3.2 | Flight 2</title>
       <link>https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af.json</link>
       <description>Astra will attempt a second test flight of Rocket 3.0 following an unsuccessful first flight</description>
@@ -93,6 +127,25 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"/>
     </item>
     <item>
+      <title>Long March 11 | GECAM</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/067f8b0d-f2bb-43aa-9106-291467fcc63a.json</link>
+      <description>GECAM (Gravitational Wave High-energy Electromagnetic Counterpart All-sky Monitor) is a constellation of two small X-ray and gamma-ray all-sky observatories to search for gamma-ray counterparts to gravitational wave events.&#xD;
+&#xD;
+Each satellite features a dome-shaped array of 25 Gamma-ray detectors (GRD) and 8 Charged particle detectors (CPD). Together the satellites will provide a FOV of 100% all-sky. The sensitivity of the detectors is ~2E-8 erg/cm2/s. They will provide a localization of ~1°. The detectors are sensible in the energy band from 6 keV to 5 MeV.&#xD;
+&#xD;
+Besides detecting the radiation from gravitatinal wave events, the satellites will also be contributing in detectiong Ultra-long GRBs, X-ray Flashes, X-ray-rich GRBs, Magnetars and Terrestrial Gamma-ray Flashes.</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_technology_corporation</category>
+      <category>government</category>
+      <category>long_march</category>
+      <category>long_march_11</category>
+      <category>astrophysics</category>
+      <category>unknown</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~067f8b0d-f2bb-43aa-9106-291467fcc63a</guid>
+      <pubDate>Wed, 09 Dec 2020 20:05:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march252011_image_20190222031217.jpeg"/>
+    </item>
+    <item>
       <title>8th meeting of the National Space Council</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>US Vice President Mike Pence will convene the 8th meeting of the National Space Council at NASA's Kennedy Space Center on December 9 at 12:30 p.m. ET. &#xD;
@@ -105,6 +158,42 @@ The meeting will be livestreamed on NASA TV.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/8th_meeting_of__image_20201201090808.jpeg"/>
     </item>
     <item>
+      <title>SLS Green Run Wet Dress Rehearsal</title>
+      <link>https://blogs.nasa.gov/artemis/2020/12/04/nasa-go-for-green-run-wet-dress-rehearsal</link>
+      <description>The core stage of the Space Launch System will undergo the next 'Green Run' test, where the stage will be loaded with more than 700,000 gallons of cryogenic propellant.</description>
+      <category>event</category>
+      <category>wet_dress_rehearsal</category>
+      <guid isPermaLink="false">~space-schedule~event~wet_dress_rehearsal~201</guid>
+      <pubDate>Tue, 08 Dec 2020 17:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_w_image_20201205114845.jpg"/>
+    </item>
+    <item>
+      <title>Starship SN8 | 12.5 km Flight</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/fdfc71c4-37a7-4d36-a27c-90b132f0e4aa.json</link>
+      <description>The SN8 Starship prototype is expected to perform a first flight to an altitude of 12.5 km or 41,000 ft.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>starship</category>
+      <category>starship_prototype</category>
+      <category>test_flight</category>
+      <category>space_x_south_texas_launch_site</category>
+      <category>space_x_starship</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~fdfc71c4-37a7-4d36-a27c-90b132f0e4aa</guid>
+      <pubDate>Tue, 08 Dec 2020 14:00:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20201207200347.png"/>
+    </item>
+    <item>
+      <title>Starship SN8 Wet Dress Rehearsal</title>
+      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
+      <description>Starship SN8 will perform a WDR of the vehicle before the 12.5km flight.</description>
+      <category>event</category>
+      <category>wet_dress_rehearsal</category>
+      <guid isPermaLink="false">~space-schedule~event~wet_dress_rehearsal~203</guid>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_we_image_20201207224933.jpeg"/>
+    </item>
+    <item>
       <title>CRS-21 Dragon Docking</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>Following its launch atop a Falcon 9, the CRS-21 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.</description>
@@ -113,16 +202,6 @@ The meeting will be livestreamed on NASA TV.</description>
       <guid isPermaLink="false">~space-schedule~event~docking~195</guid>
       <pubDate>Mon, 07 Dec 2020 18:30:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_d_image_20201124230032.jpeg"/>
-    </item>
-    <item>
-      <title>SLS Green Run Wet Dress Rehearsal</title>
-      <link>https://blogs.nasa.gov/artemis/2020/12/04/nasa-go-for-green-run-wet-dress-rehearsal</link>
-      <description>The core stage of the Space Launch System will undergo the next 'Green Run' test, where the stage will be loaded with more than 700,000 gallons of cryogenic propellant.</description>
-      <category>event</category>
-      <category>wet_dress_rehearsal</category>
-      <guid isPermaLink="false">~space-schedule~event~wet_dress_rehearsal~201</guid>
-      <pubDate>Mon, 07 Dec 2020 17:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_w_image_20201205114845.jpg"/>
     </item>
   </channel>
 </rss>
