@@ -39,6 +39,21 @@
     <category term="35_1"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~astra_space~ffaceda9-2d21-4c79-b854-3414b774d8af</id>
+    <title>Astra Rocket 3.2 | Flight 2</title>
+    <updated>2020-12-11T19:00:00Z</updated>
+    <published>2020-12-11T19:00:00Z</published>
+    <content type="text">Astra will attempt a second test flight of Rocket 3.0 following an unsuccessful first flight</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"/>
+    <category term="launch"/>
+    <category term="astra_space"/>
+    <category term="astra_rocket"/>
+    <category term="astra_rocket_3_0"/>
+    <category term="test_flight"/>
+    <category term="lp_3_b"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~space_x~fd63c683-f3e4-465a-8230-b9ba62744c7d</id>
     <title>Falcon 9 Block 5 | Sirius SXM-7</title>
     <updated>2020-12-11T16:19:00Z</updated>
@@ -75,21 +90,6 @@ SXM-7 is meant to replace the XM-3 satellite.</content>
     <category term="space_launch_complex_37_b"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~astra_space~ffaceda9-2d21-4c79-b854-3414b774d8af</id>
-    <title>Astra Rocket 3.2 | Flight 2</title>
-    <updated>2020-12-10T19:00:00Z</updated>
-    <published>2020-12-10T19:00:00Z</published>
-    <content type="text">Astra will attempt a second test flight of Rocket 3.0 following an unsuccessful first flight</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"/>
-    <category term="launch"/>
-    <category term="astra_space"/>
-    <category term="astra_rocket"/>
-    <category term="astra_rocket_3_0"/>
-    <category term="test_flight"/>
-    <category term="lp_3_b"/>
-  </entry>
-  <entry>
     <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~067f8b0d-f2bb-43aa-9106-291467fcc63a</id>
     <title>Long March 11 | GECAM</title>
     <updated>2020-12-09T20:05:00Z</updated>
@@ -108,22 +108,5 @@ Besides detecting the radiation from gravitatinal wave events, the satellites wi
     <category term="long_march_11"/>
     <category term="astrophysics"/>
     <category term="unknown"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~space_x~fdfc71c4-37a7-4d36-a27c-90b132f0e4aa</id>
-    <title>Starship SN8 | 12.5 km Flight</title>
-    <updated>2020-12-08T14:00:00Z</updated>
-    <published>2020-12-08T14:00:00Z</published>
-    <content type="text">The SN8 Starship prototype is expected to perform a first flight to an altitude of 12.5 km or 41,000 ft.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/fdfc71c4-37a7-4d36-a27c-90b132f0e4aa.json"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20201207200347.png"/>
-    <category term="launch"/>
-    <category term="space_x"/>
-    <category term="commercial"/>
-    <category term="starship"/>
-    <category term="starship_prototype"/>
-    <category term="test_flight"/>
-    <category term="space_x_south_texas_launch_site"/>
-    <category term="space_x_starship"/>
   </entry>
 </feed>

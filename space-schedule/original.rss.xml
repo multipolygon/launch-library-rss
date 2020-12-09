@@ -79,6 +79,20 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara2520a5_image_20190630234836.jpg"/>
     </item>
     <item>
+      <title>Astra Rocket 3.2 | Flight 2</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af.json</link>
+      <description>Astra will attempt a second test flight of Rocket 3.0 following an unsuccessful first flight</description>
+      <category>launch</category>
+      <category>astra_space</category>
+      <category>astra_rocket</category>
+      <category>astra_rocket_3_0</category>
+      <category>test_flight</category>
+      <category>lp_3_b</category>
+      <guid isPermaLink="false">~space-schedule~launch~astra_space~ffaceda9-2d21-4c79-b854-3414b774d8af</guid>
+      <pubDate>Fri, 11 Dec 2020 19:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"/>
+    </item>
+    <item>
       <title>Falcon 9 Block 5 | Sirius SXM-7</title>
       <link>https://ll.thespacedevs.com/2.0.0/launch/fd63c683-f3e4-465a-8230-b9ba62744c7d.json</link>
       <description>SXM-7 is a large high power broadcasting satellite for SiriusXM's digital audio radio service (DARS).&#xD;
@@ -111,20 +125,6 @@ SXM-7 is meant to replace the XM-3 satellite.</description>
       <guid isPermaLink="false">~space-schedule~launch~united_launch_alliance~6cdf9823-7574-4c0d-a3b2-956c7b364756</guid>
       <pubDate>Thu, 10 Dec 2020 22:50:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/delta2520iv25_image_20200828105447.jpeg"/>
-    </item>
-    <item>
-      <title>Astra Rocket 3.2 | Flight 2</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af.json</link>
-      <description>Astra will attempt a second test flight of Rocket 3.0 following an unsuccessful first flight</description>
-      <category>launch</category>
-      <category>astra_space</category>
-      <category>astra_rocket</category>
-      <category>astra_rocket_3_0</category>
-      <category>test_flight</category>
-      <category>lp_3_b</category>
-      <guid isPermaLink="false">~space-schedule~launch~astra_space~ffaceda9-2d21-4c79-b854-3414b774d8af</guid>
-      <pubDate>Thu, 10 Dec 2020 19:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"/>
     </item>
     <item>
       <title>Long March 11 | GECAM</title>
@@ -166,42 +166,6 @@ The meeting will be livestreamed on NASA TV.</description>
       <guid isPermaLink="false">~space-schedule~event~wet_dress_rehearsal~201</guid>
       <pubDate>Tue, 08 Dec 2020 17:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_w_image_20201205114845.jpg"/>
-    </item>
-    <item>
-      <title>Starship SN8 | 12.5 km Flight</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/fdfc71c4-37a7-4d36-a27c-90b132f0e4aa.json</link>
-      <description>The SN8 Starship prototype is expected to perform a first flight to an altitude of 12.5 km or 41,000 ft.</description>
-      <category>launch</category>
-      <category>space_x</category>
-      <category>commercial</category>
-      <category>starship</category>
-      <category>starship_prototype</category>
-      <category>test_flight</category>
-      <category>space_x_south_texas_launch_site</category>
-      <category>space_x_starship</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~fdfc71c4-37a7-4d36-a27c-90b132f0e4aa</guid>
-      <pubDate>Tue, 08 Dec 2020 14:00:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20201207200347.png"/>
-    </item>
-    <item>
-      <title>Starship SN8 Wet Dress Rehearsal</title>
-      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>Starship SN8 will perform a WDR of the vehicle before the 12.5km flight.</description>
-      <category>event</category>
-      <category>wet_dress_rehearsal</category>
-      <guid isPermaLink="false">~space-schedule~event~wet_dress_rehearsal~203</guid>
-      <pubDate>Tue, 08 Dec 2020 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_we_image_20201207224933.jpeg"/>
-    </item>
-    <item>
-      <title>CRS-21 Dragon Docking</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>Following its launch atop a Falcon 9, the CRS-21 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.</description>
-      <category>event</category>
-      <category>docking</category>
-      <guid isPermaLink="false">~space-schedule~event~docking~195</guid>
-      <pubDate>Mon, 07 Dec 2020 18:30:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_d_image_20201124230032.jpeg"/>
     </item>
   </channel>
 </rss>

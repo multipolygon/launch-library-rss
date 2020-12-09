@@ -72,25 +72,5 @@ The meeting will be livestreamed on NASA TV.</description>
       <pubDate>Tue, 08 Dec 2020 17:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_w_image_20201205114845.jpg"/>
     </item>
-    <item>
-      <title>Starship SN8 Wet Dress Rehearsal</title>
-      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>Starship SN8 will perform a WDR of the vehicle before the 12.5km flight.</description>
-      <category>event</category>
-      <category>wet_dress_rehearsal</category>
-      <guid isPermaLink="false">~space-schedule~event~wet_dress_rehearsal~203</guid>
-      <pubDate>Tue, 08 Dec 2020 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_we_image_20201207224933.jpeg"/>
-    </item>
-    <item>
-      <title>CRS-21 Dragon Docking</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>Following its launch atop a Falcon 9, the CRS-21 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.</description>
-      <category>event</category>
-      <category>docking</category>
-      <guid isPermaLink="false">~space-schedule~event~docking~195</guid>
-      <pubDate>Mon, 07 Dec 2020 18:30:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_d_image_20201124230032.jpeg"/>
-    </item>
   </channel>
 </rss>

@@ -29,36 +29,6 @@
     "videoCount": 0,
     "imageCount": 1
    }
-  },
-  {
-   "id": "fdfc71c4-37a7-4d36-a27c-90b132f0e4aa",
-   "title": "Starship SN8 | 12.5 km Flight",
-   "content_text": "The SN8 Starship prototype is expected to perform a first flight to an altitude of 12.5 km or 41,000 ft.",
-   "url": "https://ll.thespacedevs.com/2.0.0/launch/fdfc71c4-37a7-4d36-a27c-90b132f0e4aa.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20201207200347.png",
-   "date_published": "2020-12-08T14:00:00Z",
-   "date_modified": "2020-12-08T14:00:00Z",
-   "tags": [
-    "launch",
-    "space_x",
-    "commercial",
-    "starship",
-    "starship_prototype",
-    "test_flight",
-    "space_x_south_texas_launch_site",
-    "space_x_starship"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20201207200347.png"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -69,7 +39,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json",
  "_meta": {
-  "itemCount": 2,
+  "itemCount": 1,
   "pageNumber": 1,
   "pageCount": 1
  }

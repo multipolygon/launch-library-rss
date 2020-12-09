@@ -19,15 +19,5 @@
       <pubDate>Tue, 08 Dec 2020 17:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_w_image_20201205114845.jpg"/>
     </item>
-    <item>
-      <title>Starship SN8 Wet Dress Rehearsal</title>
-      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>Starship SN8 will perform a WDR of the vehicle before the 12.5km flight.</description>
-      <category>event</category>
-      <category>wet_dress_rehearsal</category>
-      <guid isPermaLink="false">203</guid>
-      <pubDate>Tue, 08 Dec 2020 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn8_we_image_20201207224933.jpeg"/>
-    </item>
   </channel>
 </rss>

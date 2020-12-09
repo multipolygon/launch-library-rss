@@ -27,21 +27,4 @@ SXM-7 is meant to replace the XM-3 satellite.</content>
     <category term="communications"/>
     <category term="space_launch_complex_40"/>
   </entry>
-  <entry>
-    <id>fdfc71c4-37a7-4d36-a27c-90b132f0e4aa</id>
-    <title>Starship SN8 | 12.5 km Flight</title>
-    <updated>2020-12-08T14:00:00Z</updated>
-    <published>2020-12-08T14:00:00Z</published>
-    <content type="text">The SN8 Starship prototype is expected to perform a first flight to an altitude of 12.5 km or 41,000 ft.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/fdfc71c4-37a7-4d36-a27c-90b132f0e4aa.json"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20201207200347.png"/>
-    <category term="launch"/>
-    <category term="space_x"/>
-    <category term="commercial"/>
-    <category term="starship"/>
-    <category term="starship_prototype"/>
-    <category term="test_flight"/>
-    <category term="space_x_south_texas_launch_site"/>
-    <category term="space_x_starship"/>
-  </entry>
 </feed>
