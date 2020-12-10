@@ -316,43 +316,6 @@
    }
   },
   {
-   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~067f8b0d-f2bb-43aa-9106-291467fcc63a",
-   "title": "Long March 11 | GECAM",
-   "content_text": "GECAM (Gravitational Wave High-energy Electromagnetic Counterpart All-sky Monitor) is a constellation of two small X-ray and gamma-ray all-sky observatories to search for gamma-ray counterparts to gravitational wave events.\r\n\r\nEach satellite features a dome-shaped array of 25 Gamma-ray detectors (GRD) and 8 Charged particle detectors (CPD). Together the satellites will provide a FOV of 100% all-sky. The sensitivity of the detectors is ~2E-8 erg/cm2/s. They will provide a localization of ~1°. The detectors are sensible in the energy band from 6 keV to 5 MeV.\r\n\r\nBesides detecting the radiation from gravitatinal wave events, the satellites will also be contributing in detectiong Ultra-long GRBs, X-ray Flashes, X-ray-rich GRBs, Magnetars and Terrestrial Gamma-ray Flashes.",
-   "url": "https://ll.thespacedevs.com/2.0.0/launch/067f8b0d-f2bb-43aa-9106-291467fcc63a.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march252011_image_20190222031217.jpeg",
-   "date_published": "2020-12-09T20:05:00Z",
-   "date_modified": "2020-12-09T20:05:00Z",
-   "tags": [
-    "launch",
-    "china_aerospace_science_and_technology_corporation",
-    "government",
-    "long_march",
-    "long_march_11",
-    "astrophysics",
-    "unknown"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march252011_image_20190222031217.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "067f8b0d-f2bb-43aa-9106-291467fcc63a",
-    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~067f8b0d-f2bb-43aa-9106-291467fcc63a"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~event~press_event~198",
    "title": "8th meeting of the National Space Council",
    "content_text": "US Vice President Mike Pence will convene the 8th meeting of the National Space Council at NASA's Kennedy Space Center on December 9 at 12:30 p.m. ET. \r\n\r\nThe meeting will be livestreamed on NASA TV.",
@@ -384,38 +347,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~wet_dress_rehearsal~201",
-   "title": "SLS Green Run Wet Dress Rehearsal",
-   "content_text": "The core stage of the Space Launch System will undergo the next 'Green Run' test, where the stage will be loaded with more than 700,000 gallons of cryogenic propellant.",
-   "url": "https://blogs.nasa.gov/artemis/2020/12/04/nasa-go-for-green-run-wet-dress-rehearsal",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_w_image_20201205114845.jpg",
-   "date_published": "2020-12-08T17:00:00Z",
-   "date_modified": "2020-12-08T17:00:00Z",
-   "tags": [
-    "event",
-    "wet_dress_rehearsal"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_w_image_20201205114845.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Wet Dress Rehearsal | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "201",
-    "global": "~space-schedule~event~wet_dress_rehearsal~201"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/wet_dress_rehearsal/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -426,7 +357,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 12,
+  "itemCount": 10,
   "pageNumber": 1,
   "pageCount": 1
  }

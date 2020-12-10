@@ -65,15 +65,4 @@ The meeting will be livestreamed on NASA TV.</content>
     <category term="event"/>
     <category term="press_event"/>
   </entry>
-  <entry>
-    <id>~space-schedule~event~wet_dress_rehearsal~201</id>
-    <title>SLS Green Run Wet Dress Rehearsal</title>
-    <updated>2020-12-08T17:00:00Z</updated>
-    <published>2020-12-08T17:00:00Z</published>
-    <content type="text">The core stage of the Space Launch System will undergo the next 'Green Run' test, where the stage will be loaded with more than 700,000 gallons of cryogenic propellant.</content>
-    <link rel="alternate" href="https://blogs.nasa.gov/artemis/2020/12/04/nasa-go-for-green-run-wet-dress-rehearsal"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_w_image_20201205114845.jpg"/>
-    <category term="event"/>
-    <category term="wet_dress_rehearsal"/>
-  </entry>
 </feed>

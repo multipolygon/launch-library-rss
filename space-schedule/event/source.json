@@ -1,48 +1,8 @@
 {
-    "count": 11,
-    "next": "https://ll.thespacedevs.com/2.0.0/event/upcoming.json?limit=10&offset=10",
+    "count": 10,
+    "next": null,
     "previous": null,
     "results": [
-        {
-            "id": 201,
-            "url": "https://ll.thespacedevs.com/2.0.0/event/201.json",
-            "slug": "sls-green-run-wet-dress-rehearsal",
-            "name": "SLS Green Run Wet Dress Rehearsal",
-            "type": {
-                "id": 22,
-                "name": "Wet Dress Rehearsal"
-            },
-            "description": "The core stage of the Space Launch System will undergo the next 'Green Run' test, where the stage will be loaded with more than 700,000 gallons of cryogenic propellant.",
-            "location": "Stennis Space Center, Mississippi",
-            "news_url": "https://blogs.nasa.gov/artemis/2020/12/04/nasa-go-for-green-run-wet-dress-rehearsal",
-            "video_url": null,
-            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_w_image_20201205114845.jpg",
-            "date": "2020-12-08T17:00:00Z",
-            "launches": [],
-            "expeditions": [],
-            "spacestations": [],
-            "program": [
-                {
-                    "id": 15,
-                    "url": "https://ll.thespacedevs.com/2.0.0/program/15.json",
-                    "name": "Artemis",
-                    "description": "The Artemis program is a US government-funded crewed spaceflight program that has the goal of landing \"the first woman and the next man\" on the Moon, specifically at the lunar south pole region by 2024.",
-                    "agencies": [
-                        {
-                            "id": 44,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/44.json",
-                            "name": "National Aeronautics and Space Administration",
-                            "type": "Government"
-                        }
-                    ],
-                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/artemis_program_20200821091844.png",
-                    "start_date": "2017-12-11T00:00:00Z",
-                    "end_date": null,
-                    "info_url": "https://www.nasa.gov/specials/artemis/",
-                    "wiki_url": "https://en.wikipedia.org/wiki/Artemis_program"
-                }
-            ]
-        },
         {
             "id": 198,
             "url": "https://ll.thespacedevs.com/2.0.0/event/198.json",
@@ -882,6 +842,105 @@
                     },
                     "webcast_live": false,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25205_image_20191228095452.jpg",
+                    "infographic": null,
+                    "program": []
+                }
+            ],
+            "expeditions": [],
+            "spacestations": [],
+            "program": []
+        },
+        {
+            "id": 36,
+            "url": "https://ll.thespacedevs.com/2.0.0/event/36.json",
+            "slug": "osiris-rex-sample-return",
+            "name": "OSIRIS-Rex Sample Return",
+            "type": {
+                "id": 9,
+                "name": "Landing"
+            },
+            "description": "In September 2023 the OSIRIS-REx return capsule will re-enter Earth's atmosphere and land under a parachute at the Air Force's Utah Test and Training Range",
+            "location": "Earth",
+            "news_url": null,
+            "video_url": null,
+            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/osiris-rex2520sample2520return_image_20190729040745.jpg",
+            "date": "2023-09-01T04:00:00Z",
+            "launches": [
+                {
+                    "id": "0bcc6850-4c51-4b08-aa19-0b3753351b9b",
+                    "url": "https://ll.thespacedevs.com/2.0.0/launch/0bcc6850-4c51-4b08-aa19-0b3753351b9b.json",
+                    "launch_library_id": 673,
+                    "slug": "atlas-v-411-osiris-rex",
+                    "name": "Atlas V 411 | OSIRIS-REx",
+                    "status": {
+                        "id": 3,
+                        "name": "Success"
+                    },
+                    "net": "2016-09-08T23:05:00Z",
+                    "window_end": "2016-09-09T01:05:00Z",
+                    "window_start": "2016-09-08T23:05:00Z",
+                    "inhold": false,
+                    "tbdtime": false,
+                    "tbddate": false,
+                    "probability": 90,
+                    "holdreason": null,
+                    "failreason": null,
+                    "hashtag": null,
+                    "launch_service_provider": {
+                        "id": 124,
+                        "url": "https://ll.thespacedevs.com/2.0.0/agencies/124.json",
+                        "name": "United Launch Alliance",
+                        "type": "Commercial"
+                    },
+                    "rocket": {
+                        "id": 1952,
+                        "configuration": {
+                            "id": 83,
+                            "launch_library_id": 106,
+                            "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/83.json",
+                            "name": "Atlas V 411",
+                            "family": "Atlas",
+                            "full_name": "Atlas V 411",
+                            "variant": "411"
+                        }
+                    },
+                    "mission": {
+                        "id": 93,
+                        "launch_library_id": 160,
+                        "name": "OSIRIS-REx",
+                        "description": "The Origins-Spectral Interpretation-Resource Identification-Security-Regolith Explorer (OSIRIS REx) mission will be the first U.S. mission to carry samples from an asteroid back to Earth and will help scientists investigate how planets formed and how life began, as well as improve our understanding of asteroids that could impact Earth.",
+                        "launch_designator": null,
+                        "type": "Robotic Exploration",
+                        "orbit": {
+                            "id": 6,
+                            "name": "Heliocentric N/A",
+                            "abbrev": "Helio-N/A"
+                        }
+                    },
+                    "pad": {
+                        "id": 29,
+                        "url": "https://ll.thespacedevs.com/2.0.0/pad/29.json",
+                        "agency_id": null,
+                        "name": "Space Launch Complex 41",
+                        "info_url": null,
+                        "wiki_url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41",
+                        "map_url": "http://maps.google.com/maps?q=28.58341025,-80.58303644",
+                        "latitude": "28.58341025",
+                        "longitude": "-80.58303644",
+                        "location": {
+                            "id": 12,
+                            "url": "https://ll.thespacedevs.com/2.0.0/location/12.json",
+                            "name": "Cape Canaveral, FL, USA",
+                            "country_code": "USA",
+                            "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg",
+                            "total_launch_count": 206,
+                            "total_landing_count": 0
+                        },
+                        "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_29_20200803143528.jpg",
+                        "total_launch_count": 71
+                    },
+                    "webcast_live": false,
+                    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520411_image_20190224012306.jpeg",
                     "infographic": null,
                     "program": []
                 }

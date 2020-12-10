@@ -165,38 +165,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~wet_dress_rehearsal~201",
-   "title": "SLS Green Run Wet Dress Rehearsal",
-   "content_text": "The core stage of the Space Launch System will undergo the next 'Green Run' test, where the stage will be loaded with more than 700,000 gallons of cryogenic propellant.",
-   "url": "https://blogs.nasa.gov/artemis/2020/12/04/nasa-go-for-green-run-wet-dress-rehearsal",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_w_image_20201205114845.jpg",
-   "date_published": "2020-12-08T17:00:00Z",
-   "date_modified": "2020-12-08T17:00:00Z",
-   "tags": [
-    "event",
-    "wet_dress_rehearsal"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_w_image_20201205114845.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Wet Dress Rehearsal | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "201",
-    "global": "~space-schedule~event~wet_dress_rehearsal~201"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/wet_dress_rehearsal/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -207,7 +175,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 6,
+  "itemCount": 5,
   "pageNumber": 1,
   "pageCount": 1
  }

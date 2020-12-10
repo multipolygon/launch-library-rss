@@ -2,31 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>China Aerospace Science and Technology Corporation | Launch | Space Schedule</title>
+    <title>China Aerospace Science And Technology Corporation</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_technology_corporation%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
-    <pubDate>Wed, 09 Dec 2020 20:05:00 GMT</pubDate>
+    <pubDate>Thu, 10 Dec 2020 11:26:09 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <item>
-      <title>Long March 11 | GECAM</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/067f8b0d-f2bb-43aa-9106-291467fcc63a.json</link>
-      <description>GECAM (Gravitational Wave High-energy Electromagnetic Counterpart All-sky Monitor) is a constellation of two small X-ray and gamma-ray all-sky observatories to search for gamma-ray counterparts to gravitational wave events.&#xD;
-&#xD;
-Each satellite features a dome-shaped array of 25 Gamma-ray detectors (GRD) and 8 Charged particle detectors (CPD). Together the satellites will provide a FOV of 100% all-sky. The sensitivity of the detectors is ~2E-8 erg/cm2/s. They will provide a localization of ~1°. The detectors are sensible in the energy band from 6 keV to 5 MeV.&#xD;
-&#xD;
-Besides detecting the radiation from gravitatinal wave events, the satellites will also be contributing in detectiong Ultra-long GRBs, X-ray Flashes, X-ray-rich GRBs, Magnetars and Terrestrial Gamma-ray Flashes.</description>
-      <category>launch</category>
-      <category>china_aerospace_science_and_technology_corporation</category>
-      <category>government</category>
-      <category>long_march</category>
-      <category>long_march_11</category>
-      <category>astrophysics</category>
-      <category>unknown</category>
-      <guid isPermaLink="false">067f8b0d-f2bb-43aa-9106-291467fcc63a</guid>
-      <pubDate>Wed, 09 Dec 2020 20:05:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march252011_image_20190222031217.jpeg"/>
-    </item>
   </channel>
 </rss>

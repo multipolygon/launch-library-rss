@@ -1,30 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>China Aerospace Science and Technology Corporation | Launch | Space Schedule</title>
+  <title>China Aerospace Science And Technology Corporation</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.atom.xml</id>
-  <updated>2020-12-09T20:05:00Z</updated>
+  <updated>2020-12-10T11:26:09.210Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_technology_corporation%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
-  <entry>
-    <id>067f8b0d-f2bb-43aa-9106-291467fcc63a</id>
-    <title>Long March 11 | GECAM</title>
-    <updated>2020-12-09T20:05:00Z</updated>
-    <published>2020-12-09T20:05:00Z</published>
-    <content type="text">GECAM (Gravitational Wave High-energy Electromagnetic Counterpart All-sky Monitor) is a constellation of two small X-ray and gamma-ray all-sky observatories to search for gamma-ray counterparts to gravitational wave events.&#xD;
-&#xD;
-Each satellite features a dome-shaped array of 25 Gamma-ray detectors (GRD) and 8 Charged particle detectors (CPD). Together the satellites will provide a FOV of 100% all-sky. The sensitivity of the detectors is ~2E-8 erg/cm2/s. They will provide a localization of ~1°. The detectors are sensible in the energy band from 6 keV to 5 MeV.&#xD;
-&#xD;
-Besides detecting the radiation from gravitatinal wave events, the satellites will also be contributing in detectiong Ultra-long GRBs, X-ray Flashes, X-ray-rich GRBs, Magnetars and Terrestrial Gamma-ray Flashes.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/067f8b0d-f2bb-43aa-9106-291467fcc63a.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march252011_image_20190222031217.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_science_and_technology_corporation"/>
-    <category term="government"/>
-    <category term="long_march"/>
-    <category term="long_march_11"/>
-    <category term="astrophysics"/>
-    <category term="unknown"/>
-  </entry>
 </feed>
