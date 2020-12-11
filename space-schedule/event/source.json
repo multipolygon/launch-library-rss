@@ -1,28 +1,8 @@
 {
-    "count": 10,
+    "count": 9,
     "next": null,
     "previous": null,
     "results": [
-        {
-            "id": 198,
-            "url": "https://ll.thespacedevs.com/2.0.0/event/198.json",
-            "slug": "8th-meeting-of-the-national-space-council",
-            "name": "8th meeting of the National Space Council",
-            "type": {
-                "id": 20,
-                "name": "Press Event"
-            },
-            "description": "US Vice President Mike Pence will convene the 8th meeting of the National Space Council at NASA's Kennedy Space Center on December 9 at 12:30 p.m. ET. \r\n\r\nThe meeting will be livestreamed on NASA TV.",
-            "location": "Kennedy Space Center",
-            "news_url": null,
-            "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/8th_meeting_of__image_20201201090808.jpeg",
-            "date": "2020-12-09T17:30:00Z",
-            "launches": [],
-            "expeditions": [],
-            "spacestations": [],
-            "program": []
-        },
         {
             "id": 202,
             "url": "https://ll.thespacedevs.com/2.0.0/event/202.json",

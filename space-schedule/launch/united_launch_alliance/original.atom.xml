@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>United Launch Alliance | Launch | Space Schedule</title>
+  <title>United Launch Alliance</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/united_launch_alliance/original.atom.xml</id>
-  <updated>2020-12-10T22:50:00Z</updated>
+  <updated>2020-12-11T11:26:19.476Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/united_launch_alliance/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/united_launch_alliance/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Funited_launch_alliance%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
-  <entry>
-    <id>6cdf9823-7574-4c0d-a3b2-956c7b364756</id>
-    <title>Delta IV Heavy | NROL-44</title>
-    <updated>2020-12-10T22:50:00Z</updated>
-    <published>2020-12-10T22:50:00Z</published>
-    <content type="text">Classified payload for NRO.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/6cdf9823-7574-4c0d-a3b2-956c7b364756.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/delta2520iv25_image_20200828105447.jpeg"/>
-    <category term="launch"/>
-    <category term="united_launch_alliance"/>
-    <category term="commercial"/>
-    <category term="delta"/>
-    <category term="delta_iv_heavy"/>
-    <category term="government_top_secret"/>
-    <category term="space_launch_complex_37_b"/>
-  </entry>
 </feed>

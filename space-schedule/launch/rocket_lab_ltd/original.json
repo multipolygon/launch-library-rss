@@ -1,16 +1,45 @@
 {
+ "title": "Rocket Lab Ltd | Launch | Space Schedule",
+ "items": [
+  {
+   "id": "3277ea9a-9ce3-4e96-9d2a-dfd15155ea61",
+   "title": "Electron | StriX-α (The Owl's Night Begins)",
+   "content_text": "StriX-α is a demonstration mission for Japanese company Synspective which plans to deploy a constellation of synthetic aperture radar satellites.\r\n\r\nFor this mission, Rocket Lab will utilize a custom expanded fairing to encompass Synspective’s wide-body satellite – the first use of the expanded fairing options that Rocket Lab recently introduced.",
+   "url": "https://ll.thespacedevs.com/2.0.0/launch/3277ea9a-9ce3-4e96-9d2a-dfd15155ea61.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+   "date_published": "2020-12-15T09:00:00Z",
+   "date_modified": "2020-12-15T09:00:00Z",
+   "tags": [
+    "launch",
+    "rocket_lab_ltd",
+    "commercial",
+    "electron",
+    "earth_science",
+    "rocket_lab_launch_complex_1_a"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1
+   }
+  }
+ ],
  "version": "https://jsonfeed.org/version/1",
  "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/launch/rocket_lab_ltd/original.json",
- "title": "Rocket Lab Ltd",
- "items": [],
  "_feed_url": {
   "rss": "https://launch-library-rss.multipolygon.net/space-schedule/launch/rocket_lab_ltd/original.rss.xml",
   "atom": "https://launch-library-rss.multipolygon.net/space-schedule/launch/rocket_lab_ltd/original.atom.xml"
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Frocket_lab_ltd%2Foriginal.json",
  "_meta": {
-  "itemCount": 0,
+  "itemCount": 1,
   "pageNumber": 1,
-  "pageCount": 0
+  "pageCount": 1
  }
 }

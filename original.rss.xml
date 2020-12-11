@@ -35,6 +35,21 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg"/>
     </item>
     <item>
+      <title>PSLV-XL | CMS-01 (GSAT-12R)</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/3d0a75ba-674a-4424-9554-21ef7933421d.json</link>
+      <description>CMS-01, formerly also known as GSAT-12R, is an Indian telecommunications satellite.</description>
+      <category>launch</category>
+      <category>indian_space_research_organization</category>
+      <category>government</category>
+      <category>pslv</category>
+      <category>pslv_xl</category>
+      <category>communications</category>
+      <category>satish_dhawan_space_centre_first_launch_pad</category>
+      <guid isPermaLink="false">~space-schedule~launch~indian_space_research_organization~3d0a75ba-674a-4424-9554-21ef7933421d</guid>
+      <pubDate>Thu, 17 Dec 2020 10:11:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg"/>
+    </item>
+    <item>
       <title>NG-14 Cygnus Release &amp; Reentry</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The Northrop Grumman NG-14 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</description>
@@ -53,6 +68,22 @@
       <guid isPermaLink="false">~space-schedule~event~landing~192</guid>
       <pubDate>Wed, 16 Dec 2020 00:00:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"/>
+    </item>
+    <item>
+      <title>Electron | StriX-α (The Owl's Night Begins)</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/3277ea9a-9ce3-4e96-9d2a-dfd15155ea61.json</link>
+      <description>StriX-α is a demonstration mission for Japanese company Synspective which plans to deploy a constellation of synthetic aperture radar satellites.&#xD;
+&#xD;
+For this mission, Rocket Lab will utilize a custom expanded fairing to encompass Synspective’s wide-body satellite – the first use of the expanded fairing options that Rocket Lab recently introduced.</description>
+      <category>launch</category>
+      <category>rocket_lab_ltd</category>
+      <category>commercial</category>
+      <category>electron</category>
+      <category>earth_science</category>
+      <category>rocket_lab_launch_complex_1_a</category>
+      <guid isPermaLink="false">~space-schedule~launch~rocket_lab_ltd~3277ea9a-9ce3-4e96-9d2a-dfd15155ea61</guid>
+      <pubDate>Tue, 15 Dec 2020 09:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"/>
     </item>
     <item>
       <title>Total Solar Eclipse in South America</title>
@@ -108,35 +139,8 @@ SXM-7 is meant to replace the XM-3 satellite.</description>
       <category>communications</category>
       <category>space_launch_complex_40</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~fd63c683-f3e4-465a-8230-b9ba62744c7d</guid>
-      <pubDate>Fri, 11 Dec 2020 16:19:00 GMT</pubDate>
+      <pubDate>Fri, 11 Dec 2020 16:21:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
-    </item>
-    <item>
-      <title>Delta IV Heavy | NROL-44</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/6cdf9823-7574-4c0d-a3b2-956c7b364756.json</link>
-      <description>Classified payload for NRO.</description>
-      <category>launch</category>
-      <category>united_launch_alliance</category>
-      <category>commercial</category>
-      <category>delta</category>
-      <category>delta_iv_heavy</category>
-      <category>government_top_secret</category>
-      <category>space_launch_complex_37_b</category>
-      <guid isPermaLink="false">~space-schedule~launch~united_launch_alliance~6cdf9823-7574-4c0d-a3b2-956c7b364756</guid>
-      <pubDate>Thu, 10 Dec 2020 22:50:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/delta2520iv25_image_20200828105447.jpeg"/>
-    </item>
-    <item>
-      <title>8th meeting of the National Space Council</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>US Vice President Mike Pence will convene the 8th meeting of the National Space Council at NASA's Kennedy Space Center on December 9 at 12:30 p.m. ET. &#xD;
-&#xD;
-The meeting will be livestreamed on NASA TV.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~198</guid>
-      <pubDate>Wed, 09 Dec 2020 17:30:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/8th_meeting_of__image_20201201090808.jpeg"/>
     </item>
   </channel>
 </rss>

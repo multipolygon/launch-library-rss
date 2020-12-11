@@ -39,6 +39,79 @@
    }
   },
   {
+   "id": "~space-schedule~launch~indian_space_research_organization~3d0a75ba-674a-4424-9554-21ef7933421d",
+   "title": "PSLV-XL | CMS-01 (GSAT-12R)",
+   "content_text": "CMS-01, formerly also known as GSAT-12R, is an Indian telecommunications satellite.",
+   "url": "https://ll.thespacedevs.com/2.0.0/launch/3d0a75ba-674a-4424-9554-21ef7933421d.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg",
+   "date_published": "2020-12-17T10:11:00Z",
+   "date_modified": "2020-12-17T10:11:00Z",
+   "tags": [
+    "launch",
+    "indian_space_research_organization",
+    "government",
+    "pslv",
+    "pslv_xl",
+    "communications",
+    "satish_dhawan_space_centre_first_launch_pad"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Indian Space Research Organization | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "3d0a75ba-674a-4424-9554-21ef7933421d",
+    "global": "~space-schedule~launch~indian_space_research_organization~3d0a75ba-674a-4424-9554-21ef7933421d"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/indian_space_research_organization/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~launch~rocket_lab_ltd~3277ea9a-9ce3-4e96-9d2a-dfd15155ea61",
+   "title": "Electron | StriX-α (The Owl's Night Begins)",
+   "content_text": "StriX-α is a demonstration mission for Japanese company Synspective which plans to deploy a constellation of synthetic aperture radar satellites.\r\n\r\nFor this mission, Rocket Lab will utilize a custom expanded fairing to encompass Synspective’s wide-body satellite – the first use of the expanded fairing options that Rocket Lab recently introduced.",
+   "url": "https://ll.thespacedevs.com/2.0.0/launch/3277ea9a-9ce3-4e96-9d2a-dfd15155ea61.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+   "date_published": "2020-12-15T09:00:00Z",
+   "date_modified": "2020-12-15T09:00:00Z",
+   "tags": [
+    "launch",
+    "rocket_lab_ltd",
+    "commercial",
+    "electron",
+    "earth_science",
+    "rocket_lab_launch_complex_1_a"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Rocket Lab Ltd | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "3277ea9a-9ce3-4e96-9d2a-dfd15155ea61",
+    "global": "~space-schedule~launch~rocket_lab_ltd~3277ea9a-9ce3-4e96-9d2a-dfd15155ea61"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/rocket_lab_ltd/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~launch~khrunichev_state_research_and_production_space_center~5ef7ae3d-8667-49c9-aeea-548a34f82776",
    "title": "Angara A5/Briz-M | Dummy payload",
    "content_text": "-",
@@ -116,8 +189,8 @@
    "content_text": "SXM-7 is a large high power broadcasting satellite for SiriusXM's digital audio radio service (DARS).\r\n\r\nSpace Systems/Loral (SS/L) got in July 2016 the contract to build the two satellites based on their SSL-1300 bus - SXM-7 and SXM-8. Both operate in the S-band spectrum. Each satellite will generate more than 20-kW of power and will have a large unfurlable antenna reflector, which enables broadcast to radios without the need for large dish-type antennas on the ground.\r\n\r\nSXM-7 is meant to replace the XM-3 satellite.",
    "url": "https://ll.thespacedevs.com/2.0.0/launch/fd63c683-f3e4-465a-8230-b9ba62744c7d.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
-   "date_published": "2020-12-11T16:19:00Z",
-   "date_modified": "2020-12-11T16:19:00Z",
+   "date_published": "2020-12-11T16:21:00Z",
+   "date_modified": "2020-12-11T16:21:00Z",
    "tags": [
     "launch",
     "space_x",
@@ -146,43 +219,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~united_launch_alliance~6cdf9823-7574-4c0d-a3b2-956c7b364756",
-   "title": "Delta IV Heavy | NROL-44",
-   "content_text": "Classified payload for NRO.",
-   "url": "https://ll.thespacedevs.com/2.0.0/launch/6cdf9823-7574-4c0d-a3b2-956c7b364756.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/delta2520iv25_image_20200828105447.jpeg",
-   "date_published": "2020-12-10T22:50:00Z",
-   "date_modified": "2020-12-10T22:50:00Z",
-   "tags": [
-    "launch",
-    "united_launch_alliance",
-    "commercial",
-    "delta",
-    "delta_iv_heavy",
-    "government_top_secret",
-    "space_launch_complex_37_b"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/delta2520iv25_image_20200828105447.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "United Launch Alliance | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "6cdf9823-7574-4c0d-a3b2-956c7b364756",
-    "global": "~space-schedule~launch~united_launch_alliance~6cdf9823-7574-4c0d-a3b2-956c7b364756"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/united_launch_alliance/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -193,7 +229,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 5,
+  "itemCount": 6,
   "pageNumber": 1,
   "pageCount": 1
  }

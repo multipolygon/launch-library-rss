@@ -24,6 +24,39 @@
     <category term="mojave_air_and_space_port"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~indian_space_research_organization~3d0a75ba-674a-4424-9554-21ef7933421d</id>
+    <title>PSLV-XL | CMS-01 (GSAT-12R)</title>
+    <updated>2020-12-17T10:11:00Z</updated>
+    <published>2020-12-17T10:11:00Z</published>
+    <content type="text">CMS-01, formerly also known as GSAT-12R, is an Indian telecommunications satellite.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/3d0a75ba-674a-4424-9554-21ef7933421d.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg"/>
+    <category term="launch"/>
+    <category term="indian_space_research_organization"/>
+    <category term="government"/>
+    <category term="pslv"/>
+    <category term="pslv_xl"/>
+    <category term="communications"/>
+    <category term="satish_dhawan_space_centre_first_launch_pad"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~rocket_lab_ltd~3277ea9a-9ce3-4e96-9d2a-dfd15155ea61</id>
+    <title>Electron | StriX-α (The Owl's Night Begins)</title>
+    <updated>2020-12-15T09:00:00Z</updated>
+    <published>2020-12-15T09:00:00Z</published>
+    <content type="text">StriX-α is a demonstration mission for Japanese company Synspective which plans to deploy a constellation of synthetic aperture radar satellites.&#xD;
+&#xD;
+For this mission, Rocket Lab will utilize a custom expanded fairing to encompass Synspective’s wide-body satellite – the first use of the expanded fairing options that Rocket Lab recently introduced.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/3277ea9a-9ce3-4e96-9d2a-dfd15155ea61.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"/>
+    <category term="launch"/>
+    <category term="rocket_lab_ltd"/>
+    <category term="commercial"/>
+    <category term="electron"/>
+    <category term="earth_science"/>
+    <category term="rocket_lab_launch_complex_1_a"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~khrunichev_state_research_and_production_space_center~5ef7ae3d-8667-49c9-aeea-548a34f82776</id>
     <title>Angara A5/Briz-M | Dummy payload</title>
     <updated>2020-12-14T05:50:00Z</updated>
@@ -56,8 +89,8 @@
   <entry>
     <id>~space-schedule~launch~space_x~fd63c683-f3e4-465a-8230-b9ba62744c7d</id>
     <title>Falcon 9 Block 5 | Sirius SXM-7</title>
-    <updated>2020-12-11T16:19:00Z</updated>
-    <published>2020-12-11T16:19:00Z</published>
+    <updated>2020-12-11T16:21:00Z</updated>
+    <published>2020-12-11T16:21:00Z</published>
     <content type="text">SXM-7 is a large high power broadcasting satellite for SiriusXM's digital audio radio service (DARS).&#xD;
 &#xD;
 Space Systems/Loral (SS/L) got in July 2016 the contract to build the two satellites based on their SSL-1300 bus - SXM-7 and SXM-8. Both operate in the S-band spectrum. Each satellite will generate more than 20-kW of power and will have a large unfurlable antenna reflector, which enables broadcast to radios without the need for large dish-type antennas on the ground.&#xD;
@@ -72,21 +105,5 @@ SXM-7 is meant to replace the XM-3 satellite.</content>
     <category term="falcon_9_block_5"/>
     <category term="communications"/>
     <category term="space_launch_complex_40"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~united_launch_alliance~6cdf9823-7574-4c0d-a3b2-956c7b364756</id>
-    <title>Delta IV Heavy | NROL-44</title>
-    <updated>2020-12-10T22:50:00Z</updated>
-    <published>2020-12-10T22:50:00Z</published>
-    <content type="text">Classified payload for NRO.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/6cdf9823-7574-4c0d-a3b2-956c7b364756.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/delta2520iv25_image_20200828105447.jpeg"/>
-    <category term="launch"/>
-    <category term="united_launch_alliance"/>
-    <category term="commercial"/>
-    <category term="delta"/>
-    <category term="delta_iv_heavy"/>
-    <category term="government_top_secret"/>
-    <category term="space_launch_complex_37_b"/>
   </entry>
 </feed>

@@ -17,6 +17,22 @@
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fvirgin_orbit%2Foriginal.json"/>
   </entry>
   <entry>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/indian_space_research_organization/original.json</id>
+    <title>Indian Space Research Organization | Launch | Space Schedule</title>
+    <updated>2020-12-17T10:11:00Z</updated>
+    <published>2020-12-17T10:11:00Z</published>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Findian_space_research_organization%2Foriginal.json"/>
+  </entry>
+  <entry>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/rocket_lab_ltd/original.json</id>
+    <title>Rocket Lab Ltd | Launch | Space Schedule</title>
+    <updated>2020-12-15T09:00:00Z</updated>
+    <published>2020-12-15T09:00:00Z</published>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Frocket_lab_ltd%2Foriginal.json"/>
+  </entry>
+  <entry>
     <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/khrunichev_state_research_and_production_space_center/original.json</id>
     <title>Khrunichev State Research and Production Space Center | Launch | Space Schedule</title>
     <updated>2020-12-14T05:50:00Z</updated>
@@ -35,17 +51,9 @@
   <entry>
     <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json</id>
     <title>SpaceX | Launch | Space Schedule</title>
-    <updated>2020-12-11T16:19:00Z</updated>
-    <published>2020-12-11T16:19:00Z</published>
+    <updated>2020-12-11T16:21:00Z</updated>
+    <published>2020-12-11T16:21:00Z</published>
     <content type="text">1 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json"/>
-  </entry>
-  <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/united_launch_alliance/original.json</id>
-    <title>United Launch Alliance | Launch | Space Schedule</title>
-    <updated>2020-12-10T22:50:00Z</updated>
-    <published>2020-12-10T22:50:00Z</published>
-    <content type="text">1 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Funited_launch_alliance%2Foriginal.json"/>
   </entry>
 </feed>

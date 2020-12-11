@@ -1,86 +1,8 @@
 {
-    "count": 5,
+    "count": 6,
     "next": null,
     "previous": null,
     "results": [
-        {
-            "id": "6cdf9823-7574-4c0d-a3b2-956c7b364756",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/6cdf9823-7574-4c0d-a3b2-956c7b364756.json",
-            "launch_library_id": 1973,
-            "slug": "delta-iv-heavy-nrol-44",
-            "name": "Delta IV Heavy | NROL-44",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2020-12-10T23:15:00Z",
-            "window_end": "2020-12-11T03:30:00Z",
-            "window_start": "2020-12-10T22:50:00Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": 90,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": "#NROL44",
-            "launch_service_provider": {
-                "id": 124,
-                "url": "https://ll.thespacedevs.com/2.0.0/agencies/124.json",
-                "name": "United Launch Alliance",
-                "type": "Commercial"
-            },
-            "rocket": {
-                "id": 2531,
-                "configuration": {
-                    "id": 21,
-                    "launch_library_id": 21,
-                    "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/21.json",
-                    "name": "Delta IV Heavy",
-                    "family": "Delta",
-                    "full_name": "Delta IV Heavy",
-                    "variant": "Heavy"
-                }
-            },
-            "mission": {
-                "id": 1150,
-                "launch_library_id": 1340,
-                "name": "NROL-44",
-                "description": "Classified payload for NRO.",
-                "launch_designator": null,
-                "type": "Government/Top Secret",
-                "orbit": {
-                    "id": 8,
-                    "name": "Low Earth Orbit",
-                    "abbrev": "LEO"
-                }
-            },
-            "pad": {
-                "id": 38,
-                "url": "https://ll.thespacedevs.com/2.0.0/pad/38.json",
-                "agency_id": null,
-                "name": "Space Launch Complex 37B",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_37",
-                "map_url": "http://maps.google.com/maps?q=28.531700,-80.564950",
-                "latitude": "28.5317",
-                "longitude": "-80.56495",
-                "location": {
-                    "id": 12,
-                    "url": "https://ll.thespacedevs.com/2.0.0/location/12.json",
-                    "name": "Cape Canaveral, FL, USA",
-                    "country_code": "USA",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg",
-                    "total_launch_count": 206,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_38_20200803143515.jpg",
-                "total_launch_count": 26
-            },
-            "webcast_live": true,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/delta2520iv25_image_20200828105447.jpeg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/delta2520iv25_infographic_20200828105447.png",
-            "program": []
-        },
         {
             "id": "fd63c683-f3e4-465a-8230-b9ba62744c7d",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/fd63c683-f3e4-465a-8230-b9ba62744c7d.json",
@@ -91,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2020-12-11T16:19:00Z",
-            "window_end": "2020-12-11T18:19:00Z",
-            "window_start": "2020-12-11T16:19:00Z",
+            "net": "2020-12-11T16:21:00Z",
+            "window_end": "2020-12-11T18:20:00Z",
+            "window_start": "2020-12-11T16:21:00Z",
             "inhold": false,
             "tbdtime": true,
             "tbddate": true,
@@ -300,6 +222,162 @@
             },
             "webcast_live": false,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara2520a5_image_20190630234836.jpg",
+            "infographic": null,
+            "program": []
+        },
+        {
+            "id": "3277ea9a-9ce3-4e96-9d2a-dfd15155ea61",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/3277ea9a-9ce3-4e96-9d2a-dfd15155ea61.json",
+            "launch_library_id": 2060,
+            "slug": "electron-strix-the-owls-night-begins",
+            "name": "Electron | StriX-α (The Owl's Night Begins)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2020-12-15T10:09:30Z",
+            "window_end": "2020-12-15T10:59:00Z",
+            "window_start": "2020-12-15T09:00:00Z",
+            "inhold": false,
+            "tbdtime": true,
+            "tbddate": true,
+            "probability": -1,
+            "holdreason": "",
+            "failreason": "",
+            "hashtag": null,
+            "launch_service_provider": {
+                "id": 147,
+                "url": "https://ll.thespacedevs.com/2.0.0/agencies/147.json",
+                "name": "Rocket Lab Ltd",
+                "type": "Commercial"
+            },
+            "rocket": {
+                "id": 2707,
+                "configuration": {
+                    "id": 26,
+                    "launch_library_id": 148,
+                    "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/26.json",
+                    "name": "Electron",
+                    "family": "Electron",
+                    "full_name": "Electron",
+                    "variant": ""
+                }
+            },
+            "mission": {
+                "id": 1210,
+                "launch_library_id": null,
+                "name": "StriX-α (The Owl's Night Begins)",
+                "description": "StriX-α is a demonstration mission for Japanese company Synspective which plans to deploy a constellation of synthetic aperture radar satellites.\r\n\r\nFor this mission, Rocket Lab will utilize a custom expanded fairing to encompass Synspective’s wide-body satellite – the first use of the expanded fairing options that Rocket Lab recently introduced.",
+                "launch_designator": null,
+                "type": "Earth Science",
+                "orbit": {
+                    "id": 17,
+                    "name": "Sun-Synchronous Orbit",
+                    "abbrev": "SSO"
+                }
+            },
+            "pad": {
+                "id": 65,
+                "url": "https://ll.thespacedevs.com/2.0.0/pad/65.json",
+                "agency_id": 147,
+                "name": "Rocket Lab Launch Complex 1A",
+                "info_url": null,
+                "wiki_url": "https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1",
+                "map_url": "https://www.google.com/maps/place/-39.262833,177.864469",
+                "latitude": "-39.262833",
+                "longitude": "177.864469",
+                "location": {
+                    "id": 10,
+                    "url": "https://ll.thespacedevs.com/2.0.0/location/10.json",
+                    "name": "Onenui Station, Mahia Peninsula, New Zealand",
+                    "country_code": "NZL",
+                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_10_20200803142509.jpg",
+                    "total_launch_count": 16,
+                    "total_landing_count": 1
+                },
+                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_65_20200803143549.jpg",
+                "total_launch_count": 16
+            },
+            "webcast_live": false,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null,
+            "program": []
+        },
+        {
+            "id": "3d0a75ba-674a-4424-9554-21ef7933421d",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/3d0a75ba-674a-4424-9554-21ef7933421d.json",
+            "launch_library_id": 2089,
+            "slug": "pslv-xl-cms-01-gsat-12r",
+            "name": "PSLV-XL | CMS-01 (GSAT-12R)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2020-12-17T10:11:00Z",
+            "window_end": "2020-12-17T10:11:00Z",
+            "window_start": "2020-12-17T10:11:00Z",
+            "inhold": false,
+            "tbdtime": true,
+            "tbddate": true,
+            "probability": -1,
+            "holdreason": "",
+            "failreason": "",
+            "hashtag": null,
+            "launch_service_provider": {
+                "id": 31,
+                "url": "https://ll.thespacedevs.com/2.0.0/agencies/31.json",
+                "name": "Indian Space Research Organization",
+                "type": "Government"
+            },
+            "rocket": {
+                "id": 2745,
+                "configuration": {
+                    "id": 38,
+                    "launch_library_id": 38,
+                    "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/38.json",
+                    "name": "PSLV-XL",
+                    "family": "PSLV",
+                    "full_name": "PSLV XL",
+                    "variant": "XL"
+                }
+            },
+            "mission": {
+                "id": 1144,
+                "launch_library_id": 1337,
+                "name": "CMS-01 (GSAT-12R)",
+                "description": "CMS-01, formerly also known as GSAT-12R, is an Indian telecommunications satellite.",
+                "launch_designator": null,
+                "type": "Communications",
+                "orbit": {
+                    "id": 2,
+                    "name": "Geostationary Transfer Orbit",
+                    "abbrev": "GTO"
+                }
+            },
+            "pad": {
+                "id": 50,
+                "url": "https://ll.thespacedevs.com/2.0.0/pad/50.json",
+                "agency_id": 31,
+                "name": "Satish Dhawan Space Centre First Launch Pad",
+                "info_url": null,
+                "wiki_url": "https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad",
+                "map_url": "https://www.google.com/maps?q=13.733,80.235",
+                "latitude": "13.733",
+                "longitude": "80.235",
+                "location": {
+                    "id": 14,
+                    "url": "https://ll.thespacedevs.com/2.0.0/location/14.json",
+                    "name": "Sriharikota, Republic of India",
+                    "country_code": "IND",
+                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_14_20200803142403.jpg",
+                    "total_launch_count": 52,
+                    "total_landing_count": 0
+                },
+                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_50_20200803143457.jpg",
+                "total_launch_count": 37
+            },
+            "webcast_live": false,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg",
             "infographic": null,
             "program": []
         },

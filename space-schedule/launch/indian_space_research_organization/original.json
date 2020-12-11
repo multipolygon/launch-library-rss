@@ -1,0 +1,46 @@
+{
+ "title": "Indian Space Research Organization | Launch | Space Schedule",
+ "items": [
+  {
+   "id": "3d0a75ba-674a-4424-9554-21ef7933421d",
+   "title": "PSLV-XL | CMS-01 (GSAT-12R)",
+   "content_text": "CMS-01, formerly also known as GSAT-12R, is an Indian telecommunications satellite.",
+   "url": "https://ll.thespacedevs.com/2.0.0/launch/3d0a75ba-674a-4424-9554-21ef7933421d.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg",
+   "date_published": "2020-12-17T10:11:00Z",
+   "date_modified": "2020-12-17T10:11:00Z",
+   "tags": [
+    "launch",
+    "indian_space_research_organization",
+    "government",
+    "pslv",
+    "pslv_xl",
+    "communications",
+    "satish_dhawan_space_centre_first_launch_pad"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1
+   }
+  }
+ ],
+ "version": "https://jsonfeed.org/version/1",
+ "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/launch/indian_space_research_organization/original.json",
+ "_feed_url": {
+  "rss": "https://launch-library-rss.multipolygon.net/space-schedule/launch/indian_space_research_organization/original.rss.xml",
+  "atom": "https://launch-library-rss.multipolygon.net/space-schedule/launch/indian_space_research_organization/original.atom.xml"
+ },
+ "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Findian_space_research_organization%2Foriginal.json",
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ }
+}

@@ -52,17 +52,4 @@
     <category term="event"/>
     <category term="celestial_event"/>
   </entry>
-  <entry>
-    <id>~space-schedule~event~press_event~198</id>
-    <title>8th meeting of the National Space Council</title>
-    <updated>2020-12-09T17:30:00Z</updated>
-    <published>2020-12-09T17:30:00Z</published>
-    <content type="text">US Vice President Mike Pence will convene the 8th meeting of the National Space Council at NASA's Kennedy Space Center on December 9 at 12:30 p.m. ET. &#xD;
-&#xD;
-The meeting will be livestreamed on NASA TV.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/8th_meeting_of__image_20201201090808.jpeg"/>
-    <category term="event"/>
-    <category term="press_event"/>
-  </entry>
 </feed>

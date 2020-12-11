@@ -132,39 +132,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/celestial_event/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~press_event~198",
-   "title": "8th meeting of the National Space Council",
-   "content_text": "US Vice President Mike Pence will convene the 8th meeting of the National Space Council at NASA's Kennedy Space Center on December 9 at 12:30 p.m. ET. \r\n\r\nThe meeting will be livestreamed on NASA TV.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/8th_meeting_of__image_20201201090808.jpeg",
-   "date_published": "2020-12-09T17:30:00Z",
-   "date_modified": "2020-12-09T17:30:00Z",
-   "tags": [
-    "event",
-    "press_event"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/8th_meeting_of__image_20201201090808.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Press Event | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "198",
-    "global": "~space-schedule~event~press_event~198"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -175,7 +142,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 5,
+  "itemCount": 4,
   "pageNumber": 1,
   "pageCount": 1
  }
