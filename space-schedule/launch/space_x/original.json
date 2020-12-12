@@ -6,9 +6,9 @@
    "title": "Falcon 9 Block 5 | Sirius SXM-7",
    "content_text": "SXM-7 is a large high power broadcasting satellite for SiriusXM's digital audio radio service (DARS).\r\n\r\nSpace Systems/Loral (SS/L) got in July 2016 the contract to build the two satellites based on their SSL-1300 bus - SXM-7 and SXM-8. Both operate in the S-band spectrum. Each satellite will generate more than 20-kW of power and will have a large unfurlable antenna reflector, which enables broadcast to radios without the need for large dish-type antennas on the ground.\r\n\r\nSXM-7 is meant to replace the XM-3 satellite.",
    "url": "https://ll.thespacedevs.com/2.0.0/launch/fd63c683-f3e4-465a-8230-b9ba62744c7d.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
-   "date_published": "2020-12-11T16:21:00Z",
-   "date_modified": "2020-12-11T16:21:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201211135247.jpeg",
+   "date_published": "2020-12-13T16:22:00Z",
+   "date_modified": "2020-12-13T16:22:00Z",
    "tags": [
     "launch",
     "space_x",
@@ -21,7 +21,7 @@
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201211135247.jpeg"
     }
    ],
    "_meta": {

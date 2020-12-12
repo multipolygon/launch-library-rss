@@ -90,6 +90,21 @@ For this mission, Rocket Lab will utilize a custom expanded fairing to encompass
     <category term="rocket_lab_launch_complex_1_a"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~astra_space~ffaceda9-2d21-4c79-b854-3414b774d8af</id>
+    <title>Astra Rocket 3.2 | Flight 2</title>
+    <updated>2020-12-14T19:00:00Z</updated>
+    <published>2020-12-14T19:00:00Z</published>
+    <content type="text">Astra will attempt a second test flight of Rocket 3.0 following an unsuccessful first flight</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"/>
+    <category term="launch"/>
+    <category term="astra_space"/>
+    <category term="astra_rocket"/>
+    <category term="astra_rocket_3_0"/>
+    <category term="test_flight"/>
+    <category term="lp_3_b"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~celestial_event~202</id>
     <title>Total Solar Eclipse in South America</title>
     <updated>2020-12-14T15:30:00Z</updated>
@@ -116,32 +131,17 @@ For this mission, Rocket Lab will utilize a custom expanded fairing to encompass
     <category term="35_1"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~astra_space~ffaceda9-2d21-4c79-b854-3414b774d8af</id>
-    <title>Astra Rocket 3.2 | Flight 2</title>
-    <updated>2020-12-11T19:00:00Z</updated>
-    <published>2020-12-11T19:00:00Z</published>
-    <content type="text">Astra will attempt a second test flight of Rocket 3.0 following an unsuccessful first flight</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"/>
-    <category term="launch"/>
-    <category term="astra_space"/>
-    <category term="astra_rocket"/>
-    <category term="astra_rocket_3_0"/>
-    <category term="test_flight"/>
-    <category term="lp_3_b"/>
-  </entry>
-  <entry>
     <id>~space-schedule~launch~space_x~fd63c683-f3e4-465a-8230-b9ba62744c7d</id>
     <title>Falcon 9 Block 5 | Sirius SXM-7</title>
-    <updated>2020-12-11T16:21:00Z</updated>
-    <published>2020-12-11T16:21:00Z</published>
+    <updated>2020-12-13T16:22:00Z</updated>
+    <published>2020-12-13T16:22:00Z</published>
     <content type="text">SXM-7 is a large high power broadcasting satellite for SiriusXM's digital audio radio service (DARS).&#xD;
 &#xD;
 Space Systems/Loral (SS/L) got in July 2016 the contract to build the two satellites based on their SSL-1300 bus - SXM-7 and SXM-8. Both operate in the S-band spectrum. Each satellite will generate more than 20-kW of power and will have a large unfurlable antenna reflector, which enables broadcast to radios without the need for large dish-type antennas on the ground.&#xD;
 &#xD;
 SXM-7 is meant to replace the XM-3 satellite.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/fd63c683-f3e4-465a-8230-b9ba62744c7d.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201211135247.jpeg"/>
     <category term="launch"/>
     <category term="space_x"/>
     <category term="commercial"/>

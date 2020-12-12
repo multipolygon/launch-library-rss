@@ -33,6 +33,14 @@
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Frocket_lab_ltd%2Foriginal.json"/>
   </entry>
   <entry>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/astra_space/original.json</id>
+    <title>Astra Space | Launch | Space Schedule</title>
+    <updated>2020-12-14T19:00:00Z</updated>
+    <published>2020-12-14T19:00:00Z</published>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fastra_space%2Foriginal.json"/>
+  </entry>
+  <entry>
     <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/khrunichev_state_research_and_production_space_center/original.json</id>
     <title>Khrunichev State Research and Production Space Center | Launch | Space Schedule</title>
     <updated>2020-12-14T05:50:00Z</updated>
@@ -41,18 +49,10 @@
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fkhrunichev_state_research_and_production_space_center%2Foriginal.json"/>
   </entry>
   <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/astra_space/original.json</id>
-    <title>Astra Space | Launch | Space Schedule</title>
-    <updated>2020-12-11T19:00:00Z</updated>
-    <published>2020-12-11T19:00:00Z</published>
-    <content type="text">1 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fastra_space%2Foriginal.json"/>
-  </entry>
-  <entry>
     <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json</id>
     <title>SpaceX | Launch | Space Schedule</title>
-    <updated>2020-12-11T16:21:00Z</updated>
-    <published>2020-12-11T16:21:00Z</published>
+    <updated>2020-12-13T16:22:00Z</updated>
+    <published>2020-12-13T16:22:00Z</published>
     <content type="text">1 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json"/>
   </entry>
