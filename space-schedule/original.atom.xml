@@ -20,21 +20,6 @@
     <category term="static_fire"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5</id>
-    <title>LauncherOne | Launch Demo 2</title>
-    <updated>2020-12-19T18:00:00Z</updated>
-    <published>2020-12-19T18:00:00Z</published>
-    <content type="text">-</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg"/>
-    <category term="launch"/>
-    <category term="virgin_orbit"/>
-    <category term="commercial"/>
-    <category term="launcher"/>
-    <category term="launcher_one"/>
-    <category term="mojave_air_and_space_port"/>
-  </entry>
-  <entry>
     <id>~space-schedule~launch~indian_space_research_organization~3d0a75ba-674a-4424-9554-21ef7933421d</id>
     <title>PSLV-XL | CMS-01 (GSAT-12R)</title>
     <updated>2020-12-17T10:11:00Z</updated>

@@ -1,5 +1,5 @@
 {
-    "count": 6,
+    "count": 5,
     "next": null,
     "previous": null,
     "results": [
@@ -19,7 +19,7 @@
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,
-            "probability": 90,
+            "probability": 60,
             "holdreason": "",
             "failreason": "",
             "hashtag": null,
@@ -378,72 +378,6 @@
             },
             "webcast_live": false,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg",
-            "infographic": null,
-            "program": []
-        },
-        {
-            "id": "20d9789c-dfdf-46b5-a964-de5f031615a5",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5.json",
-            "launch_library_id": 2080,
-            "slug": "launcherone-launch-demo-2",
-            "name": "LauncherOne | Launch Demo 2",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2020-12-19T18:00:00Z",
-            "window_end": "2020-12-19T22:00:00Z",
-            "window_start": "2020-12-19T18:00:00Z",
-            "inhold": false,
-            "tbdtime": true,
-            "tbddate": true,
-            "probability": -1,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 199,
-                "url": "https://ll.thespacedevs.com/2.0.0/agencies/199.json",
-                "name": "Virgin Orbit",
-                "type": "Commercial"
-            },
-            "rocket": {
-                "id": 2736,
-                "configuration": {
-                    "id": 141,
-                    "launch_library_id": 173,
-                    "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/141.json",
-                    "name": "LauncherOne",
-                    "family": "Launcher",
-                    "full_name": "LauncherOne",
-                    "variant": "One"
-                }
-            },
-            "mission": null,
-            "pad": {
-                "id": 53,
-                "url": "https://ll.thespacedevs.com/2.0.0/pad/53.json",
-                "agency_id": null,
-                "name": "Mojave Air and Space Port",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Mojave_Air_and_Space_Port",
-                "map_url": "https://www.google.com/maps/place/35Â°03'34.0\"N+118Â°09'06.0\"W/",
-                "latitude": "35.059444",
-                "longitude": "-118.151667",
-                "location": {
-                    "id": 20,
-                    "url": "https://ll.thespacedevs.com/2.0.0/location/20.json",
-                    "name": "Air launch to orbit",
-                    "country_code": "UNK",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_20_20200803142433.jpg",
-                    "total_launch_count": 44,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_53_20200803143612.jpg",
-                "total_launch_count": 1
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
             "infographic": null,
             "program": []
         }

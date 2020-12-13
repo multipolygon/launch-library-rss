@@ -36,42 +36,6 @@
    }
   },
   {
-   "id": "~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5",
-   "title": "LauncherOne | Launch Demo 2",
-   "content_text": "-",
-   "url": "https://ll.thespacedevs.com/2.0.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
-   "date_published": "2020-12-19T18:00:00Z",
-   "date_modified": "2020-12-19T18:00:00Z",
-   "tags": [
-    "launch",
-    "virgin_orbit",
-    "commercial",
-    "launcher",
-    "launcher_one",
-    "mojave_air_and_space_port"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Virgin Orbit | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "20d9789c-dfdf-46b5-a964-de5f031615a5",
-    "global": "~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/virgin_orbit/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~launch~indian_space_research_organization~3d0a75ba-674a-4424-9554-21ef7933421d",
    "title": "PSLV-XL | CMS-01 (GSAT-12R)",
    "content_text": "CMS-01, formerly also known as GSAT-12R, is an Indian telecommunications satellite.",
@@ -360,7 +324,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 10,
+  "itemCount": 9,
   "pageNumber": 1,
   "pageCount": 1
  }

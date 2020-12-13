@@ -21,20 +21,6 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
     </item>
     <item>
-      <title>LauncherOne | Launch Demo 2</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5.json</link>
-      <description>-</description>
-      <category>launch</category>
-      <category>virgin_orbit</category>
-      <category>commercial</category>
-      <category>launcher</category>
-      <category>launcher_one</category>
-      <category>mojave_air_and_space_port</category>
-      <guid isPermaLink="false">~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5</guid>
-      <pubDate>Sat, 19 Dec 2020 18:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg"/>
-    </item>
-    <item>
       <title>PSLV-XL | CMS-01 (GSAT-12R)</title>
       <link>https://ll.thespacedevs.com/2.0.0/launch/3d0a75ba-674a-4424-9554-21ef7933421d.json</link>
       <description>CMS-01, formerly also known as GSAT-12R, is an Indian telecommunications satellite.</description>
