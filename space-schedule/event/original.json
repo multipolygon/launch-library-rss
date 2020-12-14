@@ -36,6 +36,38 @@
    }
   },
   {
+   "id": "~space-schedule~event~landing~192",
+   "title": "Chang'e 5 Sample Returns to Earth",
+   "content_text": "The Chang'e 5 sample-return capsule will enter the Earth's atmosphere and land in Dorbod Banner, Inner Mongolia.",
+   "url": "https://en.wikipedia.org/wiki/Chang%27e_5",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png",
+   "date_published": "2020-12-17T00:00:00Z",
+   "date_modified": "2020-12-17T00:00:00Z",
+   "tags": [
+    "event",
+    "landing"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/png",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Landing | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "192",
+    "global": "~space-schedule~event~landing~192"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~release~196",
    "title": "NG-14 Cygnus Release & Reentry",
    "content_text": "The Northrop Grumman NG-14 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.",
@@ -66,38 +98,6 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/release/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~landing~192",
-   "title": "Chang'e 5 Sample Returns to Earth",
-   "content_text": "The Chang'e 5 sample-return capsule will enter the Earth's atmosphere and land in Dorbod Banner, Inner Mongolia.",
-   "url": "https://en.wikipedia.org/wiki/Chang%27e_5",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png",
-   "date_published": "2020-12-16T00:00:00Z",
-   "date_modified": "2020-12-16T00:00:00Z",
-   "tags": [
-    "event",
-    "landing"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Landing | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "192",
-    "global": "~space-schedule~event~landing~192"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.json"
    }
   },
   {

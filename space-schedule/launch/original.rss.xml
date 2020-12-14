@@ -55,38 +55,5 @@ For this mission, Rocket Lab will utilize a custom expanded fairing to encompass
       <pubDate>Mon, 14 Dec 2020 19:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"/>
     </item>
-    <item>
-      <title>Angara A5/Briz-M | Dummy payload</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/5ef7ae3d-8667-49c9-aeea-548a34f82776.json</link>
-      <description>-</description>
-      <category>launch</category>
-      <category>khrunichev_state_research_and_production_space_center</category>
-      <category>government</category>
-      <category>angara</category>
-      <category>angara_a_5</category>
-      <category>35_1</category>
-      <guid isPermaLink="false">~space-schedule~launch~khrunichev_state_research_and_production_space_center~5ef7ae3d-8667-49c9-aeea-548a34f82776</guid>
-      <pubDate>Mon, 14 Dec 2020 05:50:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara2520a5_image_20190630234836.jpg"/>
-    </item>
-    <item>
-      <title>Falcon 9 Block 5 | Sirius SXM-7</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/fd63c683-f3e4-465a-8230-b9ba62744c7d.json</link>
-      <description>SXM-7 is a large high power broadcasting satellite for SiriusXM's digital audio radio service (DARS).&#xD;
-&#xD;
-Space Systems/Loral (SS/L) got in July 2016 the contract to build the two satellites based on their SSL-1300 bus - SXM-7 and SXM-8. Both operate in the S-band spectrum. Each satellite will generate more than 20-kW of power and will have a large unfurlable antenna reflector, which enables broadcast to radios without the need for large dish-type antennas on the ground.&#xD;
-&#xD;
-SXM-7 is meant to replace the XM-3 satellite.</description>
-      <category>launch</category>
-      <category>space_x</category>
-      <category>commercial</category>
-      <category>falcon</category>
-      <category>falcon_9_block_5</category>
-      <category>communications</category>
-      <category>space_launch_complex_40</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~fd63c683-f3e4-465a-8230-b9ba62744c7d</guid>
-      <pubDate>Sun, 13 Dec 2020 16:22:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201211135247.jpeg"/>
-    </item>
   </channel>
 </rss>

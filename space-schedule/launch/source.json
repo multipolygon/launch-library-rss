@@ -1,152 +1,8 @@
 {
-    "count": 5,
+    "count": 3,
     "next": null,
     "previous": null,
     "results": [
-        {
-            "id": "fd63c683-f3e4-465a-8230-b9ba62744c7d",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/fd63c683-f3e4-465a-8230-b9ba62744c7d.json",
-            "launch_library_id": 1416,
-            "slug": "falcon-9-block-5-sirius-sxm-7",
-            "name": "Falcon 9 Block 5 | Sirius SXM-7",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2020-12-13T16:22:00Z",
-            "window_end": "2020-12-13T18:21:00Z",
-            "window_start": "2020-12-13T16:22:00Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": 60,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 121,
-                "url": "https://ll.thespacedevs.com/2.0.0/agencies/121.json",
-                "name": "SpaceX",
-                "type": "Commercial"
-            },
-            "rocket": {
-                "id": 53,
-                "configuration": {
-                    "id": 164,
-                    "launch_library_id": 188,
-                    "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/164.json",
-                    "name": "Falcon 9 Block 5",
-                    "family": "Falcon",
-                    "full_name": "Falcon 9 Block 5",
-                    "variant": "Block 5"
-                }
-            },
-            "mission": {
-                "id": 1044,
-                "launch_library_id": 1244,
-                "name": "SXM-7",
-                "description": "SXM-7 is a large high power broadcasting satellite for SiriusXM's digital audio radio service (DARS).\r\n\r\nSpace Systems/Loral (SS/L) got in July 2016 the contract to build the two satellites based on their SSL-1300 bus - SXM-7 and SXM-8. Both operate in the S-band spectrum. Each satellite will generate more than 20-kW of power and will have a large unfurlable antenna reflector, which enables broadcast to radios without the need for large dish-type antennas on the ground.\r\n\r\nSXM-7 is meant to replace the XM-3 satellite.",
-                "launch_designator": null,
-                "type": "Communications",
-                "orbit": {
-                    "id": 2,
-                    "name": "Geostationary Transfer Orbit",
-                    "abbrev": "GTO"
-                }
-            },
-            "pad": {
-                "id": 80,
-                "url": "https://ll.thespacedevs.com/2.0.0/pad/80.json",
-                "agency_id": 121,
-                "name": "Space Launch Complex 40",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40",
-                "map_url": "http://maps.google.com/maps?q=28.56194122,-80.57735736",
-                "latitude": "28.56194122",
-                "longitude": "-80.57735736",
-                "location": {
-                    "id": 12,
-                    "url": "https://ll.thespacedevs.com/2.0.0/location/12.json",
-                    "name": "Cape Canaveral, FL, USA",
-                    "country_code": "USA",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg",
-                    "total_launch_count": 207,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_80_20200803143323.jpg",
-                "total_launch_count": 62
-            },
-            "webcast_live": true,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201211135247.jpeg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20201211234244.png",
-            "program": []
-        },
-        {
-            "id": "5ef7ae3d-8667-49c9-aeea-548a34f82776",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/5ef7ae3d-8667-49c9-aeea-548a34f82776.json",
-            "launch_library_id": 1650,
-            "slug": "angara-a5briz-m-dummy-payload",
-            "name": "Angara A5/Briz-M | Dummy payload",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2020-12-14T05:50:00Z",
-            "window_end": "2020-12-14T05:50:00Z",
-            "window_start": "2020-12-14T05:50:00Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": -1,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 96,
-                "url": "https://ll.thespacedevs.com/2.0.0/agencies/96.json",
-                "name": "Khrunichev State Research and Production Space Center",
-                "type": "Government"
-            },
-            "rocket": {
-                "id": 2563,
-                "configuration": {
-                    "id": 73,
-                    "launch_library_id": 87,
-                    "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/73.json",
-                    "name": "Angara A5",
-                    "family": "Angara",
-                    "full_name": "Angara A5",
-                    "variant": "Briz-M"
-                }
-            },
-            "mission": null,
-            "pad": {
-                "id": 42,
-                "url": "https://ll.thespacedevs.com/2.0.0/pad/42.json",
-                "agency_id": 163,
-                "name": "35/1",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome_Site_35",
-                "map_url": "https://www.google.com/maps?q=62.927319,40.574897",
-                "latitude": "62.927319",
-                "longitude": "40.574897",
-                "location": {
-                    "id": 6,
-                    "url": "https://ll.thespacedevs.com/2.0.0/location/6.json",
-                    "name": "Plesetsk Cosmodrome, Russian Federation",
-                    "country_code": "RUS",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_6_20200803142434.jpg",
-                    "total_launch_count": 70,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_42_20200803143543.jpg",
-                "total_launch_count": 1
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara2520a5_image_20190630234836.jpg",
-            "infographic": null,
-            "program": []
-        },
         {
             "id": "ffaceda9-2d21-4c79-b854-3414b774d8af",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af.json",
@@ -193,9 +49,9 @@
                 "launch_designator": null,
                 "type": "Test Flight",
                 "orbit": {
-                    "id": 15,
-                    "name": "Suborbital",
-                    "abbrev": "Sub"
+                    "id": 13,
+                    "name": "Polar Orbit",
+                    "abbrev": "PO"
                 }
             },
             "pad": {

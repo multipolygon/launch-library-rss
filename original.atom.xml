@@ -36,6 +36,17 @@
     <category term="satish_dhawan_space_centre_first_launch_pad"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~landing~192</id>
+    <title>Chang'e 5 Sample Returns to Earth</title>
+    <updated>2020-12-17T00:00:00Z</updated>
+    <published>2020-12-17T00:00:00Z</published>
+    <content type="text">The Chang'e 5 sample-return capsule will enter the Earth's atmosphere and land in Dorbod Banner, Inner Mongolia.</content>
+    <link rel="alternate" href="https://en.wikipedia.org/wiki/Chang%27e_5"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"/>
+    <category term="event"/>
+    <category term="landing"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~release~196</id>
     <title>NG-14 Cygnus Release &amp; Reentry</title>
     <updated>2020-12-16T15:35:00Z</updated>
@@ -45,17 +56,6 @@
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg"/>
     <category term="event"/>
     <category term="release"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~landing~192</id>
-    <title>Chang'e 5 Sample Returns to Earth</title>
-    <updated>2020-12-16T00:00:00Z</updated>
-    <published>2020-12-16T00:00:00Z</published>
-    <content type="text">The Chang'e 5 sample-return capsule will enter the Earth's atmosphere and land in Dorbod Banner, Inner Mongolia.</content>
-    <link rel="alternate" href="https://en.wikipedia.org/wiki/Chang%27e_5"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"/>
-    <category term="event"/>
-    <category term="landing"/>
   </entry>
   <entry>
     <id>~space-schedule~launch~rocket_lab_ltd~3277ea9a-9ce3-4e96-9d2a-dfd15155ea61</id>
@@ -99,40 +99,5 @@ For this mission, Rocket Lab will utilize a custom expanded fairing to encompass
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/total_solar_ecl_image_20201206083620.jpeg"/>
     <category term="event"/>
     <category term="celestial_event"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~khrunichev_state_research_and_production_space_center~5ef7ae3d-8667-49c9-aeea-548a34f82776</id>
-    <title>Angara A5/Briz-M | Dummy payload</title>
-    <updated>2020-12-14T05:50:00Z</updated>
-    <published>2020-12-14T05:50:00Z</published>
-    <content type="text">-</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/5ef7ae3d-8667-49c9-aeea-548a34f82776.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara2520a5_image_20190630234836.jpg"/>
-    <category term="launch"/>
-    <category term="khrunichev_state_research_and_production_space_center"/>
-    <category term="government"/>
-    <category term="angara"/>
-    <category term="angara_a_5"/>
-    <category term="35_1"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~space_x~fd63c683-f3e4-465a-8230-b9ba62744c7d</id>
-    <title>Falcon 9 Block 5 | Sirius SXM-7</title>
-    <updated>2020-12-13T16:22:00Z</updated>
-    <published>2020-12-13T16:22:00Z</published>
-    <content type="text">SXM-7 is a large high power broadcasting satellite for SiriusXM's digital audio radio service (DARS).&#xD;
-&#xD;
-Space Systems/Loral (SS/L) got in July 2016 the contract to build the two satellites based on their SSL-1300 bus - SXM-7 and SXM-8. Both operate in the S-band spectrum. Each satellite will generate more than 20-kW of power and will have a large unfurlable antenna reflector, which enables broadcast to radios without the need for large dish-type antennas on the ground.&#xD;
-&#xD;
-SXM-7 is meant to replace the XM-3 satellite.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/fd63c683-f3e4-465a-8230-b9ba62744c7d.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201211135247.jpeg"/>
-    <category term="launch"/>
-    <category term="space_x"/>
-    <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon_9_block_5"/>
-    <category term="communications"/>
-    <category term="space_launch_complex_40"/>
   </entry>
 </feed>

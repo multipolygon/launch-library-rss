@@ -21,6 +21,16 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
     </item>
     <item>
+      <title>Chang'e 5 Sample Returns to Earth</title>
+      <link>https://en.wikipedia.org/wiki/Chang%27e_5</link>
+      <description>The Chang'e 5 sample-return capsule will enter the Earth's atmosphere and land in Dorbod Banner, Inner Mongolia.</description>
+      <category>event</category>
+      <category>landing</category>
+      <guid isPermaLink="false">~space-schedule~event~landing~192</guid>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"/>
+    </item>
+    <item>
       <title>NG-14 Cygnus Release &amp; Reentry</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The Northrop Grumman NG-14 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</description>
@@ -29,16 +39,6 @@
       <guid isPermaLink="false">~space-schedule~event~release~196</guid>
       <pubDate>Wed, 16 Dec 2020 15:35:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg"/>
-    </item>
-    <item>
-      <title>Chang'e 5 Sample Returns to Earth</title>
-      <link>https://en.wikipedia.org/wiki/Chang%27e_5</link>
-      <description>The Chang'e 5 sample-return capsule will enter the Earth's atmosphere and land in Dorbod Banner, Inner Mongolia.</description>
-      <category>event</category>
-      <category>landing</category>
-      <guid isPermaLink="false">~space-schedule~event~landing~192</guid>
-      <pubDate>Wed, 16 Dec 2020 00:00:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"/>
     </item>
     <item>
       <title>Total Solar Eclipse in South America</title>

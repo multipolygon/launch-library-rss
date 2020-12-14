@@ -6,7 +6,7 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Flanding%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
-    <pubDate>Wed, 16 Dec 2020 00:00:00 GMT</pubDate>
+    <pubDate>Thu, 17 Dec 2020 00:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
@@ -16,7 +16,7 @@
       <category>event</category>
       <category>landing</category>
       <guid isPermaLink="false">192</guid>
-      <pubDate>Wed, 16 Dec 2020 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"/>
     </item>
   </channel>
