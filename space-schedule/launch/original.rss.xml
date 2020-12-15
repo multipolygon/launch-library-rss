@@ -7,9 +7,39 @@
     <description>All items in Space Schedule &gt; Launch.</description>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
-    <pubDate>Thu, 17 Dec 2020 10:11:00 GMT</pubDate>
+    <pubDate>Fri, 18 Dec 2020 12:26:26 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Soyuz 2.1b/Fregat-M | OneWeb 4</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/294e456a-fccc-4af1-a75e-990f8bb9ffba.json</link>
+      <description>A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Interned broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</description>
+      <category>launch</category>
+      <category>khrunichev_state_research_and_production_space_center</category>
+      <category>government</category>
+      <category>soyuz</category>
+      <category>soyuz_2_1_b</category>
+      <category>communications</category>
+      <category>cosmodrome_site_1_s</category>
+      <guid isPermaLink="false">~space-schedule~launch~khrunichev_state_research_and_production_space_center~294e456a-fccc-4af1-a75e-990f8bb9ffba</guid>
+      <pubDate>Fri, 18 Dec 2020 12:26:26 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"/>
+    </item>
+    <item>
+      <title>Falcon 9 Block 5 | NROL-108</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/528b72ff-e47e-46a3-b7ad-23b2ffcec2f2.json</link>
+      <description>Classified payload for NRO.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon_9_block_5</category>
+      <category>government_top_secret</category>
+      <category>launch_complex_39_a</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~528b72ff-e47e-46a3-b7ad-23b2ffcec2f2</guid>
+      <pubDate>Thu, 17 Dec 2020 14:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
+    </item>
     <item>
       <title>PSLV-XL | CMS-01 (GSAT-12R)</title>
       <link>https://ll.thespacedevs.com/2.0.0/launch/3d0a75ba-674a-4424-9554-21ef7933421d.json</link>
@@ -26,22 +56,6 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg"/>
     </item>
     <item>
-      <title>Electron | StriX-α (The Owl's Night Begins)</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/3277ea9a-9ce3-4e96-9d2a-dfd15155ea61.json</link>
-      <description>StriX-α is a demonstration mission for Japanese company Synspective which plans to deploy a constellation of synthetic aperture radar satellites.&#xD;
-&#xD;
-For this mission, Rocket Lab will utilize a custom expanded fairing to encompass Synspective’s wide-body satellite – the first use of the expanded fairing options that Rocket Lab recently introduced.</description>
-      <category>launch</category>
-      <category>rocket_lab_ltd</category>
-      <category>commercial</category>
-      <category>electron</category>
-      <category>earth_science</category>
-      <category>rocket_lab_launch_complex_1_a</category>
-      <guid isPermaLink="false">~space-schedule~launch~rocket_lab_ltd~3277ea9a-9ce3-4e96-9d2a-dfd15155ea61</guid>
-      <pubDate>Tue, 15 Dec 2020 09:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"/>
-    </item>
-    <item>
       <title>Astra Rocket 3.2 | Flight 2</title>
       <link>https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af.json</link>
       <description>Astra will attempt a second test flight of Rocket 3.0 following an unsuccessful first flight</description>
@@ -52,7 +66,7 @@ For this mission, Rocket Lab will utilize a custom expanded fairing to encompass
       <category>test_flight</category>
       <category>lp_3_b</category>
       <guid isPermaLink="false">~space-schedule~launch~astra_space~ffaceda9-2d21-4c79-b854-3414b774d8af</guid>
-      <pubDate>Mon, 14 Dec 2020 19:00:00 GMT</pubDate>
+      <pubDate>Tue, 15 Dec 2020 19:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"/>
     </item>
   </channel>

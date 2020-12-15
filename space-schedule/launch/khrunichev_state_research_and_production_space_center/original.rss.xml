@@ -2,12 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/khrunichev_state_research_and_production_space_center/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Khrunichev State Research And Production Space Center</title>
+    <title>Khrunichev State Research and Production Space Center | Launch | Space Schedule</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fkhrunichev_state_research_and_production_space_center%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
-    <pubDate>Mon, 14 Dec 2020 11:27:03 GMT</pubDate>
+    <pubDate>Fri, 18 Dec 2020 12:26:26 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Soyuz 2.1b/Fregat-M | OneWeb 4</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/294e456a-fccc-4af1-a75e-990f8bb9ffba.json</link>
+      <description>A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Interned broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</description>
+      <category>launch</category>
+      <category>khrunichev_state_research_and_production_space_center</category>
+      <category>government</category>
+      <category>soyuz</category>
+      <category>soyuz_2_1_b</category>
+      <category>communications</category>
+      <category>cosmodrome_site_1_s</category>
+      <guid isPermaLink="false">294e456a-fccc-4af1-a75e-990f8bb9ffba</guid>
+      <pubDate>Fri, 18 Dec 2020 12:26:26 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"/>
+    </item>
   </channel>
 </rss>
