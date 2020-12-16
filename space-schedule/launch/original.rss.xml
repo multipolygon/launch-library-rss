@@ -55,19 +55,5 @@
       <pubDate>Thu, 17 Dec 2020 10:11:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg"/>
     </item>
-    <item>
-      <title>Astra Rocket 3.2 | Flight 2</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af.json</link>
-      <description>Astra will attempt a second test flight of Rocket 3.0 following an unsuccessful first flight</description>
-      <category>launch</category>
-      <category>astra_space</category>
-      <category>astra_rocket</category>
-      <category>astra_rocket_3_0</category>
-      <category>test_flight</category>
-      <category>lp_3_b</category>
-      <guid isPermaLink="false">~space-schedule~launch~astra_space~ffaceda9-2d21-4c79-b854-3414b774d8af</guid>
-      <pubDate>Tue, 15 Dec 2020 19:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"/>
-    </item>
   </channel>
 </rss>

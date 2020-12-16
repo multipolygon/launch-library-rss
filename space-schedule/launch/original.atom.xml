@@ -56,19 +56,4 @@
     <category term="communications"/>
     <category term="satish_dhawan_space_centre_first_launch_pad"/>
   </entry>
-  <entry>
-    <id>~space-schedule~launch~astra_space~ffaceda9-2d21-4c79-b854-3414b774d8af</id>
-    <title>Astra Rocket 3.2 | Flight 2</title>
-    <updated>2020-12-15T19:00:00Z</updated>
-    <published>2020-12-15T19:00:00Z</published>
-    <content type="text">Astra will attempt a second test flight of Rocket 3.0 following an unsuccessful first flight</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"/>
-    <category term="launch"/>
-    <category term="astra_space"/>
-    <category term="astra_rocket"/>
-    <category term="astra_rocket_3_0"/>
-    <category term="test_flight"/>
-    <category term="lp_3_b"/>
-  </entry>
 </feed>

@@ -32,12 +32,4 @@
     <content type="text">1 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Findian_space_research_organization%2Foriginal.json"/>
   </entry>
-  <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/astra_space/original.json</id>
-    <title>Astra Space | Launch | Space Schedule</title>
-    <updated>2020-12-15T19:00:00Z</updated>
-    <published>2020-12-15T19:00:00Z</published>
-    <content type="text">1 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fastra_space%2Foriginal.json"/>
-  </entry>
 </feed>

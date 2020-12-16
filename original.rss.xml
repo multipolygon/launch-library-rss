@@ -11,6 +11,16 @@
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
+      <title>NG-14 Cygnus Release &amp; Reentry</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The Northrop Grumman NG-14 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</description>
+      <category>event</category>
+      <category>release</category>
+      <guid isPermaLink="false">~space-schedule~event~release~196</guid>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg"/>
+    </item>
+    <item>
       <title>SLS Green Run Hot Fire</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The core stage of the Space Launch System will undergo the final 'Green Run' test, where the core stage will be fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
@@ -74,40 +84,6 @@
       <guid isPermaLink="false">~space-schedule~event~landing~192</guid>
       <pubDate>Thu, 17 Dec 2020 00:00:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"/>
-    </item>
-    <item>
-      <title>NG-14 Cygnus Release &amp; Reentry</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The Northrop Grumman NG-14 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</description>
-      <category>event</category>
-      <category>release</category>
-      <guid isPermaLink="false">~space-schedule~event~release~196</guid>
-      <pubDate>Wed, 16 Dec 2020 15:35:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg"/>
-    </item>
-    <item>
-      <title>Astra Rocket 3.2 | Flight 2</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af.json</link>
-      <description>Astra will attempt a second test flight of Rocket 3.0 following an unsuccessful first flight</description>
-      <category>launch</category>
-      <category>astra_space</category>
-      <category>astra_rocket</category>
-      <category>astra_rocket_3_0</category>
-      <category>test_flight</category>
-      <category>lp_3_b</category>
-      <guid isPermaLink="false">~space-schedule~launch~astra_space~ffaceda9-2d21-4c79-b854-3414b774d8af</guid>
-      <pubDate>Tue, 15 Dec 2020 19:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg"/>
-    </item>
-    <item>
-      <title>Total Solar Eclipse in South America</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>Camera views of the total solar eclipse in South America will be broadcasted on NASA TV.</description>
-      <category>event</category>
-      <category>celestial_event</category>
-      <guid isPermaLink="false">~space-schedule~event~celestial_event~202</guid>
-      <pubDate>Mon, 14 Dec 2020 15:30:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/total_solar_ecl_image_20201206083620.jpeg"/>
     </item>
   </channel>
 </rss>

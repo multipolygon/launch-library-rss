@@ -1,86 +1,8 @@
 {
-    "count": 4,
+    "count": 3,
     "next": null,
     "previous": null,
     "results": [
-        {
-            "id": "ffaceda9-2d21-4c79-b854-3414b774d8af",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af.json",
-            "launch_library_id": null,
-            "slug": "astra-rocket-32-flight-2",
-            "name": "Astra Rocket 3.2 | Flight 2",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2020-12-15T19:00:00Z",
-            "window_end": "2020-12-15T22:00:00Z",
-            "window_start": "2020-12-15T19:00:00Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": null,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 285,
-                "url": "https://ll.thespacedevs.com/2.0.0/agencies/285.json",
-                "name": "Astra Space",
-                "type": null
-            },
-            "rocket": {
-                "id": 2808,
-                "configuration": {
-                    "id": 213,
-                    "launch_library_id": 243,
-                    "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/213.json",
-                    "name": "Astra Rocket 3.0",
-                    "family": "Astra Rocket",
-                    "full_name": "Astra Rocket 3.0",
-                    "variant": "3.0"
-                }
-            },
-            "mission": {
-                "id": 1208,
-                "launch_library_id": null,
-                "name": "Flight 2",
-                "description": "Astra will attempt a second test flight of Rocket 3.0 following an unsuccessful first flight",
-                "launch_designator": null,
-                "type": "Test Flight",
-                "orbit": {
-                    "id": 13,
-                    "name": "Polar Orbit",
-                    "abbrev": "PO"
-                }
-            },
-            "pad": {
-                "id": 114,
-                "url": "https://ll.thespacedevs.com/2.0.0/pad/114.json",
-                "agency_id": null,
-                "name": "LP-3B",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Pacific_Spaceport_Complex_%E2%80%93_Alaska",
-                "map_url": "https://www.google.ee/maps/search/57.4304299,-152.3586347",
-                "latitude": "57.4304299",
-                "longitude": "-152.3586347",
-                "location": {
-                    "id": 25,
-                    "url": "https://ll.thespacedevs.com/2.0.0/location/25.json",
-                    "name": "Kodiak Launch Complex, Alaska, USA",
-                    "country_code": "USA",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_25_20200803142500.jpg",
-                    "total_launch_count": 3,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_114_20200803145248.jpg",
-                "total_launch_count": 1
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_infographic_20201211234220.png",
-            "program": []
-        },
         {
             "id": "3d0a75ba-674a-4424-9554-21ef7933421d",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/3d0a75ba-674a-4424-9554-21ef7933421d.json",
@@ -175,7 +97,7 @@
             "inhold": false,
             "tbdtime": true,
             "tbddate": false,
-            "probability": 60,
+            "probability": 64,
             "holdreason": "",
             "failreason": "",
             "hashtag": null,
