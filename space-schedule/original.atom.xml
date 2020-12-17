@@ -53,7 +53,7 @@
     <published>2020-12-17T14:00:00Z</published>
     <content type="text">Classified payload for NRO.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/528b72ff-e47e-46a3-b7ad-23b2ffcec2f2.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201217060406.jpeg"/>
     <category term="launch"/>
     <category term="space_x"/>
     <category term="commercial"/>
@@ -63,28 +63,12 @@
     <category term="launch_complex_39_a"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~indian_space_research_organization~3d0a75ba-674a-4424-9554-21ef7933421d</id>
-    <title>PSLV-XL | CMS-01 (GSAT-12R)</title>
-    <updated>2020-12-17T10:11:00Z</updated>
-    <published>2020-12-17T10:11:00Z</published>
-    <content type="text">CMS-01, formerly also known as GSAT-12R, is an Indian telecommunications satellite.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/3d0a75ba-674a-4424-9554-21ef7933421d.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg"/>
-    <category term="launch"/>
-    <category term="indian_space_research_organization"/>
-    <category term="government"/>
-    <category term="pslv"/>
-    <category term="pslv_xl"/>
-    <category term="communications"/>
-    <category term="satish_dhawan_space_centre_first_launch_pad"/>
-  </entry>
-  <entry>
     <id>~space-schedule~event~landing~192</id>
     <title>Chang'e 5 Sample Returns to Earth</title>
-    <updated>2020-12-17T00:00:00Z</updated>
-    <published>2020-12-17T00:00:00Z</published>
+    <updated>2020-12-16T17:32:00Z</updated>
+    <published>2020-12-16T17:32:00Z</published>
     <content type="text">The Chang'e 5 sample-return capsule will enter the Earth's atmosphere and land in Dorbod Banner, Inner Mongolia.</content>
-    <link rel="alternate" href="https://en.wikipedia.org/wiki/Chang%27e_5"/>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=bLW248jCxmc"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"/>
     <category term="event"/>
     <category term="landing"/>

@@ -31,7 +31,7 @@
     <published>2020-12-17T14:00:00Z</published>
     <content type="text">Classified payload for NRO.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/528b72ff-e47e-46a3-b7ad-23b2ffcec2f2.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201217060406.jpeg"/>
     <category term="launch"/>
     <category term="space_x"/>
     <category term="commercial"/>
@@ -39,21 +39,5 @@
     <category term="falcon_9_block_5"/>
     <category term="government_top_secret"/>
     <category term="launch_complex_39_a"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~indian_space_research_organization~3d0a75ba-674a-4424-9554-21ef7933421d</id>
-    <title>PSLV-XL | CMS-01 (GSAT-12R)</title>
-    <updated>2020-12-17T10:11:00Z</updated>
-    <published>2020-12-17T10:11:00Z</published>
-    <content type="text">CMS-01, formerly also known as GSAT-12R, is an Indian telecommunications satellite.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/3d0a75ba-674a-4424-9554-21ef7933421d.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg"/>
-    <category term="launch"/>
-    <category term="indian_space_research_organization"/>
-    <category term="government"/>
-    <category term="pslv"/>
-    <category term="pslv_xl"/>
-    <category term="communications"/>
-    <category term="satish_dhawan_space_centre_first_launch_pad"/>
   </entry>
 </feed>

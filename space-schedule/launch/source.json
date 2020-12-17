@@ -1,86 +1,8 @@
 {
-    "count": 3,
+    "count": 2,
     "next": null,
     "previous": null,
     "results": [
-        {
-            "id": "3d0a75ba-674a-4424-9554-21ef7933421d",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/3d0a75ba-674a-4424-9554-21ef7933421d.json",
-            "launch_library_id": 2089,
-            "slug": "pslv-xl-cms-01-gsat-12r",
-            "name": "PSLV-XL | CMS-01 (GSAT-12R)",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2020-12-17T10:11:00Z",
-            "window_end": "2020-12-17T10:11:00Z",
-            "window_start": "2020-12-17T10:11:00Z",
-            "inhold": false,
-            "tbdtime": true,
-            "tbddate": true,
-            "probability": -1,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 31,
-                "url": "https://ll.thespacedevs.com/2.0.0/agencies/31.json",
-                "name": "Indian Space Research Organization",
-                "type": "Government"
-            },
-            "rocket": {
-                "id": 2745,
-                "configuration": {
-                    "id": 38,
-                    "launch_library_id": 38,
-                    "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/38.json",
-                    "name": "PSLV-XL",
-                    "family": "PSLV",
-                    "full_name": "PSLV XL",
-                    "variant": "XL"
-                }
-            },
-            "mission": {
-                "id": 1144,
-                "launch_library_id": 1337,
-                "name": "CMS-01 (GSAT-12R)",
-                "description": "CMS-01, formerly also known as GSAT-12R, is an Indian telecommunications satellite.",
-                "launch_designator": null,
-                "type": "Communications",
-                "orbit": {
-                    "id": 2,
-                    "name": "Geostationary Transfer Orbit",
-                    "abbrev": "GTO"
-                }
-            },
-            "pad": {
-                "id": 50,
-                "url": "https://ll.thespacedevs.com/2.0.0/pad/50.json",
-                "agency_id": 31,
-                "name": "Satish Dhawan Space Centre First Launch Pad",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad",
-                "map_url": "https://www.google.com/maps?q=13.733,80.235",
-                "latitude": "13.733",
-                "longitude": "80.235",
-                "location": {
-                    "id": 14,
-                    "url": "https://ll.thespacedevs.com/2.0.0/location/14.json",
-                    "name": "Sriharikota, Republic of India",
-                    "country_code": "IND",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_14_20200803142403.jpg",
-                    "total_launch_count": 52,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_50_20200803143457.jpg",
-                "total_launch_count": 37
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg",
-            "infographic": null,
-            "program": []
-        },
         {
             "id": "528b72ff-e47e-46a3-b7ad-23b2ffcec2f2",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/528b72ff-e47e-46a3-b7ad-23b2ffcec2f2.json",
@@ -97,7 +19,7 @@
             "inhold": false,
             "tbdtime": true,
             "tbddate": false,
-            "probability": 64,
+            "probability": 70,
             "holdreason": "",
             "failreason": "",
             "hashtag": null,
@@ -151,7 +73,7 @@
                 "total_launch_count": 124
             },
             "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201217060406.jpeg",
             "infographic": null,
             "program": []
         },

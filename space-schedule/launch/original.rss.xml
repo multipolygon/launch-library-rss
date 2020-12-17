@@ -38,22 +38,7 @@
       <category>launch_complex_39_a</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~528b72ff-e47e-46a3-b7ad-23b2ffcec2f2</guid>
       <pubDate>Thu, 17 Dec 2020 14:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
-    </item>
-    <item>
-      <title>PSLV-XL | CMS-01 (GSAT-12R)</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/3d0a75ba-674a-4424-9554-21ef7933421d.json</link>
-      <description>CMS-01, formerly also known as GSAT-12R, is an Indian telecommunications satellite.</description>
-      <category>launch</category>
-      <category>indian_space_research_organization</category>
-      <category>government</category>
-      <category>pslv</category>
-      <category>pslv_xl</category>
-      <category>communications</category>
-      <category>satish_dhawan_space_centre_first_launch_pad</category>
-      <guid isPermaLink="false">~space-schedule~launch~indian_space_research_organization~3d0a75ba-674a-4424-9554-21ef7933421d</guid>
-      <pubDate>Thu, 17 Dec 2020 10:11:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg"/>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201217060406.jpeg"/>
     </item>
   </channel>
 </rss>

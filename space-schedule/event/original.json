@@ -72,10 +72,10 @@
    "id": "~space-schedule~event~landing~192",
    "title": "Chang'e 5 Sample Returns to Earth",
    "content_text": "The Chang'e 5 sample-return capsule will enter the Earth's atmosphere and land in Dorbod Banner, Inner Mongolia.",
-   "url": "https://en.wikipedia.org/wiki/Chang%27e_5",
+   "url": "https://www.youtube.com/watch?v=bLW248jCxmc",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png",
-   "date_published": "2020-12-17T00:00:00Z",
-   "date_modified": "2020-12-17T00:00:00Z",
+   "date_published": "2020-12-16T17:32:00Z",
+   "date_modified": "2020-12-16T17:32:00Z",
    "tags": [
     "event",
     "landing"
@@ -90,6 +90,7 @@
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
+    "youtubeCount": 1,
     "subtitle": "Landing | Event | Space Schedule"
    },
    "_id": {

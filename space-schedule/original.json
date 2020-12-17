@@ -110,7 +110,7 @@
    "title": "Falcon 9 Block 5 | NROL-108",
    "content_text": "Classified payload for NRO.",
    "url": "https://ll.thespacedevs.com/2.0.0/launch/528b72ff-e47e-46a3-b7ad-23b2ffcec2f2.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201217060406.jpeg",
    "date_published": "2020-12-17T14:00:00Z",
    "date_modified": "2020-12-17T14:00:00Z",
    "tags": [
@@ -125,7 +125,7 @@
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201217060406.jpeg"
     }
    ],
    "_meta": {
@@ -143,50 +143,13 @@
    }
   },
   {
-   "id": "~space-schedule~launch~indian_space_research_organization~3d0a75ba-674a-4424-9554-21ef7933421d",
-   "title": "PSLV-XL | CMS-01 (GSAT-12R)",
-   "content_text": "CMS-01, formerly also known as GSAT-12R, is an Indian telecommunications satellite.",
-   "url": "https://ll.thespacedevs.com/2.0.0/launch/3d0a75ba-674a-4424-9554-21ef7933421d.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg",
-   "date_published": "2020-12-17T10:11:00Z",
-   "date_modified": "2020-12-17T10:11:00Z",
-   "tags": [
-    "launch",
-    "indian_space_research_organization",
-    "government",
-    "pslv",
-    "pslv_xl",
-    "communications",
-    "satish_dhawan_space_centre_first_launch_pad"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Indian Space Research Organization | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "3d0a75ba-674a-4424-9554-21ef7933421d",
-    "global": "~space-schedule~launch~indian_space_research_organization~3d0a75ba-674a-4424-9554-21ef7933421d"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/indian_space_research_organization/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~event~landing~192",
    "title": "Chang'e 5 Sample Returns to Earth",
    "content_text": "The Chang'e 5 sample-return capsule will enter the Earth's atmosphere and land in Dorbod Banner, Inner Mongolia.",
-   "url": "https://en.wikipedia.org/wiki/Chang%27e_5",
+   "url": "https://www.youtube.com/watch?v=bLW248jCxmc",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png",
-   "date_published": "2020-12-17T00:00:00Z",
-   "date_modified": "2020-12-17T00:00:00Z",
+   "date_published": "2020-12-16T17:32:00Z",
+   "date_modified": "2020-12-16T17:32:00Z",
    "tags": [
     "event",
     "landing"
@@ -201,6 +164,7 @@
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
+    "youtubeCount": 1,
     "subtitle": "Landing | Event | Space Schedule"
    },
    "_id": {
@@ -220,7 +184,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 6,
+  "itemCount": 5,
   "pageNumber": 1,
   "pageCount": 1
  }
