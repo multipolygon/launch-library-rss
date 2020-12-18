@@ -31,6 +31,22 @@
     <category term="static_fire"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~space_x~528b72ff-e47e-46a3-b7ad-23b2ffcec2f2</id>
+    <title>Falcon 9 Block 5 | NROL-108</title>
+    <updated>2020-12-19T14:00:00Z</updated>
+    <published>2020-12-19T14:00:00Z</published>
+    <content type="text">Classified payload for NRO.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/528b72ff-e47e-46a3-b7ad-23b2ffcec2f2.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201217060406.jpeg"/>
+    <category term="launch"/>
+    <category term="space_x"/>
+    <category term="commercial"/>
+    <category term="falcon"/>
+    <category term="falcon_9_block_5"/>
+    <category term="government_top_secret"/>
+    <category term="launch_complex_39_a"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~khrunichev_state_research_and_production_space_center~294e456a-fccc-4af1-a75e-990f8bb9ffba</id>
     <title>Soyuz 2.1b/Fregat-M | OneWeb 4</title>
     <updated>2020-12-18T12:26:26Z</updated>
@@ -45,32 +61,5 @@
     <category term="soyuz_2_1_b"/>
     <category term="communications"/>
     <category term="cosmodrome_site_1_s"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~space_x~528b72ff-e47e-46a3-b7ad-23b2ffcec2f2</id>
-    <title>Falcon 9 Block 5 | NROL-108</title>
-    <updated>2020-12-17T14:00:00Z</updated>
-    <published>2020-12-17T14:00:00Z</published>
-    <content type="text">Classified payload for NRO.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/528b72ff-e47e-46a3-b7ad-23b2ffcec2f2.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201217060406.jpeg"/>
-    <category term="launch"/>
-    <category term="space_x"/>
-    <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon_9_block_5"/>
-    <category term="government_top_secret"/>
-    <category term="launch_complex_39_a"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~landing~192</id>
-    <title>Chang'e 5 Sample Returns to Earth</title>
-    <updated>2020-12-16T17:32:00Z</updated>
-    <published>2020-12-16T17:32:00Z</published>
-    <content type="text">The Chang'e 5 sample-return capsule will enter the Earth's atmosphere and land in Dorbod Banner, Inner Mongolia.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=bLW248jCxmc"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"/>
-    <category term="event"/>
-    <category term="landing"/>
   </entry>
 </feed>

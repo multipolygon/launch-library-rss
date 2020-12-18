@@ -2,22 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Landing | Event | Space Schedule</title>
+    <title>Landing</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Flanding%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
-    <pubDate>Wed, 16 Dec 2020 17:32:00 GMT</pubDate>
+    <pubDate>Fri, 18 Dec 2020 11:32:07 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <item>
-      <title>Chang'e 5 Sample Returns to Earth</title>
-      <link>https://www.youtube.com/watch?v=bLW248jCxmc</link>
-      <description>The Chang'e 5 sample-return capsule will enter the Earth's atmosphere and land in Dorbod Banner, Inner Mongolia.</description>
-      <category>event</category>
-      <category>landing</category>
-      <guid isPermaLink="false">192</guid>
-      <pubDate>Wed, 16 Dec 2020 17:32:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"/>
-    </item>
   </channel>
 </rss>

@@ -69,6 +69,43 @@
    }
   },
   {
+   "id": "~space-schedule~launch~space_x~528b72ff-e47e-46a3-b7ad-23b2ffcec2f2",
+   "title": "Falcon 9 Block 5 | NROL-108",
+   "content_text": "Classified payload for NRO.",
+   "url": "https://ll.thespacedevs.com/2.0.0/launch/528b72ff-e47e-46a3-b7ad-23b2ffcec2f2.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201217060406.jpeg",
+   "date_published": "2020-12-19T14:00:00Z",
+   "date_modified": "2020-12-19T14:00:00Z",
+   "tags": [
+    "launch",
+    "space_x",
+    "commercial",
+    "falcon",
+    "falcon_9_block_5",
+    "government_top_secret",
+    "launch_complex_39_a"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201217060406.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "SpaceX | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "528b72ff-e47e-46a3-b7ad-23b2ffcec2f2",
+    "global": "~space-schedule~launch~space_x~528b72ff-e47e-46a3-b7ad-23b2ffcec2f2"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~launch~khrunichev_state_research_and_production_space_center~294e456a-fccc-4af1-a75e-990f8bb9ffba",
    "title": "Soyuz 2.1b/Fregat-M | OneWeb 4",
    "content_text": "A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Interned broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.",
@@ -104,76 +141,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/khrunichev_state_research_and_production_space_center/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~space_x~528b72ff-e47e-46a3-b7ad-23b2ffcec2f2",
-   "title": "Falcon 9 Block 5 | NROL-108",
-   "content_text": "Classified payload for NRO.",
-   "url": "https://ll.thespacedevs.com/2.0.0/launch/528b72ff-e47e-46a3-b7ad-23b2ffcec2f2.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201217060406.jpeg",
-   "date_published": "2020-12-17T14:00:00Z",
-   "date_modified": "2020-12-17T14:00:00Z",
-   "tags": [
-    "launch",
-    "space_x",
-    "commercial",
-    "falcon",
-    "falcon_9_block_5",
-    "government_top_secret",
-    "launch_complex_39_a"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201217060406.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "SpaceX | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "528b72ff-e47e-46a3-b7ad-23b2ffcec2f2",
-    "global": "~space-schedule~launch~space_x~528b72ff-e47e-46a3-b7ad-23b2ffcec2f2"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~landing~192",
-   "title": "Chang'e 5 Sample Returns to Earth",
-   "content_text": "The Chang'e 5 sample-return capsule will enter the Earth's atmosphere and land in Dorbod Banner, Inner Mongolia.",
-   "url": "https://www.youtube.com/watch?v=bLW248jCxmc",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png",
-   "date_published": "2020-12-16T17:32:00Z",
-   "date_modified": "2020-12-16T17:32:00Z",
-   "tags": [
-    "event",
-    "landing"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Landing | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "192",
-    "global": "~space-schedule~event~landing~192"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -184,7 +151,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 5,
+  "itemCount": 4,
   "pageNumber": 1,
   "pageCount": 1
  }

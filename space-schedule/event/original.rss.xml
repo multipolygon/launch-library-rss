@@ -30,15 +30,5 @@
       <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
     </item>
-    <item>
-      <title>Chang'e 5 Sample Returns to Earth</title>
-      <link>https://www.youtube.com/watch?v=bLW248jCxmc</link>
-      <description>The Chang'e 5 sample-return capsule will enter the Earth's atmosphere and land in Dorbod Banner, Inner Mongolia.</description>
-      <category>event</category>
-      <category>landing</category>
-      <guid isPermaLink="false">~space-schedule~event~landing~192</guid>
-      <pubDate>Wed, 16 Dec 2020 17:32:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"/>
-    </item>
   </channel>
 </rss>

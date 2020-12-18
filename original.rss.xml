@@ -31,6 +31,21 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
     </item>
     <item>
+      <title>Falcon 9 Block 5 | NROL-108</title>
+      <link>https://ll.thespacedevs.com/2.0.0/launch/528b72ff-e47e-46a3-b7ad-23b2ffcec2f2.json</link>
+      <description>Classified payload for NRO.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon_9_block_5</category>
+      <category>government_top_secret</category>
+      <category>launch_complex_39_a</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~528b72ff-e47e-46a3-b7ad-23b2ffcec2f2</guid>
+      <pubDate>Sat, 19 Dec 2020 14:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201217060406.jpeg"/>
+    </item>
+    <item>
       <title>Soyuz 2.1b/Fregat-M | OneWeb 4</title>
       <link>https://ll.thespacedevs.com/2.0.0/launch/294e456a-fccc-4af1-a75e-990f8bb9ffba.json</link>
       <description>A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Interned broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</description>
@@ -44,31 +59,6 @@
       <guid isPermaLink="false">~space-schedule~launch~khrunichev_state_research_and_production_space_center~294e456a-fccc-4af1-a75e-990f8bb9ffba</guid>
       <pubDate>Fri, 18 Dec 2020 12:26:26 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"/>
-    </item>
-    <item>
-      <title>Falcon 9 Block 5 | NROL-108</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/528b72ff-e47e-46a3-b7ad-23b2ffcec2f2.json</link>
-      <description>Classified payload for NRO.</description>
-      <category>launch</category>
-      <category>space_x</category>
-      <category>commercial</category>
-      <category>falcon</category>
-      <category>falcon_9_block_5</category>
-      <category>government_top_secret</category>
-      <category>launch_complex_39_a</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~528b72ff-e47e-46a3-b7ad-23b2ffcec2f2</guid>
-      <pubDate>Thu, 17 Dec 2020 14:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201217060406.jpeg"/>
-    </item>
-    <item>
-      <title>Chang'e 5 Sample Returns to Earth</title>
-      <link>https://www.youtube.com/watch?v=bLW248jCxmc</link>
-      <description>The Chang'e 5 sample-return capsule will enter the Earth's atmosphere and land in Dorbod Banner, Inner Mongolia.</description>
-      <category>event</category>
-      <category>landing</category>
-      <guid isPermaLink="false">~space-schedule~event~landing~192</guid>
-      <pubDate>Wed, 16 Dec 2020 17:32:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/chang2527e_5_s_image_20201122182407.png"/>
     </item>
   </channel>
 </rss>
