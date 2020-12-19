@@ -24,20 +24,4 @@
     <category term="government_top_secret"/>
     <category term="launch_complex_39_a"/>
   </entry>
-  <entry>
-    <id>~space-schedule~launch~khrunichev_state_research_and_production_space_center~294e456a-fccc-4af1-a75e-990f8bb9ffba</id>
-    <title>Soyuz 2.1b/Fregat-M | OneWeb 4</title>
-    <updated>2020-12-18T12:26:26Z</updated>
-    <published>2020-12-18T12:26:26Z</published>
-    <content type="text">A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Interned broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/294e456a-fccc-4af1-a75e-990f8bb9ffba.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"/>
-    <category term="launch"/>
-    <category term="khrunichev_state_research_and_production_space_center"/>
-    <category term="government"/>
-    <category term="soyuz"/>
-    <category term="soyuz_2_1_b"/>
-    <category term="communications"/>
-    <category term="cosmodrome_site_1_s"/>
-  </entry>
 </feed>

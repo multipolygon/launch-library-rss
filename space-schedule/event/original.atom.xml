@@ -30,4 +30,15 @@
     <category term="event"/>
     <category term="static_fire"/>
   </entry>
+  <entry>
+    <id>~space-schedule~event~unknown~204</id>
+    <title>Starship SN9 Testing</title>
+    <updated>2020-12-21T11:00:00Z</updated>
+    <published>2020-12-21T11:00:00Z</published>
+    <content type="text">SpaceX may be planning on beginning validation testing on SN9 per road closure dates. Keep an eye out for updates as holiday schedule may affect SpaceX's plans.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/event/204.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201218160725.jpg"/>
+    <category term="event"/>
+    <category term="unknown"/>
+  </entry>
 </feed>

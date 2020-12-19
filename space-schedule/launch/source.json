@@ -1,86 +1,8 @@
 {
-    "count": 2,
+    "count": 1,
     "next": null,
     "previous": null,
     "results": [
-        {
-            "id": "294e456a-fccc-4af1-a75e-990f8bb9ffba",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/294e456a-fccc-4af1-a75e-990f8bb9ffba.json",
-            "launch_library_id": 1944,
-            "slug": "soyuz-21bfregat-m-oneweb-4",
-            "name": "Soyuz 2.1b/Fregat-M | OneWeb 4",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2020-12-18T12:26:26Z",
-            "window_end": "2020-12-18T12:26:26Z",
-            "window_start": "2020-12-18T12:26:26Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": -1,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 96,
-                "url": "https://ll.thespacedevs.com/2.0.0/agencies/96.json",
-                "name": "Khrunichev State Research and Production Space Center",
-                "type": "Government"
-            },
-            "rocket": {
-                "id": 2600,
-                "configuration": {
-                    "id": 134,
-                    "launch_library_id": 153,
-                    "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/134.json",
-                    "name": "Soyuz 2.1B",
-                    "family": "Soyuz",
-                    "full_name": "Soyuz 2.1B Fregat-M",
-                    "variant": "Fregat-M"
-                }
-            },
-            "mission": {
-                "id": 1219,
-                "launch_library_id": null,
-                "name": "OneWeb 4",
-                "description": "A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Interned broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.",
-                "launch_designator": null,
-                "type": "Communications",
-                "orbit": {
-                    "id": 13,
-                    "name": "Polar Orbit",
-                    "abbrev": "PO"
-                }
-            },
-            "pad": {
-                "id": 83,
-                "url": "https://ll.thespacedevs.com/2.0.0/pad/83.json",
-                "agency_id": 63,
-                "name": "Cosmodrome Site 1S",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Vostochny_Cosmodrome",
-                "map_url": "https://www.google.ee/maps/place/51Â°53'03.8\"N+128Â°20'02.2\"E/",
-                "latitude": "51.884395",
-                "longitude": "128.333932",
-                "location": {
-                    "id": 18,
-                    "url": "https://ll.thespacedevs.com/2.0.0/location/18.json",
-                    "name": "Vostochny Cosmodrome, Siberia, Russian Federation",
-                    "country_code": "RUS",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_18_20200803142401.jpg",
-                    "total_launch_count": 5,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_83_20200803143544.jpg",
-                "total_launch_count": 5
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
-            "infographic": null,
-            "program": []
-        },
         {
             "id": "528b72ff-e47e-46a3-b7ad-23b2ffcec2f2",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/528b72ff-e47e-46a3-b7ad-23b2ffcec2f2.json",
@@ -97,7 +19,7 @@
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,
-            "probability": 70,
+            "probability": 90,
             "holdreason": "",
             "failreason": "",
             "hashtag": null,

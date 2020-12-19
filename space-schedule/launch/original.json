@@ -38,43 +38,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~khrunichev_state_research_and_production_space_center~294e456a-fccc-4af1-a75e-990f8bb9ffba",
-   "title": "Soyuz 2.1b/Fregat-M | OneWeb 4",
-   "content_text": "A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Interned broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.",
-   "url": "https://ll.thespacedevs.com/2.0.0/launch/294e456a-fccc-4af1-a75e-990f8bb9ffba.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
-   "date_published": "2020-12-18T12:26:26Z",
-   "date_modified": "2020-12-18T12:26:26Z",
-   "tags": [
-    "launch",
-    "khrunichev_state_research_and_production_space_center",
-    "government",
-    "soyuz",
-    "soyuz_2_1_b",
-    "communications",
-    "cosmodrome_site_1_s"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Khrunichev State Research and Production Space Center | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "294e456a-fccc-4af1-a75e-990f8bb9ffba",
-    "global": "~space-schedule~launch~khrunichev_state_research_and_production_space_center~294e456a-fccc-4af1-a75e-990f8bb9ffba"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/khrunichev_state_research_and_production_space_center/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -85,7 +48,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 2,
+  "itemCount": 1,
   "pageNumber": 1,
   "pageCount": 1
  }
