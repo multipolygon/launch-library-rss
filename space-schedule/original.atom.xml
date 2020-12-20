@@ -41,20 +41,4 @@
     <category term="event"/>
     <category term="unknown"/>
   </entry>
-  <entry>
-    <id>~space-schedule~launch~space_x~528b72ff-e47e-46a3-b7ad-23b2ffcec2f2</id>
-    <title>Falcon 9 Block 5 | NROL-108</title>
-    <updated>2020-12-19T14:00:00Z</updated>
-    <published>2020-12-19T14:00:00Z</published>
-    <content type="text">Classified payload for NRO.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/528b72ff-e47e-46a3-b7ad-23b2ffcec2f2.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201217060406.jpeg"/>
-    <category term="launch"/>
-    <category term="space_x"/>
-    <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon_9_block_5"/>
-    <category term="government_top_secret"/>
-    <category term="launch_complex_39_a"/>
-  </entry>
 </feed>
