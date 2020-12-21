@@ -6,7 +6,7 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Frelease%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
-    <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
+    <pubDate>Wed, 06 Jan 2021 15:10:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
@@ -16,7 +16,7 @@
       <category>event</category>
       <category>release</category>
       <guid isPermaLink="false">196</guid>
-      <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 06 Jan 2021 15:10:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg"/>
     </item>
   </channel>

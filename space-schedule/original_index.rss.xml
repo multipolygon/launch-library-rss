@@ -7,7 +7,7 @@
     <description>All subcategories in category.</description>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
-    <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
+    <pubDate>Wed, 06 Jan 2021 15:10:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
@@ -15,7 +15,14 @@
       <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Foriginal_index.json</link>
       <description>3 items</description>
       <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/original_index.json</guid>
-      <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 06 Jan 2021 15:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Launch</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Foriginal_index.json</link>
+      <description>1 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/original_index.json</guid>
+      <pubDate>Tue, 22 Dec 2020 04:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
