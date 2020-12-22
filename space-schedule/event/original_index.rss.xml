@@ -24,12 +24,5 @@
       <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json</guid>
       <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
     </item>
-    <item>
-      <title>Unknown | Event | Space Schedule</title>
-      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Funknown%2Foriginal.json</link>
-      <description>1 items</description>
-      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/unknown/original.json</guid>
-      <pubDate>Mon, 21 Dec 2020 11:00:00 GMT</pubDate>
-    </item>
   </channel>
 </rss>

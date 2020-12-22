@@ -67,38 +67,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~unknown~204",
-   "title": "Starship SN9 Testing",
-   "content_text": "SpaceX may be planning on beginning validation testing on SN9 per road closure dates. Keep an eye out for updates as holiday schedule may affect SpaceX's plans.",
-   "url": "https://ll.thespacedevs.com/2.0.0/event/204.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201218160725.jpg",
-   "date_published": "2020-12-21T11:00:00Z",
-   "date_modified": "2020-12-21T11:00:00Z",
-   "tags": [
-    "event",
-    "unknown"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201218160725.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Unknown | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "204",
-    "global": "~space-schedule~event~unknown~204"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/unknown/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -109,7 +77,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 3,
+  "itemCount": 2,
   "pageNumber": 1,
   "pageCount": 1
  }

@@ -7,23 +7,8 @@
     <description>All items in Space Schedule &gt; Launch.</description>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
-    <pubDate>Tue, 22 Dec 2020 04:00:00 GMT</pubDate>
+    <pubDate>Tue, 22 Dec 2020 11:34:21 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <item>
-      <title>Long March 8  | XJY-7 &amp; others</title>
-      <link>https://ll.thespacedevs.com/2.0.0/launch/57c418cc-97ae-4d8e-b806-bb0e0345217f.json</link>
-      <description>XJY-7 is an undisclosed Chinese government payload for the first launch of Long March 8</description>
-      <category>launch</category>
-      <category>china_aerospace_corporation</category>
-      <category>government</category>
-      <category>long_march</category>
-      <category>long_march_8</category>
-      <category>government_top_secret</category>
-      <category>wenchang</category>
-      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_corporation~57c418cc-97ae-4d8e-b806-bb0e0345217f</guid>
-      <pubDate>Tue, 22 Dec 2020 04:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20201216110501.jpeg"/>
-    </item>
   </channel>
 </rss>

@@ -1,45 +1,7 @@
 {
  "title": "Launch",
  "description": "All items in Space Schedule > Launch.",
- "items": [
-  {
-   "id": "~space-schedule~launch~china_aerospace_corporation~57c418cc-97ae-4d8e-b806-bb0e0345217f",
-   "title": "Long March 8  | XJY-7 & others",
-   "content_text": "XJY-7 is an undisclosed Chinese government payload for the first launch of Long March 8",
-   "url": "https://ll.thespacedevs.com/2.0.0/launch/57c418cc-97ae-4d8e-b806-bb0e0345217f.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20201216110501.jpeg",
-   "date_published": "2020-12-22T04:00:00Z",
-   "date_modified": "2020-12-22T04:00:00Z",
-   "tags": [
-    "launch",
-    "china_aerospace_corporation",
-    "government",
-    "long_march",
-    "long_march_8",
-    "government_top_secret",
-    "wenchang"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20201216110501.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "China Aerospace Corporation | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "57c418cc-97ae-4d8e-b806-bb0e0345217f",
-    "global": "~space-schedule~launch~china_aerospace_corporation~57c418cc-97ae-4d8e-b806-bb0e0345217f"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_corporation/original.json"
-   }
-  }
- ],
+ "items": [],
  "version": "https://jsonfeed.org/version/1",
  "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/launch/original.json",
  "_feed_url": {
@@ -48,8 +10,8 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 1,
+  "itemCount": 0,
   "pageNumber": 1,
-  "pageCount": 1
+  "pageCount": 0
  }
 }

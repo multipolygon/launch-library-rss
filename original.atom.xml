@@ -30,31 +30,4 @@
     <category term="event"/>
     <category term="static_fire"/>
   </entry>
-  <entry>
-    <id>~space-schedule~launch~china_aerospace_corporation~57c418cc-97ae-4d8e-b806-bb0e0345217f</id>
-    <title>Long March 8  | XJY-7 &amp; others</title>
-    <updated>2020-12-22T04:00:00Z</updated>
-    <published>2020-12-22T04:00:00Z</published>
-    <content type="text">XJY-7 is an undisclosed Chinese government payload for the first launch of Long March 8</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/launch/57c418cc-97ae-4d8e-b806-bb0e0345217f.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20201216110501.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_corporation"/>
-    <category term="government"/>
-    <category term="long_march"/>
-    <category term="long_march_8"/>
-    <category term="government_top_secret"/>
-    <category term="wenchang"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~unknown~204</id>
-    <title>Starship SN9 Testing</title>
-    <updated>2020-12-21T11:00:00Z</updated>
-    <published>2020-12-21T11:00:00Z</published>
-    <content type="text">SpaceX may be planning on beginning validation testing on SN9 per road closure dates. Keep an eye out for updates as holiday schedule may affect SpaceX's plans.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.0.0/event/204.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201218160725.jpg"/>
-    <category term="event"/>
-    <category term="unknown"/>
-  </entry>
 </feed>

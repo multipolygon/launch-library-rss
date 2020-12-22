@@ -6,29 +6,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/original_index.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Foriginal_index.json",
    "title": "Event",
-   "content_text": "3 items",
+   "content_text": "2 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg",
    "date_published": "2021-01-06T15:10:00Z",
    "date_modified": "2021-01-06T15:10:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 3,
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 0
-   }
-  },
-  {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/original_index.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Foriginal_index.json",
-   "title": "Launch",
-   "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20201216110501.jpeg",
-   "date_published": "2020-12-22T04:00:00Z",
-   "date_modified": "2020-12-22T04:00:00Z",
-   "_geo": {},
-   "_meta": {
-    "itemCount": 1,
+    "itemCount": 2,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0
@@ -43,7 +27,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal_index.json",
  "_meta": {
-  "itemCount": 2,
+  "itemCount": 1,
   "pageNumber": 1,
   "pageCount": 1
  }
