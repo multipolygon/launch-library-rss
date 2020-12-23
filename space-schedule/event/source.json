@@ -5,7 +5,7 @@
     "results": [
         {
             "id": 38,
-            "url": "https://ll.thespacedevs.com/2.0.0/event/38.json",
+            "url": "https://ll.thespacedevs.com/2.1.0/event/38.json",
             "slug": "sls-green-run-hot-fire",
             "name": "SLS Green Run Hot Fire",
             "type": {
@@ -24,13 +24,13 @@
             "program": [
                 {
                     "id": 15,
-                    "url": "https://ll.thespacedevs.com/2.0.0/program/15.json",
+                    "url": "https://ll.thespacedevs.com/2.1.0/program/15.json",
                     "name": "Artemis",
                     "description": "The Artemis program is a US government-funded crewed spaceflight program that has the goal of landing \"the first woman and the next man\" on the Moon, specifically at the lunar south pole region by 2024.",
                     "agencies": [
                         {
                             "id": 44,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/44.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/agencies/44.json",
                             "name": "National Aeronautics and Space Administration",
                             "type": "Government"
                         }
@@ -45,7 +45,7 @@
         },
         {
             "id": 196,
-            "url": "https://ll.thespacedevs.com/2.0.0/event/196.json",
+            "url": "https://ll.thespacedevs.com/2.1.0/event/196.json",
             "slug": "ng-14-cygnus-release-reentry",
             "name": "NG-14 Cygnus Release & Reentry",
             "type": {
@@ -61,7 +61,7 @@
             "launches": [
                 {
                     "id": "6183311b-da90-4934-a665-1a1ae563cba8",
-                    "url": "https://ll.thespacedevs.com/2.0.0/launch/6183311b-da90-4934-a665-1a1ae563cba8.json",
+                    "url": "https://ll.thespacedevs.com/2.1.0/launch/6183311b-da90-4934-a665-1a1ae563cba8.json",
                     "launch_library_id": 2027,
                     "slug": "antares-230-cygnus-crs-2-ng-14-ss-kalpana-chawla",
                     "name": "Antares 230+ | Cygnus CRS-2 NG-14 (S.S. Kalpana Chawla)",
@@ -81,7 +81,7 @@
                     "hashtag": null,
                     "launch_service_provider": {
                         "id": 257,
-                        "url": "https://ll.thespacedevs.com/2.0.0/agencies/257.json",
+                        "url": "https://ll.thespacedevs.com/2.1.0/agencies/257.json",
                         "name": "Northrop Grumman Innovation Systems",
                         "type": "Commercial"
                     },
@@ -90,7 +90,7 @@
                         "configuration": {
                             "id": 210,
                             "launch_library_id": 241,
-                            "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/210.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/config/launcher/210.json",
                             "name": "Antares 230+",
                             "family": "Antares",
                             "full_name": "Antares 230+",
@@ -112,7 +112,7 @@
                     },
                     "pad": {
                         "id": 76,
-                        "url": "https://ll.thespacedevs.com/2.0.0/pad/76.json",
+                        "url": "https://ll.thespacedevs.com/2.1.0/pad/76.json",
                         "agency_id": 44,
                         "name": "Launch Area 0 A",
                         "info_url": null,
@@ -122,7 +122,7 @@
                         "longitude": "-75.4881",
                         "location": {
                             "id": 21,
-                            "url": "https://ll.thespacedevs.com/2.0.0/location/21.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/location/21.json",
                             "name": "Wallops Island, Virginia, USA",
                             "country_code": "USA",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_21_20200803142423.jpg",
@@ -138,31 +138,31 @@
                     "program": [
                         {
                             "id": 11,
-                            "url": "https://ll.thespacedevs.com/2.0.0/program/11.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/program/11.json",
                             "name": "Commercial Resupply Services",
                             "description": "Commercial Resupply Services (CRS) are a series of flights awarded by NASA for the delivery of cargo and supplies to the International Space Station.The first CRS contracts were signed in 2008 and awarded $1.6 billion to SpaceX for twelve cargo Dragon and $1.9 billion to Orbital Sciences for eight Cygnus flights, covering deliveries to 2016. The Falcon 9 and Antares rockets were also developed under the CRS program to deliver cargo spacecraft to the ISS.",
                             "agencies": [
                                 {
                                     "id": 44,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/44.json",
+                                    "url": "https://ll.thespacedevs.com/2.1.0/agencies/44.json",
                                     "name": "National Aeronautics and Space Administration",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 257,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/257.json",
+                                    "url": "https://ll.thespacedevs.com/2.1.0/agencies/257.json",
                                     "name": "Northrop Grumman Innovation Systems",
                                     "type": "Commercial"
                                 },
                                 {
                                     "id": 1020,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/1020.json",
+                                    "url": "https://ll.thespacedevs.com/2.1.0/agencies/1020.json",
                                     "name": "Sierra Nevada Corporation",
                                     "type": "Commercial"
                                 },
                                 {
                                     "id": 121,
-                                    "url": "https://ll.thespacedevs.com/2.0.0/agencies/121.json",
+                                    "url": "https://ll.thespacedevs.com/2.1.0/agencies/121.json",
                                     "name": "SpaceX",
                                     "type": "Commercial"
                                 }
@@ -180,7 +180,7 @@
             "spacestations": [
                 {
                     "id": 4,
-                    "url": "https://ll.thespacedevs.com/2.0.0/spacestation/4.json",
+                    "url": "https://ll.thespacedevs.com/2.1.0/spacestation/4.json",
                     "name": "International Space Station",
                     "status": {
                         "id": 1,
@@ -195,31 +195,31 @@
             "program": [
                 {
                     "id": 11,
-                    "url": "https://ll.thespacedevs.com/2.0.0/program/11.json",
+                    "url": "https://ll.thespacedevs.com/2.1.0/program/11.json",
                     "name": "Commercial Resupply Services",
                     "description": "Commercial Resupply Services (CRS) are a series of flights awarded by NASA for the delivery of cargo and supplies to the International Space Station.The first CRS contracts were signed in 2008 and awarded $1.6 billion to SpaceX for twelve cargo Dragon and $1.9 billion to Orbital Sciences for eight Cygnus flights, covering deliveries to 2016. The Falcon 9 and Antares rockets were also developed under the CRS program to deliver cargo spacecraft to the ISS.",
                     "agencies": [
                         {
                             "id": 44,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/44.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/agencies/44.json",
                             "name": "National Aeronautics and Space Administration",
                             "type": "Government"
                         },
                         {
                             "id": 257,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/257.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/agencies/257.json",
                             "name": "Northrop Grumman Innovation Systems",
                             "type": "Commercial"
                         },
                         {
                             "id": 1020,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/1020.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/agencies/1020.json",
                             "name": "Sierra Nevada Corporation",
                             "type": "Commercial"
                         },
                         {
                             "id": 121,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/121.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/agencies/121.json",
                             "name": "SpaceX",
                             "type": "Commercial"
                         }
@@ -232,37 +232,37 @@
                 },
                 {
                     "id": 17,
-                    "url": "https://ll.thespacedevs.com/2.0.0/program/17.json",
+                    "url": "https://ll.thespacedevs.com/2.1.0/program/17.json",
                     "name": "International Space Station",
                     "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
                     "agencies": [
                         {
                             "id": 16,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/16.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/agencies/16.json",
                             "name": "Canadian Space Agency",
                             "type": "Government"
                         },
                         {
                             "id": 27,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/27.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/agencies/27.json",
                             "name": "European Space Agency",
                             "type": "Multinational"
                         },
                         {
                             "id": 37,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/37.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/agencies/37.json",
                             "name": "Japan Aerospace Exploration Agency",
                             "type": "Government"
                         },
                         {
                             "id": 44,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/44.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/agencies/44.json",
                             "name": "National Aeronautics and Space Administration",
                             "type": "Government"
                         },
                         {
                             "id": 63,
-                            "url": "https://ll.thespacedevs.com/2.0.0/agencies/63.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/agencies/63.json",
                             "name": "Russian Federal Space Agency (ROSCOSMOS)",
                             "type": "Government"
                         }
@@ -277,7 +277,7 @@
         },
         {
             "id": 124,
-            "url": "https://ll.thespacedevs.com/2.0.0/event/124.json",
+            "url": "https://ll.thespacedevs.com/2.1.0/event/124.json",
             "slug": "emirates-mars-mission-hope-mars-orbit-insertion",
             "name": "Emirates Mars Mission 'Hope' Mars Orbit Insertion",
             "type": {
@@ -293,7 +293,7 @@
             "launches": [
                 {
                     "id": "42370bdb-db93-4212-bda6-d91c177b2ea6",
-                    "url": "https://ll.thespacedevs.com/2.0.0/launch/42370bdb-db93-4212-bda6-d91c177b2ea6.json",
+                    "url": "https://ll.thespacedevs.com/2.1.0/launch/42370bdb-db93-4212-bda6-d91c177b2ea6.json",
                     "launch_library_id": 1066,
                     "slug": "h-iia-202-hope-emirates-mars-mission",
                     "name": "H-IIA 202 | Hope (Emirates Mars Mission)",
@@ -313,7 +313,7 @@
                     "hashtag": null,
                     "launch_service_provider": {
                         "id": 98,
-                        "url": "https://ll.thespacedevs.com/2.0.0/agencies/98.json",
+                        "url": "https://ll.thespacedevs.com/2.1.0/agencies/98.json",
                         "name": "Mitsubishi Heavy Industries",
                         "type": "Commercial"
                     },
@@ -322,7 +322,7 @@
                         "configuration": {
                             "id": 32,
                             "launch_library_id": 53,
-                            "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/32.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/config/launcher/32.json",
                             "name": "H-IIA 202",
                             "family": "H-II",
                             "full_name": "H-IIA 202",
@@ -344,7 +344,7 @@
                     },
                     "pad": {
                         "id": 26,
-                        "url": "https://ll.thespacedevs.com/2.0.0/pad/26.json",
+                        "url": "https://ll.thespacedevs.com/2.1.0/pad/26.json",
                         "agency_id": 37,
                         "name": "Osaki Y LP1",
                         "info_url": null,
@@ -354,7 +354,7 @@
                         "longitude": "130.977",
                         "location": {
                             "id": 26,
-                            "url": "https://ll.thespacedevs.com/2.0.0/location/26.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/location/26.json",
                             "name": "Tanegashima, Japan",
                             "country_code": "JPN",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_26_20200803142507.jpg",
@@ -376,7 +376,7 @@
         },
         {
             "id": 125,
-            "url": "https://ll.thespacedevs.com/2.0.0/event/125.json",
+            "url": "https://ll.thespacedevs.com/2.1.0/event/125.json",
             "slug": "tianwen-1-mars-orbit-insertion",
             "name": "Tianwen-1 Mars Orbit Insertion",
             "type": {
@@ -392,7 +392,7 @@
             "launches": [
                 {
                     "id": "485b9786-5bec-4dd4-ac82-69d1fd702047",
-                    "url": "https://ll.thespacedevs.com/2.0.0/launch/485b9786-5bec-4dd4-ac82-69d1fd702047.json",
+                    "url": "https://ll.thespacedevs.com/2.1.0/launch/485b9786-5bec-4dd4-ac82-69d1fd702047.json",
                     "launch_library_id": 1135,
                     "slug": "long-march-5-tianwen-1-mars-global-remote-sensing",
                     "name": "Long March 5  | Tianwen-1 (Mars Global Remote Sensing Orbiter and Small Rover)",
@@ -412,7 +412,7 @@
                     "hashtag": null,
                     "launch_service_provider": {
                         "id": 88,
-                        "url": "https://ll.thespacedevs.com/2.0.0/agencies/88.json",
+                        "url": "https://ll.thespacedevs.com/2.1.0/agencies/88.json",
                         "name": "China Aerospace Science and Technology Corporation",
                         "type": "Government"
                     },
@@ -421,7 +421,7 @@
                         "configuration": {
                             "id": 128,
                             "launch_library_id": 116,
-                            "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/128.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/config/launcher/128.json",
                             "name": "Long March 5",
                             "family": "Long March 5",
                             "full_name": "Long March 5",
@@ -443,7 +443,7 @@
                     },
                     "pad": {
                         "id": 78,
-                        "url": "https://ll.thespacedevs.com/2.0.0/pad/78.json",
+                        "url": "https://ll.thespacedevs.com/2.1.0/pad/78.json",
                         "agency_id": null,
                         "name": "Wenchang",
                         "info_url": null,
@@ -453,15 +453,15 @@
                         "longitude": "110.951057",
                         "location": {
                             "id": 8,
-                            "url": "https://ll.thespacedevs.com/2.0.0/location/8.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/location/8.json",
                             "name": "Wenchang Satellite Launch Center, People's Republic of China",
                             "country_code": "CHN",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_8_20200803142445.jpg",
-                            "total_launch_count": 9,
+                            "total_launch_count": 10,
                             "total_landing_count": 0
                         },
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_78_20200803143548.jpg",
-                        "total_launch_count": 9
+                        "total_launch_count": 10
                     },
                     "webcast_live": false,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25205_image_20191228095452.jpg",
@@ -475,7 +475,7 @@
         },
         {
             "id": 89,
-            "url": "https://ll.thespacedevs.com/2.0.0/event/89.json",
+            "url": "https://ll.thespacedevs.com/2.1.0/event/89.json",
             "slug": "nasa-mars-2020-perseverance-rover-landing",
             "name": "NASA Mars 2020 Perseverance Rover Landing",
             "type": {
@@ -491,7 +491,7 @@
             "launches": [
                 {
                     "id": "c4db6995-f25f-4608-8eb9-ce95d5226af2",
-                    "url": "https://ll.thespacedevs.com/2.0.0/launch/c4db6995-f25f-4608-8eb9-ce95d5226af2.json",
+                    "url": "https://ll.thespacedevs.com/2.1.0/launch/c4db6995-f25f-4608-8eb9-ce95d5226af2.json",
                     "launch_library_id": 1081,
                     "slug": "atlas-v-541-mars-2020-perseverance-rover-ingenuity",
                     "name": "Atlas V 541 | Mars 2020 (Perseverance rover & Ingenuity helicopter)",
@@ -511,7 +511,7 @@
                     "hashtag": null,
                     "launch_service_provider": {
                         "id": 124,
-                        "url": "https://ll.thespacedevs.com/2.0.0/agencies/124.json",
+                        "url": "https://ll.thespacedevs.com/2.1.0/agencies/124.json",
                         "name": "United Launch Alliance",
                         "type": "Commercial"
                     },
@@ -520,7 +520,7 @@
                         "configuration": {
                             "id": 1,
                             "launch_library_id": 2,
-                            "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/1.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/config/launcher/1.json",
                             "name": "Atlas V 541",
                             "family": "Atlas",
                             "full_name": "Atlas V 541",
@@ -542,7 +542,7 @@
                     },
                     "pad": {
                         "id": 29,
-                        "url": "https://ll.thespacedevs.com/2.0.0/pad/29.json",
+                        "url": "https://ll.thespacedevs.com/2.1.0/pad/29.json",
                         "agency_id": null,
                         "name": "Space Launch Complex 41",
                         "info_url": null,
@@ -552,7 +552,7 @@
                         "longitude": "-80.58303644",
                         "location": {
                             "id": 12,
-                            "url": "https://ll.thespacedevs.com/2.0.0/location/12.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/location/12.json",
                             "name": "Cape Canaveral, FL, USA",
                             "country_code": "USA",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg",
@@ -574,7 +574,7 @@
         },
         {
             "id": 126,
-            "url": "https://ll.thespacedevs.com/2.0.0/event/126.json",
+            "url": "https://ll.thespacedevs.com/2.1.0/event/126.json",
             "slug": "tianwen-1-rover-landing",
             "name": "Tianwen-1 Rover Landing",
             "type": {
@@ -590,7 +590,7 @@
             "launches": [
                 {
                     "id": "485b9786-5bec-4dd4-ac82-69d1fd702047",
-                    "url": "https://ll.thespacedevs.com/2.0.0/launch/485b9786-5bec-4dd4-ac82-69d1fd702047.json",
+                    "url": "https://ll.thespacedevs.com/2.1.0/launch/485b9786-5bec-4dd4-ac82-69d1fd702047.json",
                     "launch_library_id": 1135,
                     "slug": "long-march-5-tianwen-1-mars-global-remote-sensing",
                     "name": "Long March 5  | Tianwen-1 (Mars Global Remote Sensing Orbiter and Small Rover)",
@@ -610,7 +610,7 @@
                     "hashtag": null,
                     "launch_service_provider": {
                         "id": 88,
-                        "url": "https://ll.thespacedevs.com/2.0.0/agencies/88.json",
+                        "url": "https://ll.thespacedevs.com/2.1.0/agencies/88.json",
                         "name": "China Aerospace Science and Technology Corporation",
                         "type": "Government"
                     },
@@ -619,7 +619,7 @@
                         "configuration": {
                             "id": 128,
                             "launch_library_id": 116,
-                            "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/128.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/config/launcher/128.json",
                             "name": "Long March 5",
                             "family": "Long March 5",
                             "full_name": "Long March 5",
@@ -641,7 +641,7 @@
                     },
                     "pad": {
                         "id": 78,
-                        "url": "https://ll.thespacedevs.com/2.0.0/pad/78.json",
+                        "url": "https://ll.thespacedevs.com/2.1.0/pad/78.json",
                         "agency_id": null,
                         "name": "Wenchang",
                         "info_url": null,
@@ -651,15 +651,15 @@
                         "longitude": "110.951057",
                         "location": {
                             "id": 8,
-                            "url": "https://ll.thespacedevs.com/2.0.0/location/8.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/location/8.json",
                             "name": "Wenchang Satellite Launch Center, People's Republic of China",
                             "country_code": "CHN",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_8_20200803142445.jpg",
-                            "total_launch_count": 9,
+                            "total_launch_count": 10,
                             "total_landing_count": 0
                         },
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_78_20200803143548.jpg",
-                        "total_launch_count": 9
+                        "total_launch_count": 10
                     },
                     "webcast_live": false,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25205_image_20191228095452.jpg",
@@ -673,7 +673,7 @@
         },
         {
             "id": 36,
-            "url": "https://ll.thespacedevs.com/2.0.0/event/36.json",
+            "url": "https://ll.thespacedevs.com/2.1.0/event/36.json",
             "slug": "osiris-rex-sample-return",
             "name": "OSIRIS-Rex Sample Return",
             "type": {
@@ -689,7 +689,7 @@
             "launches": [
                 {
                     "id": "0bcc6850-4c51-4b08-aa19-0b3753351b9b",
-                    "url": "https://ll.thespacedevs.com/2.0.0/launch/0bcc6850-4c51-4b08-aa19-0b3753351b9b.json",
+                    "url": "https://ll.thespacedevs.com/2.1.0/launch/0bcc6850-4c51-4b08-aa19-0b3753351b9b.json",
                     "launch_library_id": 673,
                     "slug": "atlas-v-411-osiris-rex",
                     "name": "Atlas V 411 | OSIRIS-REx",
@@ -709,7 +709,7 @@
                     "hashtag": null,
                     "launch_service_provider": {
                         "id": 124,
-                        "url": "https://ll.thespacedevs.com/2.0.0/agencies/124.json",
+                        "url": "https://ll.thespacedevs.com/2.1.0/agencies/124.json",
                         "name": "United Launch Alliance",
                         "type": "Commercial"
                     },
@@ -718,7 +718,7 @@
                         "configuration": {
                             "id": 83,
                             "launch_library_id": 106,
-                            "url": "https://ll.thespacedevs.com/2.0.0/config/launcher/83.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/config/launcher/83.json",
                             "name": "Atlas V 411",
                             "family": "Atlas",
                             "full_name": "Atlas V 411",
@@ -740,7 +740,7 @@
                     },
                     "pad": {
                         "id": 29,
-                        "url": "https://ll.thespacedevs.com/2.0.0/pad/29.json",
+                        "url": "https://ll.thespacedevs.com/2.1.0/pad/29.json",
                         "agency_id": null,
                         "name": "Space Launch Complex 41",
                         "info_url": null,
@@ -750,7 +750,7 @@
                         "longitude": "-80.58303644",
                         "location": {
                             "id": 12,
-                            "url": "https://ll.thespacedevs.com/2.0.0/location/12.json",
+                            "url": "https://ll.thespacedevs.com/2.1.0/location/12.json",
                             "name": "Cape Canaveral, FL, USA",
                             "country_code": "USA",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg",

@@ -2,12 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Arianespace</title>
+    <title>Arianespace | Launch | Space Schedule</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Farianespace%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
-    <pubDate>Tue, 22 Dec 2020 11:34:21 GMT</pubDate>
+    <pubDate>Mon, 28 Dec 2020 16:42:07 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Soyuz STA/Fregat | CSO 2</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/7409ce63-4f65-44d6-804c-5784189bf7b5.json</link>
+      <description>The CSO 2 (Composante Spatiale Optique 2) satellite is the second of three new-generation high-resolution optical imaging satellites for the French military, replacing the Helios 2 spy satellite series.</description>
+      <category>launch</category>
+      <category>arianespace</category>
+      <category>commercial</category>
+      <category>soyuz</category>
+      <category>soyuz_sta</category>
+      <category>government_top_secret</category>
+      <category>soyuz_launch_complex</category>
+      <guid isPermaLink="false">7409ce63-4f65-44d6-804c-5784189bf7b5</guid>
+      <pubDate>Mon, 28 Dec 2020 16:42:07 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg"/>
+    </item>
   </channel>
 </rss>

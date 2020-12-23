@@ -30,4 +30,20 @@
     <category term="event"/>
     <category term="static_fire"/>
   </entry>
+  <entry>
+    <id>~space-schedule~launch~arianespace~7409ce63-4f65-44d6-804c-5784189bf7b5</id>
+    <title>Soyuz STA/Fregat | CSO 2</title>
+    <updated>2020-12-28T16:42:07Z</updated>
+    <published>2020-12-28T16:42:07Z</published>
+    <content type="text">The CSO 2 (Composante Spatiale Optique 2) satellite is the second of three new-generation high-resolution optical imaging satellites for the French military, replacing the Helios 2 spy satellite series.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/7409ce63-4f65-44d6-804c-5784189bf7b5.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg"/>
+    <category term="launch"/>
+    <category term="arianespace"/>
+    <category term="commercial"/>
+    <category term="soyuz"/>
+    <category term="soyuz_sta"/>
+    <category term="government_top_secret"/>
+    <category term="soyuz_launch_complex"/>
+  </entry>
 </feed>
