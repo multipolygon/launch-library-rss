@@ -3,6 +3,39 @@
  "description": "All items in subcategories for category.",
  "items": [
   {
+   "id": "~space-schedule~event~undocking~205",
+   "title": "CRS-21 Dragon Undocking",
+   "content_text": "The SpaceX CRS-21 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_u_image_20201224092847.jpg",
+   "date_published": "2021-01-11T14:25:00Z",
+   "date_modified": "2021-01-11T14:25:00Z",
+   "tags": [
+    "event",
+    "undocking"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_u_image_20201224092847.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Undocking | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "205",
+    "global": "~space-schedule~event~undocking~205"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/undocking/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~release~196",
    "title": "NG-14 Cygnus Release & Reentry",
    "content_text": "The Northrop Grumman NG-14 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.",
@@ -114,7 +147,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 3,
+  "itemCount": 4,
   "pageNumber": 1,
   "pageCount": 1
  }
