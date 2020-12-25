@@ -25,5 +25,18 @@
       <pubDate>Mon, 28 Dec 2020 16:42:07 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg"/>
     </item>
+    <item>
+      <title>Long March 4C | Unknown</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/9612be5b-2f6d-424b-b622-6c1baea94029.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>china_aerospace_corporation</category>
+      <category>government</category>
+      <category>long_march_4</category>
+      <category>launch_area_4_sls_2_603</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_corporation~9612be5b-2f6d-424b-b622-6c1baea94029</guid>
+      <pubDate>Sun, 27 Dec 2020 15:38:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"/>
+    </item>
   </channel>
 </rss>

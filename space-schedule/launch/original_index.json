@@ -17,6 +17,22 @@
     "videoCount": 0,
     "imageCount": 0
    }
+  },
+  {
+   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_corporation/original.json",
+   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fchina_aerospace_corporation%2Foriginal.json",
+   "title": "China Aerospace Corporation | Launch | Space Schedule",
+   "content_text": "1 items",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
+   "date_published": "2020-12-27T15:38:00Z",
+   "date_modified": "2020-12-27T15:38:00Z",
+   "_geo": {},
+   "_meta": {
+    "itemCount": 1,
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 0
+   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -27,7 +43,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal_index.json",
  "_meta": {
-  "itemCount": 1,
+  "itemCount": 2,
   "pageNumber": 1,
   "pageCount": 1
  }

@@ -22,13 +22,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/original_index.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Foriginal_index.json",
    "title": "Launch",
-   "content_text": "1 items",
+   "content_text": "2 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg",
    "date_published": "2020-12-28T16:42:07Z",
    "date_modified": "2020-12-28T16:42:07Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 1,
+    "itemCount": 2,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0
