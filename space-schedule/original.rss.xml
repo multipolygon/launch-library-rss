@@ -18,7 +18,7 @@
       <category>undocking</category>
       <guid isPermaLink="false">~space-schedule~event~undocking~205</guid>
       <pubDate>Mon, 11 Jan 2021 14:25:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_u_image_20201224092847.jpg"/>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_u_image_20201226083336.jpg"/>
     </item>
     <item>
       <title>NG-14 Cygnus Release &amp; Reentry</title>
@@ -56,6 +56,16 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg"/>
     </item>
     <item>
+      <title>Starship SN9 Testing</title>
+      <link>https://ll.thespacedevs.com/2.1.0/event/204.json</link>
+      <description>SpaceX may be planning on beginning validation testing on SN9 per road closure dates. Keep an eye out for updates as holiday schedule may affect SpaceX's plans.</description>
+      <category>event</category>
+      <category>unknown</category>
+      <guid isPermaLink="false">~space-schedule~event~unknown~204</guid>
+      <pubDate>Mon, 28 Dec 2020 14:00:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201226084421.png"/>
+    </item>
+    <item>
       <title>Long March 4C | Unknown</title>
       <link>https://ll.thespacedevs.com/2.1.0/launch/9612be5b-2f6d-424b-b622-6c1baea94029.json</link>
       <description>-</description>
@@ -63,6 +73,7 @@
       <category>china_aerospace_corporation</category>
       <category>government</category>
       <category>long_march_4</category>
+      <category>long_march_4_c</category>
       <category>launch_area_4_sls_2_603</category>
       <guid isPermaLink="false">~space-schedule~launch~china_aerospace_corporation~9612be5b-2f6d-424b-b622-6c1baea94029</guid>
       <pubDate>Sun, 27 Dec 2020 15:38:00 GMT</pubDate>
