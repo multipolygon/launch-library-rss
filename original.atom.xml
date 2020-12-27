@@ -15,7 +15,7 @@
     <published>2021-01-11T14:25:00Z</published>
     <content type="text">The SpaceX CRS-21 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_u_image_20201226083336.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_u_image_20201226201524.jpg"/>
     <category term="event"/>
     <category term="undocking"/>
   </entry>
@@ -64,7 +64,7 @@
     <published>2020-12-28T14:00:00Z</published>
     <content type="text">SpaceX may be planning on beginning validation testing on SN9 per road closure dates. Keep an eye out for updates as holiday schedule may affect SpaceX's plans.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/204.json"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201226084421.png"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201226201555.png"/>
     <category term="event"/>
     <category term="unknown"/>
   </entry>
