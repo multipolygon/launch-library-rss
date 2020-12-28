@@ -24,19 +24,4 @@
     <category term="government_top_secret"/>
     <category term="soyuz_launch_complex"/>
   </entry>
-  <entry>
-    <id>~space-schedule~launch~china_aerospace_corporation~9612be5b-2f6d-424b-b622-6c1baea94029</id>
-    <title>Long March 4C | Unknown</title>
-    <updated>2020-12-27T15:38:00Z</updated>
-    <published>2020-12-27T15:38:00Z</published>
-    <content type="text">-</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/9612be5b-2f6d-424b-b622-6c1baea94029.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_corporation"/>
-    <category term="government"/>
-    <category term="long_march_4"/>
-    <category term="long_march_4_c"/>
-    <category term="launch_area_4_sls_2_603"/>
-  </entry>
 </feed>

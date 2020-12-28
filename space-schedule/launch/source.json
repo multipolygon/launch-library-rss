@@ -1,74 +1,8 @@
 {
-    "count": 2,
+    "count": 1,
     "next": null,
     "previous": null,
     "results": [
-        {
-            "id": "9612be5b-2f6d-424b-b622-6c1baea94029",
-            "url": "https://ll.thespacedevs.com/2.1.0/launch/9612be5b-2f6d-424b-b622-6c1baea94029.json",
-            "launch_library_id": null,
-            "slug": "long-march-4c-unknown",
-            "name": "Long March 4C | Unknown",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2020-12-27T15:40:00Z",
-            "window_end": "2020-12-27T15:55:00Z",
-            "window_start": "2020-12-27T15:38:00Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": null,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 189,
-                "url": "https://ll.thespacedevs.com/2.1.0/agencies/189.json",
-                "name": "China Aerospace Corporation",
-                "type": "Government"
-            },
-            "rocket": {
-                "id": 2814,
-                "configuration": {
-                    "id": 64,
-                    "launch_library_id": 70,
-                    "url": "https://ll.thespacedevs.com/2.1.0/config/launcher/64.json",
-                    "name": "Long March 4C",
-                    "family": "Long March 4",
-                    "full_name": "Long March 4C",
-                    "variant": "C"
-                }
-            },
-            "mission": null,
-            "pad": {
-                "id": 22,
-                "url": "https://ll.thespacedevs.com/2.1.0/pad/22.json",
-                "agency_id": null,
-                "name": "Launch Area 4 (SLS-2 / 603)",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4",
-                "map_url": "http://maps.google.com/maps?q=40.960556,100.298333",
-                "latitude": "40.960556",
-                "longitude": "100.298333",
-                "location": {
-                    "id": 17,
-                    "url": "https://ll.thespacedevs.com/2.1.0/location/17.json",
-                    "name": "Jiuquan, People's Republic of China",
-                    "country_code": "CHN",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg",
-                    "total_launch_count": 96,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_22_20200803143437.jpg",
-                "total_launch_count": 51
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
-            "infographic": null,
-            "program": []
-        },
         {
             "id": "7409ce63-4f65-44d6-804c-5784189bf7b5",
             "url": "https://ll.thespacedevs.com/2.1.0/launch/7409ce63-4f65-44d6-804c-5784189bf7b5.json",

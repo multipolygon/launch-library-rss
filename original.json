@@ -169,42 +169,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/unknown/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~china_aerospace_corporation~9612be5b-2f6d-424b-b622-6c1baea94029",
-   "title": "Long March 4C | Unknown",
-   "content_text": "-",
-   "url": "https://ll.thespacedevs.com/2.1.0/launch/9612be5b-2f6d-424b-b622-6c1baea94029.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
-   "date_published": "2020-12-27T15:38:00Z",
-   "date_modified": "2020-12-27T15:38:00Z",
-   "tags": [
-    "launch",
-    "china_aerospace_corporation",
-    "government",
-    "long_march_4",
-    "long_march_4_c",
-    "launch_area_4_sls_2_603"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "China Aerospace Corporation | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "9612be5b-2f6d-424b-b622-6c1baea94029",
-    "global": "~space-schedule~launch~china_aerospace_corporation~9612be5b-2f6d-424b-b622-6c1baea94029"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_corporation/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -215,7 +179,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 6,
+  "itemCount": 5,
   "pageNumber": 1,
   "pageCount": 1
  }
