@@ -4,13 +4,13 @@
  "title": "Unknown | Event | Space Schedule",
  "items": [
   {
-   "id": "204",
+   "id": "206",
    "title": "Starship SN9 Testing",
-   "content_text": "SpaceX may be planning on beginning validation testing on SN9 per road closure dates. Keep an eye out for updates as holiday schedule may affect SpaceX's plans.",
-   "url": "https://ll.thespacedevs.com/2.1.0/event/204.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201226201555.png",
-   "date_published": "2020-12-28T14:00:00Z",
-   "date_modified": "2020-12-28T14:00:00Z",
+   "content_text": "SpaceX will likely conduct tests Starship SN9. This may include a cryo test or wet dress rehearsal. Planned tests are unknown but will occur during daily road closures.",
+   "url": "https://ll.thespacedevs.com/2.1.0/event/206.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201229002608.png",
+   "date_published": "2020-12-29T23:00:00Z",
+   "date_modified": "2020-12-29T23:00:00Z",
    "tags": [
     "event",
     "unknown"
@@ -18,7 +18,7 @@
    "attachments": [
     {
      "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201226201555.png"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201229002608.png"
     }
    ],
    "_meta": {

@@ -42,12 +42,22 @@
     </item>
     <item>
       <title>Starship SN9 Testing</title>
-      <link>https://ll.thespacedevs.com/2.1.0/event/204.json</link>
-      <description>SpaceX may be planning on beginning validation testing on SN9 per road closure dates. Keep an eye out for updates as holiday schedule may affect SpaceX's plans.</description>
+      <link>https://ll.thespacedevs.com/2.1.0/event/206.json</link>
+      <description>SpaceX will likely conduct tests Starship SN9. This may include a cryo test or wet dress rehearsal. Planned tests are unknown but will occur during daily road closures.</description>
       <category>event</category>
       <category>unknown</category>
-      <guid isPermaLink="false">~space-schedule~event~unknown~204</guid>
-      <pubDate>Mon, 28 Dec 2020 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">~space-schedule~event~unknown~206</guid>
+      <pubDate>Tue, 29 Dec 2020 23:00:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201229002608.png"/>
+    </item>
+    <item>
+      <title>Starship SN9 Pressure Test</title>
+      <link>https://ll.thespacedevs.com/2.1.0/event/204.json</link>
+      <description>SpaceX has conducted a pressure test on Starship SN9.</description>
+      <category>event</category>
+      <category>ambient_pressure_test</category>
+      <guid isPermaLink="false">~space-schedule~event~ambient_pressure_test~204</guid>
+      <pubDate>Tue, 29 Dec 2020 02:00:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201226201555.png"/>
     </item>
   </channel>

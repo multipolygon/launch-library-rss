@@ -7,7 +7,7 @@
     <description>All items in Space Schedule &gt; Launch.</description>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
-    <pubDate>Mon, 28 Dec 2020 16:42:07 GMT</pubDate>
+    <pubDate>Tue, 29 Dec 2020 16:42:07 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
@@ -22,7 +22,7 @@
       <category>government_top_secret</category>
       <category>soyuz_launch_complex</category>
       <guid isPermaLink="false">~space-schedule~launch~arianespace~7409ce63-4f65-44d6-804c-5784189bf7b5</guid>
-      <pubDate>Mon, 28 Dec 2020 16:42:07 GMT</pubDate>
+      <pubDate>Tue, 29 Dec 2020 16:42:07 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg"/>
     </item>
   </channel>
