@@ -2,22 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/event/ambient_pressure_test/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Ambient Pressure Test | Event | Space Schedule</title>
+    <title>Ambient Pressure Test</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fambient_pressure_test%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2020 </copyright>
-    <pubDate>Tue, 29 Dec 2020 02:00:00 GMT</pubDate>
+    <pubDate>Wed, 30 Dec 2020 11:36:34 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <item>
-      <title>Starship SN9 Pressure Test</title>
-      <link>https://ll.thespacedevs.com/2.1.0/event/204.json</link>
-      <description>SpaceX has conducted a pressure test on Starship SN9.</description>
-      <category>event</category>
-      <category>ambient_pressure_test</category>
-      <guid isPermaLink="false">204</guid>
-      <pubDate>Tue, 29 Dec 2020 02:00:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201226201555.png"/>
-    </item>
   </channel>
 </rss>

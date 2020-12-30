@@ -33,19 +33,11 @@
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json"/>
   </entry>
   <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/unknown/original.json</id>
-    <title>Unknown | Event | Space Schedule</title>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/cryoproof_test/original.json</id>
+    <title>Cryoproof Test | Event | Space Schedule</title>
     <updated>2020-12-29T23:00:00Z</updated>
     <published>2020-12-29T23:00:00Z</published>
     <content type="text">1 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Funknown%2Foriginal.json"/>
-  </entry>
-  <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/ambient_pressure_test/original.json</id>
-    <title>Ambient Pressure Test | Event | Space Schedule</title>
-    <updated>2020-12-29T02:00:00Z</updated>
-    <published>2020-12-29T02:00:00Z</published>
-    <content type="text">1 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fambient_pressure_test%2Foriginal.json"/>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fcryoproof_test%2Foriginal.json"/>
   </entry>
 </feed>

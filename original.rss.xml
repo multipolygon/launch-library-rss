@@ -41,39 +41,14 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
     </item>
     <item>
-      <title>Starship SN9 Testing</title>
-      <link>https://ll.thespacedevs.com/2.1.0/event/206.json</link>
-      <description>SpaceX will likely conduct tests Starship SN9. This may include a cryo test or wet dress rehearsal. Planned tests are unknown but will occur during daily road closures.</description>
+      <title>Starship SN9 Cryoproof Test</title>
+      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
+      <description>SpaceX will likely conduct a cryoproof test on Starship SN9. This is the first cryo test performed on the vehicle.</description>
       <category>event</category>
-      <category>unknown</category>
-      <guid isPermaLink="false">~space-schedule~event~unknown~206</guid>
+      <category>cryoproof_test</category>
+      <guid isPermaLink="false">~space-schedule~event~cryoproof_test~206</guid>
       <pubDate>Tue, 29 Dec 2020 23:00:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201229002608.png"/>
-    </item>
-    <item>
-      <title>Soyuz STA/Fregat | CSO 2</title>
-      <link>https://ll.thespacedevs.com/2.1.0/launch/7409ce63-4f65-44d6-804c-5784189bf7b5.json</link>
-      <description>The CSO 2 (Composante Spatiale Optique 2) satellite is the second of three new-generation high-resolution optical imaging satellites for the French military, replacing the Helios 2 spy satellite series.</description>
-      <category>launch</category>
-      <category>arianespace</category>
-      <category>commercial</category>
-      <category>soyuz</category>
-      <category>soyuz_sta</category>
-      <category>government_top_secret</category>
-      <category>soyuz_launch_complex</category>
-      <guid isPermaLink="false">~space-schedule~launch~arianespace~7409ce63-4f65-44d6-804c-5784189bf7b5</guid>
-      <pubDate>Tue, 29 Dec 2020 16:42:07 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg"/>
-    </item>
-    <item>
-      <title>Starship SN9 Pressure Test</title>
-      <link>https://ll.thespacedevs.com/2.1.0/event/204.json</link>
-      <description>SpaceX has conducted a pressure test on Starship SN9.</description>
-      <category>event</category>
-      <category>ambient_pressure_test</category>
-      <guid isPermaLink="false">~space-schedule~event~ambient_pressure_test~204</guid>
-      <pubDate>Tue, 29 Dec 2020 02:00:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201226201555.png"/>
     </item>
   </channel>
 </rss>

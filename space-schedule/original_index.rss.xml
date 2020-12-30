@@ -13,16 +13,9 @@
     <item>
       <title>Event</title>
       <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Foriginal_index.json</link>
-      <description>5 items</description>
+      <description>4 items</description>
       <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/original_index.json</guid>
       <pubDate>Mon, 11 Jan 2021 14:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Launch</title>
-      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Foriginal_index.json</link>
-      <description>1 items</description>
-      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/original_index.json</guid>
-      <pubDate>Tue, 29 Dec 2020 16:42:07 GMT</pubDate>
     </item>
   </channel>
 </rss>

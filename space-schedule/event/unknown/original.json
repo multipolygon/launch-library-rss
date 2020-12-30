@@ -1,41 +1,16 @@
 {
  "version": "https://jsonfeed.org/version/1",
  "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/event/unknown/original.json",
- "title": "Unknown | Event | Space Schedule",
- "items": [
-  {
-   "id": "206",
-   "title": "Starship SN9 Testing",
-   "content_text": "SpaceX will likely conduct tests Starship SN9. This may include a cryo test or wet dress rehearsal. Planned tests are unknown but will occur during daily road closures.",
-   "url": "https://ll.thespacedevs.com/2.1.0/event/206.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201229002608.png",
-   "date_published": "2020-12-29T23:00:00Z",
-   "date_modified": "2020-12-29T23:00:00Z",
-   "tags": [
-    "event",
-    "unknown"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201229002608.png"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1
-   }
-  }
- ],
+ "title": "Unknown",
+ "items": [],
  "_feed_url": {
   "rss": "https://launch-library-rss.multipolygon.net/space-schedule/event/unknown/original.rss.xml",
   "atom": "https://launch-library-rss.multipolygon.net/space-schedule/event/unknown/original.atom.xml"
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Funknown%2Foriginal.json",
  "_meta": {
-  "itemCount": 1,
+  "itemCount": 0,
   "pageNumber": 1,
-  "pageCount": 1
+  "pageCount": 0
  }
 }
