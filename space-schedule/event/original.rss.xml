@@ -31,24 +31,14 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg"/>
     </item>
     <item>
-      <title>SLS Green Run Hot Fire</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The core stage of the Space Launch System will undergo the final 'Green Run' test, where the core stage will be fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~38</guid>
-      <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
-    </item>
-    <item>
-      <title>Starship SN9 Cryoproof Test</title>
+      <title>Starship SN9 Testing</title>
       <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SpaceX will likely conduct a cryoproof test on Starship SN9. This is the first cryo test performed on the vehicle.</description>
+      <description>SpaceX will likely perform tests on Starship SN9.</description>
       <category>event</category>
-      <category>cryoproof_test</category>
-      <guid isPermaLink="false">~space-schedule~event~cryoproof_test~206</guid>
-      <pubDate>Tue, 29 Dec 2020 23:00:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201229002608.png"/>
+      <category>unknown</category>
+      <guid isPermaLink="false">~space-schedule~event~unknown~207</guid>
+      <pubDate>Mon, 04 Jan 2021 23:00:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201231095805.png"/>
     </item>
   </channel>
 </rss>

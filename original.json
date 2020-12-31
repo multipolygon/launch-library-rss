@@ -69,54 +69,21 @@
    }
   },
   {
-   "id": "~space-schedule~event~static_fire~38",
-   "title": "SLS Green Run Hot Fire",
-   "content_text": "The core stage of the Space Launch System will undergo the final 'Green Run' test, where the core stage will be fired for 8 minutes, demonstrating performance similar to an actual launch.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg",
-   "date_published": "2020-12-31T00:00:00Z",
-   "date_modified": "2020-12-31T00:00:00Z",
-   "tags": [
-    "event",
-    "static_fire"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Static Fire | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "38",
-    "global": "~space-schedule~event~static_fire~38"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~cryoproof_test~206",
-   "title": "Starship SN9 Cryoproof Test",
-   "content_text": "SpaceX will likely conduct a cryoproof test on Starship SN9. This is the first cryo test performed on the vehicle.",
+   "id": "~space-schedule~event~unknown~207",
+   "title": "Starship SN9 Testing",
+   "content_text": "SpaceX will likely perform tests on Starship SN9.",
    "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201229002608.png",
-   "date_published": "2020-12-29T23:00:00Z",
-   "date_modified": "2020-12-29T23:00:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201231095805.png",
+   "date_published": "2021-01-04T23:00:00Z",
+   "date_modified": "2021-01-04T23:00:00Z",
    "tags": [
     "event",
-    "cryoproof_test"
+    "unknown"
    ],
    "attachments": [
     {
      "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201229002608.png"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201231095805.png"
     }
    ],
    "_meta": {
@@ -124,14 +91,14 @@
     "videoCount": 0,
     "imageCount": 1,
     "youtubeCount": 1,
-    "subtitle": "Cryoproof Test | Event | Space Schedule"
+    "subtitle": "Unknown | Event | Space Schedule"
    },
    "_id": {
-    "parent": "206",
-    "global": "~space-schedule~event~cryoproof_test~206"
+    "parent": "207",
+    "global": "~space-schedule~event~unknown~207"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/cryoproof_test/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/unknown/original.json"
    }
   }
  ],
@@ -143,7 +110,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 4,
+  "itemCount": 3,
   "pageNumber": 1,
   "pageCount": 1
  }

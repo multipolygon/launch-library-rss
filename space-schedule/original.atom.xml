@@ -31,25 +31,14 @@
     <category term="release"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~static_fire~38</id>
-    <title>SLS Green Run Hot Fire</title>
-    <updated>2020-12-31T00:00:00Z</updated>
-    <published>2020-12-31T00:00:00Z</published>
-    <content type="text">The core stage of the Space Launch System will undergo the final 'Green Run' test, where the core stage will be fired for 8 minutes, demonstrating performance similar to an actual launch.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~cryoproof_test~206</id>
-    <title>Starship SN9 Cryoproof Test</title>
-    <updated>2020-12-29T23:00:00Z</updated>
-    <published>2020-12-29T23:00:00Z</published>
-    <content type="text">SpaceX will likely conduct a cryoproof test on Starship SN9. This is the first cryo test performed on the vehicle.</content>
+    <id>~space-schedule~event~unknown~207</id>
+    <title>Starship SN9 Testing</title>
+    <updated>2021-01-04T23:00:00Z</updated>
+    <published>2021-01-04T23:00:00Z</published>
+    <content type="text">SpaceX will likely perform tests on Starship SN9.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201229002608.png"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201231095805.png"/>
     <category term="event"/>
-    <category term="cryoproof_test"/>
+    <category term="unknown"/>
   </entry>
 </feed>

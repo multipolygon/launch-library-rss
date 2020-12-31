@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Cryoproof Test | Event | Space Schedule</title>
+  <title>Cryoproof Test</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/cryoproof_test/original.atom.xml</id>
-  <updated>2020-12-29T23:00:00Z</updated>
+  <updated>2020-12-31T11:39:30.510Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/cryoproof_test/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/cryoproof_test/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fcryoproof_test%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
-  <entry>
-    <id>206</id>
-    <title>Starship SN9 Cryoproof Test</title>
-    <updated>2020-12-29T23:00:00Z</updated>
-    <published>2020-12-29T23:00:00Z</published>
-    <content type="text">SpaceX will likely conduct a cryoproof test on Starship SN9. This is the first cryo test performed on the vehicle.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201229002608.png"/>
-    <category term="event"/>
-    <category term="cryoproof_test"/>
-  </entry>
 </feed>

@@ -6,13 +6,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/original_index.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Foriginal_index.json",
    "title": "Event",
-   "content_text": "4 items",
+   "content_text": "3 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_u_image_20201226201524.jpg",
    "date_published": "2021-01-11T14:25:00Z",
    "date_modified": "2021-01-11T14:25:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 4,
+    "itemCount": 3,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0
