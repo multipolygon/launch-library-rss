@@ -6,10 +6,20 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json</link>
     <description>All items in Space Schedule &gt; Event.</description>
     <language>en-us</language>
-    <copyright>© 2020 </copyright>
-    <pubDate>Mon, 11 Jan 2021 14:25:00 GMT</pubDate>
+    <copyright>© 2021 </copyright>
+    <pubDate>Sun, 31 Jan 2021 00:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>SLS Green Run Hot Fire</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The core stage of the Space Launch System will undergo the final 'Green Run' test, where the core stage will be fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~38</guid>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
+    </item>
     <item>
       <title>CRS-21 Dragon Undocking</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>

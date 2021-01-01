@@ -2,12 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Static Fire</title>
+    <title>Static Fire | Event | Space Schedule</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json</link>
     <language>en-us</language>
-    <copyright>© 2020 </copyright>
-    <pubDate>Thu, 31 Dec 2020 11:39:30 GMT</pubDate>
+    <copyright>© 2021 </copyright>
+    <pubDate>Sun, 31 Jan 2021 00:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>SLS Green Run Hot Fire</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The core stage of the Space Launch System will undergo the final 'Green Run' test, where the core stage will be fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">38</guid>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
+    </item>
   </channel>
 </rss>
