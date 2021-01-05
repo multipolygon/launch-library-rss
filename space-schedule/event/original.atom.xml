@@ -42,6 +42,17 @@
     <category term="undocking"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~unknown~207</id>
+    <title>Starship SN9 Testing</title>
+    <updated>2021-01-06T23:00:00Z</updated>
+    <published>2021-01-06T23:00:00Z</published>
+    <content type="text">SpaceX will likely perform tests on Starship SN9.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201231095805.png"/>
+    <category term="event"/>
+    <category term="unknown"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~release~196</id>
     <title>NG-14 Cygnus Release &amp; Reentry</title>
     <updated>2021-01-06T15:10:00Z</updated>
@@ -53,13 +64,13 @@
     <category term="release"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~unknown~207</id>
-    <title>Starship SN9 Testing</title>
+    <id>~space-schedule~event~unknown~208</id>
+    <title>Starship SN9 Header Tank Testing</title>
     <updated>2021-01-04T23:00:00Z</updated>
     <published>2021-01-04T23:00:00Z</published>
-    <content type="text">SpaceX will likely perform tests on Starship SN9.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201231095805.png"/>
+    <content type="text">SpaceX likely conducted pressure tests on Starship SN9's header tanks.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/208.json"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_he_image_20210104234025.png"/>
     <category term="event"/>
     <category term="unknown"/>
   </entry>

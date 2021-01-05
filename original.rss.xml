@@ -41,6 +41,31 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_u_image_20201226201524.jpg"/>
     </item>
     <item>
+      <title>Falcon 9 Block 5 | Türksat 5A</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/d5d607b7-05ed-4142-8703-14b553c195e0.json</link>
+      <description>Türksat 5A is the first of two Turkish next generation communications satellites, which will be operated by Türksat for commercial and military purposes.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon_9_block_5</category>
+      <category>communications</category>
+      <category>space_launch_complex_40</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~d5d607b7-05ed-4142-8703-14b553c195e0</guid>
+      <pubDate>Fri, 08 Jan 2021 01:28:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
+    </item>
+    <item>
+      <title>Starship SN9 Testing</title>
+      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
+      <description>SpaceX will likely perform tests on Starship SN9.</description>
+      <category>event</category>
+      <category>unknown</category>
+      <guid isPermaLink="false">~space-schedule~event~unknown~207</guid>
+      <pubDate>Wed, 06 Jan 2021 23:00:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201231095805.png"/>
+    </item>
+    <item>
       <title>NG-14 Cygnus Release &amp; Reentry</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The Northrop Grumman NG-14 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</description>
@@ -51,14 +76,14 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg"/>
     </item>
     <item>
-      <title>Starship SN9 Testing</title>
-      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SpaceX will likely perform tests on Starship SN9.</description>
+      <title>Starship SN9 Header Tank Testing</title>
+      <link>https://ll.thespacedevs.com/2.1.0/event/208.json</link>
+      <description>SpaceX likely conducted pressure tests on Starship SN9's header tanks.</description>
       <category>event</category>
       <category>unknown</category>
-      <guid isPermaLink="false">~space-schedule~event~unknown~207</guid>
+      <guid isPermaLink="false">~space-schedule~event~unknown~208</guid>
       <pubDate>Mon, 04 Jan 2021 23:00:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201231095805.png"/>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_he_image_20210104234025.png"/>
     </item>
   </channel>
 </rss>

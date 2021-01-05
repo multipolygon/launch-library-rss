@@ -7,8 +7,23 @@
     <description>All items in Space Schedule &gt; Launch.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Mon, 04 Jan 2021 11:39:48 GMT</pubDate>
+    <pubDate>Fri, 08 Jan 2021 01:28:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Falcon 9 Block 5 | Türksat 5A</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/d5d607b7-05ed-4142-8703-14b553c195e0.json</link>
+      <description>Türksat 5A is the first of two Turkish next generation communications satellites, which will be operated by Türksat for commercial and military purposes.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon_9_block_5</category>
+      <category>communications</category>
+      <category>space_launch_complex_40</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~d5d607b7-05ed-4142-8703-14b553c195e0</guid>
+      <pubDate>Fri, 08 Jan 2021 01:28:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
+    </item>
   </channel>
 </rss>
