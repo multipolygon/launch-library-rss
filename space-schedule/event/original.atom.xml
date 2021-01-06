@@ -2,12 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Event</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/original.atom.xml</id>
-  <updated>2021-02-01T00:00:00Z</updated>
+  <updated>2021-02-01T12:05:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items in Space Schedule &gt; Event.</subtitle>
+  <entry>
+    <id>~space-schedule~event~eva~211</id>
+    <title>US EVA-71</title>
+    <updated>2021-02-01T12:05:00Z</updated>
+    <published>2021-02-01T12:05:00Z</published>
+    <content type="text">NASA astronauts Kathleen Rubins and Victor Glover will exit the orbital lab on February 1 to prepare the installation of  iROSAs (ISS Roll Out Solar Arrays).</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg"/>
+    <category term="event"/>
+    <category term="eva"/>
+  </entry>
   <entry>
     <id>~space-schedule~event~orbital_insertion~124</id>
     <title>Emirates Mars Mission 'Hope' Mars Orbit Insertion</title>
@@ -20,10 +31,43 @@
     <category term="orbital_insertion"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~eva~210</id>
+    <title>US EVA-70</title>
+    <updated>2021-01-25T12:05:00Z</updated>
+    <published>2021-01-25T12:05:00Z</published>
+    <content type="text">NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 25 to continue upgrades on the space station.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-70_image_20210105201708.jpg"/>
+    <category term="event"/>
+    <category term="eva"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~berthing~214</id>
+    <title>NG-15 Cygnus Berthing</title>
+    <updated>2021-01-22T09:30:00Z</updated>
+    <published>2021-01-22T09:30:00Z</published>
+    <content type="text">NASA TV will livestream the rendezvous and capture of Northrop Grumman's NG-15 Cygnus cargo craft to the International Space Station.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-15_cygnus_be_image_20210105203038.jpg"/>
+    <category term="event"/>
+    <category term="berthing"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~eva~209</id>
+    <title>US EVA-69</title>
+    <updated>2021-01-19T12:05:00Z</updated>
+    <published>2021-01-19T12:05:00Z</published>
+    <content type="text">NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 19 to perform upgrades on the Columbus module.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-69_image_20210105201529.jpg"/>
+    <category term="event"/>
+    <category term="eva"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~static_fire~38</id>
     <title>SLS Green Run Hot Fire</title>
-    <updated>2021-01-31T00:00:00Z</updated>
-    <published>2021-01-31T00:00:00Z</published>
+    <updated>2021-01-17T00:00:00Z</updated>
+    <published>2021-01-17T00:00:00Z</published>
     <content type="text">The core stage of the Space Launch System will undergo the final 'Green Run' test, where the core stage will be fired for 8 minutes, demonstrating performance similar to an actual launch.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
@@ -42,15 +86,17 @@
     <category term="undocking"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~unknown~207</id>
-    <title>Starship SN9 Testing</title>
+    <id>~space-schedule~event~static_fire~207</id>
+    <title>Starship SN9 Static Fire</title>
     <updated>2021-01-06T23:00:00Z</updated>
     <published>2021-01-06T23:00:00Z</published>
-    <content type="text">SpaceX will likely perform tests on Starship SN9.</content>
+    <content type="text">SpaceX will likely perform a static fire on Starship SN9's three raptor engines.&#xD;
+&#xD;
+Event time is end of closure window.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201231095805.png"/>
     <category term="event"/>
-    <category term="unknown"/>
+    <category term="static_fire"/>
   </entry>
   <entry>
     <id>~space-schedule~event~release~196</id>
@@ -62,16 +108,5 @@
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg"/>
     <category term="event"/>
     <category term="release"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~unknown~208</id>
-    <title>Starship SN9 Header Tank Testing</title>
-    <updated>2021-01-04T23:00:00Z</updated>
-    <published>2021-01-04T23:00:00Z</published>
-    <content type="text">SpaceX likely conducted pressure tests on Starship SN9's header tanks.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/208.json"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_he_image_20210104234025.png"/>
-    <category term="event"/>
-    <category term="unknown"/>
   </entry>
 </feed>

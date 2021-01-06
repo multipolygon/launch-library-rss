@@ -7,9 +7,19 @@
     <description>All items.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate>
+    <pubDate>Mon, 01 Feb 2021 12:05:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>US EVA-71</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA astronauts Kathleen Rubins and Victor Glover will exit the orbital lab on February 1 to prepare the installation of  iROSAs (ISS Roll Out Solar Arrays).</description>
+      <category>event</category>
+      <category>eva</category>
+      <guid isPermaLink="false">~space-schedule~event~eva~211</guid>
+      <pubDate>Mon, 01 Feb 2021 12:05:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg"/>
+    </item>
     <item>
       <title>Emirates Mars Mission 'Hope' Mars Orbit Insertion</title>
       <link>https://ll.thespacedevs.com/2.1.0/event/124.json</link>
@@ -21,13 +31,43 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/emirates_mars_m_image_20200721105747.jpg"/>
     </item>
     <item>
+      <title>US EVA-70</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 25 to continue upgrades on the space station.</description>
+      <category>event</category>
+      <category>eva</category>
+      <guid isPermaLink="false">~space-schedule~event~eva~210</guid>
+      <pubDate>Mon, 25 Jan 2021 12:05:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-70_image_20210105201708.jpg"/>
+    </item>
+    <item>
+      <title>NG-15 Cygnus Berthing</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA TV will livestream the rendezvous and capture of Northrop Grumman's NG-15 Cygnus cargo craft to the International Space Station.</description>
+      <category>event</category>
+      <category>berthing</category>
+      <guid isPermaLink="false">~space-schedule~event~berthing~214</guid>
+      <pubDate>Fri, 22 Jan 2021 09:30:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-15_cygnus_be_image_20210105203038.jpg"/>
+    </item>
+    <item>
+      <title>US EVA-69</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 19 to perform upgrades on the Columbus module.</description>
+      <category>event</category>
+      <category>eva</category>
+      <guid isPermaLink="false">~space-schedule~event~eva~209</guid>
+      <pubDate>Tue, 19 Jan 2021 12:05:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-69_image_20210105201529.jpg"/>
+    </item>
+    <item>
       <title>SLS Green Run Hot Fire</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The core stage of the Space Launch System will undergo the final 'Green Run' test, where the core stage will be fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">~space-schedule~event~static_fire~38</guid>
-      <pubDate>Sun, 31 Jan 2021 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
     </item>
     <item>
@@ -39,6 +79,21 @@
       <guid isPermaLink="false">~space-schedule~event~undocking~205</guid>
       <pubDate>Mon, 11 Jan 2021 14:25:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_u_image_20201226201524.jpg"/>
+    </item>
+    <item>
+      <title>LauncherOne | Launch Demo 2</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5.json</link>
+      <description>This is Virgin Orbit's second attempt to launch the LauncherOne rocket. It also carries cubesats which were contracted by NASA through Venture Class Launch Services contract.</description>
+      <category>launch</category>
+      <category>virgin_orbit</category>
+      <category>commercial</category>
+      <category>launcher</category>
+      <category>launcher_one</category>
+      <category>dedicated_rideshare</category>
+      <category>mojave_air_and_space_port</category>
+      <guid isPermaLink="false">~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5</guid>
+      <pubDate>Sun, 10 Jan 2021 18:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg"/>
     </item>
     <item>
       <title>Falcon 9 Block 5 | Türksat 5A</title>
@@ -56,12 +111,14 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
     </item>
     <item>
-      <title>Starship SN9 Testing</title>
+      <title>Starship SN9 Static Fire</title>
       <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SpaceX will likely perform tests on Starship SN9.</description>
+      <description>SpaceX will likely perform a static fire on Starship SN9's three raptor engines.&#xD;
+&#xD;
+Event time is end of closure window.</description>
       <category>event</category>
-      <category>unknown</category>
-      <guid isPermaLink="false">~space-schedule~event~unknown~207</guid>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~207</guid>
       <pubDate>Wed, 06 Jan 2021 23:00:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201231095805.png"/>
     </item>
@@ -74,16 +131,6 @@
       <guid isPermaLink="false">~space-schedule~event~release~196</guid>
       <pubDate>Wed, 06 Jan 2021 15:10:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg"/>
-    </item>
-    <item>
-      <title>Starship SN9 Header Tank Testing</title>
-      <link>https://ll.thespacedevs.com/2.1.0/event/208.json</link>
-      <description>SpaceX likely conducted pressure tests on Starship SN9's header tanks.</description>
-      <category>event</category>
-      <category>unknown</category>
-      <guid isPermaLink="false">~space-schedule~event~unknown~208</guid>
-      <pubDate>Mon, 04 Jan 2021 23:00:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_he_image_20210104234025.png"/>
     </item>
   </channel>
 </rss>

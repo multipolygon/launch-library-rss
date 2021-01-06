@@ -3,6 +3,39 @@
  "description": "All items in Space Schedule > Event.",
  "items": [
   {
+   "id": "~space-schedule~event~eva~211",
+   "title": "US EVA-71",
+   "content_text": "NASA astronauts Kathleen Rubins and Victor Glover will exit the orbital lab on February 1 to prepare the installation of  iROSAs (ISS Roll Out Solar Arrays).",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg",
+   "date_published": "2021-02-01T12:05:00Z",
+   "date_modified": "2021-02-01T12:05:00Z",
+   "tags": [
+    "event",
+    "eva"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "EVA | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "211",
+    "global": "~space-schedule~event~eva~211"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~orbital_insertion~124",
    "title": "Emirates Mars Mission 'Hope' Mars Orbit Insertion",
    "content_text": "The Emirates Mars Mission 'Hope' will enter an orbit around Mars after its six months interplanetary journey.",
@@ -35,13 +68,112 @@
    }
   },
   {
+   "id": "~space-schedule~event~eva~210",
+   "title": "US EVA-70",
+   "content_text": "NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 25 to continue upgrades on the space station.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-70_image_20210105201708.jpg",
+   "date_published": "2021-01-25T12:05:00Z",
+   "date_modified": "2021-01-25T12:05:00Z",
+   "tags": [
+    "event",
+    "eva"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-70_image_20210105201708.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "EVA | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "210",
+    "global": "~space-schedule~event~eva~210"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~berthing~214",
+   "title": "NG-15 Cygnus Berthing",
+   "content_text": "NASA TV will livestream the rendezvous and capture of Northrop Grumman's NG-15 Cygnus cargo craft to the International Space Station.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-15_cygnus_be_image_20210105203038.jpg",
+   "date_published": "2021-01-22T09:30:00Z",
+   "date_modified": "2021-01-22T09:30:00Z",
+   "tags": [
+    "event",
+    "berthing"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-15_cygnus_be_image_20210105203038.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Berthing | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "214",
+    "global": "~space-schedule~event~berthing~214"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/berthing/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~eva~209",
+   "title": "US EVA-69",
+   "content_text": "NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 19 to perform upgrades on the Columbus module.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-69_image_20210105201529.jpg",
+   "date_published": "2021-01-19T12:05:00Z",
+   "date_modified": "2021-01-19T12:05:00Z",
+   "tags": [
+    "event",
+    "eva"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-69_image_20210105201529.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "EVA | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "209",
+    "global": "~space-schedule~event~eva~209"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~static_fire~38",
    "title": "SLS Green Run Hot Fire",
    "content_text": "The core stage of the Space Launch System will undergo the final 'Green Run' test, where the core stage will be fired for 8 minutes, demonstrating performance similar to an actual launch.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg",
-   "date_published": "2021-01-31T00:00:00Z",
-   "date_modified": "2021-01-31T00:00:00Z",
+   "date_published": "2021-01-17T00:00:00Z",
+   "date_modified": "2021-01-17T00:00:00Z",
    "tags": [
     "event",
     "static_fire"
@@ -101,16 +233,16 @@
    }
   },
   {
-   "id": "~space-schedule~event~unknown~207",
-   "title": "Starship SN9 Testing",
-   "content_text": "SpaceX will likely perform tests on Starship SN9.",
+   "id": "~space-schedule~event~static_fire~207",
+   "title": "Starship SN9 Static Fire",
+   "content_text": "SpaceX will likely perform a static fire on Starship SN9's three raptor engines.\r\n\r\nEvent time is end of closure window.",
    "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201231095805.png",
    "date_published": "2021-01-06T23:00:00Z",
    "date_modified": "2021-01-06T23:00:00Z",
    "tags": [
     "event",
-    "unknown"
+    "static_fire"
    ],
    "attachments": [
     {
@@ -123,14 +255,14 @@
     "videoCount": 0,
     "imageCount": 1,
     "youtubeCount": 1,
-    "subtitle": "Unknown | Event | Space Schedule"
+    "subtitle": "Static Fire | Event | Space Schedule"
    },
    "_id": {
     "parent": "207",
-    "global": "~space-schedule~event~unknown~207"
+    "global": "~space-schedule~event~static_fire~207"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/unknown/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
    }
   },
   {
@@ -165,38 +297,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/release/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~unknown~208",
-   "title": "Starship SN9 Header Tank Testing",
-   "content_text": "SpaceX likely conducted pressure tests on Starship SN9's header tanks.",
-   "url": "https://ll.thespacedevs.com/2.1.0/event/208.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_he_image_20210104234025.png",
-   "date_published": "2021-01-04T23:00:00Z",
-   "date_modified": "2021-01-04T23:00:00Z",
-   "tags": [
-    "event",
-    "unknown"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_he_image_20210104234025.png"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Unknown | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "208",
-    "global": "~space-schedule~event~unknown~208"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/unknown/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -207,7 +307,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 6,
+  "itemCount": 9,
   "pageNumber": 1,
   "pageCount": 1
  }

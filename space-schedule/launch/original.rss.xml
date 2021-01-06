@@ -7,9 +7,24 @@
     <description>All items in Space Schedule &gt; Launch.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Fri, 08 Jan 2021 01:28:00 GMT</pubDate>
+    <pubDate>Sun, 10 Jan 2021 18:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>LauncherOne | Launch Demo 2</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5.json</link>
+      <description>This is Virgin Orbit's second attempt to launch the LauncherOne rocket. It also carries cubesats which were contracted by NASA through Venture Class Launch Services contract.</description>
+      <category>launch</category>
+      <category>virgin_orbit</category>
+      <category>commercial</category>
+      <category>launcher</category>
+      <category>launcher_one</category>
+      <category>dedicated_rideshare</category>
+      <category>mojave_air_and_space_port</category>
+      <guid isPermaLink="false">~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5</guid>
+      <pubDate>Sun, 10 Jan 2021 18:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg"/>
+    </item>
     <item>
       <title>Falcon 9 Block 5 | Türksat 5A</title>
       <link>https://ll.thespacedevs.com/2.1.0/launch/d5d607b7-05ed-4142-8703-14b553c195e0.json</link>
