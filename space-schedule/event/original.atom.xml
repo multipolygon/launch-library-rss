@@ -88,13 +88,11 @@
   <entry>
     <id>~space-schedule~event~static_fire~207</id>
     <title>Starship SN9 Static Fire</title>
-    <updated>2021-01-06T23:00:00Z</updated>
-    <published>2021-01-06T23:00:00Z</published>
-    <content type="text">SpaceX will likely perform a static fire on Starship SN9's three raptor engines.&#xD;
-&#xD;
-Event time is end of closure window.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201231095805.png"/>
+    <updated>2021-01-06T22:07:00Z</updated>
+    <published>2021-01-06T22:07:00Z</published>
+    <content type="text">SpaceX performed a static fire on Starship SN9's three raptor engines.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=x06Y1FNV2fY"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_st_image_20210107083631.jpeg"/>
     <category term="event"/>
     <category term="static_fire"/>
   </entry>

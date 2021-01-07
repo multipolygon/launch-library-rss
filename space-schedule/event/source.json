@@ -244,12 +244,12 @@
                 "id": 5,
                 "name": "Static Fire"
             },
-            "description": "SpaceX will likely perform a static fire on Starship SN9's three raptor engines.\r\n\r\nEvent time is end of closure window.",
+            "description": "SpaceX performed a static fire on Starship SN9's three raptor engines.",
             "location": "Boca Chica, Texas",
             "news_url": null,
-            "video_url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
-            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201231095805.png",
-            "date": "2021-01-06T23:00:00Z",
+            "video_url": "https://www.youtube.com/watch?v=x06Y1FNV2fY",
+            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_st_image_20210107083631.jpeg",
+            "date": "2021-01-06T22:07:00Z",
             "launches": [
                 {
                     "id": "44670393-85da-4504-99f3-e5b95d71cbb6",
@@ -325,7 +325,7 @@
                         "total_launch_count": 5
                     },
                     "webcast_live": false,
-                    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/starship_protot_image_20201211072211.png",
+                    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210107083733.jpeg",
                     "infographic": null,
                     "program": [
                         {

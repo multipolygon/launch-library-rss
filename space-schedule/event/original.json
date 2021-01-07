@@ -235,19 +235,19 @@
   {
    "id": "~space-schedule~event~static_fire~207",
    "title": "Starship SN9 Static Fire",
-   "content_text": "SpaceX will likely perform a static fire on Starship SN9's three raptor engines.\r\n\r\nEvent time is end of closure window.",
-   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201231095805.png",
-   "date_published": "2021-01-06T23:00:00Z",
-   "date_modified": "2021-01-06T23:00:00Z",
+   "content_text": "SpaceX performed a static fire on Starship SN9's three raptor engines.",
+   "url": "https://www.youtube.com/watch?v=x06Y1FNV2fY",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_st_image_20210107083631.jpeg",
+   "date_published": "2021-01-06T22:07:00Z",
+   "date_modified": "2021-01-06T22:07:00Z",
    "tags": [
     "event",
     "static_fire"
    ],
    "attachments": [
     {
-     "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201231095805.png"
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_st_image_20210107083631.jpeg"
     }
    ],
    "_meta": {

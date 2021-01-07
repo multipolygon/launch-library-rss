@@ -19,7 +19,7 @@
             "inhold": false,
             "tbdtime": true,
             "tbddate": true,
-            "probability": 60,
+            "probability": 70,
             "holdreason": "",
             "failreason": "",
             "hashtag": null,

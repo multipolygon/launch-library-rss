@@ -112,15 +112,13 @@
     </item>
     <item>
       <title>Starship SN9 Static Fire</title>
-      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SpaceX will likely perform a static fire on Starship SN9's three raptor engines.&#xD;
-&#xD;
-Event time is end of closure window.</description>
+      <link>https://www.youtube.com/watch?v=x06Y1FNV2fY</link>
+      <description>SpaceX performed a static fire on Starship SN9's three raptor engines.</description>
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">~space-schedule~event~static_fire~207</guid>
-      <pubDate>Wed, 06 Jan 2021 23:00:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20201231095805.png"/>
+      <pubDate>Wed, 06 Jan 2021 22:07:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_st_image_20210107083631.jpeg"/>
     </item>
     <item>
       <title>NG-14 Cygnus Release &amp; Reentry</title>
