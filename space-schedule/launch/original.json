@@ -3,13 +3,48 @@
  "description": "All items in Space Schedule > Launch.",
  "items": [
   {
+   "id": "~space-schedule~launch~rocket_lab_ltd~68e50165-a929-424a-ab8b-ec7a1ae7465e",
+   "title": "Electron | Another One Leaves The Crust",
+   "content_text": "-",
+   "url": "https://ll.thespacedevs.com/2.1.0/launch/68e50165-a929-424a-ab8b-ec7a1ae7465e.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+   "date_published": "2021-01-16T07:38:00Z",
+   "date_modified": "2021-01-16T07:38:00Z",
+   "tags": [
+    "launch",
+    "rocket_lab_ltd",
+    "commercial",
+    "electron",
+    "rocket_lab_launch_complex_1_a"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Rocket Lab Ltd | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "68e50165-a929-424a-ab8b-ec7a1ae7465e",
+    "global": "~space-schedule~launch~rocket_lab_ltd~68e50165-a929-424a-ab8b-ec7a1ae7465e"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/rocket_lab_ltd/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5",
    "title": "LauncherOne | Launch Demo 2",
    "content_text": "This is Virgin Orbit's second attempt to launch the LauncherOne rocket. It also carries cubesats which were contracted by NASA through Venture Class Launch Services contract.",
    "url": "https://ll.thespacedevs.com/2.1.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
-   "date_published": "2021-01-10T18:00:00Z",
-   "date_modified": "2021-01-10T18:00:00Z",
+   "date_published": "2021-01-13T15:00:00Z",
+   "date_modified": "2021-01-13T15:00:00Z",
    "tags": [
     "launch",
     "virgin_orbit",
@@ -37,43 +72,6 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/virgin_orbit/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~launch~space_x~d5d607b7-05ed-4142-8703-14b553c195e0",
-   "title": "Falcon 9 Block 5 | Türksat 5A",
-   "content_text": "Türksat 5A is the first of two Turkish next generation communications satellites, which will be operated by Türksat for commercial and military purposes.",
-   "url": "https://ll.thespacedevs.com/2.1.0/launch/d5d607b7-05ed-4142-8703-14b553c195e0.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
-   "date_published": "2021-01-08T01:28:00Z",
-   "date_modified": "2021-01-08T01:28:00Z",
-   "tags": [
-    "launch",
-    "space_x",
-    "commercial",
-    "falcon",
-    "falcon_9_block_5",
-    "communications",
-    "space_launch_complex_40"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "SpaceX | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "d5d607b7-05ed-4142-8703-14b553c195e0",
-    "global": "~space-schedule~launch~space_x~d5d607b7-05ed-4142-8703-14b553c195e0"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
    }
   }
  ],

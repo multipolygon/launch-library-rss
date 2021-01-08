@@ -86,25 +86,16 @@
     <category term="undocking"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~static_fire~207</id>
-    <title>Starship SN9 Static Fire</title>
-    <updated>2021-01-06T22:07:00Z</updated>
-    <published>2021-01-06T22:07:00Z</published>
-    <content type="text">SpaceX performed a static fire on Starship SN9's three raptor engines.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=x06Y1FNV2fY"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_st_image_20210107083631.jpeg"/>
+    <id>~space-schedule~event~static_fire~216</id>
+    <title>Starship SN9 2nd Static Fire</title>
+    <updated>2021-01-08T23:00:00Z</updated>
+    <published>2021-01-08T23:00:00Z</published>
+    <content type="text">SpaceX is expected to conduct a second static fire test on Starship SN9's raptor engines.&#xD;
+&#xD;
+Time is set to end of road closure window.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_2n_image_20210108030811.jpg"/>
     <category term="event"/>
     <category term="static_fire"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~release~196</id>
-    <title>NG-14 Cygnus Release &amp; Reentry</title>
-    <updated>2021-01-06T15:10:00Z</updated>
-    <published>2021-01-06T15:10:00Z</published>
-    <content type="text">The Northrop Grumman NG-14 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg"/>
-    <category term="event"/>
-    <category term="release"/>
   </entry>
 </feed>

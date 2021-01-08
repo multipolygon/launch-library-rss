@@ -81,24 +81,16 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_u_image_20201226201524.jpg"/>
     </item>
     <item>
-      <title>Starship SN9 Static Fire</title>
-      <link>https://www.youtube.com/watch?v=x06Y1FNV2fY</link>
-      <description>SpaceX performed a static fire on Starship SN9's three raptor engines.</description>
+      <title>Starship SN9 2nd Static Fire</title>
+      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
+      <description>SpaceX is expected to conduct a second static fire test on Starship SN9's raptor engines.&#xD;
+&#xD;
+Time is set to end of road closure window.</description>
       <category>event</category>
       <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~207</guid>
-      <pubDate>Wed, 06 Jan 2021 22:07:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_st_image_20210107083631.jpeg"/>
-    </item>
-    <item>
-      <title>NG-14 Cygnus Release &amp; Reentry</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The Northrop Grumman NG-14 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</description>
-      <category>event</category>
-      <category>release</category>
-      <guid isPermaLink="false">~space-schedule~event~release~196</guid>
-      <pubDate>Wed, 06 Jan 2021 15:10:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-14_cygnus_re_image_20201124230239.jpeg"/>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~216</guid>
+      <pubDate>Fri, 08 Jan 2021 23:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_2n_image_20210108030811.jpg"/>
     </item>
   </channel>
 </rss>

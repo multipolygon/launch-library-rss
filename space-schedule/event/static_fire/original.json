@@ -29,13 +29,13 @@
    }
   },
   {
-   "id": "207",
-   "title": "Starship SN9 Static Fire",
-   "content_text": "SpaceX performed a static fire on Starship SN9's three raptor engines.",
-   "url": "https://www.youtube.com/watch?v=x06Y1FNV2fY",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_st_image_20210107083631.jpeg",
-   "date_published": "2021-01-06T22:07:00Z",
-   "date_modified": "2021-01-06T22:07:00Z",
+   "id": "216",
+   "title": "Starship SN9 2nd Static Fire",
+   "content_text": "SpaceX is expected to conduct a second static fire test on Starship SN9's raptor engines.\r\n\r\nTime is set to end of road closure window.",
+   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_2n_image_20210108030811.jpg",
+   "date_published": "2021-01-08T23:00:00Z",
+   "date_modified": "2021-01-08T23:00:00Z",
    "tags": [
     "event",
     "static_fire"
@@ -43,7 +43,7 @@
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_st_image_20210107083631.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_2n_image_20210108030811.jpg"
     }
    ],
    "_meta": {

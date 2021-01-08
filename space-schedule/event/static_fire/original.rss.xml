@@ -20,14 +20,16 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
     </item>
     <item>
-      <title>Starship SN9 Static Fire</title>
-      <link>https://www.youtube.com/watch?v=x06Y1FNV2fY</link>
-      <description>SpaceX performed a static fire on Starship SN9's three raptor engines.</description>
+      <title>Starship SN9 2nd Static Fire</title>
+      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
+      <description>SpaceX is expected to conduct a second static fire test on Starship SN9's raptor engines.&#xD;
+&#xD;
+Time is set to end of road closure window.</description>
       <category>event</category>
       <category>static_fire</category>
-      <guid isPermaLink="false">207</guid>
-      <pubDate>Wed, 06 Jan 2021 22:07:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_st_image_20210107083631.jpeg"/>
+      <guid isPermaLink="false">216</guid>
+      <pubDate>Fri, 08 Jan 2021 23:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_2n_image_20210108030811.jpg"/>
     </item>
   </channel>
 </rss>

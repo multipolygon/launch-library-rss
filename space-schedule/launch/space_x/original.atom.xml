@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>SpaceX | Launch | Space Schedule</title>
+  <title>Space X</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.atom.xml</id>
-  <updated>2021-01-08T01:28:00Z</updated>
+  <updated>2021-01-08T11:43:17.753Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
-  <entry>
-    <id>d5d607b7-05ed-4142-8703-14b553c195e0</id>
-    <title>Falcon 9 Block 5 | Türksat 5A</title>
-    <updated>2021-01-08T01:28:00Z</updated>
-    <published>2021-01-08T01:28:00Z</published>
-    <content type="text">Türksat 5A is the first of two Turkish next generation communications satellites, which will be operated by Türksat for commercial and military purposes.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/d5d607b7-05ed-4142-8703-14b553c195e0.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
-    <category term="launch"/>
-    <category term="space_x"/>
-    <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon_9_block_5"/>
-    <category term="communications"/>
-    <category term="space_launch_complex_40"/>
-  </entry>
 </feed>
