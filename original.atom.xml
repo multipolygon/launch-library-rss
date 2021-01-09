@@ -89,6 +89,22 @@
     <category term="rocket_lab_launch_complex_1_a"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~space_x~f213a5df-579a-4682-8143-df228e463049</id>
+    <title>Falcon 9 Block 5 | Transporter 1 (Dedicated SSO Rideshare)</title>
+    <updated>2021-01-14T14:19:00Z</updated>
+    <published>2021-01-14T14:19:00Z</published>
+    <content type="text">Transporter 1 mission is a dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/f213a5df-579a-4682-8143-df228e463049.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
+    <category term="launch"/>
+    <category term="space_x"/>
+    <category term="commercial"/>
+    <category term="falcon"/>
+    <category term="falcon_9_block_5"/>
+    <category term="dedicated_rideshare"/>
+    <category term="space_launch_complex_40"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5</id>
     <title>LauncherOne | Launch Demo 2</title>
     <updated>2021-01-13T15:00:00Z</updated>
@@ -105,6 +121,19 @@
     <category term="mojave_air_and_space_port"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~static_fire~216</id>
+    <title>Starship SN9 2nd Static Fire</title>
+    <updated>2021-01-11T23:00:00Z</updated>
+    <published>2021-01-11T23:00:00Z</published>
+    <content type="text">SpaceX is expected to conduct a second static fire test on Starship SN9's raptor engines.&#xD;
+&#xD;
+Event time is set to end of road closure window.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_2n_image_20210108030811.jpg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~undocking~205</id>
     <title>CRS-21 Dragon Undocking</title>
     <updated>2021-01-11T14:25:00Z</updated>
@@ -114,18 +143,5 @@
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_u_image_20201226201524.jpg"/>
     <category term="event"/>
     <category term="undocking"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~216</id>
-    <title>Starship SN9 2nd Static Fire</title>
-    <updated>2021-01-08T23:00:00Z</updated>
-    <published>2021-01-08T23:00:00Z</published>
-    <content type="text">SpaceX is expected to conduct a second static fire test on Starship SN9's raptor engines.&#xD;
-&#xD;
-Time is set to end of road closure window.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_2n_image_20210108030811.jpg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
   </entry>
 </feed>

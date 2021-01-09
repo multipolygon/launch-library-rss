@@ -75,6 +75,19 @@
     <category term="static_fire"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~static_fire~216</id>
+    <title>Starship SN9 2nd Static Fire</title>
+    <updated>2021-01-11T23:00:00Z</updated>
+    <published>2021-01-11T23:00:00Z</published>
+    <content type="text">SpaceX is expected to conduct a second static fire test on Starship SN9's raptor engines.&#xD;
+&#xD;
+Event time is set to end of road closure window.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_2n_image_20210108030811.jpg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~undocking~205</id>
     <title>CRS-21 Dragon Undocking</title>
     <updated>2021-01-11T14:25:00Z</updated>
@@ -84,18 +97,5 @@
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_u_image_20201226201524.jpg"/>
     <category term="event"/>
     <category term="undocking"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~216</id>
-    <title>Starship SN9 2nd Static Fire</title>
-    <updated>2021-01-08T23:00:00Z</updated>
-    <published>2021-01-08T23:00:00Z</published>
-    <content type="text">SpaceX is expected to conduct a second static fire test on Starship SN9's raptor engines.&#xD;
-&#xD;
-Time is set to end of road closure window.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_2n_image_20210108030811.jpg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
   </entry>
 </feed>

@@ -23,6 +23,22 @@
     <category term="rocket_lab_launch_complex_1_a"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~space_x~f213a5df-579a-4682-8143-df228e463049</id>
+    <title>Falcon 9 Block 5 | Transporter 1 (Dedicated SSO Rideshare)</title>
+    <updated>2021-01-14T14:19:00Z</updated>
+    <published>2021-01-14T14:19:00Z</published>
+    <content type="text">Transporter 1 mission is a dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/f213a5df-579a-4682-8143-df228e463049.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
+    <category term="launch"/>
+    <category term="space_x"/>
+    <category term="commercial"/>
+    <category term="falcon"/>
+    <category term="falcon_9_block_5"/>
+    <category term="dedicated_rideshare"/>
+    <category term="space_launch_complex_40"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5</id>
     <title>LauncherOne | Launch Demo 2</title>
     <updated>2021-01-13T15:00:00Z</updated>
