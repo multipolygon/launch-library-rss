@@ -6,9 +6,19 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Feva%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Mon, 01 Feb 2021 12:05:00 GMT</pubDate>
+    <pubDate>Mon, 08 Feb 2021 12:05:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>US EVA-72</title>
+      <link>https://ll.thespacedevs.com/2.1.0/event/212.json</link>
+      <description>NASA astronaut Kathleen Rubins and JAXA astronaut Soichi Noguchi will exit the orbital lab on February 8 to continue upgrades on the space station.</description>
+      <category>event</category>
+      <category>eva</category>
+      <guid isPermaLink="false">212</guid>
+      <pubDate>Mon, 08 Feb 2021 12:05:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210105202154.jpg"/>
+    </item>
     <item>
       <title>US EVA-71</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>

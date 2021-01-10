@@ -7,15 +7,15 @@
     <description>All feeds in Space Schedule &gt; Event.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Mon, 01 Feb 2021 12:05:00 GMT</pubDate>
+    <pubDate>Mon, 08 Feb 2021 12:05:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
       <title>EVA | Event | Space Schedule</title>
       <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Feva%2Foriginal.json</link>
-      <description>3 items</description>
+      <description>4 items</description>
       <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json</guid>
-      <pubDate>Mon, 01 Feb 2021 12:05:00 GMT</pubDate>
+      <pubDate>Mon, 08 Feb 2021 12:05:00 GMT</pubDate>
     </item>
     <item>
       <title>Orbital Insertion | Event | Space Schedule</title>
