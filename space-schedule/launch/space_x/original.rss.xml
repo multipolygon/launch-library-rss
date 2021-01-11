@@ -12,16 +12,17 @@
     <item>
       <title>Falcon 9 Block 5 | Starlink 16</title>
       <link>https://ll.thespacedevs.com/2.1.0/launch/74426779-131d-416f-9ff5-dd879e231292.json</link>
-      <description>-</description>
+      <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
       <category>launch</category>
       <category>space_x</category>
       <category>commercial</category>
       <category>falcon</category>
       <category>falcon_9_block_5</category>
+      <category>communications</category>
       <category>launch_complex_39_a</category>
       <guid isPermaLink="false">74426779-131d-416f-9ff5-dd879e231292</guid>
       <pubDate>Sun, 17 Jan 2021 20:45:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210111072734.png"/>
     </item>
   </channel>
 </rss>

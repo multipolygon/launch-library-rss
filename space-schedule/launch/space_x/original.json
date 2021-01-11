@@ -4,9 +4,9 @@
   {
    "id": "74426779-131d-416f-9ff5-dd879e231292",
    "title": "Falcon 9 Block 5 | Starlink 16",
-   "content_text": "-",
+   "content_text": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
    "url": "https://ll.thespacedevs.com/2.1.0/launch/74426779-131d-416f-9ff5-dd879e231292.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210111072734.png",
    "date_published": "2021-01-17T20:45:00Z",
    "date_modified": "2021-01-17T20:45:00Z",
    "tags": [
@@ -15,12 +15,13 @@
     "commercial",
     "falcon",
     "falcon_9_block_5",
+    "communications",
     "launch_complex_39_a"
    ],
    "attachments": [
     {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"
+     "mime_type": "image/png",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210111072734.png"
     }
    ],
    "_meta": {

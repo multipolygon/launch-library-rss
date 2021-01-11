@@ -185,7 +185,19 @@
                     "variant": "Block 5"
                 }
             },
-            "mission": null,
+            "mission": {
+                "id": 1225,
+                "launch_library_id": null,
+                "name": "Starlink 16",
+                "description": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+                "launch_designator": null,
+                "type": "Communications",
+                "orbit": {
+                    "id": 8,
+                    "name": "Low Earth Orbit",
+                    "abbrev": "LEO"
+                }
+            },
             "pad": {
                 "id": 87,
                 "url": "https://ll.thespacedevs.com/2.1.0/pad/87.json",
@@ -209,7 +221,7 @@
                 "total_launch_count": 125
             },
             "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210111072734.png",
             "infographic": null,
             "program": []
         }
