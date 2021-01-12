@@ -17,7 +17,7 @@
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_u_image_20201226201524.jpg",
-            "date": "2021-01-11T14:25:00Z",
+            "date": "2021-01-12T13:40:00Z",
             "launches": [
                 {
                     "id": "06dfcb34-0b76-4fbc-9046-09ab66db7b83",
@@ -292,7 +292,7 @@
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_2n_image_20210108030811.jpg",
-            "date": "2021-01-11T23:00:00Z",
+            "date": "2021-01-12T23:00:00Z",
             "launches": [
                 {
                     "id": "44670393-85da-4504-99f3-e5b95d71cbb6",
@@ -304,9 +304,9 @@
                         "id": 2,
                         "name": "TBD"
                     },
-                    "net": "2021-01-12T14:00:00Z",
-                    "window_end": "2021-01-12T23:59:00Z",
-                    "window_start": "2021-01-12T14:00:00Z",
+                    "net": "2021-01-13T14:00:00Z",
+                    "window_end": "2021-01-13T23:59:00Z",
+                    "window_start": "2021-01-13T14:00:00Z",
                     "inhold": false,
                     "tbdtime": false,
                     "tbddate": false,
@@ -369,7 +369,7 @@
                     },
                     "webcast_live": false,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210107083733.jpeg",
-                    "infographic": null,
+                    "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_infographic_20210111174711.png",
                     "program": [
                         {
                             "id": 1,
@@ -431,7 +431,7 @@
             "news_url": "https://www.nasa.gov/exploration/systems/sls/green-run-test-paves-way-for-nasa-moon-missions.html",
             "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg",
-            "date": "2021-01-17T00:00:00Z",
+            "date": "2021-01-16T15:00:00Z",
             "launches": [],
             "expeditions": [],
             "spacestations": [],
