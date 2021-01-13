@@ -88,8 +88,8 @@
   <entry>
     <id>~space-schedule~event~static_fire~38</id>
     <title>SLS Green Run Hot Fire</title>
-    <updated>2021-01-16T15:00:00Z</updated>
-    <published>2021-01-16T15:00:00Z</published>
+    <updated>2021-01-16T22:00:00Z</updated>
+    <published>2021-01-16T22:00:00Z</published>
     <content type="text">The core stage of the Space Launch System will undergo the final 'Green Run' test, where the core stage will be fired for 8 minutes, demonstrating performance similar to an actual launch.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
@@ -99,8 +99,8 @@
   <entry>
     <id>~space-schedule~event~static_fire~216</id>
     <title>Starship SN9 2nd Static Fire</title>
-    <updated>2021-01-12T23:00:00Z</updated>
-    <published>2021-01-12T23:00:00Z</published>
+    <updated>2021-01-13T23:00:00Z</updated>
+    <published>2021-01-13T23:00:00Z</published>
     <content type="text">SpaceX is expected to conduct a second static fire test on Starship SN9's raptor engines.&#xD;
 &#xD;
 Event time is set to end of road closure window.</content>
@@ -112,8 +112,8 @@ Event time is set to end of road closure window.</content>
   <entry>
     <id>~space-schedule~event~undocking~205</id>
     <title>CRS-21 Dragon Undocking</title>
-    <updated>2021-01-12T13:40:00Z</updated>
-    <published>2021-01-12T13:40:00Z</published>
+    <updated>2021-01-12T14:05:00Z</updated>
+    <published>2021-01-12T14:05:00Z</published>
     <content type="text">The SpaceX CRS-21 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_u_image_20201226201524.jpg"/>

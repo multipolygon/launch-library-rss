@@ -41,19 +41,6 @@
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210111072734.png"/>
     </item>
     <item>
-      <title>Electron | Another One Leaves The Crust</title>
-      <link>https://ll.thespacedevs.com/2.1.0/launch/68e50165-a929-424a-ab8b-ec7a1ae7465e.json</link>
-      <description>-</description>
-      <category>launch</category>
-      <category>rocket_lab_ltd</category>
-      <category>commercial</category>
-      <category>electron</category>
-      <category>rocket_lab_launch_complex_1_a</category>
-      <guid isPermaLink="false">~space-schedule~launch~rocket_lab_ltd~68e50165-a929-424a-ab8b-ec7a1ae7465e</guid>
-      <pubDate>Sat, 16 Jan 2021 07:38:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"/>
-    </item>
-    <item>
       <title>LauncherOne | Launch Demo 2</title>
       <link>https://ll.thespacedevs.com/2.1.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5.json</link>
       <description>This is Virgin Orbit's second attempt to launch the LauncherOne rocket. It also carries cubesats which were contracted by NASA through Venture Class Launch Services contract.</description>
@@ -65,8 +52,21 @@
       <category>dedicated_rideshare</category>
       <category>mojave_air_and_space_port</category>
       <guid isPermaLink="false">~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5</guid>
-      <pubDate>Wed, 13 Jan 2021 15:00:00 GMT</pubDate>
+      <pubDate>Sun, 17 Jan 2021 15:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg"/>
+    </item>
+    <item>
+      <title>Electron | Another One Leaves The Crust</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/68e50165-a929-424a-ab8b-ec7a1ae7465e.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>rocket_lab_ltd</category>
+      <category>commercial</category>
+      <category>electron</category>
+      <category>rocket_lab_launch_complex_1_a</category>
+      <guid isPermaLink="false">~space-schedule~launch~rocket_lab_ltd~68e50165-a929-424a-ab8b-ec7a1ae7465e</guid>
+      <pubDate>Sat, 16 Jan 2021 07:38:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"/>
     </item>
   </channel>
 </rss>

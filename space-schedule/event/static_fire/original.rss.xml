@@ -6,7 +6,7 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Sat, 16 Jan 2021 15:00:00 GMT</pubDate>
+    <pubDate>Sat, 16 Jan 2021 22:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
@@ -16,7 +16,7 @@
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">38</guid>
-      <pubDate>Sat, 16 Jan 2021 15:00:00 GMT</pubDate>
+      <pubDate>Sat, 16 Jan 2021 22:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
     </item>
     <item>
@@ -28,7 +28,7 @@ Event time is set to end of road closure window.</description>
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">216</guid>
-      <pubDate>Tue, 12 Jan 2021 23:00:00 GMT</pubDate>
+      <pubDate>Wed, 13 Jan 2021 23:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_2n_image_20210108030811.jpg"/>
     </item>
   </channel>

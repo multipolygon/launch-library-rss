@@ -41,6 +41,22 @@
     <category term="launch_complex_39_a"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5</id>
+    <title>LauncherOne | Launch Demo 2</title>
+    <updated>2021-01-17T15:00:00Z</updated>
+    <published>2021-01-17T15:00:00Z</published>
+    <content type="text">This is Virgin Orbit's second attempt to launch the LauncherOne rocket. It also carries cubesats which were contracted by NASA through Venture Class Launch Services contract.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg"/>
+    <category term="launch"/>
+    <category term="virgin_orbit"/>
+    <category term="commercial"/>
+    <category term="launcher"/>
+    <category term="launcher_one"/>
+    <category term="dedicated_rideshare"/>
+    <category term="mojave_air_and_space_port"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~rocket_lab_ltd~68e50165-a929-424a-ab8b-ec7a1ae7465e</id>
     <title>Electron | Another One Leaves The Crust</title>
     <updated>2021-01-16T07:38:00Z</updated>
@@ -53,21 +69,5 @@
     <category term="commercial"/>
     <category term="electron"/>
     <category term="rocket_lab_launch_complex_1_a"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5</id>
-    <title>LauncherOne | Launch Demo 2</title>
-    <updated>2021-01-13T15:00:00Z</updated>
-    <published>2021-01-13T15:00:00Z</published>
-    <content type="text">This is Virgin Orbit's second attempt to launch the LauncherOne rocket. It also carries cubesats which were contracted by NASA through Venture Class Launch Services contract.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg"/>
-    <category term="launch"/>
-    <category term="virgin_orbit"/>
-    <category term="commercial"/>
-    <category term="launcher"/>
-    <category term="launcher_one"/>
-    <category term="dedicated_rideshare"/>
-    <category term="mojave_air_and_space_port"/>
   </entry>
 </feed>

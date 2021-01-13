@@ -17,19 +17,19 @@
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json"/>
   </entry>
   <entry>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/virgin_orbit/original.json</id>
+    <title>Virgin Orbit | Launch | Space Schedule</title>
+    <updated>2021-01-17T15:00:00Z</updated>
+    <published>2021-01-17T15:00:00Z</published>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fvirgin_orbit%2Foriginal.json"/>
+  </entry>
+  <entry>
     <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/rocket_lab_ltd/original.json</id>
     <title>Rocket Lab Ltd | Launch | Space Schedule</title>
     <updated>2021-01-16T07:38:00Z</updated>
     <published>2021-01-16T07:38:00Z</published>
     <content type="text">1 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Frocket_lab_ltd%2Foriginal.json"/>
-  </entry>
-  <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/virgin_orbit/original.json</id>
-    <title>Virgin Orbit | Launch | Space Schedule</title>
-    <updated>2021-01-13T15:00:00Z</updated>
-    <published>2021-01-13T15:00:00Z</published>
-    <content type="text">1 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fvirgin_orbit%2Foriginal.json"/>
   </entry>
 </feed>

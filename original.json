@@ -305,13 +305,50 @@
    }
   },
   {
+   "id": "~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5",
+   "title": "LauncherOne | Launch Demo 2",
+   "content_text": "This is Virgin Orbit's second attempt to launch the LauncherOne rocket. It also carries cubesats which were contracted by NASA through Venture Class Launch Services contract.",
+   "url": "https://ll.thespacedevs.com/2.1.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
+   "date_published": "2021-01-17T15:00:00Z",
+   "date_modified": "2021-01-17T15:00:00Z",
+   "tags": [
+    "launch",
+    "virgin_orbit",
+    "commercial",
+    "launcher",
+    "launcher_one",
+    "dedicated_rideshare",
+    "mojave_air_and_space_port"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Virgin Orbit | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "20d9789c-dfdf-46b5-a964-de5f031615a5",
+    "global": "~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/virgin_orbit/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~static_fire~38",
    "title": "SLS Green Run Hot Fire",
    "content_text": "The core stage of the Space Launch System will undergo the final 'Green Run' test, where the core stage will be fired for 8 minutes, demonstrating performance similar to an actual launch.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg",
-   "date_published": "2021-01-16T15:00:00Z",
-   "date_modified": "2021-01-16T15:00:00Z",
+   "date_published": "2021-01-16T22:00:00Z",
+   "date_modified": "2021-01-16T22:00:00Z",
    "tags": [
     "event",
     "static_fire"
@@ -373,50 +410,13 @@
    }
   },
   {
-   "id": "~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5",
-   "title": "LauncherOne | Launch Demo 2",
-   "content_text": "This is Virgin Orbit's second attempt to launch the LauncherOne rocket. It also carries cubesats which were contracted by NASA through Venture Class Launch Services contract.",
-   "url": "https://ll.thespacedevs.com/2.1.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
-   "date_published": "2021-01-13T15:00:00Z",
-   "date_modified": "2021-01-13T15:00:00Z",
-   "tags": [
-    "launch",
-    "virgin_orbit",
-    "commercial",
-    "launcher",
-    "launcher_one",
-    "dedicated_rideshare",
-    "mojave_air_and_space_port"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Virgin Orbit | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "20d9789c-dfdf-46b5-a964-de5f031615a5",
-    "global": "~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/virgin_orbit/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~event~static_fire~216",
    "title": "Starship SN9 2nd Static Fire",
    "content_text": "SpaceX is expected to conduct a second static fire test on Starship SN9's raptor engines.\r\n\r\nEvent time is set to end of road closure window.",
    "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_2n_image_20210108030811.jpg",
-   "date_published": "2021-01-12T23:00:00Z",
-   "date_modified": "2021-01-12T23:00:00Z",
+   "date_published": "2021-01-13T23:00:00Z",
+   "date_modified": "2021-01-13T23:00:00Z",
    "tags": [
     "event",
     "static_fire"
@@ -448,8 +448,8 @@
    "content_text": "The SpaceX CRS-21 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_u_image_20201226201524.jpg",
-   "date_published": "2021-01-12T13:40:00Z",
-   "date_modified": "2021-01-12T13:40:00Z",
+   "date_published": "2021-01-12T14:05:00Z",
+   "date_modified": "2021-01-12T14:05:00Z",
    "tags": [
     "event",
     "undocking"

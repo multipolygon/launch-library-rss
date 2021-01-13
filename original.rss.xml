@@ -111,13 +111,28 @@
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210111072734.png"/>
     </item>
     <item>
+      <title>LauncherOne | Launch Demo 2</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5.json</link>
+      <description>This is Virgin Orbit's second attempt to launch the LauncherOne rocket. It also carries cubesats which were contracted by NASA through Venture Class Launch Services contract.</description>
+      <category>launch</category>
+      <category>virgin_orbit</category>
+      <category>commercial</category>
+      <category>launcher</category>
+      <category>launcher_one</category>
+      <category>dedicated_rideshare</category>
+      <category>mojave_air_and_space_port</category>
+      <guid isPermaLink="false">~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5</guid>
+      <pubDate>Sun, 17 Jan 2021 15:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg"/>
+    </item>
+    <item>
       <title>SLS Green Run Hot Fire</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The core stage of the Space Launch System will undergo the final 'Green Run' test, where the core stage will be fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">~space-schedule~event~static_fire~38</guid>
-      <pubDate>Sat, 16 Jan 2021 15:00:00 GMT</pubDate>
+      <pubDate>Sat, 16 Jan 2021 22:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
     </item>
     <item>
@@ -134,21 +149,6 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"/>
     </item>
     <item>
-      <title>LauncherOne | Launch Demo 2</title>
-      <link>https://ll.thespacedevs.com/2.1.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5.json</link>
-      <description>This is Virgin Orbit's second attempt to launch the LauncherOne rocket. It also carries cubesats which were contracted by NASA through Venture Class Launch Services contract.</description>
-      <category>launch</category>
-      <category>virgin_orbit</category>
-      <category>commercial</category>
-      <category>launcher</category>
-      <category>launcher_one</category>
-      <category>dedicated_rideshare</category>
-      <category>mojave_air_and_space_port</category>
-      <guid isPermaLink="false">~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5</guid>
-      <pubDate>Wed, 13 Jan 2021 15:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg"/>
-    </item>
-    <item>
       <title>Starship SN9 2nd Static Fire</title>
       <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
       <description>SpaceX is expected to conduct a second static fire test on Starship SN9's raptor engines.&#xD;
@@ -157,7 +157,7 @@ Event time is set to end of road closure window.</description>
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">~space-schedule~event~static_fire~216</guid>
-      <pubDate>Tue, 12 Jan 2021 23:00:00 GMT</pubDate>
+      <pubDate>Wed, 13 Jan 2021 23:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_2n_image_20210108030811.jpg"/>
     </item>
     <item>
@@ -167,7 +167,7 @@ Event time is set to end of road closure window.</description>
       <category>event</category>
       <category>undocking</category>
       <guid isPermaLink="false">~space-schedule~event~undocking~205</guid>
-      <pubDate>Tue, 12 Jan 2021 13:40:00 GMT</pubDate>
+      <pubDate>Tue, 12 Jan 2021 14:05:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_u_image_20201226201524.jpg"/>
     </item>
   </channel>

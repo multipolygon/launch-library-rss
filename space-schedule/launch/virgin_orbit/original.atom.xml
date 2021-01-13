@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Virgin Orbit | Launch | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/virgin_orbit/original.atom.xml</id>
-  <updated>2021-01-13T15:00:00Z</updated>
+  <updated>2021-01-17T15:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/virgin_orbit/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/virgin_orbit/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fvirgin_orbit%2Foriginal.json"/>
@@ -10,8 +10,8 @@
   <entry>
     <id>20d9789c-dfdf-46b5-a964-de5f031615a5</id>
     <title>LauncherOne | Launch Demo 2</title>
-    <updated>2021-01-13T15:00:00Z</updated>
-    <published>2021-01-13T15:00:00Z</published>
+    <updated>2021-01-17T15:00:00Z</updated>
+    <published>2021-01-17T15:00:00Z</published>
     <content type="text">This is Virgin Orbit's second attempt to launch the LauncherOne rocket. It also carries cubesats which were contracted by NASA through Venture Class Launch Services contract.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg"/>
