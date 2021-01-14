@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/blue_origin/original.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Blue Origin | Launch | Space Schedule</title>
+    <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fblue_origin%2Foriginal.json</link>
+    <language>en-us</language>
+    <copyright>© 2021 </copyright>
+    <pubDate>Thu, 14 Jan 2021 14:45:00 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>New Shepard | NS-14</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/83b6aa26-f893-4176-afcd-24c2c50953d6.json</link>
+      <description>For this mission, the New Shepard crew capsule will be outfitted with upgrades for the astronaut experience as the program nears human space flight. The upgrades include improvements to environmental features such as acoustics and temperature regulation inside the capsule, crew display panels, and speakers with a microphone and push-to-talk button at each seat. The mission will also test a number of astronaut communication and safety alert systems. The capsule will be outfitted with six seats, including one occupied by Mannequin Skywalker.</description>
+      <category>launch</category>
+      <category>blue_origin</category>
+      <category>commercial</category>
+      <category>new_shepard</category>
+      <category>suborbital</category>
+      <category>west_texas_suborbital_launch_site_corn_ranch</category>
+      <guid isPermaLink="false">83b6aa26-f893-4176-afcd-24c2c50953d6</guid>
+      <pubDate>Thu, 14 Jan 2021 14:45:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"/>
+    </item>
+  </channel>
+</rss>

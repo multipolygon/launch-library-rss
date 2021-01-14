@@ -7,22 +7,22 @@
     <description>All feeds in Space Schedule &gt; Event.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Thu, 11 Feb 2021 00:00:00 GMT</pubDate>
+    <pubDate>Mon, 08 Feb 2021 12:05:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <item>
-      <title>Orbital Insertion | Event | Space Schedule</title>
-      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Forbital_insertion%2Foriginal.json</link>
-      <description>2 items</description>
-      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/orbital_insertion/original.json</guid>
-      <pubDate>Thu, 11 Feb 2021 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>EVA | Event | Space Schedule</title>
       <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Feva%2Foriginal.json</link>
       <description>4 items</description>
       <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json</guid>
       <pubDate>Mon, 08 Feb 2021 12:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Orbital Insertion | Event | Space Schedule</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Forbital_insertion%2Foriginal.json</link>
+      <description>1 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/orbital_insertion/original.json</guid>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Berthing | Event | Space Schedule</title>
@@ -34,16 +34,9 @@
     <item>
       <title>Static Fire | Event | Space Schedule</title>
       <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json</link>
-      <description>2 items</description>
+      <description>4 items</description>
       <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json</guid>
       <pubDate>Sat, 16 Jan 2021 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Undocking | Event | Space Schedule</title>
-      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fundocking%2Foriginal.json</link>
-      <description>1 items</description>
-      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/undocking/original.json</guid>
-      <pubDate>Tue, 12 Jan 2021 14:05:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

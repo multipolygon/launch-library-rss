@@ -4,7 +4,7 @@
   {
    "id": "68e50165-a929-424a-ab8b-ec7a1ae7465e",
    "title": "Electron | Another One Leaves The Crust",
-   "content_text": "-",
+   "content_text": "Dedicated mission for a single communication microsatellite that will enable specific frequencies to support future services from orbit. The launch will be Rocket Lab’s 18th Electron mission.",
    "url": "https://ll.thespacedevs.com/2.1.0/launch/68e50165-a929-424a-ab8b-ec7a1ae7465e.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
    "date_published": "2021-01-16T07:38:00Z",
@@ -14,6 +14,7 @@
     "rocket_lab_ltd",
     "commercial",
     "electron",
+    "communications",
     "rocket_lab_launch_complex_1_a"
    ],
    "attachments": [

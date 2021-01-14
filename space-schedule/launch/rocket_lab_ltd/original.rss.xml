@@ -12,11 +12,12 @@
     <item>
       <title>Electron | Another One Leaves The Crust</title>
       <link>https://ll.thespacedevs.com/2.1.0/launch/68e50165-a929-424a-ab8b-ec7a1ae7465e.json</link>
-      <description>-</description>
+      <description>Dedicated mission for a single communication microsatellite that will enable specific frequencies to support future services from orbit. The launch will be Rocket Lab’s 18th Electron mission.</description>
       <category>launch</category>
       <category>rocket_lab_ltd</category>
       <category>commercial</category>
       <category>electron</category>
+      <category>communications</category>
       <category>rocket_lab_launch_complex_1_a</category>
       <guid isPermaLink="false">68e50165-a929-424a-ab8b-ec7a1ae7465e</guid>
       <pubDate>Sat, 16 Jan 2021 07:38:00 GMT</pubDate>

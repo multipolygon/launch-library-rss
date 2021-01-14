@@ -3,38 +3,6 @@
  "description": "All items in Space Schedule > Event.",
  "items": [
   {
-   "id": "~space-schedule~event~orbital_insertion~125",
-   "title": "Tianwen-1 Mars Orbit Insertion",
-   "content_text": "The Tianwen-1 orbiter and rover will perform a 14 minutes long burn to enter an elliptical orbit around Mars.",
-   "url": "https://ll.thespacedevs.com/2.1.0/event/125.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png",
-   "date_published": "2021-02-11T00:00:00Z",
-   "date_modified": "2021-02-11T00:00:00Z",
-   "tags": [
-    "event",
-    "orbital_insertion"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Orbital Insertion | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "125",
-    "global": "~space-schedule~event~orbital_insertion~125"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/orbital_insertion/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~event~eva~212",
    "title": "US EVA-72",
    "content_text": "NASA astronaut Kathleen Rubins and JAXA astronaut Soichi Noguchi will exit the orbital lab on February 8 to continue upgrades on the space station.",
@@ -264,13 +232,79 @@
    }
   },
   {
+   "id": "~space-schedule~event~static_fire~218",
+   "title": "Starship SN9 4th Static Fire",
+   "content_text": "SpaceX has conducted a fourth static fire test on Starship SN9's raptor engines.",
+   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_4t_image_20210113203457.jpg",
+   "date_published": "2021-01-13T21:37:00Z",
+   "date_modified": "2021-01-13T21:37:00Z",
+   "tags": [
+    "event",
+    "static_fire"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_4t_image_20210113203457.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Static Fire | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "218",
+    "global": "~space-schedule~event~static_fire~218"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~static_fire~217",
+   "title": "Starship SN9 3rd Static Fire",
+   "content_text": "SpaceX conducted a third static fire test on Starship SN9's raptor engines.",
+   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_3r_image_20210113184119.jpg",
+   "date_published": "2021-01-13T20:23:00Z",
+   "date_modified": "2021-01-13T20:23:00Z",
+   "tags": [
+    "event",
+    "static_fire"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_3r_image_20210113184119.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Static Fire | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "217",
+    "global": "~space-schedule~event~static_fire~217"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~static_fire~216",
    "title": "Starship SN9 2nd Static Fire",
-   "content_text": "SpaceX is expected to conduct a second static fire test on Starship SN9's raptor engines.\r\n\r\nEvent time is set to end of road closure window.",
+   "content_text": "SpaceX conducted a second static fire test on Starship SN9's raptor engines.",
    "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_2n_image_20210108030811.jpg",
-   "date_published": "2021-01-13T23:00:00Z",
-   "date_modified": "2021-01-13T23:00:00Z",
+   "date_published": "2021-01-13T18:30:00Z",
+   "date_modified": "2021-01-13T18:30:00Z",
    "tags": [
     "event",
     "static_fire"
@@ -294,39 +328,6 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~undocking~205",
-   "title": "CRS-21 Dragon Undocking",
-   "content_text": "The SpaceX CRS-21 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_u_image_20201226201524.jpg",
-   "date_published": "2021-01-12T14:05:00Z",
-   "date_modified": "2021-01-12T14:05:00Z",
-   "tags": [
-    "event",
-    "undocking"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-21_dragon_u_image_20201226201524.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Undocking | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "205",
-    "global": "~space-schedule~event~undocking~205"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/undocking/original.json"
    }
   }
  ],
