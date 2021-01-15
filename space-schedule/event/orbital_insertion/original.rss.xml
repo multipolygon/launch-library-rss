@@ -6,9 +6,19 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Forbital_insertion%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate>
+    <pubDate>Thu, 11 Feb 2021 00:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Tianwen-1 Mars Orbit Insertion</title>
+      <link>https://ll.thespacedevs.com/2.1.0/event/125.json</link>
+      <description>The Tianwen-1 orbiter and rover will perform a 14 minutes long burn to enter an elliptical orbit around Mars.</description>
+      <category>event</category>
+      <category>orbital_insertion</category>
+      <guid isPermaLink="false">125</guid>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png"/>
+    </item>
     <item>
       <title>Emirates Mars Mission 'Hope' Mars Orbit Insertion</title>
       <link>https://ll.thespacedevs.com/2.1.0/event/124.json</link>

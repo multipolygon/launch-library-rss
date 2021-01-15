@@ -27,8 +27,8 @@
   <entry>
     <id>~space-schedule~launch~space_x~74426779-131d-416f-9ff5-dd879e231292</id>
     <title>Falcon 9 Block 5 | Starlink 16</title>
-    <updated>2021-01-17T18:23:00Z</updated>
-    <published>2021-01-17T18:23:00Z</published>
+    <updated>2021-01-18T13:45:00Z</updated>
+    <published>2021-01-18T13:45:00Z</published>
     <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/74426779-131d-416f-9ff5-dd879e231292.json"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210111072734.png"/>
@@ -70,20 +70,5 @@
     <category term="electron"/>
     <category term="communications"/>
     <category term="rocket_lab_launch_complex_1_a"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~blue_origin~83b6aa26-f893-4176-afcd-24c2c50953d6</id>
-    <title>New Shepard | NS-14</title>
-    <updated>2021-01-14T14:45:00Z</updated>
-    <published>2021-01-14T14:45:00Z</published>
-    <content type="text">For this mission, the New Shepard crew capsule will be outfitted with upgrades for the astronaut experience as the program nears human space flight. The upgrades include improvements to environmental features such as acoustics and temperature regulation inside the capsule, crew display panels, and speakers with a microphone and push-to-talk button at each seat. The mission will also test a number of astronaut communication and safety alert systems. The capsule will be outfitted with six seats, including one occupied by Mannequin Skywalker.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/83b6aa26-f893-4176-afcd-24c2c50953d6.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"/>
-    <category term="launch"/>
-    <category term="blue_origin"/>
-    <category term="commercial"/>
-    <category term="new_shepard"/>
-    <category term="suborbital"/>
-    <category term="west_texas_suborbital_launch_site_corn_ranch"/>
   </entry>
 </feed>

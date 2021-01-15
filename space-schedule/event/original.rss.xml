@@ -7,9 +7,19 @@
     <description>All items in Space Schedule &gt; Event.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Mon, 08 Feb 2021 12:05:00 GMT</pubDate>
+    <pubDate>Thu, 11 Feb 2021 00:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Tianwen-1 Mars Orbit Insertion</title>
+      <link>https://ll.thespacedevs.com/2.1.0/event/125.json</link>
+      <description>The Tianwen-1 orbiter and rover will perform a 14 minutes long burn to enter an elliptical orbit around Mars.</description>
+      <category>event</category>
+      <category>orbital_insertion</category>
+      <guid isPermaLink="false">~space-schedule~event~orbital_insertion~125</guid>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png"/>
+    </item>
     <item>
       <title>US EVA-72</title>
       <link>https://ll.thespacedevs.com/2.1.0/event/212.json</link>
@@ -79,36 +89,6 @@
       <guid isPermaLink="false">~space-schedule~event~static_fire~38</guid>
       <pubDate>Sat, 16 Jan 2021 22:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
-    </item>
-    <item>
-      <title>Starship SN9 4th Static Fire</title>
-      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SpaceX has conducted a fourth static fire test on Starship SN9's raptor engines.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~218</guid>
-      <pubDate>Wed, 13 Jan 2021 21:37:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_4t_image_20210113203457.jpg"/>
-    </item>
-    <item>
-      <title>Starship SN9 3rd Static Fire</title>
-      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SpaceX conducted a third static fire test on Starship SN9's raptor engines.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~217</guid>
-      <pubDate>Wed, 13 Jan 2021 20:23:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_3r_image_20210113184119.jpg"/>
-    </item>
-    <item>
-      <title>Starship SN9 2nd Static Fire</title>
-      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SpaceX conducted a second static fire test on Starship SN9's raptor engines.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~216</guid>
-      <pubDate>Wed, 13 Jan 2021 18:30:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_2n_image_20210108030811.jpg"/>
     </item>
   </channel>
 </rss>

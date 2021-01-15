@@ -27,81 +27,6 @@
     "imageCount": 1,
     "youtubeCount": 1
    }
-  },
-  {
-   "id": "218",
-   "title": "Starship SN9 4th Static Fire",
-   "content_text": "SpaceX has conducted a fourth static fire test on Starship SN9's raptor engines.",
-   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_4t_image_20210113203457.jpg",
-   "date_published": "2021-01-13T21:37:00Z",
-   "date_modified": "2021-01-13T21:37:00Z",
-   "tags": [
-    "event",
-    "static_fire"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_4t_image_20210113203457.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1
-   }
-  },
-  {
-   "id": "217",
-   "title": "Starship SN9 3rd Static Fire",
-   "content_text": "SpaceX conducted a third static fire test on Starship SN9's raptor engines.",
-   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_3r_image_20210113184119.jpg",
-   "date_published": "2021-01-13T20:23:00Z",
-   "date_modified": "2021-01-13T20:23:00Z",
-   "tags": [
-    "event",
-    "static_fire"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_3r_image_20210113184119.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1
-   }
-  },
-  {
-   "id": "216",
-   "title": "Starship SN9 2nd Static Fire",
-   "content_text": "SpaceX conducted a second static fire test on Starship SN9's raptor engines.",
-   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_2n_image_20210108030811.jpg",
-   "date_published": "2021-01-13T18:30:00Z",
-   "date_modified": "2021-01-13T18:30:00Z",
-   "tags": [
-    "event",
-    "static_fire"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_2n_image_20210108030811.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1
-   }
   }
  ],
  "_feed_url": {
@@ -110,7 +35,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json",
  "_meta": {
-  "itemCount": 4,
+  "itemCount": 1,
   "pageNumber": 1,
   "pageCount": 1
  }
