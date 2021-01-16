@@ -1,25 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Rocket Lab Ltd | Launch | Space Schedule</title>
+  <title>Rocket Lab Ltd</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/rocket_lab_ltd/original.atom.xml</id>
-  <updated>2021-01-16T07:38:00Z</updated>
+  <updated>2021-01-16T11:56:44.735Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/rocket_lab_ltd/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/rocket_lab_ltd/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Frocket_lab_ltd%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
-  <entry>
-    <id>68e50165-a929-424a-ab8b-ec7a1ae7465e</id>
-    <title>Electron | Another One Leaves The Crust</title>
-    <updated>2021-01-16T07:38:00Z</updated>
-    <published>2021-01-16T07:38:00Z</published>
-    <content type="text">Dedicated mission for a single communication microsatellite that will enable specific frequencies to support future services from orbit. The launch will be Rocket Lab’s 18th Electron mission.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/68e50165-a929-424a-ab8b-ec7a1ae7465e.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"/>
-    <category term="launch"/>
-    <category term="rocket_lab_ltd"/>
-    <category term="commercial"/>
-    <category term="electron"/>
-    <category term="communications"/>
-    <category term="rocket_lab_launch_complex_1_a"/>
-  </entry>
 </feed>

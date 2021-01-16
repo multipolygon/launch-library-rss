@@ -86,6 +86,20 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
     </item>
     <item>
+      <title>Long March 3B/E | Tiantong-1-03</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/72c9cbcc-804d-499b-ab03-5fa63028cda7.json</link>
+      <description>Tiantong-1-03 is the third satellite in a series of Chinese geostationary communication satellites.</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_technology_corporation</category>
+      <category>government</category>
+      <category>long_march_3</category>
+      <category>communications</category>
+      <category>launch_complex_2_lc_2</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~72c9cbcc-804d-499b-ab03-5fa63028cda7</guid>
+      <pubDate>Tue, 19 Jan 2021 16:18:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
+    </item>
+    <item>
       <title>US EVA-69</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 19 to perform upgrades on the Columbus module.</description>
@@ -134,20 +148,6 @@
       <guid isPermaLink="false">~space-schedule~event~static_fire~38</guid>
       <pubDate>Sat, 16 Jan 2021 22:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
-    </item>
-    <item>
-      <title>Electron | Another One Leaves The Crust</title>
-      <link>https://ll.thespacedevs.com/2.1.0/launch/68e50165-a929-424a-ab8b-ec7a1ae7465e.json</link>
-      <description>Dedicated mission for a single communication microsatellite that will enable specific frequencies to support future services from orbit. The launch will be Rocket Lab’s 18th Electron mission.</description>
-      <category>launch</category>
-      <category>rocket_lab_ltd</category>
-      <category>commercial</category>
-      <category>electron</category>
-      <category>communications</category>
-      <category>rocket_lab_launch_complex_1_a</category>
-      <guid isPermaLink="false">~space-schedule~launch~rocket_lab_ltd~68e50165-a929-424a-ab8b-ec7a1ae7465e</guid>
-      <pubDate>Sat, 16 Jan 2021 07:38:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"/>
     </item>
   </channel>
 </rss>
