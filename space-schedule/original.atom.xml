@@ -149,12 +149,23 @@
     <category term="mojave_air_and_space_port"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~press_event~219</id>
+    <title>SLS Hot Fire Post-Test Conference</title>
+    <updated>2021-01-17T01:00:00Z</updated>
+    <published>2021-01-17T01:00:00Z</published>
+    <content type="text">NASA will host a press conference on the results of the SLS Green Run Hot Fire. The test was aborted approximately 1 minute into an 8 minute hot fire.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_po_image_20210116235546.png"/>
+    <category term="event"/>
+    <category term="press_event"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~static_fire~38</id>
     <title>SLS Green Run Hot Fire</title>
-    <updated>2021-01-16T22:00:00Z</updated>
-    <published>2021-01-16T22:00:00Z</published>
-    <content type="text">The core stage of the Space Launch System will undergo the final 'Green Run' test, where the core stage will be fired for 8 minutes, demonstrating performance similar to an actual launch.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <updated>2021-01-16T22:26:00Z</updated>
+    <published>2021-01-16T22:26:00Z</published>
+    <content type="text">The core stage of the Space Launch System will undergo the final 'Green Run' test, where the four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</content>
+    <link rel="alternate" href="https://youtube.com/watch?v=ELHOXi2t3lk"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
     <category term="event"/>
     <category term="static_fire"/>

@@ -378,13 +378,46 @@
    }
   },
   {
+   "id": "~space-schedule~event~press_event~219",
+   "title": "SLS Hot Fire Post-Test Conference",
+   "content_text": "NASA will host a press conference on the results of the SLS Green Run Hot Fire. The test was aborted approximately 1 minute into an 8 minute hot fire.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_po_image_20210116235546.png",
+   "date_published": "2021-01-17T01:00:00Z",
+   "date_modified": "2021-01-17T01:00:00Z",
+   "tags": [
+    "event",
+    "press_event"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/png",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_po_image_20210116235546.png"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Press Event | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "219",
+    "global": "~space-schedule~event~press_event~219"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~static_fire~38",
    "title": "SLS Green Run Hot Fire",
-   "content_text": "The core stage of the Space Launch System will undergo the final 'Green Run' test, where the core stage will be fired for 8 minutes, demonstrating performance similar to an actual launch.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "content_text": "The core stage of the Space Launch System will undergo the final 'Green Run' test, where the four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.",
+   "url": "https://youtube.com/watch?v=ELHOXi2t3lk",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg",
-   "date_published": "2021-01-16T22:00:00Z",
-   "date_modified": "2021-01-16T22:00:00Z",
+   "date_published": "2021-01-16T22:26:00Z",
+   "date_modified": "2021-01-16T22:26:00Z",
    "tags": [
     "event",
     "static_fire"
@@ -399,7 +432,6 @@
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "youtubeCount": 1,
     "subtitle": "Static Fire | Event | Space Schedule"
    },
    "_id": {
@@ -419,7 +451,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 12,
+  "itemCount": 13,
   "pageNumber": 1,
   "pageCount": 1
  }
