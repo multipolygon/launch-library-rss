@@ -6,11 +6,11 @@
   {
    "id": "212",
    "title": "US EVA-72",
-   "content_text": "NASA astronaut Kathleen Rubins and JAXA astronaut Soichi Noguchi will exit the orbital lab on February 8 to continue upgrades on the space station.",
+   "content_text": "NASA astronaut Kathleen Rubins and JAXA astronaut Soichi Noguchi will exit the orbital lab to continue upgrades on the space station.",
    "url": "https://ll.thespacedevs.com/2.1.0/event/212.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210105202154.jpg",
-   "date_published": "2021-02-08T12:05:00Z",
-   "date_modified": "2021-02-08T12:05:00Z",
+   "date_published": "2021-02-15T12:05:00Z",
+   "date_modified": "2021-02-15T12:05:00Z",
    "tags": [
     "event",
     "eva"
@@ -30,11 +30,11 @@
   {
    "id": "211",
    "title": "US EVA-71",
-   "content_text": "NASA astronauts Kathleen Rubins and Victor Glover will exit the orbital lab on February 1 to prepare the installation of  iROSAs (ISS Roll Out Solar Arrays).",
+   "content_text": "NASA astronauts Kathleen Rubins and Victor Glover will exit the orbital lab to prepare the installation of  iROSAs (ISS Roll Out Solar Arrays).",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg",
-   "date_published": "2021-02-01T12:05:00Z",
-   "date_modified": "2021-02-01T12:05:00Z",
+   "date_published": "2021-02-08T12:05:00Z",
+   "date_modified": "2021-02-08T12:05:00Z",
    "tags": [
     "event",
     "eva"
@@ -55,11 +55,11 @@
   {
    "id": "210",
    "title": "US EVA-70",
-   "content_text": "NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 25 to continue upgrades on the space station.",
+   "content_text": "NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on February 1 to continue upgrades on the space station.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-70_image_20210105201708.jpg",
-   "date_published": "2021-01-25T12:05:00Z",
-   "date_modified": "2021-01-25T12:05:00Z",
+   "date_published": "2021-02-01T12:05:00Z",
+   "date_modified": "2021-02-01T12:05:00Z",
    "tags": [
     "event",
     "eva"
@@ -80,11 +80,11 @@
   {
    "id": "209",
    "title": "US EVA-69",
-   "content_text": "NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 19 to perform upgrades on the Columbus module.",
+   "content_text": "NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 27 to perform upgrades on the Columbus module.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-69_image_20210105201529.jpg",
-   "date_published": "2021-01-19T12:05:00Z",
-   "date_modified": "2021-01-19T12:05:00Z",
+   "date_published": "2021-01-27T12:05:00Z",
+   "date_modified": "2021-01-27T12:05:00Z",
    "tags": [
     "event",
     "eva"

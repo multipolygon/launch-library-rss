@@ -2,12 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>All Items</title>
   <id>https://launch-library-rss.multipolygon.net/original.atom.xml</id>
-  <updated>2021-02-11T00:00:00Z</updated>
+  <updated>2021-02-17T06:19:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items.</subtitle>
+  <entry>
+    <id>~space-schedule~event~docking~213</id>
+    <title>Progress MS-16 Docking</title>
+    <updated>2021-02-17T06:19:00Z</updated>
+    <published>2021-02-17T06:19:00Z</published>
+    <content type="text">The Progress MS-16 spacecraft is scheduled to autonomously dock to the Russian Orbital Segment of the ISS.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-16__image_20210105202651.jpg"/>
+    <category term="event"/>
+    <category term="docking"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~eva~212</id>
+    <title>US EVA-72</title>
+    <updated>2021-02-15T12:05:00Z</updated>
+    <published>2021-02-15T12:05:00Z</published>
+    <content type="text">NASA astronaut Kathleen Rubins and JAXA astronaut Soichi Noguchi will exit the orbital lab to continue upgrades on the space station.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/212.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210105202154.jpg"/>
+    <category term="event"/>
+    <category term="eva"/>
+  </entry>
   <entry>
     <id>~space-schedule~event~orbital_insertion~125</id>
     <title>Tianwen-1 Mars Orbit Insertion</title>
@@ -20,24 +42,24 @@
     <category term="orbital_insertion"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~eva~212</id>
-    <title>US EVA-72</title>
+    <id>~space-schedule~event~eva~211</id>
+    <title>US EVA-71</title>
     <updated>2021-02-08T12:05:00Z</updated>
     <published>2021-02-08T12:05:00Z</published>
-    <content type="text">NASA astronaut Kathleen Rubins and JAXA astronaut Soichi Noguchi will exit the orbital lab on February 8 to continue upgrades on the space station.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/212.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210105202154.jpg"/>
+    <content type="text">NASA astronauts Kathleen Rubins and Victor Glover will exit the orbital lab to prepare the installation of  iROSAs (ISS Roll Out Solar Arrays).</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg"/>
     <category term="event"/>
     <category term="eva"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~eva~211</id>
-    <title>US EVA-71</title>
+    <id>~space-schedule~event~eva~210</id>
+    <title>US EVA-70</title>
     <updated>2021-02-01T12:05:00Z</updated>
     <published>2021-02-01T12:05:00Z</published>
-    <content type="text">NASA astronauts Kathleen Rubins and Victor Glover will exit the orbital lab on February 1 to prepare the installation of  iROSAs (ISS Roll Out Solar Arrays).</content>
+    <content type="text">NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on February 1 to continue upgrades on the space station.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-70_image_20210105201708.jpg"/>
     <category term="event"/>
     <category term="eva"/>
   </entry>
@@ -53,26 +75,15 @@
     <category term="orbital_insertion"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~eva~210</id>
-    <title>US EVA-70</title>
-    <updated>2021-01-25T12:05:00Z</updated>
-    <published>2021-01-25T12:05:00Z</published>
-    <content type="text">NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 25 to continue upgrades on the space station.</content>
+    <id>~space-schedule~event~eva~209</id>
+    <title>US EVA-69</title>
+    <updated>2021-01-27T12:05:00Z</updated>
+    <published>2021-01-27T12:05:00Z</published>
+    <content type="text">NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 27 to perform upgrades on the Columbus module.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-70_image_20210105201708.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-69_image_20210105201529.jpg"/>
     <category term="event"/>
     <category term="eva"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~berthing~214</id>
-    <title>NG-15 Cygnus Berthing</title>
-    <updated>2021-01-22T09:30:00Z</updated>
-    <published>2021-01-22T09:30:00Z</published>
-    <content type="text">NASA TV will livestream the rendezvous and capture of Northrop Grumman's NG-15 Cygnus cargo craft to the International Space Station.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-15_cygnus_be_image_20210105203038.jpg"/>
-    <category term="event"/>
-    <category term="berthing"/>
   </entry>
   <entry>
     <id>~space-schedule~launch~space_x~f213a5df-579a-4682-8143-df228e463049</id>
@@ -91,6 +102,21 @@
     <category term="space_launch_complex_40"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~rocket_lab_ltd~68e50165-a929-424a-ab8b-ec7a1ae7465e</id>
+    <title>Electron | Another One Leaves The Crust</title>
+    <updated>2021-01-20T06:45:00Z</updated>
+    <published>2021-01-20T06:45:00Z</published>
+    <content type="text">Dedicated mission for a single communication microsatellite that will enable specific frequencies to support future services from orbit. The launch will be Rocket Lab’s 18th Electron mission.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/68e50165-a929-424a-ab8b-ec7a1ae7465e.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"/>
+    <category term="launch"/>
+    <category term="rocket_lab_ltd"/>
+    <category term="commercial"/>
+    <category term="electron"/>
+    <category term="communications"/>
+    <category term="rocket_lab_launch_complex_1_a"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~72c9cbcc-804d-499b-ab03-5fa63028cda7</id>
     <title>Long March 3B/E | Tiantong-1-03</title>
     <updated>2021-01-19T16:18:00Z</updated>
@@ -106,21 +132,10 @@
     <category term="launch_complex_2_lc_2"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~eva~209</id>
-    <title>US EVA-69</title>
-    <updated>2021-01-19T12:05:00Z</updated>
-    <published>2021-01-19T12:05:00Z</published>
-    <content type="text">NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 19 to perform upgrades on the Columbus module.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-69_image_20210105201529.jpg"/>
-    <category term="event"/>
-    <category term="eva"/>
-  </entry>
-  <entry>
     <id>~space-schedule~launch~space_x~74426779-131d-416f-9ff5-dd879e231292</id>
     <title>Falcon 9 Block 5 | Starlink 16</title>
-    <updated>2021-01-18T13:45:00Z</updated>
-    <published>2021-01-18T13:45:00Z</published>
+    <updated>2021-01-19T13:23:00Z</updated>
+    <published>2021-01-19T13:23:00Z</published>
     <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/74426779-131d-416f-9ff5-dd879e231292.json"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210111072734.png"/>
@@ -131,43 +146,5 @@
     <category term="falcon_9_block_5"/>
     <category term="communications"/>
     <category term="launch_complex_39_a"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5</id>
-    <title>LauncherOne | Launch Demo 2</title>
-    <updated>2021-01-17T15:00:00Z</updated>
-    <published>2021-01-17T15:00:00Z</published>
-    <content type="text">This is Virgin Orbit's second attempt to launch the LauncherOne rocket. It also carries cubesats which were contracted by NASA through Venture Class Launch Services contract.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg"/>
-    <category term="launch"/>
-    <category term="virgin_orbit"/>
-    <category term="commercial"/>
-    <category term="launcher"/>
-    <category term="launcher_one"/>
-    <category term="dedicated_rideshare"/>
-    <category term="mojave_air_and_space_port"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~press_event~219</id>
-    <title>SLS Hot Fire Post-Test Conference</title>
-    <updated>2021-01-17T01:00:00Z</updated>
-    <published>2021-01-17T01:00:00Z</published>
-    <content type="text">NASA will host a press conference on the results of the SLS Green Run Hot Fire. The test was aborted approximately 1 minute into an 8 minute hot fire.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_po_image_20210116235546.png"/>
-    <category term="event"/>
-    <category term="press_event"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~38</id>
-    <title>SLS Green Run Hot Fire</title>
-    <updated>2021-01-16T22:26:00Z</updated>
-    <published>2021-01-16T22:26:00Z</published>
-    <content type="text">The core stage of the Space Launch System will undergo the final 'Green Run' test, where the four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</content>
-    <link rel="alternate" href="https://youtube.com/watch?v=ELHOXi2t3lk"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_green_run_h_image_20201205114838.jpg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
   </entry>
 </feed>

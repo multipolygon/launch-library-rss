@@ -19,13 +19,13 @@
    }
   },
   {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_technology_corporation%2Foriginal.json",
-   "title": "China Aerospace Science and Technology Corporation | Launch | Space Schedule",
+   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/rocket_lab_ltd/original.json",
+   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Frocket_lab_ltd%2Foriginal.json",
+   "title": "Rocket Lab Ltd | Launch | Space Schedule",
    "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-   "date_published": "2021-01-19T16:18:00Z",
-   "date_modified": "2021-01-19T16:18:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+   "date_published": "2021-01-20T06:45:00Z",
+   "date_modified": "2021-01-20T06:45:00Z",
    "_geo": {},
    "_meta": {
     "itemCount": 1,
@@ -35,13 +35,13 @@
    }
   },
   {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/virgin_orbit/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fvirgin_orbit%2Foriginal.json",
-   "title": "Virgin Orbit | Launch | Space Schedule",
+   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json",
+   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_technology_corporation%2Foriginal.json",
+   "title": "China Aerospace Science and Technology Corporation | Launch | Space Schedule",
    "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
-   "date_published": "2021-01-17T15:00:00Z",
-   "date_modified": "2021-01-17T15:00:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
+   "date_published": "2021-01-19T16:18:00Z",
+   "date_modified": "2021-01-19T16:18:00Z",
    "_geo": {},
    "_meta": {
     "itemCount": 1,

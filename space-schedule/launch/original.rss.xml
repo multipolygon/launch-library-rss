@@ -26,6 +26,20 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
     </item>
     <item>
+      <title>Electron | Another One Leaves The Crust</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/68e50165-a929-424a-ab8b-ec7a1ae7465e.json</link>
+      <description>Dedicated mission for a single communication microsatellite that will enable specific frequencies to support future services from orbit. The launch will be Rocket Lab’s 18th Electron mission.</description>
+      <category>launch</category>
+      <category>rocket_lab_ltd</category>
+      <category>commercial</category>
+      <category>electron</category>
+      <category>communications</category>
+      <category>rocket_lab_launch_complex_1_a</category>
+      <guid isPermaLink="false">~space-schedule~launch~rocket_lab_ltd~68e50165-a929-424a-ab8b-ec7a1ae7465e</guid>
+      <pubDate>Wed, 20 Jan 2021 06:45:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"/>
+    </item>
+    <item>
       <title>Long March 3B/E | Tiantong-1-03</title>
       <link>https://ll.thespacedevs.com/2.1.0/launch/72c9cbcc-804d-499b-ab03-5fa63028cda7.json</link>
       <description>Tiantong-1-03 is the third satellite in a series of Chinese geostationary communication satellites.</description>
@@ -51,23 +65,8 @@
       <category>communications</category>
       <category>launch_complex_39_a</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~74426779-131d-416f-9ff5-dd879e231292</guid>
-      <pubDate>Mon, 18 Jan 2021 13:45:00 GMT</pubDate>
+      <pubDate>Tue, 19 Jan 2021 13:23:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210111072734.png"/>
-    </item>
-    <item>
-      <title>LauncherOne | Launch Demo 2</title>
-      <link>https://ll.thespacedevs.com/2.1.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5.json</link>
-      <description>This is Virgin Orbit's second attempt to launch the LauncherOne rocket. It also carries cubesats which were contracted by NASA through Venture Class Launch Services contract.</description>
-      <category>launch</category>
-      <category>virgin_orbit</category>
-      <category>commercial</category>
-      <category>launcher</category>
-      <category>launcher_one</category>
-      <category>dedicated_rideshare</category>
-      <category>mojave_air_and_space_port</category>
-      <guid isPermaLink="false">~space-schedule~launch~virgin_orbit~20d9789c-dfdf-46b5-a964-de5f031615a5</guid>
-      <pubDate>Sun, 17 Jan 2021 15:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg"/>
     </item>
   </channel>
 </rss>

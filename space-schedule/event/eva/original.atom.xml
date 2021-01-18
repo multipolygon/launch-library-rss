@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>EVA | Event | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.atom.xml</id>
-  <updated>2021-02-08T12:05:00Z</updated>
+  <updated>2021-02-15T12:05:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Feva%2Foriginal.json"/>
@@ -10,9 +10,9 @@
   <entry>
     <id>212</id>
     <title>US EVA-72</title>
-    <updated>2021-02-08T12:05:00Z</updated>
-    <published>2021-02-08T12:05:00Z</published>
-    <content type="text">NASA astronaut Kathleen Rubins and JAXA astronaut Soichi Noguchi will exit the orbital lab on February 8 to continue upgrades on the space station.</content>
+    <updated>2021-02-15T12:05:00Z</updated>
+    <published>2021-02-15T12:05:00Z</published>
+    <content type="text">NASA astronaut Kathleen Rubins and JAXA astronaut Soichi Noguchi will exit the orbital lab to continue upgrades on the space station.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/212.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210105202154.jpg"/>
     <category term="event"/>
@@ -21,9 +21,9 @@
   <entry>
     <id>211</id>
     <title>US EVA-71</title>
-    <updated>2021-02-01T12:05:00Z</updated>
-    <published>2021-02-01T12:05:00Z</published>
-    <content type="text">NASA astronauts Kathleen Rubins and Victor Glover will exit the orbital lab on February 1 to prepare the installation of  iROSAs (ISS Roll Out Solar Arrays).</content>
+    <updated>2021-02-08T12:05:00Z</updated>
+    <published>2021-02-08T12:05:00Z</published>
+    <content type="text">NASA astronauts Kathleen Rubins and Victor Glover will exit the orbital lab to prepare the installation of  iROSAs (ISS Roll Out Solar Arrays).</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg"/>
     <category term="event"/>
@@ -32,9 +32,9 @@
   <entry>
     <id>210</id>
     <title>US EVA-70</title>
-    <updated>2021-01-25T12:05:00Z</updated>
-    <published>2021-01-25T12:05:00Z</published>
-    <content type="text">NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 25 to continue upgrades on the space station.</content>
+    <updated>2021-02-01T12:05:00Z</updated>
+    <published>2021-02-01T12:05:00Z</published>
+    <content type="text">NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on February 1 to continue upgrades on the space station.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-70_image_20210105201708.jpg"/>
     <category term="event"/>
@@ -43,9 +43,9 @@
   <entry>
     <id>209</id>
     <title>US EVA-69</title>
-    <updated>2021-01-19T12:05:00Z</updated>
-    <published>2021-01-19T12:05:00Z</published>
-    <content type="text">NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 19 to perform upgrades on the Columbus module.</content>
+    <updated>2021-01-27T12:05:00Z</updated>
+    <published>2021-01-27T12:05:00Z</published>
+    <content type="text">NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 27 to perform upgrades on the Columbus module.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-69_image_20210105201529.jpg"/>
     <category term="event"/>

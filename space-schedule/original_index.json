@@ -6,13 +6,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/original_index.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Foriginal_index.json",
    "title": "Event",
-   "content_text": "5 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png",
-   "date_published": "2021-02-11T00:00:00Z",
-   "date_modified": "2021-02-11T00:00:00Z",
+   "content_text": "3 items",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-16__image_20210105202651.jpg",
+   "date_published": "2021-02-17T06:19:00Z",
+   "date_modified": "2021-02-17T06:19:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 5,
+    "itemCount": 3,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0
