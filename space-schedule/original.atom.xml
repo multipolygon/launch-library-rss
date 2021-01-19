@@ -2,12 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Space-schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/original.atom.xml</id>
-  <updated>2021-02-17T06:19:00Z</updated>
+  <updated>2021-02-18T00:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items in subcategories for category.</subtitle>
+  <entry>
+    <id>~space-schedule~event~landing~89</id>
+    <title>NASA Mars 2020 Perseverance Rover Landing</title>
+    <updated>2021-02-18T00:00:00Z</updated>
+    <published>2021-02-18T00:00:00Z</published>
+    <content type="text">NASA's Mars 2020 Perseverance rover will land in the Jezero crater using a MSL-inspired sky-crane.&#xD;
+It will investigate an astrobiologically relevant ancient environment on Mars and investigate its surface geological processes and history, including the assessment of its past habitability, the possibility of past life on Mars, and the potential for preservation of biosignatures within accessible geological materials. It will cache sample containers along its route for a potential future Mars sample-return mission.&#xD;
+It will also carry a helicopter drone.</content>
+    <link rel="alternate" href="https://youtu.be/21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa2520mars252020202520rover2520landing_image_20200214105503.jpg"/>
+    <category term="event"/>
+    <category term="landing"/>
+  </entry>
   <entry>
     <id>~space-schedule~event~docking~213</id>
     <title>Progress MS-16 Docking</title>
@@ -102,6 +115,22 @@
     <category term="space_launch_complex_40"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~space_x~74426779-131d-416f-9ff5-dd879e231292</id>
+    <title>Falcon 9 Block 5 | Starlink 16</title>
+    <updated>2021-01-20T13:02:00Z</updated>
+    <published>2021-01-20T13:02:00Z</published>
+    <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/74426779-131d-416f-9ff5-dd879e231292.json"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210111072734.png"/>
+    <category term="launch"/>
+    <category term="space_x"/>
+    <category term="commercial"/>
+    <category term="falcon"/>
+    <category term="falcon_9_block_5"/>
+    <category term="communications"/>
+    <category term="launch_complex_39_a"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~rocket_lab_ltd~68e50165-a929-424a-ab8b-ec7a1ae7465e</id>
     <title>Electron | Another One Leaves The Crust</title>
     <updated>2021-01-20T06:45:00Z</updated>
@@ -117,6 +146,19 @@
     <category term="rocket_lab_launch_complex_1_a"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~static_fire~220</id>
+    <title>Starship SN9 5th Static Fire</title>
+    <updated>2021-01-19T23:00:00Z</updated>
+    <published>2021-01-19T23:00:00Z</published>
+    <content type="text">SpaceX might conduct a fifth static fire test on Starship SN9's raptor engines.&#xD;
+&#xD;
+The time is currently set to the end of the window.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_5t_image_20210118125020.jpg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~72c9cbcc-804d-499b-ab03-5fa63028cda7</id>
     <title>Long March 3B/E | Tiantong-1-03</title>
     <updated>2021-01-19T16:18:00Z</updated>
@@ -130,21 +172,5 @@
     <category term="long_march_3"/>
     <category term="communications"/>
     <category term="launch_complex_2_lc_2"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~space_x~74426779-131d-416f-9ff5-dd879e231292</id>
-    <title>Falcon 9 Block 5 | Starlink 16</title>
-    <updated>2021-01-19T13:23:00Z</updated>
-    <published>2021-01-19T13:23:00Z</published>
-    <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/74426779-131d-416f-9ff5-dd879e231292.json"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210111072734.png"/>
-    <category term="launch"/>
-    <category term="space_x"/>
-    <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon_9_block_5"/>
-    <category term="communications"/>
-    <category term="launch_complex_39_a"/>
   </entry>
 </feed>

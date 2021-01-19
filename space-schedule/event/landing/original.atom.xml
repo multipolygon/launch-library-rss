@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Landing</title>
+  <title>Landing | Event | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.atom.xml</id>
-  <updated>2021-01-18T11:57:42.045Z</updated>
+  <updated>2021-02-18T00:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Flanding%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
+  <entry>
+    <id>89</id>
+    <title>NASA Mars 2020 Perseverance Rover Landing</title>
+    <updated>2021-02-18T00:00:00Z</updated>
+    <published>2021-02-18T00:00:00Z</published>
+    <content type="text">NASA's Mars 2020 Perseverance rover will land in the Jezero crater using a MSL-inspired sky-crane.&#xD;
+It will investigate an astrobiologically relevant ancient environment on Mars and investigate its surface geological processes and history, including the assessment of its past habitability, the possibility of past life on Mars, and the potential for preservation of biosignatures within accessible geological materials. It will cache sample containers along its route for a potential future Mars sample-return mission.&#xD;
+It will also carry a helicopter drone.</content>
+    <link rel="alternate" href="https://youtu.be/21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa2520mars252020202520rover2520landing_image_20200214105503.jpg"/>
+    <category term="event"/>
+    <category term="landing"/>
+  </entry>
 </feed>

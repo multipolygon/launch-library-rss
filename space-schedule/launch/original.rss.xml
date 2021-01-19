@@ -26,6 +26,21 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
     </item>
     <item>
+      <title>Falcon 9 Block 5 | Starlink 16</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/74426779-131d-416f-9ff5-dd879e231292.json</link>
+      <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon_9_block_5</category>
+      <category>communications</category>
+      <category>launch_complex_39_a</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~74426779-131d-416f-9ff5-dd879e231292</guid>
+      <pubDate>Wed, 20 Jan 2021 13:02:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210111072734.png"/>
+    </item>
+    <item>
       <title>Electron | Another One Leaves The Crust</title>
       <link>https://ll.thespacedevs.com/2.1.0/launch/68e50165-a929-424a-ab8b-ec7a1ae7465e.json</link>
       <description>Dedicated mission for a single communication microsatellite that will enable specific frequencies to support future services from orbit. The launch will be Rocket Lab’s 18th Electron mission.</description>
@@ -52,21 +67,6 @@
       <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~72c9cbcc-804d-499b-ab03-5fa63028cda7</guid>
       <pubDate>Tue, 19 Jan 2021 16:18:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
-    </item>
-    <item>
-      <title>Falcon 9 Block 5 | Starlink 16</title>
-      <link>https://ll.thespacedevs.com/2.1.0/launch/74426779-131d-416f-9ff5-dd879e231292.json</link>
-      <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
-      <category>launch</category>
-      <category>space_x</category>
-      <category>commercial</category>
-      <category>falcon</category>
-      <category>falcon_9_block_5</category>
-      <category>communications</category>
-      <category>launch_complex_39_a</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~74426779-131d-416f-9ff5-dd879e231292</guid>
-      <pubDate>Tue, 19 Jan 2021 13:23:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210111072734.png"/>
     </item>
   </channel>
 </rss>

@@ -2,12 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Event</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/original.atom.xml</id>
-  <updated>2021-02-17T06:19:00Z</updated>
+  <updated>2021-02-18T00:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items in Space Schedule &gt; Event.</subtitle>
+  <entry>
+    <id>~space-schedule~event~landing~89</id>
+    <title>NASA Mars 2020 Perseverance Rover Landing</title>
+    <updated>2021-02-18T00:00:00Z</updated>
+    <published>2021-02-18T00:00:00Z</published>
+    <content type="text">NASA's Mars 2020 Perseverance rover will land in the Jezero crater using a MSL-inspired sky-crane.&#xD;
+It will investigate an astrobiologically relevant ancient environment on Mars and investigate its surface geological processes and history, including the assessment of its past habitability, the possibility of past life on Mars, and the potential for preservation of biosignatures within accessible geological materials. It will cache sample containers along its route for a potential future Mars sample-return mission.&#xD;
+It will also carry a helicopter drone.</content>
+    <link rel="alternate" href="https://youtu.be/21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa2520mars252020202520rover2520landing_image_20200214105503.jpg"/>
+    <category term="event"/>
+    <category term="landing"/>
+  </entry>
   <entry>
     <id>~space-schedule~event~docking~213</id>
     <title>Progress MS-16 Docking</title>
@@ -84,5 +97,18 @@
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-69_image_20210105201529.jpg"/>
     <category term="event"/>
     <category term="eva"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~static_fire~220</id>
+    <title>Starship SN9 5th Static Fire</title>
+    <updated>2021-01-19T23:00:00Z</updated>
+    <published>2021-01-19T23:00:00Z</published>
+    <content type="text">SpaceX might conduct a fifth static fire test on Starship SN9's raptor engines.&#xD;
+&#xD;
+The time is currently set to the end of the window.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_5t_image_20210118125020.jpg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
   </entry>
 </feed>

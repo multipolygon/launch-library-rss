@@ -7,9 +7,21 @@
     <description>All items in Space Schedule &gt; Event.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Wed, 17 Feb 2021 06:19:00 GMT</pubDate>
+    <pubDate>Thu, 18 Feb 2021 00:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>NASA Mars 2020 Perseverance Rover Landing</title>
+      <link>https://youtu.be/21X5lGlDOfg</link>
+      <description>NASA's Mars 2020 Perseverance rover will land in the Jezero crater using a MSL-inspired sky-crane.&#xD;
+It will investigate an astrobiologically relevant ancient environment on Mars and investigate its surface geological processes and history, including the assessment of its past habitability, the possibility of past life on Mars, and the potential for preservation of biosignatures within accessible geological materials. It will cache sample containers along its route for a potential future Mars sample-return mission.&#xD;
+It will also carry a helicopter drone.</description>
+      <category>event</category>
+      <category>landing</category>
+      <guid isPermaLink="false">~space-schedule~event~landing~89</guid>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa2520mars252020202520rover2520landing_image_20200214105503.jpg"/>
+    </item>
     <item>
       <title>Progress MS-16 Docking</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
@@ -79,6 +91,18 @@
       <guid isPermaLink="false">~space-schedule~event~eva~209</guid>
       <pubDate>Wed, 27 Jan 2021 12:05:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-69_image_20210105201529.jpg"/>
+    </item>
+    <item>
+      <title>Starship SN9 5th Static Fire</title>
+      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
+      <description>SpaceX might conduct a fifth static fire test on Starship SN9's raptor engines.&#xD;
+&#xD;
+The time is currently set to the end of the window.</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~220</guid>
+      <pubDate>Tue, 19 Jan 2021 23:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_5t_image_20210118125020.jpg"/>
     </item>
   </channel>
 </rss>
