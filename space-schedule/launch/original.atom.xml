@@ -40,34 +40,4 @@
     <category term="communications"/>
     <category term="launch_complex_39_a"/>
   </entry>
-  <entry>
-    <id>~space-schedule~launch~rocket_lab_ltd~68e50165-a929-424a-ab8b-ec7a1ae7465e</id>
-    <title>Electron | Another One Leaves The Crust</title>
-    <updated>2021-01-20T06:45:00Z</updated>
-    <published>2021-01-20T06:45:00Z</published>
-    <content type="text">Dedicated mission for a single communication microsatellite that will enable specific frequencies to support future services from orbit. The launch will be Rocket Lab’s 18th Electron mission.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/68e50165-a929-424a-ab8b-ec7a1ae7465e.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"/>
-    <category term="launch"/>
-    <category term="rocket_lab_ltd"/>
-    <category term="commercial"/>
-    <category term="electron"/>
-    <category term="communications"/>
-    <category term="rocket_lab_launch_complex_1_a"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~72c9cbcc-804d-499b-ab03-5fa63028cda7</id>
-    <title>Long March 3B/E | Tiantong-1-03</title>
-    <updated>2021-01-19T16:18:00Z</updated>
-    <published>2021-01-19T16:18:00Z</published>
-    <content type="text">Tiantong-1-03 is the third satellite in a series of Chinese geostationary communication satellites.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/72c9cbcc-804d-499b-ab03-5fa63028cda7.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_science_and_technology_corporation"/>
-    <category term="government"/>
-    <category term="long_march_3"/>
-    <category term="communications"/>
-    <category term="launch_complex_2_lc_2"/>
-  </entry>
 </feed>
