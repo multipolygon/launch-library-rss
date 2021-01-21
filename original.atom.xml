@@ -101,8 +101,8 @@ It will also carry a helicopter drone.</content>
   <entry>
     <id>~space-schedule~launch~space_x~f213a5df-579a-4682-8143-df228e463049</id>
     <title>Falcon 9 Block 5 | Transporter 1 (Dedicated SSO Rideshare)</title>
-    <updated>2021-01-21T14:24:00Z</updated>
-    <published>2021-01-21T14:24:00Z</published>
+    <updated>2021-01-22T14:24:00Z</updated>
+    <published>2021-01-22T14:24:00Z</published>
     <content type="text">Transporter 1 mission is a dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/f213a5df-579a-4682-8143-df228e463049.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
@@ -117,8 +117,8 @@ It will also carry a helicopter drone.</content>
   <entry>
     <id>~space-schedule~event~static_fire~220</id>
     <title>Starship SN9 5th Static Fire</title>
-    <updated>2021-01-20T23:00:00Z</updated>
-    <published>2021-01-20T23:00:00Z</published>
+    <updated>2021-01-21T23:00:00Z</updated>
+    <published>2021-01-21T23:00:00Z</published>
     <content type="text">SpaceX might conduct a fifth static fire test on Starship SN9's raptor engines.&#xD;
 &#xD;
 The time is currently set to the end of the window.</content>
@@ -126,21 +126,5 @@ The time is currently set to the end of the window.</content>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_5t_image_20210118125020.jpg"/>
     <category term="event"/>
     <category term="static_fire"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~space_x~74426779-131d-416f-9ff5-dd879e231292</id>
-    <title>Falcon 9 Block 5 | Starlink 16</title>
-    <updated>2021-01-20T13:02:00Z</updated>
-    <published>2021-01-20T13:02:00Z</published>
-    <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/74426779-131d-416f-9ff5-dd879e231292.json"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210111072734.png"/>
-    <category term="launch"/>
-    <category term="space_x"/>
-    <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon_9_block_5"/>
-    <category term="communications"/>
-    <category term="launch_complex_39_a"/>
   </entry>
 </feed>

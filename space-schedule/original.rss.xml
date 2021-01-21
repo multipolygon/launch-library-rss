@@ -104,7 +104,7 @@ It will also carry a helicopter drone.</description>
       <category>dedicated_rideshare</category>
       <category>space_launch_complex_40</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~f213a5df-579a-4682-8143-df228e463049</guid>
-      <pubDate>Thu, 21 Jan 2021 14:24:00 GMT</pubDate>
+      <pubDate>Fri, 22 Jan 2021 14:24:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
     </item>
     <item>
@@ -116,23 +116,8 @@ The time is currently set to the end of the window.</description>
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">~space-schedule~event~static_fire~220</guid>
-      <pubDate>Wed, 20 Jan 2021 23:00:00 GMT</pubDate>
+      <pubDate>Thu, 21 Jan 2021 23:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_5t_image_20210118125020.jpg"/>
-    </item>
-    <item>
-      <title>Falcon 9 Block 5 | Starlink 16</title>
-      <link>https://ll.thespacedevs.com/2.1.0/launch/74426779-131d-416f-9ff5-dd879e231292.json</link>
-      <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
-      <category>launch</category>
-      <category>space_x</category>
-      <category>commercial</category>
-      <category>falcon</category>
-      <category>falcon_9_block_5</category>
-      <category>communications</category>
-      <category>launch_complex_39_a</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~74426779-131d-416f-9ff5-dd879e231292</guid>
-      <pubDate>Wed, 20 Jan 2021 13:02:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210111072734.png"/>
     </item>
   </channel>
 </rss>
