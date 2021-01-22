@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-01-22T14:24:00Z",
-            "window_end": "2021-01-22T15:22:00Z",
-            "window_start": "2021-01-22T14:24:00Z",
+            "net": "2021-01-23T14:40:00Z",
+            "window_end": "2021-01-23T15:22:00Z",
+            "window_start": "2021-01-23T14:40:00Z",
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,
@@ -78,7 +78,7 @@
             },
             "webcast_live": false,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
-            "infographic": null,
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210122005810.jpeg",
             "program": []
         }
     ]

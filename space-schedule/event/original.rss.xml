@@ -95,13 +95,11 @@ It will also carry a helicopter drone.</description>
     <item>
       <title>Starship SN9 5th Static Fire</title>
       <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SpaceX might conduct a fifth static fire test on Starship SN9's raptor engines.&#xD;
-&#xD;
-The time is currently set to the end of the window.</description>
+      <description>SpaceX might conduct a fifth static fire test on Starship SN9's raptor engines.</description>
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">~space-schedule~event~static_fire~220</guid>
-      <pubDate>Thu, 21 Jan 2021 23:00:00 GMT</pubDate>
+      <pubDate>Thu, 21 Jan 2021 22:44:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_5t_image_20210118125020.jpg"/>
     </item>
   </channel>

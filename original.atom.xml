@@ -101,8 +101,8 @@ It will also carry a helicopter drone.</content>
   <entry>
     <id>~space-schedule~launch~space_x~f213a5df-579a-4682-8143-df228e463049</id>
     <title>Falcon 9 Block 5 | Transporter 1 (Dedicated SSO Rideshare)</title>
-    <updated>2021-01-22T14:24:00Z</updated>
-    <published>2021-01-22T14:24:00Z</published>
+    <updated>2021-01-23T14:40:00Z</updated>
+    <published>2021-01-23T14:40:00Z</published>
     <content type="text">Transporter 1 mission is a dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/f213a5df-579a-4682-8143-df228e463049.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg"/>
@@ -117,11 +117,9 @@ It will also carry a helicopter drone.</content>
   <entry>
     <id>~space-schedule~event~static_fire~220</id>
     <title>Starship SN9 5th Static Fire</title>
-    <updated>2021-01-21T23:00:00Z</updated>
-    <published>2021-01-21T23:00:00Z</published>
-    <content type="text">SpaceX might conduct a fifth static fire test on Starship SN9's raptor engines.&#xD;
-&#xD;
-The time is currently set to the end of the window.</content>
+    <updated>2021-01-21T22:44:00Z</updated>
+    <published>2021-01-21T22:44:00Z</published>
+    <content type="text">SpaceX might conduct a fifth static fire test on Starship SN9's raptor engines.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_5t_image_20210118125020.jpg"/>
     <category term="event"/>
