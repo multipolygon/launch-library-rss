@@ -4,13 +4,13 @@
  "title": "Static Fire | Event | Space Schedule",
  "items": [
   {
-   "id": "220",
-   "title": "Starship SN9 5th Static Fire",
-   "content_text": "SpaceX might conduct a fifth static fire test on Starship SN9's raptor engines.",
+   "id": "221",
+   "title": "Starship SN9 6th Static Fire",
+   "content_text": "SpaceX might conduct a sixth static fire test on Starship SN9's raptor engines.",
    "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_5t_image_20210118125020.jpg",
-   "date_published": "2021-01-21T22:44:00Z",
-   "date_modified": "2021-01-21T22:44:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_6t_image_20210122145531.jpg",
+   "date_published": "2021-01-22T15:01:00Z",
+   "date_modified": "2021-01-22T15:01:00Z",
    "tags": [
     "event",
     "static_fire"
@@ -18,7 +18,7 @@
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_5t_image_20210118125020.jpg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_6t_image_20210122145531.jpg"
     }
    ],
    "_meta": {

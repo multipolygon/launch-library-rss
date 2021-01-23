@@ -7,9 +7,19 @@
     <description>All items in Space Schedule &gt; Event.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Thu, 18 Feb 2021 00:00:00 GMT</pubDate>
+    <pubDate>Mon, 22 Feb 2021 09:30:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>NG-15 Cygnus Berthing</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA TV will livestream the rendezvous and capture of Northrop Grumman's NG-15 Cygnus cargo craft to the International Space Station.</description>
+      <category>event</category>
+      <category>berthing</category>
+      <guid isPermaLink="false">~space-schedule~event~berthing~214</guid>
+      <pubDate>Mon, 22 Feb 2021 09:30:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-15_cygnus_be_image_20210105203038.jpg"/>
+    </item>
     <item>
       <title>NASA Mars 2020 Perseverance Rover Landing</title>
       <link>https://youtu.be/21X5lGlDOfg</link>
@@ -93,14 +103,14 @@ It will also carry a helicopter drone.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-69_image_20210105201529.jpg"/>
     </item>
     <item>
-      <title>Starship SN9 5th Static Fire</title>
+      <title>Starship SN9 6th Static Fire</title>
       <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SpaceX might conduct a fifth static fire test on Starship SN9's raptor engines.</description>
+      <description>SpaceX might conduct a sixth static fire test on Starship SN9's raptor engines.</description>
       <category>event</category>
       <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~220</guid>
-      <pubDate>Thu, 21 Jan 2021 22:44:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_5t_image_20210118125020.jpg"/>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~221</guid>
+      <pubDate>Fri, 22 Jan 2021 15:01:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_6t_image_20210122145531.jpg"/>
     </item>
   </channel>
 </rss>
