@@ -49,7 +49,7 @@ It will also carry a helicopter drone.</content>
     <updated>2021-02-15T12:05:00Z</updated>
     <published>2021-02-15T12:05:00Z</published>
     <content type="text">NASA astronaut Kathleen Rubins and JAXA astronaut Soichi Noguchi will exit the orbital lab to continue upgrades on the space station.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/212.json"/>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/212/"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210105202154.jpg"/>
     <category term="event"/>
     <category term="eva"/>
@@ -60,7 +60,7 @@ It will also carry a helicopter drone.</content>
     <updated>2021-02-11T00:00:00Z</updated>
     <published>2021-02-11T00:00:00Z</published>
     <content type="text">The Tianwen-1 orbiter and rover will perform a 14 minutes long burn to enter an elliptical orbit around Mars.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/125.json"/>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/125/"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png"/>
     <category term="event"/>
     <category term="orbital_insertion"/>
@@ -93,7 +93,7 @@ It will also carry a helicopter drone.</content>
     <updated>2021-02-01T00:00:00Z</updated>
     <published>2021-02-01T00:00:00Z</published>
     <content type="text">The Emirates Mars Mission 'Hope' will enter an orbit around Mars after its six months interplanetary journey.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/124.json"/>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/124/"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/emirates_mars_m_image_20200721105747.jpg"/>
     <category term="event"/>
     <category term="orbital_insertion"/>
@@ -112,8 +112,8 @@ It will also carry a helicopter drone.</content>
   <entry>
     <id>~space-schedule~launch~space_x~f213a5df-579a-4682-8143-df228e463049</id>
     <title>Falcon 9 Block 5 | Transporter 1 (Dedicated SSO Rideshare)</title>
-    <updated>2021-01-23T14:40:00Z</updated>
-    <published>2021-01-23T14:40:00Z</published>
+    <updated>2021-01-24T15:00:00Z</updated>
+    <published>2021-01-24T15:00:00Z</published>
     <content type="text">Transporter 1 mission is a dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/f213a5df-579a-4682-8143-df228e463049.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210122224307.jpeg"/>
@@ -124,16 +124,5 @@ It will also carry a helicopter drone.</content>
     <category term="falcon_9_block_5"/>
     <category term="dedicated_rideshare"/>
     <category term="space_launch_complex_40"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~221</id>
-    <title>Starship SN9 6th Static Fire</title>
-    <updated>2021-01-22T15:01:00Z</updated>
-    <published>2021-01-22T15:01:00Z</published>
-    <content type="text">SpaceX might conduct a sixth static fire test on Starship SN9's raptor engines.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_6t_image_20210122145531.jpg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
   </entry>
 </feed>

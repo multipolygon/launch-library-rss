@@ -11,7 +11,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
       <title>US EVA-72</title>
-      <link>https://ll.thespacedevs.com/2.1.0/event/212.json</link>
+      <link>https://ll.thespacedevs.com/2.1.0/event/212/</link>
       <description>NASA astronaut Kathleen Rubins and JAXA astronaut Soichi Noguchi will exit the orbital lab to continue upgrades on the space station.</description>
       <category>event</category>
       <category>eva</category>

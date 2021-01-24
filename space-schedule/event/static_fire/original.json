@@ -1,42 +1,16 @@
 {
  "version": "https://jsonfeed.org/version/1",
  "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json",
- "title": "Static Fire | Event | Space Schedule",
- "items": [
-  {
-   "id": "221",
-   "title": "Starship SN9 6th Static Fire",
-   "content_text": "SpaceX might conduct a sixth static fire test on Starship SN9's raptor engines.",
-   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_6t_image_20210122145531.jpg",
-   "date_published": "2021-01-22T15:01:00Z",
-   "date_modified": "2021-01-22T15:01:00Z",
-   "tags": [
-    "event",
-    "static_fire"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_6t_image_20210122145531.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1
-   }
-  }
- ],
+ "title": "Static Fire",
+ "items": [],
  "_feed_url": {
   "rss": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.rss.xml",
   "atom": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.atom.xml"
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json",
  "_meta": {
-  "itemCount": 1,
+  "itemCount": 0,
   "pageNumber": 1,
-  "pageCount": 1
+  "pageCount": 0
  }
 }
