@@ -44,7 +44,7 @@ It will also carry a helicopter drone.</description>
     </item>
     <item>
       <title>US EVA-72</title>
-      <link>https://ll.thespacedevs.com/2.1.0/event/212/</link>
+      <link>https://ll.thespacedevs.com/2.1.0/event/212.json</link>
       <description>NASA astronaut Kathleen Rubins and JAXA astronaut Soichi Noguchi will exit the orbital lab to continue upgrades on the space station.</description>
       <category>event</category>
       <category>eva</category>
@@ -54,7 +54,7 @@ It will also carry a helicopter drone.</description>
     </item>
     <item>
       <title>Tianwen-1 Mars Orbit Insertion</title>
-      <link>https://ll.thespacedevs.com/2.1.0/event/125/</link>
+      <link>https://ll.thespacedevs.com/2.1.0/event/125.json</link>
       <description>The Tianwen-1 orbiter and rover will perform a 14 minutes long burn to enter an elliptical orbit around Mars.</description>
       <category>event</category>
       <category>orbital_insertion</category>
@@ -84,7 +84,7 @@ It will also carry a helicopter drone.</description>
     </item>
     <item>
       <title>Emirates Mars Mission 'Hope' Mars Orbit Insertion</title>
-      <link>https://ll.thespacedevs.com/2.1.0/event/124/</link>
+      <link>https://ll.thespacedevs.com/2.1.0/event/124.json</link>
       <description>The Emirates Mars Mission 'Hope' will enter an orbit around Mars after its six months interplanetary journey.</description>
       <category>event</category>
       <category>orbital_insertion</category>
@@ -101,21 +101,6 @@ It will also carry a helicopter drone.</description>
       <guid isPermaLink="false">~space-schedule~event~eva~209</guid>
       <pubDate>Wed, 27 Jan 2021 12:05:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-69_image_20210105201529.jpg"/>
-    </item>
-    <item>
-      <title>Falcon 9 Block 5 | Transporter 1 (Dedicated SSO Rideshare)</title>
-      <link>https://ll.thespacedevs.com/2.1.0/launch/f213a5df-579a-4682-8143-df228e463049.json</link>
-      <description>Transporter 1 mission is a dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.</description>
-      <category>launch</category>
-      <category>space_x</category>
-      <category>commercial</category>
-      <category>falcon</category>
-      <category>falcon_9_block_5</category>
-      <category>dedicated_rideshare</category>
-      <category>space_launch_complex_40</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~f213a5df-579a-4682-8143-df228e463049</guid>
-      <pubDate>Sun, 24 Jan 2021 15:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210122224307.jpeg"/>
     </item>
   </channel>
 </rss>

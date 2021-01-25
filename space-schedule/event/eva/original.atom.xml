@@ -13,7 +13,7 @@
     <updated>2021-02-15T12:05:00Z</updated>
     <published>2021-02-15T12:05:00Z</published>
     <content type="text">NASA astronaut Kathleen Rubins and JAXA astronaut Soichi Noguchi will exit the orbital lab to continue upgrades on the space station.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/212/"/>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/212.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210105202154.jpg"/>
     <category term="event"/>
     <category term="eva"/>
