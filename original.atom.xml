@@ -99,12 +99,27 @@ It will also carry a helicopter drone.</content>
     <category term="orbital_insertion"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~china_aerospace_corporation~3bcdceff-a986-41d1-8339-bda4aff7045a</id>
+    <title>Yaogan-31 02</title>
+    <updated>2021-01-29T04:38:00Z</updated>
+    <published>2021-01-29T04:38:00Z</published>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/3bcdceff-a986-41d1-8339-bda4aff7045a.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"/>
+    <category term="launch"/>
+    <category term="china_aerospace_corporation"/>
+    <category term="government"/>
+    <category term="long_march_4"/>
+    <category term="long_march_4_c"/>
+    <category term="launch_area_4_sls_2_603"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~eva~209</id>
     <title>US EVA-69</title>
     <updated>2021-01-27T12:05:00Z</updated>
     <published>2021-01-27T12:05:00Z</published>
     <content type="text">NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 27 to perform upgrades on the Columbus module.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="alternate" href="https://youtu.be/q3tVWmP0CMc"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-69_image_20210105201529.jpg"/>
     <category term="event"/>
     <category term="eva"/>

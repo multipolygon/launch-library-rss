@@ -263,10 +263,46 @@
    }
   },
   {
+   "id": "~space-schedule~launch~china_aerospace_corporation~3bcdceff-a986-41d1-8339-bda4aff7045a",
+   "title": "Yaogan-31 02",
+   "content_text": "-",
+   "url": "https://ll.thespacedevs.com/2.1.0/launch/3bcdceff-a986-41d1-8339-bda4aff7045a.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
+   "date_published": "2021-01-29T04:38:00Z",
+   "date_modified": "2021-01-29T04:38:00Z",
+   "tags": [
+    "launch",
+    "china_aerospace_corporation",
+    "government",
+    "long_march_4",
+    "long_march_4_c",
+    "launch_area_4_sls_2_603"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "China Aerospace Corporation | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "3bcdceff-a986-41d1-8339-bda4aff7045a",
+    "global": "~space-schedule~launch~china_aerospace_corporation~3bcdceff-a986-41d1-8339-bda4aff7045a"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_corporation/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~eva~209",
    "title": "US EVA-69",
    "content_text": "NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 27 to perform upgrades on the Columbus module.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "url": "https://youtu.be/q3tVWmP0CMc",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-69_image_20210105201529.jpg",
    "date_published": "2021-01-27T12:05:00Z",
    "date_modified": "2021-01-27T12:05:00Z",
@@ -284,7 +320,6 @@
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "youtubeCount": 1,
     "subtitle": "EVA | Event | Space Schedule"
    },
    "_id": {
@@ -304,7 +339,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 9,
+  "itemCount": 10,
   "pageNumber": 1,
   "pageCount": 1
  }

@@ -93,8 +93,22 @@ It will also carry a helicopter drone.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/emirates_mars_m_image_20200721105747.jpg"/>
     </item>
     <item>
+      <title>Yaogan-31 02</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/3bcdceff-a986-41d1-8339-bda4aff7045a.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>china_aerospace_corporation</category>
+      <category>government</category>
+      <category>long_march_4</category>
+      <category>long_march_4_c</category>
+      <category>launch_area_4_sls_2_603</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_corporation~3bcdceff-a986-41d1-8339-bda4aff7045a</guid>
+      <pubDate>Fri, 29 Jan 2021 04:38:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"/>
+    </item>
+    <item>
       <title>US EVA-69</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <link>https://youtu.be/q3tVWmP0CMc</link>
       <description>NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 27 to perform upgrades on the Columbus module.</description>
       <category>event</category>
       <category>eva</category>

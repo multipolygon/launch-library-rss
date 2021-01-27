@@ -81,7 +81,7 @@
    "id": "209",
    "title": "US EVA-69",
    "content_text": "NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 27 to perform upgrades on the Columbus module.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "url": "https://youtu.be/q3tVWmP0CMc",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-69_image_20210105201529.jpg",
    "date_published": "2021-01-27T12:05:00Z",
    "date_modified": "2021-01-27T12:05:00Z",
@@ -98,8 +98,7 @@
    "_meta": {
     "audioCount": 0,
     "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1
+    "imageCount": 1
    }
   }
  ],
