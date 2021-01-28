@@ -99,6 +99,17 @@ It will also carry a helicopter drone.</content>
     <category term="orbital_insertion"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~static_fire~223</id>
+    <title>RS-25 Hot Fire</title>
+    <updated>2021-01-28T19:30:00Z</updated>
+    <published>2021-01-28T19:30:00Z</published>
+    <content type="text">NASA is set to perform the first in a series of hot fires of the RS-25 engine to evaluate the performance of newly designed parts. The test will be streamed live on NASA TV.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rs-25_hot_fire_image_20210127232336.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~eva~209</id>
     <title>US EVA-69</title>
     <updated>2021-01-27T12:05:00Z</updated>

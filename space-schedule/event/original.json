@@ -263,6 +263,39 @@
    }
   },
   {
+   "id": "~space-schedule~event~static_fire~223",
+   "title": "RS-25 Hot Fire",
+   "content_text": "NASA is set to perform the first in a series of hot fires of the RS-25 engine to evaluate the performance of newly designed parts. The test will be streamed live on NASA TV.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rs-25_hot_fire_image_20210127232336.jpeg",
+   "date_published": "2021-01-28T19:30:00Z",
+   "date_modified": "2021-01-28T19:30:00Z",
+   "tags": [
+    "event",
+    "static_fire"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rs-25_hot_fire_image_20210127232336.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Static Fire | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "223",
+    "global": "~space-schedule~event~static_fire~223"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~eva~209",
    "title": "US EVA-69",
    "content_text": "NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 27 to perform upgrades on the Columbus module.",
@@ -303,7 +336,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 9,
+  "itemCount": 10,
   "pageNumber": 1,
   "pageCount": 1
  }

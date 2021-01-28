@@ -100,7 +100,7 @@ It will also carry a helicopter drone.</content>
   </entry>
   <entry>
     <id>~space-schedule~launch~china_aerospace_corporation~3bcdceff-a986-41d1-8339-bda4aff7045a</id>
-    <title>Yaogan-31 02</title>
+    <title>Long March 4C | Yaogan-31-02</title>
     <updated>2021-01-29T04:38:00Z</updated>
     <published>2021-01-29T04:38:00Z</published>
     <content type="text">-</content>
@@ -112,6 +112,34 @@ It will also carry a helicopter drone.</content>
     <category term="long_march_4"/>
     <category term="long_march_4_c"/>
     <category term="launch_area_4_sls_2_603"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~static_fire~223</id>
+    <title>RS-25 Hot Fire</title>
+    <updated>2021-01-28T19:30:00Z</updated>
+    <published>2021-01-28T19:30:00Z</published>
+    <content type="text">NASA is set to perform the first in a series of hot fires of the RS-25 engine to evaluate the performance of newly designed parts. The test will be streamed live on NASA TV.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rs-25_hot_fire_image_20210127232336.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~space_x~44670393-85da-4504-99f3-e5b95d71cbb6</id>
+    <title>Starship SN9 | 10 km Flight</title>
+    <updated>2021-01-28T15:00:00Z</updated>
+    <published>2021-01-28T15:00:00Z</published>
+    <content type="text">The SN9 Starship prototype will attempt a first flight similar to the one performed by SN8. It consists of a powered ascent to an altitude of 10 km or 33,000 ft, followed by a belly flop maneuver, controlled descent, landing flip maneuver and landing.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/44670393-85da-4504-99f3-e5b95d71cbb6.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210107083733.jpeg"/>
+    <category term="launch"/>
+    <category term="space_x"/>
+    <category term="commercial"/>
+    <category term="starship"/>
+    <category term="starship_prototype"/>
+    <category term="test_flight"/>
+    <category term="launch_pad_b"/>
+    <category term="space_x_starship"/>
   </entry>
   <entry>
     <id>~space-schedule~event~eva~209</id>

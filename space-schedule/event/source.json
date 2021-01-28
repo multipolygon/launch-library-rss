@@ -1,5 +1,5 @@
 {
-    "count": 11,
+    "count": 12,
     "next": "https://ll.thespacedevs.com/2.0.0/event/upcoming.json?limit=10&offset=10",
     "previous": null,
     "results": [
@@ -99,6 +99,26 @@
                     "wiki_url": "https://en.wikipedia.org/wiki/International_Space_Station_programme"
                 }
             ]
+        },
+        {
+            "id": 223,
+            "url": "https://ll.thespacedevs.com/2.1.0/event/223.json",
+            "slug": "rs-25-hot-fire",
+            "name": "RS-25 Hot Fire",
+            "type": {
+                "id": 5,
+                "name": "Static Fire"
+            },
+            "description": "NASA is set to perform the first in a series of hot fires of the RS-25 engine to evaluate the performance of newly designed parts. The test will be streamed live on NASA TV.",
+            "location": "Stennis Space Center, Mississippi",
+            "news_url": "https://www.nasa.gov/centers/stennis/news/releases/2021/NASA-to-Begin-New-RS-25-Engine-Test-Series-for-Future-Artemis-Missions",
+            "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rs-25_hot_fire_image_20210127232336.jpeg",
+            "date": "2021-01-28T19:30:00Z",
+            "launches": [],
+            "expeditions": [],
+            "spacestations": [],
+            "program": []
         },
         {
             "id": 124,
@@ -1108,105 +1128,6 @@
                     "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Resupply_Services#Commercial_Resupply_Services"
                 }
             ]
-        },
-        {
-            "id": 126,
-            "url": "https://ll.thespacedevs.com/2.1.0/event/126.json",
-            "slug": "tianwen-1-rover-landing",
-            "name": "Tianwen-1 Rover Landing",
-            "type": {
-                "id": 9,
-                "name": "Landing"
-            },
-            "description": "The Tianwen-1 rover will attempt to land on Mars using a parachute to slow down and a propulsive landing for the final 1.5km of the descent.",
-            "location": "Utopia Planitia, Mars",
-            "news_url": null,
-            "video_url": null,
-            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_rover_image_20200721110816.jpg",
-            "date": "2021-04-01T00:00:00Z",
-            "launches": [
-                {
-                    "id": "485b9786-5bec-4dd4-ac82-69d1fd702047",
-                    "url": "https://ll.thespacedevs.com/2.1.0/launch/485b9786-5bec-4dd4-ac82-69d1fd702047.json",
-                    "launch_library_id": 1135,
-                    "slug": "long-march-5-tianwen-1-mars-global-remote-sensing",
-                    "name": "Long March 5  | Tianwen-1 (Mars Global Remote Sensing Orbiter and Small Rover)",
-                    "status": {
-                        "id": 3,
-                        "name": "Success"
-                    },
-                    "net": "2020-07-23T04:41:15Z",
-                    "window_end": "2020-07-23T07:00:00Z",
-                    "window_start": "2020-07-23T04:00:00Z",
-                    "inhold": false,
-                    "tbdtime": false,
-                    "tbddate": false,
-                    "probability": -1,
-                    "holdreason": null,
-                    "failreason": null,
-                    "hashtag": null,
-                    "launch_service_provider": {
-                        "id": 88,
-                        "url": "https://ll.thespacedevs.com/2.1.0/agencies/88.json",
-                        "name": "China Aerospace Science and Technology Corporation",
-                        "type": "Government"
-                    },
-                    "rocket": {
-                        "id": 158,
-                        "configuration": {
-                            "id": 128,
-                            "launch_library_id": 116,
-                            "url": "https://ll.thespacedevs.com/2.1.0/config/launcher/128.json",
-                            "name": "Long March 5",
-                            "family": "Long March 5",
-                            "full_name": "Long March 5",
-                            "variant": ""
-                        }
-                    },
-                    "mission": {
-                        "id": 759,
-                        "launch_library_id": 367,
-                        "name": "Tianwen-1 (Mars Global Remote Sensing Orbiter and Small Rover)",
-                        "description": "Tianwen-1 (\"questions to heaven\") Mars mission includes a Martian orbiter and a lander/rover duo. This will be China's first mission to Mars. \n\nThe spacecraft will reach Mars in February 2021. Lander will remain attached to the orbiter for two to three months before attempting its landing. The chosen landing area is Utopia Planitia, a huge basin formed by a large impact far back in Mars' history. The rover is expected to be in operation for about 90 Martian sols. The Tianwen-1 orbiter will provide a relay communication link to the rover while performing its own scientific observations for one Martian year.\n\nThe orbiter will operate in a polar orbit in order to  map Mars' morphology and geological structure while also using the Mars-Orbiting Subsurface Exploration Radar instrument to investigate soil characteristics and water-ice distribution. It will also measure the ionosphere and the electromagnetic and gravitational fields, the new paper reported. The rover will have 13 instruments detecting things such as topography, soil, environment, atmosphere, water ice, physical field and internal structure. It will investigate the surface soil characteristics and water-ice distribution with its own Subsurface Exploration Radar. It will also analyze surface material composition and characteristics of the Martian climate and environment on the surface.",
-                        "launch_designator": null,
-                        "type": "Robotic Exploration",
-                        "orbit": {
-                            "id": 6,
-                            "name": "Heliocentric N/A",
-                            "abbrev": "Helio-N/A"
-                        }
-                    },
-                    "pad": {
-                        "id": 78,
-                        "url": "https://ll.thespacedevs.com/2.1.0/pad/78.json",
-                        "agency_id": null,
-                        "name": "Wenchang",
-                        "info_url": null,
-                        "wiki_url": "https://en.wikipedia.org/wiki/Wenchang_Satellite_Launch_Center",
-                        "map_url": "http://maps.google.com/maps?q=19.614354,110.951057",
-                        "latitude": "19.614354",
-                        "longitude": "110.951057",
-                        "location": {
-                            "id": 8,
-                            "url": "https://ll.thespacedevs.com/2.1.0/location/8.json",
-                            "name": "Wenchang Satellite Launch Center, People's Republic of China",
-                            "country_code": "CHN",
-                            "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_8_20200803142445.jpg",
-                            "total_launch_count": 10,
-                            "total_landing_count": 0
-                        },
-                        "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_78_20200803143548.jpg",
-                        "total_launch_count": 10
-                    },
-                    "webcast_live": false,
-                    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25205_image_20191228095452.jpg",
-                    "infographic": null,
-                    "program": []
-                }
-            ],
-            "expeditions": [],
-            "spacestations": [],
-            "program": []
         }
     ]
 }

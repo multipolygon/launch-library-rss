@@ -93,7 +93,7 @@ It will also carry a helicopter drone.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/emirates_mars_m_image_20200721105747.jpg"/>
     </item>
     <item>
-      <title>Yaogan-31 02</title>
+      <title>Long March 4C | Yaogan-31-02</title>
       <link>https://ll.thespacedevs.com/2.1.0/launch/3bcdceff-a986-41d1-8339-bda4aff7045a.json</link>
       <description>-</description>
       <category>launch</category>
@@ -105,6 +105,32 @@ It will also carry a helicopter drone.</description>
       <guid isPermaLink="false">~space-schedule~launch~china_aerospace_corporation~3bcdceff-a986-41d1-8339-bda4aff7045a</guid>
       <pubDate>Fri, 29 Jan 2021 04:38:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"/>
+    </item>
+    <item>
+      <title>RS-25 Hot Fire</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA is set to perform the first in a series of hot fires of the RS-25 engine to evaluate the performance of newly designed parts. The test will be streamed live on NASA TV.</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~223</guid>
+      <pubDate>Thu, 28 Jan 2021 19:30:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rs-25_hot_fire_image_20210127232336.jpeg"/>
+    </item>
+    <item>
+      <title>Starship SN9 | 10 km Flight</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/44670393-85da-4504-99f3-e5b95d71cbb6.json</link>
+      <description>The SN9 Starship prototype will attempt a first flight similar to the one performed by SN8. It consists of a powered ascent to an altitude of 10 km or 33,000 ft, followed by a belly flop maneuver, controlled descent, landing flip maneuver and landing.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>starship</category>
+      <category>starship_prototype</category>
+      <category>test_flight</category>
+      <category>launch_pad_b</category>
+      <category>space_x_starship</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~44670393-85da-4504-99f3-e5b95d71cbb6</guid>
+      <pubDate>Thu, 28 Jan 2021 15:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210107083733.jpeg"/>
     </item>
     <item>
       <title>US EVA-69</title>
