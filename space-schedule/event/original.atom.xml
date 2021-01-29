@@ -99,6 +99,17 @@ It will also carry a helicopter drone.</content>
     <category term="orbital_insertion"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~wet_dress_rehearsal~224</id>
+    <title>Starship SN9 Wet Dress Rehearsal</title>
+    <updated>2021-01-28T20:50:00Z</updated>
+    <published>2021-01-28T20:50:00Z</published>
+    <content type="text">SpaceX conducted a wet dress rehearsal on Starship SN9 in preparation of its first flight.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20210128205358.jpeg"/>
+    <category term="event"/>
+    <category term="wet_dress_rehearsal"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~static_fire~223</id>
     <title>RS-25 Hot Fire</title>
     <updated>2021-01-28T19:30:00Z</updated>
@@ -108,16 +119,5 @@ It will also carry a helicopter drone.</content>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rs-25_hot_fire_image_20210127232336.jpeg"/>
     <category term="event"/>
     <category term="static_fire"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~eva~209</id>
-    <title>US EVA-69</title>
-    <updated>2021-01-27T12:05:00Z</updated>
-    <published>2021-01-27T12:05:00Z</published>
-    <content type="text">NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on January 27 to perform upgrades on the Columbus module.</content>
-    <link rel="alternate" href="https://youtu.be/q3tVWmP0CMc"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-69_image_20210105201529.jpg"/>
-    <category term="event"/>
-    <category term="eva"/>
   </entry>
 </feed>

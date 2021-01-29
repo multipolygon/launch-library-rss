@@ -2,12 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/event/wet_dress_rehearsal/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Wet Dress Rehearsal</title>
+    <title>Wet Dress Rehearsal | Event | Space Schedule</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fwet_dress_rehearsal%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Thu, 28 Jan 2021 11:32:22 GMT</pubDate>
+    <pubDate>Thu, 28 Jan 2021 20:50:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Starship SN9 Wet Dress Rehearsal</title>
+      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
+      <description>SpaceX conducted a wet dress rehearsal on Starship SN9 in preparation of its first flight.</description>
+      <category>event</category>
+      <category>wet_dress_rehearsal</category>
+      <guid isPermaLink="false">224</guid>
+      <pubDate>Thu, 28 Jan 2021 20:50:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20210128205358.jpeg"/>
+    </item>
   </channel>
 </rss>

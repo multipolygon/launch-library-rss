@@ -7,38 +7,23 @@
     <description>All items in Space Schedule &gt; Launch.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Fri, 29 Jan 2021 04:38:00 GMT</pubDate>
+    <pubDate>Sun, 31 Jan 2021 12:02:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
-      <title>Long March 4C | Yaogan-31-02</title>
-      <link>https://ll.thespacedevs.com/2.1.0/launch/3bcdceff-a986-41d1-8339-bda4aff7045a.json</link>
-      <description>-</description>
-      <category>launch</category>
-      <category>china_aerospace_corporation</category>
-      <category>government</category>
-      <category>long_march_4</category>
-      <category>long_march_4_c</category>
-      <category>launch_area_4_sls_2_603</category>
-      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_corporation~3bcdceff-a986-41d1-8339-bda4aff7045a</guid>
-      <pubDate>Fri, 29 Jan 2021 04:38:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"/>
-    </item>
-    <item>
-      <title>Starship SN9 | 10 km Flight</title>
-      <link>https://ll.thespacedevs.com/2.1.0/launch/44670393-85da-4504-99f3-e5b95d71cbb6.json</link>
-      <description>The SN9 Starship prototype will attempt a first flight similar to the one performed by SN8. It consists of a powered ascent to an altitude of 10 km or 33,000 ft, followed by a belly flop maneuver, controlled descent, landing flip maneuver and landing.</description>
+      <title>Falcon 9 Block 5 | Starlink 17</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json</link>
+      <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
       <category>launch</category>
       <category>space_x</category>
       <category>commercial</category>
-      <category>starship</category>
-      <category>starship_prototype</category>
-      <category>test_flight</category>
-      <category>launch_pad_b</category>
-      <category>space_x_starship</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~44670393-85da-4504-99f3-e5b95d71cbb6</guid>
-      <pubDate>Thu, 28 Jan 2021 15:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210107083733.jpeg"/>
+      <category>falcon</category>
+      <category>falcon_9_block_5</category>
+      <category>communications</category>
+      <category>launch_complex_39_a</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~dfd4f0e0-0ab4-494d-bd88-1b93b934b269</guid>
+      <pubDate>Sun, 31 Jan 2021 12:02:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>
     </item>
   </channel>
 </rss>
