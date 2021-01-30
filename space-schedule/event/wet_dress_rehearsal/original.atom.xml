@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Wet Dress Rehearsal | Event | Space Schedule</title>
+  <title>Wet Dress Rehearsal</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/wet_dress_rehearsal/original.atom.xml</id>
-  <updated>2021-01-28T20:50:00Z</updated>
+  <updated>2021-01-30T11:31:22.207Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/wet_dress_rehearsal/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/wet_dress_rehearsal/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fwet_dress_rehearsal%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
-  <entry>
-    <id>224</id>
-    <title>Starship SN9 Wet Dress Rehearsal</title>
-    <updated>2021-01-28T20:50:00Z</updated>
-    <published>2021-01-28T20:50:00Z</published>
-    <content type="text">SpaceX conducted a wet dress rehearsal on Starship SN9 in preparation of its first flight.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20210128205358.jpeg"/>
-    <category term="event"/>
-    <category term="wet_dress_rehearsal"/>
-  </entry>
 </feed>

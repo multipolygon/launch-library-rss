@@ -20,6 +20,19 @@
     <category term="berthing"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~static_fire~225</id>
+    <title>SLS 2nd Hot Fire Test</title>
+    <updated>2021-02-22T00:00:00Z</updated>
+    <published>2021-02-22T00:00:00Z</published>
+    <content type="text">NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
+&#xD;
+The four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~landing~89</id>
     <title>NASA Mars 2020 Perseverance Rover Landing</title>
     <updated>2021-02-18T21:15:00Z</updated>
@@ -66,6 +79,17 @@ It will also carry a helicopter drone.</content>
     <category term="orbital_insertion"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~orbital_insertion~124</id>
+    <title>Emirates Mars Mission 'Hope' Mars Orbit Insertion</title>
+    <updated>2021-02-09T15:45:00Z</updated>
+    <published>2021-02-09T15:45:00Z</published>
+    <content type="text">The Emirates Mars Mission 'Hope' will enter an orbit around Mars after its six months interplanetary journey.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/124.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/emirates_mars_m_image_20200721105747.jpg"/>
+    <category term="event"/>
+    <category term="orbital_insertion"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~eva~211</id>
     <title>US EVA-71</title>
     <updated>2021-02-08T12:05:00Z</updated>
@@ -86,38 +110,5 @@ It will also carry a helicopter drone.</content>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-70_image_20210105201708.jpg"/>
     <category term="event"/>
     <category term="eva"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~orbital_insertion~124</id>
-    <title>Emirates Mars Mission 'Hope' Mars Orbit Insertion</title>
-    <updated>2021-02-01T00:00:00Z</updated>
-    <published>2021-02-01T00:00:00Z</published>
-    <content type="text">The Emirates Mars Mission 'Hope' will enter an orbit around Mars after its six months interplanetary journey.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/124.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/emirates_mars_m_image_20200721105747.jpg"/>
-    <category term="event"/>
-    <category term="orbital_insertion"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~wet_dress_rehearsal~224</id>
-    <title>Starship SN9 Wet Dress Rehearsal</title>
-    <updated>2021-01-28T20:50:00Z</updated>
-    <published>2021-01-28T20:50:00Z</published>
-    <content type="text">SpaceX conducted a wet dress rehearsal on Starship SN9 in preparation of its first flight.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20210128205358.jpeg"/>
-    <category term="event"/>
-    <category term="wet_dress_rehearsal"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~223</id>
-    <title>RS-25 Hot Fire</title>
-    <updated>2021-01-28T19:30:00Z</updated>
-    <published>2021-01-28T19:30:00Z</published>
-    <content type="text">NASA is set to perform the first in a series of hot fires of the RS-25 engine to evaluate the performance of newly designed parts. The test will be streamed live on NASA TV.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rs-25_hot_fire_image_20210127232336.jpeg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
   </entry>
 </feed>

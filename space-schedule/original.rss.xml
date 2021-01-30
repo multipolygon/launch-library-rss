@@ -21,6 +21,18 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-15_cygnus_be_image_20210105203038.jpg"/>
     </item>
     <item>
+      <title>SLS 2nd Hot Fire Test</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
+&#xD;
+The four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~225</guid>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
+    </item>
+    <item>
       <title>NASA Mars 2020 Perseverance Rover Landing</title>
       <link>https://youtu.be/21X5lGlDOfg</link>
       <description>NASA's Mars 2020 Perseverance rover will land in the Jezero crater using a MSL-inspired sky-crane.&#xD;
@@ -63,6 +75,16 @@ It will also carry a helicopter drone.</description>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png"/>
     </item>
     <item>
+      <title>Emirates Mars Mission 'Hope' Mars Orbit Insertion</title>
+      <link>https://ll.thespacedevs.com/2.1.0/event/124.json</link>
+      <description>The Emirates Mars Mission 'Hope' will enter an orbit around Mars after its six months interplanetary journey.</description>
+      <category>event</category>
+      <category>orbital_insertion</category>
+      <guid isPermaLink="false">~space-schedule~event~orbital_insertion~124</guid>
+      <pubDate>Tue, 09 Feb 2021 15:45:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/emirates_mars_m_image_20200721105747.jpg"/>
+    </item>
+    <item>
       <title>US EVA-71</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>NASA astronauts Kathleen Rubins and Victor Glover will exit the orbital lab to prepare the installation of  iROSAs (ISS Roll Out Solar Arrays).</description>
@@ -83,16 +105,6 @@ It will also carry a helicopter drone.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-70_image_20210105201708.jpg"/>
     </item>
     <item>
-      <title>Emirates Mars Mission 'Hope' Mars Orbit Insertion</title>
-      <link>https://ll.thespacedevs.com/2.1.0/event/124.json</link>
-      <description>The Emirates Mars Mission 'Hope' will enter an orbit around Mars after its six months interplanetary journey.</description>
-      <category>event</category>
-      <category>orbital_insertion</category>
-      <guid isPermaLink="false">~space-schedule~event~orbital_insertion~124</guid>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/emirates_mars_m_image_20200721105747.jpg"/>
-    </item>
-    <item>
       <title>Falcon 9 Block 5 | Starlink 17</title>
       <link>https://ll.thespacedevs.com/2.1.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json</link>
       <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
@@ -104,28 +116,8 @@ It will also carry a helicopter drone.</description>
       <category>communications</category>
       <category>launch_complex_39_a</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~dfd4f0e0-0ab4-494d-bd88-1b93b934b269</guid>
-      <pubDate>Sun, 31 Jan 2021 12:02:00 GMT</pubDate>
+      <pubDate>Mon, 01 Feb 2021 11:40:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>
-    </item>
-    <item>
-      <title>Starship SN9 Wet Dress Rehearsal</title>
-      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SpaceX conducted a wet dress rehearsal on Starship SN9 in preparation of its first flight.</description>
-      <category>event</category>
-      <category>wet_dress_rehearsal</category>
-      <guid isPermaLink="false">~space-schedule~event~wet_dress_rehearsal~224</guid>
-      <pubDate>Thu, 28 Jan 2021 20:50:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn9_te_image_20210128205358.jpeg"/>
-    </item>
-    <item>
-      <title>RS-25 Hot Fire</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>NASA is set to perform the first in a series of hot fires of the RS-25 engine to evaluate the performance of newly designed parts. The test will be streamed live on NASA TV.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~223</guid>
-      <pubDate>Thu, 28 Jan 2021 19:30:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rs-25_hot_fire_image_20210127232336.jpeg"/>
     </item>
   </channel>
 </rss>
