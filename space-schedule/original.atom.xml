@@ -101,12 +101,28 @@ It will also carry a helicopter drone.</content>
     <category term="eva"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~space_x~f31702e8-6353-4c9a-932c-5bd104717500</id>
+    <title>Falcon 9 Block 5 | Starlink 18</title>
+    <updated>2021-02-04T06:19:00Z</updated>
+    <published>2021-02-04T06:19:00Z</published>
+    <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/f31702e8-6353-4c9a-932c-5bd104717500.json"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210130064420.png"/>
+    <category term="launch"/>
+    <category term="space_x"/>
+    <category term="commercial"/>
+    <category term="falcon"/>
+    <category term="falcon_9_block_5"/>
+    <category term="communications"/>
+    <category term="launch_complex_39_a"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~eva~210</id>
     <title>US EVA-70</title>
     <updated>2021-02-01T12:05:00Z</updated>
     <published>2021-02-01T12:05:00Z</published>
     <content type="text">NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on February 1 to continue upgrades on the space station.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=XwuRiIh2IlM"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-70_image_20210105201708.jpg"/>
     <category term="event"/>
     <category term="eva"/>
@@ -114,8 +130,8 @@ It will also carry a helicopter drone.</content>
   <entry>
     <id>~space-schedule~launch~space_x~dfd4f0e0-0ab4-494d-bd88-1b93b934b269</id>
     <title>Falcon 9 Block 5 | Starlink 17</title>
-    <updated>2021-02-01T11:40:00Z</updated>
-    <published>2021-02-01T11:40:00Z</published>
+    <updated>2021-02-01T11:41:00Z</updated>
+    <published>2021-02-01T11:41:00Z</published>
     <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>
