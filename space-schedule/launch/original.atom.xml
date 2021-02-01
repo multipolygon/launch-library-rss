@@ -22,13 +22,29 @@
     <category term="falcon"/>
     <category term="falcon_9_block_5"/>
     <category term="communications"/>
-    <category term="launch_complex_39_a"/>
+    <category term="space_launch_complex_40"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~russian_space_forces~cc9500f6-3b2f-4fcf-b9dd-6a3640209961</id>
+    <title>Soyuz 2.1b | Lotos-S1</title>
+    <updated>2021-02-02T20:45:28Z</updated>
+    <published>2021-02-02T20:45:28Z</published>
+    <content type="text">Lotos-S1 spacecraft is a part of the Liana constellation, designed for orbital electronic intelligence.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/cc9500f6-3b2f-4fcf-b9dd-6a3640209961.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg"/>
+    <category term="launch"/>
+    <category term="russian_space_forces"/>
+    <category term="government"/>
+    <category term="soyuz"/>
+    <category term="soyuz_2_1_b"/>
+    <category term="government_top_secret"/>
+    <category term="43_4_43_r"/>
   </entry>
   <entry>
     <id>~space-schedule~launch~space_x~dfd4f0e0-0ab4-494d-bd88-1b93b934b269</id>
     <title>Falcon 9 Block 5 | Starlink 17</title>
-    <updated>2021-02-01T11:41:00Z</updated>
-    <published>2021-02-01T11:41:00Z</published>
+    <updated>2021-02-02T11:19:00Z</updated>
+    <published>2021-02-02T11:19:00Z</published>
     <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>

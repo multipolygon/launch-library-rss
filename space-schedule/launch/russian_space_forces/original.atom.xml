@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Russian Space Forces</title>
+  <title>Russian Space Forces | Launch | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_space_forces/original.atom.xml</id>
-  <updated>2021-01-31T11:31:05.674Z</updated>
+  <updated>2021-02-02T20:45:28Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_space_forces/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_space_forces/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Frussian_space_forces%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
+  <entry>
+    <id>cc9500f6-3b2f-4fcf-b9dd-6a3640209961</id>
+    <title>Soyuz 2.1b | Lotos-S1</title>
+    <updated>2021-02-02T20:45:28Z</updated>
+    <published>2021-02-02T20:45:28Z</published>
+    <content type="text">Lotos-S1 spacecraft is a part of the Liana constellation, designed for orbital electronic intelligence.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/cc9500f6-3b2f-4fcf-b9dd-6a3640209961.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg"/>
+    <category term="launch"/>
+    <category term="russian_space_forces"/>
+    <category term="government"/>
+    <category term="soyuz"/>
+    <category term="soyuz_2_1_b"/>
+    <category term="government_top_secret"/>
+    <category term="43_4_43_r"/>
+  </entry>
 </feed>

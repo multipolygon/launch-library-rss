@@ -17,6 +17,22 @@
     "videoCount": 0,
     "imageCount": 0
    }
+  },
+  {
+   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_space_forces/original.json",
+   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Frussian_space_forces%2Foriginal.json",
+   "title": "Russian Space Forces | Launch | Space Schedule",
+   "content_text": "1 items",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg",
+   "date_published": "2021-02-02T20:45:28Z",
+   "date_modified": "2021-02-02T20:45:28Z",
+   "_geo": {},
+   "_meta": {
+    "itemCount": 1,
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 0
+   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -27,7 +43,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal_index.json",
  "_meta": {
-  "itemCount": 1,
+  "itemCount": 2,
   "pageNumber": 1,
   "pageCount": 1
  }
