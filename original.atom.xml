@@ -117,6 +117,22 @@ It will also carry a helicopter drone.</content>
     <category term="space_launch_complex_40"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~space_x~dfd4f0e0-0ab4-494d-bd88-1b93b934b269</id>
+    <title>Falcon 9 Block 5 | Starlink 17</title>
+    <updated>2021-02-03T10:57:00Z</updated>
+    <published>2021-02-03T10:57:00Z</published>
+    <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>
+    <category term="launch"/>
+    <category term="space_x"/>
+    <category term="commercial"/>
+    <category term="falcon"/>
+    <category term="falcon_9_block_5"/>
+    <category term="communications"/>
+    <category term="launch_complex_39_a"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~russian_space_forces~cc9500f6-3b2f-4fcf-b9dd-6a3640209961</id>
     <title>Soyuz 2.1b | Lotos-S1</title>
     <updated>2021-02-02T20:45:28Z</updated>
@@ -133,20 +149,21 @@ It will also carry a helicopter drone.</content>
     <category term="43_4_43_r"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~space_x~dfd4f0e0-0ab4-494d-bd88-1b93b934b269</id>
-    <title>Falcon 9 Block 5 | Starlink 17</title>
-    <updated>2021-02-02T11:19:00Z</updated>
-    <published>2021-02-02T11:19:00Z</published>
-    <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>
+    <id>~space-schedule~launch~space_x~44670393-85da-4504-99f3-e5b95d71cbb6</id>
+    <title>Starship SN9 | 10 km Flight</title>
+    <updated>2021-02-02T15:00:00Z</updated>
+    <published>2021-02-02T15:00:00Z</published>
+    <content type="text">The SN9 Starship prototype will attempt a first flight similar to the one performed by SN8. It consists of a powered ascent to an altitude of 10 km or 33,000 ft, followed by a belly flop maneuver, controlled descent, landing flip maneuver and landing.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/44670393-85da-4504-99f3-e5b95d71cbb6.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210107083733.jpeg"/>
     <category term="launch"/>
     <category term="space_x"/>
     <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon_9_block_5"/>
-    <category term="communications"/>
-    <category term="launch_complex_39_a"/>
+    <category term="starship"/>
+    <category term="starship_prototype"/>
+    <category term="test_flight"/>
+    <category term="launch_pad_b"/>
+    <category term="space_x_starship"/>
   </entry>
   <entry>
     <id>~space-schedule~event~eva~210</id>

@@ -36,8 +36,24 @@
       <category>communications</category>
       <category>launch_complex_39_a</category>
       <guid isPermaLink="false">dfd4f0e0-0ab4-494d-bd88-1b93b934b269</guid>
-      <pubDate>Tue, 02 Feb 2021 11:19:00 GMT</pubDate>
+      <pubDate>Wed, 03 Feb 2021 10:57:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>
+    </item>
+    <item>
+      <title>Starship SN9 | 10 km Flight</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/44670393-85da-4504-99f3-e5b95d71cbb6.json</link>
+      <description>The SN9 Starship prototype will attempt a first flight similar to the one performed by SN8. It consists of a powered ascent to an altitude of 10 km or 33,000 ft, followed by a belly flop maneuver, controlled descent, landing flip maneuver and landing.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>starship</category>
+      <category>starship_prototype</category>
+      <category>test_flight</category>
+      <category>launch_pad_b</category>
+      <category>space_x_starship</category>
+      <guid isPermaLink="false">44670393-85da-4504-99f3-e5b95d71cbb6</guid>
+      <pubDate>Tue, 02 Feb 2021 15:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210107083733.jpeg"/>
     </item>
   </channel>
 </rss>
