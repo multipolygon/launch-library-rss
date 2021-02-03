@@ -261,39 +261,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~eva~210",
-   "title": "US EVA-70",
-   "content_text": "NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on February 1 to continue upgrades on the space station.",
-   "url": "https://www.youtube.com/watch?v=XwuRiIh2IlM",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-70_image_20210105201708.jpg",
-   "date_published": "2021-02-01T12:05:00Z",
-   "date_modified": "2021-02-01T12:05:00Z",
-   "tags": [
-    "event",
-    "eva"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-70_image_20210105201708.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "EVA | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "210",
-    "global": "~space-schedule~event~eva~210"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -304,7 +271,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 9,
+  "itemCount": 8,
   "pageNumber": 1,
   "pageCount": 1
  }

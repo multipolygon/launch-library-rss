@@ -95,6 +95,21 @@ It will also carry a helicopter drone.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg"/>
     </item>
     <item>
+      <title>Falcon 9 Block 5 | Starlink 17</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json</link>
+      <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon_9_block_5</category>
+      <category>communications</category>
+      <category>launch_complex_39_a</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~dfd4f0e0-0ab4-494d-bd88-1b93b934b269</guid>
+      <pubDate>Thu, 04 Feb 2021 10:36:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>
+    </item>
+    <item>
       <title>Falcon 9 Block 5 | Starlink 18</title>
       <link>https://ll.thespacedevs.com/2.1.0/launch/f31702e8-6353-4c9a-932c-5bd104717500.json</link>
       <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
@@ -108,62 +123,6 @@ It will also carry a helicopter drone.</description>
       <guid isPermaLink="false">~space-schedule~launch~space_x~f31702e8-6353-4c9a-932c-5bd104717500</guid>
       <pubDate>Thu, 04 Feb 2021 06:19:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210130064420.png"/>
-    </item>
-    <item>
-      <title>Falcon 9 Block 5 | Starlink 17</title>
-      <link>https://ll.thespacedevs.com/2.1.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json</link>
-      <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
-      <category>launch</category>
-      <category>space_x</category>
-      <category>commercial</category>
-      <category>falcon</category>
-      <category>falcon_9_block_5</category>
-      <category>communications</category>
-      <category>launch_complex_39_a</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~dfd4f0e0-0ab4-494d-bd88-1b93b934b269</guid>
-      <pubDate>Wed, 03 Feb 2021 10:57:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>
-    </item>
-    <item>
-      <title>Soyuz 2.1b | Lotos-S1</title>
-      <link>https://ll.thespacedevs.com/2.1.0/launch/cc9500f6-3b2f-4fcf-b9dd-6a3640209961.json</link>
-      <description>Lotos-S1 spacecraft is a part of the Liana constellation, designed for orbital electronic intelligence.</description>
-      <category>launch</category>
-      <category>russian_space_forces</category>
-      <category>government</category>
-      <category>soyuz</category>
-      <category>soyuz_2_1_b</category>
-      <category>government_top_secret</category>
-      <category>43_4_43_r</category>
-      <guid isPermaLink="false">~space-schedule~launch~russian_space_forces~cc9500f6-3b2f-4fcf-b9dd-6a3640209961</guid>
-      <pubDate>Tue, 02 Feb 2021 20:45:28 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg"/>
-    </item>
-    <item>
-      <title>Starship SN9 | 10 km Flight</title>
-      <link>https://ll.thespacedevs.com/2.1.0/launch/44670393-85da-4504-99f3-e5b95d71cbb6.json</link>
-      <description>The SN9 Starship prototype will attempt a first flight similar to the one performed by SN8. It consists of a powered ascent to an altitude of 10 km or 33,000 ft, followed by a belly flop maneuver, controlled descent, landing flip maneuver and landing.</description>
-      <category>launch</category>
-      <category>space_x</category>
-      <category>commercial</category>
-      <category>starship</category>
-      <category>starship_prototype</category>
-      <category>test_flight</category>
-      <category>launch_pad_b</category>
-      <category>space_x_starship</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~44670393-85da-4504-99f3-e5b95d71cbb6</guid>
-      <pubDate>Tue, 02 Feb 2021 15:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210107083733.jpeg"/>
-    </item>
-    <item>
-      <title>US EVA-70</title>
-      <link>https://www.youtube.com/watch?v=XwuRiIh2IlM</link>
-      <description>NASA astronauts Michael Hopkins and Victor Glover will exit the orbital lab on February 1 to continue upgrades on the space station.</description>
-      <category>event</category>
-      <category>eva</category>
-      <guid isPermaLink="false">~space-schedule~event~eva~210</guid>
-      <pubDate>Mon, 01 Feb 2021 12:05:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-70_image_20210105201708.jpg"/>
     </item>
   </channel>
 </rss>
