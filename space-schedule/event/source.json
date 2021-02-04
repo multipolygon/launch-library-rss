@@ -605,12 +605,12 @@
                 "id": 9,
                 "name": "Landing"
             },
-            "description": "NASA's Mars 2020 Perseverance rover will land in the Jezero crater using a MSL-inspired sky-crane.\r\nIt will investigate an astrobiologically relevant ancient environment on Mars and investigate its surface geological processes and history, including the assessment of its past habitability, the possibility of past life on Mars, and the potential for preservation of biosignatures within accessible geological materials. It will cache sample containers along its route for a potential future Mars sample-return mission.\r\nIt will also carry a helicopter drone.",
+            "description": "NASA's Mars 2020 Perseverance rover will land in the Jezero crater using a MSL-inspired sky-crane at approximately 20:55 UTC.\r\n\r\nIt will investigate an astrobiologically relevant ancient environment on Mars and investigate its surface geological processes and history, including the assessment of its past habitability, the possibility of past life on Mars, and the potential for preservation of biosignatures within accessible geological materials. It will cache sample containers along its route for a potential future Mars sample-return mission.\r\n\r\nIt will also carry a helicopter drone.",
             "location": "Jezero crater, Mars",
             "news_url": "https://mars.nasa.gov/mars2020/",
             "video_url": "https://youtu.be/21X5lGlDOfg",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa2520mars252020202520rover2520landing_image_20200214105503.jpg",
-            "date": "2021-02-18T21:15:00Z",
+            "date": "2021-02-18T19:15:00Z",
             "launches": [
                 {
                     "id": "c4db6995-f25f-4608-8eb9-ce95d5226af2",
@@ -848,7 +848,7 @@
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-15_cygnus_be_image_20210105203038.jpg",
-            "date": "2021-02-22T09:30:00Z",
+            "date": "2021-02-22T09:40:00Z",
             "launches": [
                 {
                     "id": "f1a8d62e-709d-4e89-ade9-a8779492c7a9",
