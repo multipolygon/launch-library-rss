@@ -268,8 +268,8 @@
    "content_text": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
    "url": "https://ll.thespacedevs.com/2.1.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png",
-   "date_published": "2021-02-05T10:14:00Z",
-   "date_modified": "2021-02-05T10:14:00Z",
+   "date_published": "2021-02-07T09:31:00Z",
+   "date_modified": "2021-02-07T09:31:00Z",
    "tags": [
     "launch",
     "space_x",
@@ -298,42 +298,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~china_aerospace_corporation~7b9544ce-4507-4f04-9a77-697c35aa082c",
-   "title": "Long March 3B | Tianhui-3",
-   "content_text": "Alleged Chinese inclined geosynchronous 20 m resolution L-band radar satellite. Payload identity uncertain.",
-   "url": "https://ll.thespacedevs.com/2.1.0/launch/7b9544ce-4507-4f04-9a77-697c35aa082c.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-   "date_published": "2021-02-04T15:29:00Z",
-   "date_modified": "2021-02-04T15:29:00Z",
-   "tags": [
-    "launch",
-    "china_aerospace_corporation",
-    "government",
-    "long_march_3",
-    "earth_science",
-    "launch_complex_3_lc_3_la_1"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "China Aerospace Corporation | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "7b9544ce-4507-4f04-9a77-697c35aa082c",
-    "global": "~space-schedule~launch~china_aerospace_corporation~7b9544ce-4507-4f04-9a77-697c35aa082c"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_corporation/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -344,7 +308,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 10,
+  "itemCount": 9,
   "pageNumber": 1,
   "pageCount": 1
  }

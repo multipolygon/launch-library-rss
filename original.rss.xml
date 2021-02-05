@@ -108,22 +108,8 @@ It will also carry a helicopter drone.</description>
       <category>communications</category>
       <category>launch_complex_39_a</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~dfd4f0e0-0ab4-494d-bd88-1b93b934b269</guid>
-      <pubDate>Fri, 05 Feb 2021 10:14:00 GMT</pubDate>
+      <pubDate>Sun, 07 Feb 2021 09:31:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>
-    </item>
-    <item>
-      <title>Long March 3B | Tianhui-3</title>
-      <link>https://ll.thespacedevs.com/2.1.0/launch/7b9544ce-4507-4f04-9a77-697c35aa082c.json</link>
-      <description>Alleged Chinese inclined geosynchronous 20 m resolution L-band radar satellite. Payload identity uncertain.</description>
-      <category>launch</category>
-      <category>china_aerospace_corporation</category>
-      <category>government</category>
-      <category>long_march_3</category>
-      <category>earth_science</category>
-      <category>launch_complex_3_lc_3_la_1</category>
-      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_corporation~7b9544ce-4507-4f04-9a77-697c35aa082c</guid>
-      <pubDate>Thu, 04 Feb 2021 15:29:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
     </item>
   </channel>
 </rss>

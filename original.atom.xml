@@ -105,8 +105,8 @@ It will also carry a helicopter drone.</content>
   <entry>
     <id>~space-schedule~launch~space_x~dfd4f0e0-0ab4-494d-bd88-1b93b934b269</id>
     <title>Falcon 9 Block 5 | Starlink 17</title>
-    <updated>2021-02-05T10:14:00Z</updated>
-    <published>2021-02-05T10:14:00Z</published>
+    <updated>2021-02-07T09:31:00Z</updated>
+    <published>2021-02-07T09:31:00Z</published>
     <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>
@@ -117,20 +117,5 @@ It will also carry a helicopter drone.</content>
     <category term="falcon_9_block_5"/>
     <category term="communications"/>
     <category term="launch_complex_39_a"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~china_aerospace_corporation~7b9544ce-4507-4f04-9a77-697c35aa082c</id>
-    <title>Long March 3B | Tianhui-3</title>
-    <updated>2021-02-04T15:29:00Z</updated>
-    <published>2021-02-04T15:29:00Z</published>
-    <content type="text">Alleged Chinese inclined geosynchronous 20 m resolution L-band radar satellite. Payload identity uncertain.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/7b9544ce-4507-4f04-9a77-697c35aa082c.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_corporation"/>
-    <category term="government"/>
-    <category term="long_march_3"/>
-    <category term="earth_science"/>
-    <category term="launch_complex_3_lc_3_la_1"/>
   </entry>
 </feed>

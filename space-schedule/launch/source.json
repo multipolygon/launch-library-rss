@@ -1,86 +1,8 @@
 {
-    "count": 2,
+    "count": 1,
     "next": null,
     "previous": null,
     "results": [
-        {
-            "id": "7b9544ce-4507-4f04-9a77-697c35aa082c",
-            "url": "https://ll.thespacedevs.com/2.1.0/launch/7b9544ce-4507-4f04-9a77-697c35aa082c.json",
-            "launch_library_id": null,
-            "slug": "long-march-3b-tianhui-3",
-            "name": "Long March 3B | Tianhui-3",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-02-04T15:45:00Z",
-            "window_end": "2021-02-04T16:25:00Z",
-            "window_start": "2021-02-04T15:29:00Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": null,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 189,
-                "url": "https://ll.thespacedevs.com/2.1.0/agencies/189.json",
-                "name": "China Aerospace Corporation",
-                "type": "Government"
-            },
-            "rocket": {
-                "id": 2827,
-                "configuration": {
-                    "id": 50,
-                    "launch_library_id": 69,
-                    "url": "https://ll.thespacedevs.com/2.1.0/config/launcher/50.json",
-                    "name": "Long March 3",
-                    "family": "Long March 3",
-                    "full_name": "Long March 3B/E",
-                    "variant": "B/E"
-                }
-            },
-            "mission": {
-                "id": 1234,
-                "launch_library_id": null,
-                "name": "Tianhui-3",
-                "description": "Alleged Chinese inclined geosynchronous 20 m resolution L-band radar satellite. Payload identity uncertain.",
-                "launch_designator": null,
-                "type": "Earth Science",
-                "orbit": {
-                    "id": 3,
-                    "name": "Geosynchronous Orbit",
-                    "abbrev": "GSO"
-                }
-            },
-            "pad": {
-                "id": 66,
-                "url": "https://ll.thespacedevs.com/2.1.0/pad/66.json",
-                "agency_id": 17,
-                "name": "Launch Complex 3 ( LC-3 ) ( LA-1 )",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center",
-                "map_url": "https://www.google.com/maps/?q=28.246017,102.026556",
-                "latitude": "28.246017",
-                "longitude": "102.026556",
-                "location": {
-                    "id": 16,
-                    "url": "https://ll.thespacedevs.com/2.1.0/location/16.json",
-                    "name": "Xichang Satellite Launch Center, People's Republic of China",
-                    "country_code": "CHN",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg",
-                    "total_launch_count": 100,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_66_20200803143611.jpg",
-                "total_launch_count": 34
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-            "infographic": null,
-            "program": []
-        },
         {
             "id": "dfd4f0e0-0ab4-494d-bd88-1b93b934b269",
             "url": "https://ll.thespacedevs.com/2.1.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json",
@@ -91,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-02-05T10:14:00Z",
-            "window_end": "2021-02-05T10:14:00Z",
-            "window_start": "2021-02-05T10:14:00Z",
+            "net": "2021-02-07T09:31:00Z",
+            "window_end": "2021-02-07T09:31:00Z",
+            "window_start": "2021-02-07T09:31:00Z",
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,
