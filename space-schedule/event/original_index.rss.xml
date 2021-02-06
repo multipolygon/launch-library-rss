@@ -7,9 +7,16 @@
     <description>All feeds in Space Schedule &gt; Event.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Mon, 22 Feb 2021 09:40:00 GMT</pubDate>
+    <pubDate>Sun, 28 Feb 2021 12:05:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>EVA | Event | Space Schedule</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Feva%2Foriginal.json</link>
+      <description>1 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json</guid>
+      <pubDate>Sun, 28 Feb 2021 12:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>Berthing | Event | Space Schedule</title>
       <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fberthing%2Foriginal.json</link>
@@ -37,13 +44,6 @@
       <description>1 items</description>
       <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json</guid>
       <pubDate>Wed, 17 Feb 2021 06:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EVA | Event | Space Schedule</title>
-      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Feva%2Foriginal.json</link>
-      <description>2 items</description>
-      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json</guid>
-      <pubDate>Mon, 15 Feb 2021 12:05:00 GMT</pubDate>
     </item>
     <item>
       <title>Orbital Insertion | Event | Space Schedule</title>

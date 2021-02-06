@@ -7,12 +7,12 @@
     <description>All items in Space Schedule &gt; Launch.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Sun, 07 Feb 2021 09:31:00 GMT</pubDate>
+    <pubDate>Fri, 12 Feb 2021 05:25:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
-      <title>Falcon 9 Block 5 | Starlink 17</title>
-      <link>https://ll.thespacedevs.com/2.1.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json</link>
+      <title>Falcon 9 Block 5 | Starlink 19</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/985f1cc1-82c1-4a89-b2cc-e9dc91829a0e.json</link>
       <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
       <category>launch</category>
       <category>space_x</category>
@@ -21,9 +21,9 @@
       <category>falcon_9_block_5</category>
       <category>communications</category>
       <category>launch_complex_39_a</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~dfd4f0e0-0ab4-494d-bd88-1b93b934b269</guid>
-      <pubDate>Sun, 07 Feb 2021 09:31:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~985f1cc1-82c1-4a89-b2cc-e9dc91829a0e</guid>
+      <pubDate>Fri, 12 Feb 2021 05:25:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210202223956.png"/>
     </item>
   </channel>
 </rss>
