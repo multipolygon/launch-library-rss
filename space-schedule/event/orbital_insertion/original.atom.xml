@@ -13,7 +13,7 @@
     <updated>2021-02-11T00:00:00Z</updated>
     <published>2021-02-11T00:00:00Z</published>
     <content type="text">The Tianwen-1 orbiter and rover will perform a 14 minutes long burn to enter an elliptical orbit around Mars.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/125.json"/>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/125/"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png"/>
     <category term="event"/>
     <category term="orbital_insertion"/>
@@ -24,7 +24,7 @@
     <updated>2021-02-09T15:45:00Z</updated>
     <published>2021-02-09T15:45:00Z</published>
     <content type="text">The Emirates Mars Mission 'Hope' will enter an orbit around Mars after its six months interplanetary journey.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/124.json"/>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/124/"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/emirates_mars_m_image_20200721105747.jpg"/>
     <category term="event"/>
     <category term="orbital_insertion"/>

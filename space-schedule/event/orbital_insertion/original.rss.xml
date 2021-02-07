@@ -11,7 +11,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
       <title>Tianwen-1 Mars Orbit Insertion</title>
-      <link>https://ll.thespacedevs.com/2.1.0/event/125.json</link>
+      <link>https://ll.thespacedevs.com/2.1.0/event/125/</link>
       <description>The Tianwen-1 orbiter and rover will perform a 14 minutes long burn to enter an elliptical orbit around Mars.</description>
       <category>event</category>
       <category>orbital_insertion</category>
@@ -21,7 +21,7 @@
     </item>
     <item>
       <title>Emirates Mars Mission 'Hope' Mars Orbit Insertion</title>
-      <link>https://ll.thespacedevs.com/2.1.0/event/124.json</link>
+      <link>https://ll.thespacedevs.com/2.1.0/event/124/</link>
       <description>The Emirates Mars Mission 'Hope' will enter an orbit around Mars after its six months interplanetary journey.</description>
       <category>event</category>
       <category>orbital_insertion</category>

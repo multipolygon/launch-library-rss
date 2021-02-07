@@ -7,9 +7,41 @@
     <description>All items in Space Schedule &gt; Launch.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Fri, 12 Feb 2021 05:25:00 GMT</pubDate>
+    <pubDate>Sat, 20 Feb 2021 17:36:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Antares 230+ | Cygnus CRS-2 NG-15 (S.S. Katherine Johnson)</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/f1a8d62e-709d-4e89-ade9-a8779492c7a9.json</link>
+      <description>This is the 15th planned flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 14th flight to the International Space Station under the Commercial Resupply Services contract with NASA. This Cygnus spacecraft carries the name of American mathematician Katherine Johnson, whose calculations of orbital mechanics as a NASA employee were critical to the success of the first and subsequent U.S. crewed spaceflights.</description>
+      <category>launch</category>
+      <category>northrop_grumman_innovation_systems</category>
+      <category>commercial</category>
+      <category>antares</category>
+      <category>antares_230</category>
+      <category>resupply</category>
+      <category>launch_area_0_a</category>
+      <category>commercial_resupply_services</category>
+      <guid isPermaLink="false">~space-schedule~launch~northrop_grumman_innovation_systems~f1a8d62e-709d-4e89-ade9-a8779492c7a9</guid>
+      <pubDate>Sat, 20 Feb 2021 17:36:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg"/>
+    </item>
+    <item>
+      <title>Soyuz 2.1a | Progress MS-16 (77P)</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/19407719-d66c-492d-9288-e5e6ddbadbd6.json</link>
+      <description>The Progress MS-16 Spacecraft will resupply the International Space Station.</description>
+      <category>launch</category>
+      <category>russian_federal_space_agency_roscosmos</category>
+      <category>government</category>
+      <category>soyuz</category>
+      <category>soyuz_2_1_a</category>
+      <category>resupply</category>
+      <category>31_6</category>
+      <category>international_space_station</category>
+      <guid isPermaLink="false">~space-schedule~launch~russian_federal_space_agency_roscosmos~19407719-d66c-492d-9288-e5e6ddbadbd6</guid>
+      <pubDate>Mon, 15 Feb 2021 04:45:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
+    </item>
     <item>
       <title>Falcon 9 Block 5 | Starlink 19</title>
       <link>https://ll.thespacedevs.com/2.1.0/launch/985f1cc1-82c1-4a89-b2cc-e9dc91829a0e.json</link>
@@ -20,7 +52,7 @@
       <category>falcon</category>
       <category>falcon_9_block_5</category>
       <category>communications</category>
-      <category>launch_complex_39_a</category>
+      <category>space_launch_complex_40</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~985f1cc1-82c1-4a89-b2cc-e9dc91829a0e</guid>
       <pubDate>Fri, 12 Feb 2021 05:25:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210202223956.png"/>
