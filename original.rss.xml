@@ -115,7 +115,7 @@ It will also carry a helicopter drone.</description>
     </item>
     <item>
       <title>Tianwen-1 Mars Orbit Insertion</title>
-      <link>https://ll.thespacedevs.com/2.1.0/event/125/</link>
+      <link>https://ll.thespacedevs.com/2.1.0/event/125.json</link>
       <description>The Tianwen-1 orbiter and rover will perform a 14 minutes long burn to enter an elliptical orbit around Mars.</description>
       <category>event</category>
       <category>orbital_insertion</category>
@@ -125,13 +125,23 @@ It will also carry a helicopter drone.</description>
     </item>
     <item>
       <title>Emirates Mars Mission 'Hope' Mars Orbit Insertion</title>
-      <link>https://ll.thespacedevs.com/2.1.0/event/124/</link>
+      <link>https://ll.thespacedevs.com/2.1.0/event/124.json</link>
       <description>The Emirates Mars Mission 'Hope' will enter an orbit around Mars after its six months interplanetary journey.</description>
       <category>event</category>
       <category>orbital_insertion</category>
       <guid isPermaLink="false">~space-schedule~event~orbital_insertion~124</guid>
       <pubDate>Tue, 09 Feb 2021 15:45:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/emirates_mars_m_image_20200721105747.jpg"/>
+    </item>
+    <item>
+      <title>Starship SN10 Static Fire</title>
+      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
+      <description>SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~226</guid>
+      <pubDate>Mon, 08 Feb 2021 14:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
     </item>
   </channel>
 </rss>

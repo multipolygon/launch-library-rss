@@ -283,7 +283,7 @@
    "id": "~space-schedule~event~orbital_insertion~125",
    "title": "Tianwen-1 Mars Orbit Insertion",
    "content_text": "The Tianwen-1 orbiter and rover will perform a 14 minutes long burn to enter an elliptical orbit around Mars.",
-   "url": "https://ll.thespacedevs.com/2.1.0/event/125/",
+   "url": "https://ll.thespacedevs.com/2.1.0/event/125.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png",
    "date_published": "2021-02-11T00:00:00Z",
    "date_modified": "2021-02-11T00:00:00Z",
@@ -315,7 +315,7 @@
    "id": "~space-schedule~event~orbital_insertion~124",
    "title": "Emirates Mars Mission 'Hope' Mars Orbit Insertion",
    "content_text": "The Emirates Mars Mission 'Hope' will enter an orbit around Mars after its six months interplanetary journey.",
-   "url": "https://ll.thespacedevs.com/2.1.0/event/124/",
+   "url": "https://ll.thespacedevs.com/2.1.0/event/124.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/emirates_mars_m_image_20200721105747.jpg",
    "date_published": "2021-02-09T15:45:00Z",
    "date_modified": "2021-02-09T15:45:00Z",
@@ -342,6 +342,39 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/orbital_insertion/original.json"
    }
+  },
+  {
+   "id": "~space-schedule~event~static_fire~226",
+   "title": "Starship SN10 Static Fire",
+   "content_text": "SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.",
+   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg",
+   "date_published": "2021-02-08T14:00:00Z",
+   "date_modified": "2021-02-08T14:00:00Z",
+   "tags": [
+    "event",
+    "static_fire"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Static Fire | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "226",
+    "global": "~space-schedule~event~static_fire~226"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
+   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -352,7 +385,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 10,
+  "itemCount": 11,
   "pageNumber": 1,
   "pageCount": 1
  }

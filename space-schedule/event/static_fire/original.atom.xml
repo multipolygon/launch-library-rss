@@ -20,4 +20,15 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <category term="event"/>
     <category term="static_fire"/>
   </entry>
+  <entry>
+    <id>226</id>
+    <title>Starship SN10 Static Fire</title>
+    <updated>2021-02-08T14:00:00Z</updated>
+    <published>2021-02-08T14:00:00Z</published>
+    <content type="text">SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
+  </entry>
 </feed>
