@@ -70,17 +70,6 @@ It will also carry a helicopter drone.</content>
     <category term="docking"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~orbital_insertion~125</id>
-    <title>Tianwen-1 Mars Orbit Insertion</title>
-    <updated>2021-02-11T00:00:00Z</updated>
-    <published>2021-02-11T00:00:00Z</published>
-    <content type="text">The Tianwen-1 orbiter and rover will perform a 14 minutes long burn to enter an elliptical orbit around Mars.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/125.json"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png"/>
-    <category term="event"/>
-    <category term="orbital_insertion"/>
-  </entry>
-  <entry>
     <id>~space-schedule~event~static_fire~226</id>
     <title>Starship SN10 Static Fire</title>
     <updated>2021-02-10T14:00:00Z</updated>
@@ -90,6 +79,17 @@ It will also carry a helicopter drone.</content>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
     <category term="event"/>
     <category term="static_fire"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~orbital_insertion~125</id>
+    <title>Tianwen-1 Mars Orbit Insertion</title>
+    <updated>2021-02-10T12:00:00Z</updated>
+    <published>2021-02-10T12:00:00Z</published>
+    <content type="text">The Tianwen-1 orbiter and rover will perform a 14 minutes long burn to enter an elliptical orbit around Mars.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/event/125.json"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png"/>
+    <category term="event"/>
+    <category term="orbital_insertion"/>
   </entry>
   <entry>
     <id>~space-schedule~event~orbital_insertion~124</id>

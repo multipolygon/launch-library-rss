@@ -167,38 +167,6 @@
    }
   },
   {
-   "id": "~space-schedule~event~orbital_insertion~125",
-   "title": "Tianwen-1 Mars Orbit Insertion",
-   "content_text": "The Tianwen-1 orbiter and rover will perform a 14 minutes long burn to enter an elliptical orbit around Mars.",
-   "url": "https://ll.thespacedevs.com/2.1.0/event/125.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png",
-   "date_published": "2021-02-11T00:00:00Z",
-   "date_modified": "2021-02-11T00:00:00Z",
-   "tags": [
-    "event",
-    "orbital_insertion"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Orbital Insertion | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "125",
-    "global": "~space-schedule~event~orbital_insertion~125"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/orbital_insertion/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~event~static_fire~226",
    "title": "Starship SN10 Static Fire",
    "content_text": "SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.",
@@ -229,6 +197,38 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~orbital_insertion~125",
+   "title": "Tianwen-1 Mars Orbit Insertion",
+   "content_text": "The Tianwen-1 orbiter and rover will perform a 14 minutes long burn to enter an elliptical orbit around Mars.",
+   "url": "https://ll.thespacedevs.com/2.1.0/event/125.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png",
+   "date_published": "2021-02-10T12:00:00Z",
+   "date_modified": "2021-02-10T12:00:00Z",
+   "tags": [
+    "event",
+    "orbital_insertion"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/png",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Orbital Insertion | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "125",
+    "global": "~space-schedule~event~orbital_insertion~125"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/orbital_insertion/original.json"
    }
   },
   {

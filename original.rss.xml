@@ -110,18 +110,8 @@ It will also carry a helicopter drone.</description>
       <category>communications</category>
       <category>space_launch_complex_40</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~985f1cc1-82c1-4a89-b2cc-e9dc91829a0e</guid>
-      <pubDate>Fri, 12 Feb 2021 05:25:00 GMT</pubDate>
+      <pubDate>Sun, 14 Feb 2021 04:42:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210202223956.png"/>
-    </item>
-    <item>
-      <title>Tianwen-1 Mars Orbit Insertion</title>
-      <link>https://ll.thespacedevs.com/2.1.0/event/125.json</link>
-      <description>The Tianwen-1 orbiter and rover will perform a 14 minutes long burn to enter an elliptical orbit around Mars.</description>
-      <category>event</category>
-      <category>orbital_insertion</category>
-      <guid isPermaLink="false">~space-schedule~event~orbital_insertion~125</guid>
-      <pubDate>Thu, 11 Feb 2021 00:00:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png"/>
     </item>
     <item>
       <title>Starship SN10 Static Fire</title>
@@ -132,6 +122,16 @@ It will also carry a helicopter drone.</description>
       <guid isPermaLink="false">~space-schedule~event~static_fire~226</guid>
       <pubDate>Wed, 10 Feb 2021 14:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
+    </item>
+    <item>
+      <title>Tianwen-1 Mars Orbit Insertion</title>
+      <link>https://ll.thespacedevs.com/2.1.0/event/125.json</link>
+      <description>The Tianwen-1 orbiter and rover will perform a 14 minutes long burn to enter an elliptical orbit around Mars.</description>
+      <category>event</category>
+      <category>orbital_insertion</category>
+      <guid isPermaLink="false">~space-schedule~event~orbital_insertion~125</guid>
+      <pubDate>Wed, 10 Feb 2021 12:00:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png"/>
     </item>
     <item>
       <title>Emirates Mars Mission 'Hope' Mars Orbit Insertion</title>

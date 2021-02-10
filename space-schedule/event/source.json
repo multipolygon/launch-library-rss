@@ -103,46 +103,6 @@
             "program": []
         },
         {
-            "id": 226,
-            "url": "https://ll.thespacedevs.com/2.1.0/event/226.json",
-            "slug": "starship-sn10-static-fire",
-            "name": "Starship SN10 Static Fire",
-            "type": {
-                "id": 5,
-                "name": "Static Fire"
-            },
-            "description": "SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.",
-            "location": "Boca Chica, Texas",
-            "news_url": null,
-            "video_url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
-            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg",
-            "date": "2021-02-10T14:00:00Z",
-            "launches": [],
-            "expeditions": [],
-            "spacestations": [],
-            "program": [
-                {
-                    "id": 1,
-                    "url": "https://ll.thespacedevs.com/2.1.0/program/1.json",
-                    "name": "SpaceX Starship",
-                    "description": "The SpaceX Starship is a fully reusable super heavy-lift launch vehicle under development by SpaceX since 2012, as a self-funded private spaceflight project.  The second stage of the Starship — is designed as a long-duration cargo and passenger-carrying spacecraft. It is expected to be initially used without any booster stage at all, as part of an extensive development program to prove out launch-and-landing and iterate on a variety of design details, particularly with respect to the vehicle's atmospheric reentry.",
-                    "agencies": [
-                        {
-                            "id": 121,
-                            "url": "https://ll.thespacedevs.com/2.1.0/agencies/121.json",
-                            "name": "SpaceX",
-                            "type": "Commercial"
-                        }
-                    ],
-                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/spacex2520star_program_20201129204513.png",
-                    "start_date": "2019-03-01T05:00:00Z",
-                    "end_date": null,
-                    "info_url": "https://www.spacex.com/vehicles/starship/",
-                    "wiki_url": "https://en.wikipedia.org/wiki/SpaceX_Starship"
-                }
-            ]
-        },
-        {
             "id": 125,
             "url": "https://ll.thespacedevs.com/2.1.0/event/125.json",
             "slug": "tianwen-1-mars-orbit-insertion",
@@ -156,7 +116,7 @@
             "news_url": null,
             "video_url": null,
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png",
-            "date": "2021-02-11T00:00:00Z",
+            "date": "2021-02-10T12:00:00Z",
             "launches": [
                 {
                     "id": "485b9786-5bec-4dd4-ac82-69d1fd702047",
@@ -240,6 +200,46 @@
             "expeditions": [],
             "spacestations": [],
             "program": []
+        },
+        {
+            "id": 226,
+            "url": "https://ll.thespacedevs.com/2.1.0/event/226.json",
+            "slug": "starship-sn10-static-fire",
+            "name": "Starship SN10 Static Fire",
+            "type": {
+                "id": 5,
+                "name": "Static Fire"
+            },
+            "description": "SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.",
+            "location": "Boca Chica, Texas",
+            "news_url": null,
+            "video_url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
+            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg",
+            "date": "2021-02-10T14:00:00Z",
+            "launches": [],
+            "expeditions": [],
+            "spacestations": [],
+            "program": [
+                {
+                    "id": 1,
+                    "url": "https://ll.thespacedevs.com/2.1.0/program/1.json",
+                    "name": "SpaceX Starship",
+                    "description": "The SpaceX Starship is a fully reusable super heavy-lift launch vehicle under development by SpaceX since 2012, as a self-funded private spaceflight project.  The second stage of the Starship — is designed as a long-duration cargo and passenger-carrying spacecraft. It is expected to be initially used without any booster stage at all, as part of an extensive development program to prove out launch-and-landing and iterate on a variety of design details, particularly with respect to the vehicle's atmospheric reentry.",
+                    "agencies": [
+                        {
+                            "id": 121,
+                            "url": "https://ll.thespacedevs.com/2.1.0/agencies/121.json",
+                            "name": "SpaceX",
+                            "type": "Commercial"
+                        }
+                    ],
+                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/spacex2520star_program_20201129204513.png",
+                    "start_date": "2019-03-01T05:00:00Z",
+                    "end_date": null,
+                    "info_url": "https://www.spacex.com/vehicles/starship/",
+                    "wiki_url": "https://en.wikipedia.org/wiki/SpaceX_Starship"
+                }
+            ]
         },
         {
             "id": 213,
