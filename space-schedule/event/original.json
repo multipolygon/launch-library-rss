@@ -172,8 +172,8 @@
    "content_text": "SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.",
    "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg",
-   "date_published": "2021-02-10T14:00:00Z",
-   "date_modified": "2021-02-10T14:00:00Z",
+   "date_published": "2021-02-11T18:00:00Z",
+   "date_modified": "2021-02-11T18:00:00Z",
    "tags": [
     "event",
     "static_fire"
@@ -230,38 +230,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/orbital_insertion/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~orbital_insertion~124",
-   "title": "Emirates Mars Mission 'Hope' Mars Orbit Insertion",
-   "content_text": "The Emirates Mars Mission 'Hope' will enter an orbit around Mars after its six months interplanetary journey.",
-   "url": "https://emiratesmarsmission.ae/live/",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/emirates_mars_m_image_20200721105747.jpg",
-   "date_published": "2021-02-09T15:45:00Z",
-   "date_modified": "2021-02-09T15:45:00Z",
-   "tags": [
-    "event",
-    "orbital_insertion"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/emirates_mars_m_image_20200721105747.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Orbital Insertion | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "124",
-    "global": "~space-schedule~event~orbital_insertion~124"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/orbital_insertion/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -272,7 +240,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 8,
+  "itemCount": 7,
   "pageNumber": 1,
   "pageCount": 1
  }
