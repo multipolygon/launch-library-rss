@@ -83,6 +83,21 @@ It will also carry a helicopter drone.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-16__image_20210105202651.jpg"/>
     </item>
     <item>
+      <title>Falcon 9 Block 5 | Starlink 17</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json</link>
+      <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon_9_block_5</category>
+      <category>communications</category>
+      <category>launch_complex_39_a</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~dfd4f0e0-0ab4-494d-bd88-1b93b934b269</guid>
+      <pubDate>Tue, 16 Feb 2021 06:17:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>
+    </item>
+    <item>
       <title>Soyuz 2.1a | Progress MS-16 (77P)</title>
       <link>https://ll.thespacedevs.com/2.1.0/launch/19407719-d66c-492d-9288-e5e6ddbadbd6.json</link>
       <description>The Progress MS-16 Spacecraft will resupply the International Space Station.</description>
@@ -122,16 +137,6 @@ It will also carry a helicopter drone.</description>
       <guid isPermaLink="false">~space-schedule~event~static_fire~226</guid>
       <pubDate>Thu, 11 Feb 2021 18:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
-    </item>
-    <item>
-      <title>Tianwen-1 Mars Orbit Insertion</title>
-      <link>https://ll.thespacedevs.com/2.1.0/event/125.json</link>
-      <description>The Tianwen-1 orbiter and rover will perform a 14 minutes long burn to enter an elliptical orbit around Mars.</description>
-      <category>event</category>
-      <category>orbital_insertion</category>
-      <guid isPermaLink="false">~space-schedule~event~orbital_insertion~125</guid>
-      <pubDate>Wed, 10 Feb 2021 12:00:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png"/>
     </item>
   </channel>
 </rss>

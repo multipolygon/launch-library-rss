@@ -76,15 +76,5 @@ It will also carry a helicopter drone.</description>
       <pubDate>Thu, 11 Feb 2021 18:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
     </item>
-    <item>
-      <title>Tianwen-1 Mars Orbit Insertion</title>
-      <link>https://ll.thespacedevs.com/2.1.0/event/125.json</link>
-      <description>The Tianwen-1 orbiter and rover will perform a 14 minutes long burn to enter an elliptical orbit around Mars.</description>
-      <category>event</category>
-      <category>orbital_insertion</category>
-      <guid isPermaLink="false">~space-schedule~event~orbital_insertion~125</guid>
-      <pubDate>Wed, 10 Feb 2021 12:00:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_mars__image_20200721110519.png"/>
-    </item>
   </channel>
 </rss>

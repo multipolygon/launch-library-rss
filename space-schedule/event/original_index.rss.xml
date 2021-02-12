@@ -45,12 +45,5 @@
       <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json</guid>
       <pubDate>Wed, 17 Feb 2021 06:19:00 GMT</pubDate>
     </item>
-    <item>
-      <title>Orbital Insertion | Event | Space Schedule</title>
-      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Forbital_insertion%2Foriginal.json</link>
-      <description>1 items</description>
-      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/orbital_insertion/original.json</guid>
-      <pubDate>Wed, 10 Feb 2021 12:00:00 GMT</pubDate>
-    </item>
   </channel>
 </rss>
