@@ -7,9 +7,23 @@
     <description>All items in Space Schedule &gt; Launch.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Sat, 20 Feb 2021 17:36:00 GMT</pubDate>
+    <pubDate>Sun, 28 Feb 2021 04:53:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>PSLV-DL | Amazonia 1, Anand &amp; Saditsat</title>
+      <link>https://ll.thespacedevs.com/2.1.0/launch/2a787f32-69db-4f78-b69e-df26e5c2ab88.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>indian_space_research_organization</category>
+      <category>government</category>
+      <category>pslv</category>
+      <category>pslv_dl</category>
+      <category>satish_dhawan_space_centre_first_launch_pad</category>
+      <guid isPermaLink="false">~space-schedule~launch~indian_space_research_organization~2a787f32-69db-4f78-b69e-df26e5c2ab88</guid>
+      <pubDate>Sun, 28 Feb 2021 04:53:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv-dl_image_20191201202351.jpeg"/>
+    </item>
     <item>
       <title>Antares 230+ | Cygnus CRS-2 NG-15 (S.S. Katherine Johnson)</title>
       <link>https://ll.thespacedevs.com/2.1.0/launch/f1a8d62e-709d-4e89-ade9-a8779492c7a9.json</link>
@@ -69,7 +83,7 @@
       <category>communications</category>
       <category>space_launch_complex_40</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~985f1cc1-82c1-4a89-b2cc-e9dc91829a0e</guid>
-      <pubDate>Sun, 14 Feb 2021 04:42:00 GMT</pubDate>
+      <pubDate>Mon, 15 Feb 2021 04:20:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210202223956.png"/>
     </item>
   </channel>

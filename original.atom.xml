@@ -20,6 +20,21 @@
     <category term="eva"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~indian_space_research_organization~2a787f32-69db-4f78-b69e-df26e5c2ab88</id>
+    <title>PSLV-DL | Amazonia 1, Anand &amp; Saditsat</title>
+    <updated>2021-02-28T04:53:00Z</updated>
+    <published>2021-02-28T04:53:00Z</published>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/2a787f32-69db-4f78-b69e-df26e5c2ab88.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv-dl_image_20191201202351.jpeg"/>
+    <category term="launch"/>
+    <category term="indian_space_research_organization"/>
+    <category term="government"/>
+    <category term="pslv"/>
+    <category term="pslv_dl"/>
+    <category term="satish_dhawan_space_centre_first_launch_pad"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~berthing~214</id>
     <title>NG-15 Cygnus Berthing</title>
     <updated>2021-02-22T09:40:00Z</updated>
@@ -103,6 +118,19 @@ It will also carry a helicopter drone.</content>
     <category term="launch_complex_39_a"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~static_fire~226</id>
+    <title>Starship SN10 Static Fire</title>
+    <updated>2021-02-15T18:00:00Z</updated>
+    <published>2021-02-15T18:00:00Z</published>
+    <content type="text">SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.&#xD;
+&#xD;
+The date of this event is a NET estimate.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~russian_federal_space_agency_roscosmos~19407719-d66c-492d-9288-e5e6ddbadbd6</id>
     <title>Soyuz 2.1a | Progress MS-16 (77P)</title>
     <updated>2021-02-15T04:45:00Z</updated>
@@ -122,8 +150,8 @@ It will also carry a helicopter drone.</content>
   <entry>
     <id>~space-schedule~launch~space_x~985f1cc1-82c1-4a89-b2cc-e9dc91829a0e</id>
     <title>Falcon 9 Block 5 | Starlink 19</title>
-    <updated>2021-02-14T04:42:00Z</updated>
-    <published>2021-02-14T04:42:00Z</published>
+    <updated>2021-02-15T04:20:00Z</updated>
+    <published>2021-02-15T04:20:00Z</published>
     <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/985f1cc1-82c1-4a89-b2cc-e9dc91829a0e.json"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210202223956.png"/>
@@ -134,16 +162,5 @@ It will also carry a helicopter drone.</content>
     <category term="falcon_9_block_5"/>
     <category term="communications"/>
     <category term="space_launch_complex_40"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~226</id>
-    <title>Starship SN10 Static Fire</title>
-    <updated>2021-02-11T18:00:00Z</updated>
-    <published>2021-02-11T18:00:00Z</published>
-    <content type="text">SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
   </entry>
 </feed>

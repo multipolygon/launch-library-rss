@@ -2,12 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Launch</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/original.atom.xml</id>
-  <updated>2021-02-20T17:36:00Z</updated>
+  <updated>2021-02-28T04:53:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items in Space Schedule &gt; Launch.</subtitle>
+  <entry>
+    <id>~space-schedule~launch~indian_space_research_organization~2a787f32-69db-4f78-b69e-df26e5c2ab88</id>
+    <title>PSLV-DL | Amazonia 1, Anand &amp; Saditsat</title>
+    <updated>2021-02-28T04:53:00Z</updated>
+    <published>2021-02-28T04:53:00Z</published>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/2a787f32-69db-4f78-b69e-df26e5c2ab88.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv-dl_image_20191201202351.jpeg"/>
+    <category term="launch"/>
+    <category term="indian_space_research_organization"/>
+    <category term="government"/>
+    <category term="pslv"/>
+    <category term="pslv_dl"/>
+    <category term="satish_dhawan_space_centre_first_launch_pad"/>
+  </entry>
   <entry>
     <id>~space-schedule~launch~northrop_grumman_innovation_systems~f1a8d62e-709d-4e89-ade9-a8779492c7a9</id>
     <title>Antares 230+ | Cygnus CRS-2 NG-15 (S.S. Katherine Johnson)</title>
@@ -61,8 +76,8 @@
   <entry>
     <id>~space-schedule~launch~space_x~985f1cc1-82c1-4a89-b2cc-e9dc91829a0e</id>
     <title>Falcon 9 Block 5 | Starlink 19</title>
-    <updated>2021-02-14T04:42:00Z</updated>
-    <published>2021-02-14T04:42:00Z</published>
+    <updated>2021-02-15T04:20:00Z</updated>
+    <published>2021-02-15T04:20:00Z</published>
     <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/985f1cc1-82c1-4a89-b2cc-e9dc91829a0e.json"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210202223956.png"/>
