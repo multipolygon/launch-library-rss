@@ -208,6 +208,39 @@
    }
   },
   {
+   "id": "~space-schedule~event~static_fire~226",
+   "title": "Starship SN10 Static Fire",
+   "content_text": "SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.\r\n\r\nThe date of this event is a NET estimate.",
+   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg",
+   "date_published": "2021-02-18T18:00:00Z",
+   "date_modified": "2021-02-18T18:00:00Z",
+   "tags": [
+    "event",
+    "static_fire"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Static Fire | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "226",
+    "global": "~space-schedule~event~static_fire~226"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~docking~213",
    "title": "Progress MS-16 Docking",
    "content_text": "The Progress MS-16 spacecraft is scheduled to autonomously dock to the Russian Orbital Segment of the ISS.",
@@ -246,8 +279,8 @@
    "content_text": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
    "url": "https://ll.thespacedevs.com/2.1.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png",
-   "date_published": "2021-02-16T06:17:00Z",
-   "date_modified": "2021-02-16T06:17:00Z",
+   "date_published": "2021-02-17T05:55:00Z",
+   "date_modified": "2021-02-17T05:55:00Z",
    "tags": [
     "launch",
     "space_x",
@@ -278,84 +311,13 @@
    }
   },
   {
-   "id": "~space-schedule~event~static_fire~226",
-   "title": "Starship SN10 Static Fire",
-   "content_text": "SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.\r\n\r\nThe date of this event is a NET estimate.",
-   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg",
-   "date_published": "2021-02-15T18:00:00Z",
-   "date_modified": "2021-02-15T18:00:00Z",
-   "tags": [
-    "event",
-    "static_fire"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Static Fire | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "226",
-    "global": "~space-schedule~event~static_fire~226"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~launch~russian_federal_space_agency_roscosmos~19407719-d66c-492d-9288-e5e6ddbadbd6",
-   "title": "Soyuz 2.1a | Progress MS-16 (77P)",
-   "content_text": "The Progress MS-16 Spacecraft will resupply the International Space Station.",
-   "url": "https://ll.thespacedevs.com/2.1.0/launch/19407719-d66c-492d-9288-e5e6ddbadbd6.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
-   "date_published": "2021-02-15T04:45:00Z",
-   "date_modified": "2021-02-15T04:45:00Z",
-   "tags": [
-    "launch",
-    "russian_federal_space_agency_roscosmos",
-    "government",
-    "soyuz",
-    "soyuz_2_1_a",
-    "resupply",
-    "31_6",
-    "international_space_station"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "19407719-d66c-492d-9288-e5e6ddbadbd6",
-    "global": "~space-schedule~launch~russian_federal_space_agency_roscosmos~19407719-d66c-492d-9288-e5e6ddbadbd6"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~launch~space_x~985f1cc1-82c1-4a89-b2cc-e9dc91829a0e",
    "title": "Falcon 9 Block 5 | Starlink 19",
    "content_text": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
    "url": "https://ll.thespacedevs.com/2.1.0/launch/985f1cc1-82c1-4a89-b2cc-e9dc91829a0e.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210202223956.png",
-   "date_published": "2021-02-15T04:21:00Z",
-   "date_modified": "2021-02-15T04:21:00Z",
+   "date_published": "2021-02-16T03:59:00Z",
+   "date_modified": "2021-02-16T03:59:00Z",
    "tags": [
     "launch",
     "space_x",
@@ -394,7 +356,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 11,
+  "itemCount": 10,
   "pageNumber": 1,
   "pageCount": 1
  }

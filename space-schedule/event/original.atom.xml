@@ -59,6 +59,19 @@ It will also carry a helicopter drone.</content>
     <category term="landing"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~static_fire~226</id>
+    <title>Starship SN10 Static Fire</title>
+    <updated>2021-02-18T18:00:00Z</updated>
+    <published>2021-02-18T18:00:00Z</published>
+    <content type="text">SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.&#xD;
+&#xD;
+The date of this event is a NET estimate.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~docking~213</id>
     <title>Progress MS-16 Docking</title>
     <updated>2021-02-17T06:19:00Z</updated>
@@ -68,18 +81,5 @@ It will also carry a helicopter drone.</content>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-16__image_20210105202651.jpg"/>
     <category term="event"/>
     <category term="docking"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~226</id>
-    <title>Starship SN10 Static Fire</title>
-    <updated>2021-02-15T18:00:00Z</updated>
-    <published>2021-02-15T18:00:00Z</published>
-    <content type="text">SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.&#xD;
-&#xD;
-The date of this event is a NET estimate.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
   </entry>
 </feed>

@@ -57,16 +57,6 @@ It will also carry a helicopter drone.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa2520mars252020202520rover2520landing_image_20200214105503.jpg"/>
     </item>
     <item>
-      <title>Progress MS-16 Docking</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The Progress MS-16 spacecraft is scheduled to autonomously dock to the Russian Orbital Segment of the ISS.</description>
-      <category>event</category>
-      <category>docking</category>
-      <guid isPermaLink="false">~space-schedule~event~docking~213</guid>
-      <pubDate>Wed, 17 Feb 2021 06:19:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-16__image_20210105202651.jpg"/>
-    </item>
-    <item>
       <title>Starship SN10 Static Fire</title>
       <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
       <description>SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.&#xD;
@@ -75,8 +65,18 @@ The date of this event is a NET estimate.</description>
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">~space-schedule~event~static_fire~226</guid>
-      <pubDate>Mon, 15 Feb 2021 18:00:00 GMT</pubDate>
+      <pubDate>Thu, 18 Feb 2021 18:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
+    </item>
+    <item>
+      <title>Progress MS-16 Docking</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The Progress MS-16 spacecraft is scheduled to autonomously dock to the Russian Orbital Segment of the ISS.</description>
+      <category>event</category>
+      <category>docking</category>
+      <guid isPermaLink="false">~space-schedule~event~docking~213</guid>
+      <pubDate>Wed, 17 Feb 2021 06:19:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-16__image_20210105202651.jpg"/>
     </item>
   </channel>
 </rss>

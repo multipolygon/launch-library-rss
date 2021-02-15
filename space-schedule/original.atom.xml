@@ -91,6 +91,19 @@ It will also carry a helicopter drone.</content>
     <category term="landing"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~static_fire~226</id>
+    <title>Starship SN10 Static Fire</title>
+    <updated>2021-02-18T18:00:00Z</updated>
+    <published>2021-02-18T18:00:00Z</published>
+    <content type="text">SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.&#xD;
+&#xD;
+The date of this event is a NET estimate.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~docking~213</id>
     <title>Progress MS-16 Docking</title>
     <updated>2021-02-17T06:19:00Z</updated>
@@ -104,8 +117,8 @@ It will also carry a helicopter drone.</content>
   <entry>
     <id>~space-schedule~launch~space_x~dfd4f0e0-0ab4-494d-bd88-1b93b934b269</id>
     <title>Falcon 9 Block 5 | Starlink 17</title>
-    <updated>2021-02-16T06:17:00Z</updated>
-    <published>2021-02-16T06:17:00Z</published>
+    <updated>2021-02-17T05:55:00Z</updated>
+    <published>2021-02-17T05:55:00Z</published>
     <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>
@@ -118,40 +131,10 @@ It will also carry a helicopter drone.</content>
     <category term="launch_complex_39_a"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~static_fire~226</id>
-    <title>Starship SN10 Static Fire</title>
-    <updated>2021-02-15T18:00:00Z</updated>
-    <published>2021-02-15T18:00:00Z</published>
-    <content type="text">SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.&#xD;
-&#xD;
-The date of this event is a NET estimate.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~russian_federal_space_agency_roscosmos~19407719-d66c-492d-9288-e5e6ddbadbd6</id>
-    <title>Soyuz 2.1a | Progress MS-16 (77P)</title>
-    <updated>2021-02-15T04:45:00Z</updated>
-    <published>2021-02-15T04:45:00Z</published>
-    <content type="text">The Progress MS-16 Spacecraft will resupply the International Space Station.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/19407719-d66c-492d-9288-e5e6ddbadbd6.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
-    <category term="launch"/>
-    <category term="russian_federal_space_agency_roscosmos"/>
-    <category term="government"/>
-    <category term="soyuz"/>
-    <category term="soyuz_2_1_a"/>
-    <category term="resupply"/>
-    <category term="31_6"/>
-    <category term="international_space_station"/>
-  </entry>
-  <entry>
     <id>~space-schedule~launch~space_x~985f1cc1-82c1-4a89-b2cc-e9dc91829a0e</id>
     <title>Falcon 9 Block 5 | Starlink 19</title>
-    <updated>2021-02-15T04:21:00Z</updated>
-    <published>2021-02-15T04:21:00Z</published>
+    <updated>2021-02-16T03:59:00Z</updated>
+    <published>2021-02-16T03:59:00Z</published>
     <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/985f1cc1-82c1-4a89-b2cc-e9dc91829a0e.json"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210202223956.png"/>

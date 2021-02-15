@@ -52,24 +52,8 @@
       <category>communications</category>
       <category>launch_complex_39_a</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~dfd4f0e0-0ab4-494d-bd88-1b93b934b269</guid>
-      <pubDate>Tue, 16 Feb 2021 06:17:00 GMT</pubDate>
+      <pubDate>Wed, 17 Feb 2021 05:55:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>
-    </item>
-    <item>
-      <title>Soyuz 2.1a | Progress MS-16 (77P)</title>
-      <link>https://ll.thespacedevs.com/2.1.0/launch/19407719-d66c-492d-9288-e5e6ddbadbd6.json</link>
-      <description>The Progress MS-16 Spacecraft will resupply the International Space Station.</description>
-      <category>launch</category>
-      <category>russian_federal_space_agency_roscosmos</category>
-      <category>government</category>
-      <category>soyuz</category>
-      <category>soyuz_2_1_a</category>
-      <category>resupply</category>
-      <category>31_6</category>
-      <category>international_space_station</category>
-      <guid isPermaLink="false">~space-schedule~launch~russian_federal_space_agency_roscosmos~19407719-d66c-492d-9288-e5e6ddbadbd6</guid>
-      <pubDate>Mon, 15 Feb 2021 04:45:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
     </item>
     <item>
       <title>Falcon 9 Block 5 | Starlink 19</title>
@@ -83,7 +67,7 @@
       <category>communications</category>
       <category>space_launch_complex_40</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~985f1cc1-82c1-4a89-b2cc-e9dc91829a0e</guid>
-      <pubDate>Mon, 15 Feb 2021 04:21:00 GMT</pubDate>
+      <pubDate>Tue, 16 Feb 2021 03:59:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210202223956.png"/>
     </item>
   </channel>
