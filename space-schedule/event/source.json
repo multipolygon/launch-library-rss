@@ -86,11 +86,11 @@
                             "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
                             "country_code": "KAZ",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_15_20200803142517.jpg",
-                            "total_launch_count": 465,
+                            "total_launch_count": 466,
                             "total_landing_count": 0
                         },
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_20_20200803143516.jpg",
-                        "total_launch_count": 75
+                        "total_launch_count": 76
                     },
                     "webcast_live": true,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",

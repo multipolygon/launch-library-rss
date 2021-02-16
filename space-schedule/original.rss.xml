@@ -123,20 +123,5 @@ The date of this event is a NET estimate.</description>
       <pubDate>Wed, 17 Feb 2021 05:55:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>
     </item>
-    <item>
-      <title>Falcon 9 Block 5 | Starlink 19</title>
-      <link>https://ll.thespacedevs.com/2.1.0/launch/985f1cc1-82c1-4a89-b2cc-e9dc91829a0e.json</link>
-      <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
-      <category>launch</category>
-      <category>space_x</category>
-      <category>commercial</category>
-      <category>falcon</category>
-      <category>falcon_9_block_5</category>
-      <category>communications</category>
-      <category>space_launch_complex_40</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~985f1cc1-82c1-4a89-b2cc-e9dc91829a0e</guid>
-      <pubDate>Tue, 16 Feb 2021 03:59:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210202223956.png"/>
-    </item>
   </channel>
 </rss>
