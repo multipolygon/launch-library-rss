@@ -93,8 +93,8 @@ It will also carry a helicopter drone.</content>
   <entry>
     <id>~space-schedule~event~static_fire~226</id>
     <title>Starship SN10 Static Fire</title>
-    <updated>2021-02-18T18:00:00Z</updated>
-    <published>2021-02-18T18:00:00Z</published>
+    <updated>2021-02-18T00:00:00Z</updated>
+    <published>2021-02-18T00:00:00Z</published>
     <content type="text">SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.&#xD;
 &#xD;
 The date of this event is a NET estimate.</content>
@@ -113,21 +113,5 @@ The date of this event is a NET estimate.</content>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-16__image_20210105202651.jpg"/>
     <category term="event"/>
     <category term="docking"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~space_x~dfd4f0e0-0ab4-494d-bd88-1b93b934b269</id>
-    <title>Falcon 9 Block 5 | Starlink 17</title>
-    <updated>2021-02-17T05:55:00Z</updated>
-    <published>2021-02-17T05:55:00Z</published>
-    <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>
-    <category term="launch"/>
-    <category term="space_x"/>
-    <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon_9_block_5"/>
-    <category term="communications"/>
-    <category term="launch_complex_39_a"/>
   </entry>
 </feed>

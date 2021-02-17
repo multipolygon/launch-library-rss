@@ -218,7 +218,7 @@
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg",
-            "date": "2021-02-18T18:00:00Z",
+            "date": "2021-02-18T00:00:00Z",
             "launches": [],
             "expeditions": [],
             "spacestations": [],
@@ -327,7 +327,7 @@
                             "name": "Cape Canaveral, FL, USA",
                             "country_code": "USA",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg",
-                            "total_launch_count": 211,
+                            "total_launch_count": 212,
                             "total_landing_count": 20
                         },
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_29_20200803143528.jpg",
@@ -1090,7 +1090,7 @@
                             "name": "Cape Canaveral, FL, USA",
                             "country_code": "USA",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_12_20200803142519.jpg",
-                            "total_launch_count": 211,
+                            "total_launch_count": 212,
                             "total_landing_count": 20
                         },
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_29_20200803143528.jpg",
