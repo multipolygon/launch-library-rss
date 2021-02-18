@@ -19,6 +19,22 @@
    }
   },
   {
+   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json",
+   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json",
+   "title": "Static Fire | Event | Space Schedule",
+   "content_text": "2 items",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg",
+   "date_published": "2021-02-25T00:00:00Z",
+   "date_modified": "2021-02-25T00:00:00Z",
+   "_geo": {},
+   "_meta": {
+    "itemCount": 2,
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 0
+   }
+  },
+  {
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/berthing/original.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fberthing%2Foriginal.json",
    "title": "Berthing | Event | Space Schedule",
@@ -29,22 +45,6 @@
    "_geo": {},
    "_meta": {
     "itemCount": 1,
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 0
-   }
-  },
-  {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json",
-   "title": "Static Fire | Event | Space Schedule",
-   "content_text": "2 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg",
-   "date_published": "2021-02-22T00:00:00Z",
-   "date_modified": "2021-02-22T00:00:00Z",
-   "_geo": {},
-   "_meta": {
-    "itemCount": 2,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0
@@ -65,22 +65,6 @@
     "videoCount": 0,
     "imageCount": 0
    }
-  },
-  {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fdocking%2Foriginal.json",
-   "title": "Docking | Event | Space Schedule",
-   "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-16__image_20210105202651.jpg",
-   "date_published": "2021-02-17T06:19:00Z",
-   "date_modified": "2021-02-17T06:19:00Z",
-   "_geo": {},
-   "_meta": {
-    "itemCount": 1,
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 0
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -91,7 +75,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal_index.json",
  "_meta": {
-  "itemCount": 5,
+  "itemCount": 4,
   "pageNumber": 1,
   "pageCount": 1
  }

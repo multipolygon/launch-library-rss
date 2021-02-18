@@ -21,6 +21,18 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg"/>
     </item>
     <item>
+      <title>SLS 2nd Hot Fire Test</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
+&#xD;
+The four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~225</guid>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
+    </item>
+    <item>
       <title>NG-15 Cygnus Berthing</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>NASA TV will livestream the rendezvous and capture of Northrop Grumman's NG-15 Cygnus cargo craft to the International Space Station.</description>
@@ -31,16 +43,16 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-15_cygnus_be_image_20210105203038.jpg"/>
     </item>
     <item>
-      <title>SLS 2nd Hot Fire Test</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
+      <title>Starship SN10 Static Fire</title>
+      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
+      <description>SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.&#xD;
 &#xD;
-The four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
+The date of this event is a NET estimate.</description>
       <category>event</category>
       <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~225</guid>
-      <pubDate>Mon, 22 Feb 2021 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~226</guid>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
     </item>
     <item>
       <title>NASA Mars 2020 Perseverance Rover Landing</title>
@@ -55,28 +67,6 @@ It will also carry a helicopter drone.</description>
       <guid isPermaLink="false">~space-schedule~event~landing~89</guid>
       <pubDate>Thu, 18 Feb 2021 19:15:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa2520mars252020202520rover2520landing_image_20200214105503.jpg"/>
-    </item>
-    <item>
-      <title>Starship SN10 Static Fire</title>
-      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.&#xD;
-&#xD;
-The date of this event is a NET estimate.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~226</guid>
-      <pubDate>Thu, 18 Feb 2021 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
-    </item>
-    <item>
-      <title>Progress MS-16 Docking</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The Progress MS-16 spacecraft is scheduled to autonomously dock to the Russian Orbital Segment of the ISS.</description>
-      <category>event</category>
-      <category>docking</category>
-      <guid isPermaLink="false">~space-schedule~event~docking~213</guid>
-      <pubDate>Wed, 17 Feb 2021 06:19:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-16__image_20210105202651.jpg"/>
     </item>
   </channel>
 </rss>

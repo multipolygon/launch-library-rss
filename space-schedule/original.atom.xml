@@ -25,7 +25,7 @@
     <updated>2021-02-28T04:53:00Z</updated>
     <published>2021-02-28T04:53:00Z</published>
     <content type="text">-</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/2a787f32-69db-4f78-b69e-df26e5c2ab88.json"/>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/2a787f32-69db-4f78-b69e-df26e5c2ab88.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv-dl_image_20191201202351.jpeg"/>
     <category term="launch"/>
     <category term="indian_space_research_organization"/>
@@ -33,6 +33,19 @@
     <category term="pslv"/>
     <category term="pslv_dl"/>
     <category term="satish_dhawan_space_centre_first_launch_pad"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~static_fire~225</id>
+    <title>SLS 2nd Hot Fire Test</title>
+    <updated>2021-02-25T00:00:00Z</updated>
+    <published>2021-02-25T00:00:00Z</published>
+    <content type="text">NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
+&#xD;
+The four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
   </entry>
   <entry>
     <id>~space-schedule~event~berthing~214</id>
@@ -46,25 +59,12 @@
     <category term="berthing"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~static_fire~225</id>
-    <title>SLS 2nd Hot Fire Test</title>
-    <updated>2021-02-22T00:00:00Z</updated>
-    <published>2021-02-22T00:00:00Z</published>
-    <content type="text">NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
-&#xD;
-The four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
-  </entry>
-  <entry>
     <id>~space-schedule~launch~northrop_grumman_innovation_systems~f1a8d62e-709d-4e89-ade9-a8779492c7a9</id>
     <title>Antares 230+ | Cygnus CRS-2 NG-15 (S.S. Katherine Johnson)</title>
     <updated>2021-02-20T17:36:00Z</updated>
     <published>2021-02-20T17:36:00Z</published>
     <content type="text">This is the 15th planned flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 14th flight to the International Space Station under the Commercial Resupply Services contract with NASA. This Cygnus spacecraft carries the name of American mathematician Katherine Johnson, whose calculations of orbital mechanics as a NASA employee were critical to the success of the first and subsequent U.S. crewed spaceflights.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.1.0/launch/f1a8d62e-709d-4e89-ade9-a8779492c7a9.json"/>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/f1a8d62e-709d-4e89-ade9-a8779492c7a9.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg"/>
     <category term="launch"/>
     <category term="northrop_grumman_innovation_systems"/>
@@ -74,6 +74,19 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <category term="resupply"/>
     <category term="launch_area_0_a"/>
     <category term="commercial_resupply_services"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~static_fire~226</id>
+    <title>Starship SN10 Static Fire</title>
+    <updated>2021-02-20T00:00:00Z</updated>
+    <published>2021-02-20T00:00:00Z</published>
+    <content type="text">SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.&#xD;
+&#xD;
+The date of this event is a NET estimate.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
   </entry>
   <entry>
     <id>~space-schedule~event~landing~89</id>
@@ -89,29 +102,5 @@ It will also carry a helicopter drone.</content>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa2520mars252020202520rover2520landing_image_20200214105503.jpg"/>
     <category term="event"/>
     <category term="landing"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~226</id>
-    <title>Starship SN10 Static Fire</title>
-    <updated>2021-02-18T00:00:00Z</updated>
-    <published>2021-02-18T00:00:00Z</published>
-    <content type="text">SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.&#xD;
-&#xD;
-The date of this event is a NET estimate.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~docking~213</id>
-    <title>Progress MS-16 Docking</title>
-    <updated>2021-02-17T06:19:00Z</updated>
-    <published>2021-02-17T06:19:00Z</published>
-    <content type="text">The Progress MS-16 spacecraft is scheduled to autonomously dock to the Russian Orbital Segment of the ISS.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-16__image_20210105202651.jpg"/>
-    <category term="event"/>
-    <category term="docking"/>
   </entry>
 </feed>

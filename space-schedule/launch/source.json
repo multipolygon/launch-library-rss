@@ -5,7 +5,7 @@
     "results": [
         {
             "id": "f1a8d62e-709d-4e89-ade9-a8779492c7a9",
-            "url": "https://ll.thespacedevs.com/2.1.0/launch/f1a8d62e-709d-4e89-ade9-a8779492c7a9.json",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/f1a8d62e-709d-4e89-ade9-a8779492c7a9.json",
             "launch_library_id": 2044,
             "slug": "antares-230-cygnus-crs-2-ng-15-ss-katherine-johnso",
             "name": "Antares 230+ | Cygnus CRS-2 NG-15 (S.S. Katherine Johnson)",
@@ -25,7 +25,7 @@
             "hashtag": null,
             "launch_service_provider": {
                 "id": 257,
-                "url": "https://ll.thespacedevs.com/2.1.0/agencies/257.json",
+                "url": "https://ll.thespacedevs.com/2.2.0/agencies/257.json",
                 "name": "Northrop Grumman Innovation Systems",
                 "type": "Commercial"
             },
@@ -34,7 +34,7 @@
                 "configuration": {
                     "id": 210,
                     "launch_library_id": 241,
-                    "url": "https://ll.thespacedevs.com/2.1.0/config/launcher/210.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/210.json",
                     "name": "Antares 230+",
                     "family": "Antares",
                     "full_name": "Antares 230+",
@@ -56,7 +56,7 @@
             },
             "pad": {
                 "id": 76,
-                "url": "https://ll.thespacedevs.com/2.1.0/pad/76.json",
+                "url": "https://ll.thespacedevs.com/2.2.0/pad/76.json",
                 "agency_id": 44,
                 "name": "Launch Area 0 A",
                 "info_url": null,
@@ -66,7 +66,7 @@
                 "longitude": "-75.4881",
                 "location": {
                     "id": 21,
-                    "url": "https://ll.thespacedevs.com/2.1.0/location/21.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/location/21.json",
                     "name": "Wallops Island, Virginia, USA",
                     "country_code": "USA",
                     "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_21_20200803142423.jpg",
@@ -82,31 +82,31 @@
             "program": [
                 {
                     "id": 11,
-                    "url": "https://ll.thespacedevs.com/2.1.0/program/11.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/program/11.json",
                     "name": "Commercial Resupply Services",
                     "description": "Commercial Resupply Services (CRS) are a series of flights awarded by NASA for the delivery of cargo and supplies to the International Space Station.The first CRS contracts were signed in 2008 and awarded $1.6 billion to SpaceX for twelve cargo Dragon and $1.9 billion to Orbital Sciences for eight Cygnus flights, covering deliveries to 2016. The Falcon 9 and Antares rockets were also developed under the CRS program to deliver cargo spacecraft to the ISS.",
                     "agencies": [
                         {
                             "id": 44,
-                            "url": "https://ll.thespacedevs.com/2.1.0/agencies/44.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44.json",
                             "name": "National Aeronautics and Space Administration",
                             "type": "Government"
                         },
                         {
                             "id": 257,
-                            "url": "https://ll.thespacedevs.com/2.1.0/agencies/257.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/257.json",
                             "name": "Northrop Grumman Innovation Systems",
                             "type": "Commercial"
                         },
                         {
                             "id": 1020,
-                            "url": "https://ll.thespacedevs.com/2.1.0/agencies/1020.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/1020.json",
                             "name": "Sierra Nevada Corporation",
                             "type": "Commercial"
                         },
                         {
                             "id": 121,
-                            "url": "https://ll.thespacedevs.com/2.1.0/agencies/121.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/121.json",
                             "name": "SpaceX",
                             "type": "Commercial"
                         }
@@ -121,7 +121,7 @@
         },
         {
             "id": "2a787f32-69db-4f78-b69e-df26e5c2ab88",
-            "url": "https://ll.thespacedevs.com/2.1.0/launch/2a787f32-69db-4f78-b69e-df26e5c2ab88.json",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/2a787f32-69db-4f78-b69e-df26e5c2ab88.json",
             "launch_library_id": 1662,
             "slug": "pslv-dl-amazonia-1-anand-saditsat",
             "name": "PSLV-DL | Amazonia 1, Anand & Saditsat",
@@ -141,7 +141,7 @@
             "hashtag": null,
             "launch_service_provider": {
                 "id": 31,
-                "url": "https://ll.thespacedevs.com/2.1.0/agencies/31.json",
+                "url": "https://ll.thespacedevs.com/2.2.0/agencies/31.json",
                 "name": "Indian Space Research Organization",
                 "type": "Government"
             },
@@ -150,7 +150,7 @@
                 "configuration": {
                     "id": 178,
                     "launch_library_id": 215,
-                    "url": "https://ll.thespacedevs.com/2.1.0/config/launcher/178.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/178.json",
                     "name": "PSLV-DL",
                     "family": "PSLV",
                     "full_name": "PSLV-DL",
@@ -160,7 +160,7 @@
             "mission": null,
             "pad": {
                 "id": 50,
-                "url": "https://ll.thespacedevs.com/2.1.0/pad/50.json",
+                "url": "https://ll.thespacedevs.com/2.2.0/pad/50.json",
                 "agency_id": 31,
                 "name": "Satish Dhawan Space Centre First Launch Pad",
                 "info_url": null,
@@ -170,7 +170,7 @@
                 "longitude": "80.235",
                 "location": {
                     "id": 14,
-                    "url": "https://ll.thespacedevs.com/2.1.0/location/14.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/location/14.json",
                     "name": "Sriharikota, Republic of India",
                     "country_code": "IND",
                     "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_14_20200803142403.jpg",
