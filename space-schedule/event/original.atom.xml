@@ -33,6 +33,17 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <category term="static_fire"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~static_fire~226</id>
+    <title>Starship SN10 Static Fire</title>
+    <updated>2021-02-23T00:00:00Z</updated>
+    <published>2021-02-23T00:00:00Z</published>
+    <content type="text">SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~berthing~214</id>
     <title>NG-15 Cygnus Berthing</title>
     <updated>2021-02-22T09:40:00Z</updated>
@@ -44,19 +55,6 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <category term="berthing"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~static_fire~226</id>
-    <title>Starship SN10 Static Fire</title>
-    <updated>2021-02-20T00:00:00Z</updated>
-    <published>2021-02-20T00:00:00Z</published>
-    <content type="text">SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.&#xD;
-&#xD;
-The date of this event is a NET estimate.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
-  </entry>
-  <entry>
     <id>~space-schedule~event~landing~89</id>
     <title>NASA Mars 2020 Perseverance Rover Landing</title>
     <updated>2021-02-18T19:15:00Z</updated>
@@ -65,7 +63,7 @@ The date of this event is a NET estimate.</content>
 &#xD;
 It will investigate an astrobiologically relevant ancient environment on Mars and investigate its surface geological processes and history, including the assessment of its past habitability, the possibility of past life on Mars, and the potential for preservation of biosignatures within accessible geological materials. It will cache sample containers along its route for a potential future Mars sample-return mission.&#xD;
 &#xD;
-It will also carry a helicopter drone.</content>
+Perseverance is also ferrying several cutting-edge technologies to the surface of Mars – including a helicopter named Ingenuity, the first aircraft to attempt powered, controlled flight on another planet.</content>
     <link rel="alternate" href="https://youtu.be/21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa2520mars252020202520rover2520landing_image_20200214105503.jpg"/>
     <category term="event"/>

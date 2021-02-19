@@ -12,7 +12,7 @@
                 "id": 9,
                 "name": "Landing"
             },
-            "description": "NASA's Mars 2020 Perseverance rover will land in the Jezero crater using a MSL-inspired sky-crane at approximately 20:55 UTC.\r\n\r\nIt will investigate an astrobiologically relevant ancient environment on Mars and investigate its surface geological processes and history, including the assessment of its past habitability, the possibility of past life on Mars, and the potential for preservation of biosignatures within accessible geological materials. It will cache sample containers along its route for a potential future Mars sample-return mission.\r\n\r\nIt will also carry a helicopter drone.",
+            "description": "NASA's Mars 2020 Perseverance rover will land in the Jezero crater using a MSL-inspired sky-crane at approximately 20:55 UTC.\r\n\r\nIt will investigate an astrobiologically relevant ancient environment on Mars and investigate its surface geological processes and history, including the assessment of its past habitability, the possibility of past life on Mars, and the potential for preservation of biosignatures within accessible geological materials. It will cache sample containers along its route for a potential future Mars sample-return mission.\r\n\r\nPerseverance is also ferrying several cutting-edge technologies to the surface of Mars – including a helicopter named Ingenuity, the first aircraft to attempt powered, controlled flight on another planet.",
             "location": "Jezero crater, Mars",
             "news_url": "https://mars.nasa.gov/mars2020/",
             "video_url": "https://youtu.be/21X5lGlDOfg",
@@ -101,46 +101,6 @@
             "expeditions": [],
             "spacestations": [],
             "program": []
-        },
-        {
-            "id": 226,
-            "url": "https://ll.thespacedevs.com/2.2.0/event/226.json",
-            "slug": "starship-sn10-static-fire",
-            "name": "Starship SN10 Static Fire",
-            "type": {
-                "id": 5,
-                "name": "Static Fire"
-            },
-            "description": "SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.\r\n\r\nThe date of this event is a NET estimate.",
-            "location": "Boca Chica, Texas",
-            "news_url": null,
-            "video_url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
-            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg",
-            "date": "2021-02-20T00:00:00Z",
-            "launches": [],
-            "expeditions": [],
-            "spacestations": [],
-            "program": [
-                {
-                    "id": 1,
-                    "url": "https://ll.thespacedevs.com/2.2.0/program/1.json",
-                    "name": "SpaceX Starship",
-                    "description": "The SpaceX Starship is a fully reusable super heavy-lift launch vehicle under development by SpaceX since 2012, as a self-funded private spaceflight project.  The second stage of the Starship — is designed as a long-duration cargo and passenger-carrying spacecraft. It is expected to be initially used without any booster stage at all, as part of an extensive development program to prove out launch-and-landing and iterate on a variety of design details, particularly with respect to the vehicle's atmospheric reentry.",
-                    "agencies": [
-                        {
-                            "id": 121,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/121.json",
-                            "name": "SpaceX",
-                            "type": "Commercial"
-                        }
-                    ],
-                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/spacex2520star_program_20201129204513.png",
-                    "start_date": "2019-03-01T05:00:00Z",
-                    "end_date": null,
-                    "info_url": "https://www.spacex.com/vehicles/starship/",
-                    "wiki_url": "https://en.wikipedia.org/wiki/SpaceX_Starship"
-                }
-            ]
         },
         {
             "id": 214,
@@ -371,6 +331,46 @@
                     "end_date": null,
                     "info_url": null,
                     "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Resupply_Services#Commercial_Resupply_Services"
+                }
+            ]
+        },
+        {
+            "id": 226,
+            "url": "https://ll.thespacedevs.com/2.2.0/event/226.json",
+            "slug": "starship-sn10-static-fire",
+            "name": "Starship SN10 Static Fire",
+            "type": {
+                "id": 5,
+                "name": "Static Fire"
+            },
+            "description": "SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.",
+            "location": "Boca Chica, Texas",
+            "news_url": null,
+            "video_url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
+            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg",
+            "date": "2021-02-23T00:00:00Z",
+            "launches": [],
+            "expeditions": [],
+            "spacestations": [],
+            "program": [
+                {
+                    "id": 1,
+                    "url": "https://ll.thespacedevs.com/2.2.0/program/1.json",
+                    "name": "SpaceX Starship",
+                    "description": "The SpaceX Starship is a fully reusable super heavy-lift launch vehicle under development by SpaceX since 2012, as a self-funded private spaceflight project.  The second stage of the Starship — is designed as a long-duration cargo and passenger-carrying spacecraft. It is expected to be initially used without any booster stage at all, as part of an extensive development program to prove out launch-and-landing and iterate on a variety of design details, particularly with respect to the vehicle's atmospheric reentry.",
+                    "agencies": [
+                        {
+                            "id": 121,
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/121.json",
+                            "name": "SpaceX",
+                            "type": "Commercial"
+                        }
+                    ],
+                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/spacex2520star_program_20201129204513.png",
+                    "start_date": "2019-03-01T05:00:00Z",
+                    "end_date": null,
+                    "info_url": "https://www.spacex.com/vehicles/starship/",
+                    "wiki_url": "https://en.wikipedia.org/wiki/SpaceX_Starship"
                 }
             ]
         },

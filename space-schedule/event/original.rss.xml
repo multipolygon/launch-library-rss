@@ -33,6 +33,16 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
     </item>
     <item>
+      <title>Starship SN10 Static Fire</title>
+      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
+      <description>SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~226</guid>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
+    </item>
+    <item>
       <title>NG-15 Cygnus Berthing</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>NASA TV will livestream the rendezvous and capture of Northrop Grumman's NG-15 Cygnus cargo craft to the International Space Station.</description>
@@ -43,25 +53,13 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-15_cygnus_be_image_20210105203038.jpg"/>
     </item>
     <item>
-      <title>Starship SN10 Static Fire</title>
-      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.&#xD;
-&#xD;
-The date of this event is a NET estimate.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~226</guid>
-      <pubDate>Sat, 20 Feb 2021 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
-    </item>
-    <item>
       <title>NASA Mars 2020 Perseverance Rover Landing</title>
       <link>https://youtu.be/21X5lGlDOfg</link>
       <description>NASA's Mars 2020 Perseverance rover will land in the Jezero crater using a MSL-inspired sky-crane at approximately 20:55 UTC.&#xD;
 &#xD;
 It will investigate an astrobiologically relevant ancient environment on Mars and investigate its surface geological processes and history, including the assessment of its past habitability, the possibility of past life on Mars, and the potential for preservation of biosignatures within accessible geological materials. It will cache sample containers along its route for a potential future Mars sample-return mission.&#xD;
 &#xD;
-It will also carry a helicopter drone.</description>
+Perseverance is also ferrying several cutting-edge technologies to the surface of Mars – including a helicopter named Ingenuity, the first aircraft to attempt powered, controlled flight on another planet.</description>
       <category>event</category>
       <category>landing</category>
       <guid isPermaLink="false">~space-schedule~event~landing~89</guid>

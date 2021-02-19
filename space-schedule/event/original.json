@@ -69,6 +69,39 @@
    }
   },
   {
+   "id": "~space-schedule~event~static_fire~226",
+   "title": "Starship SN10 Static Fire",
+   "content_text": "SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.",
+   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg",
+   "date_published": "2021-02-23T00:00:00Z",
+   "date_modified": "2021-02-23T00:00:00Z",
+   "tags": [
+    "event",
+    "static_fire"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Static Fire | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "226",
+    "global": "~space-schedule~event~static_fire~226"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~berthing~214",
    "title": "NG-15 Cygnus Berthing",
    "content_text": "NASA TV will livestream the rendezvous and capture of Northrop Grumman's NG-15 Cygnus cargo craft to the International Space Station.",
@@ -102,42 +135,9 @@
    }
   },
   {
-   "id": "~space-schedule~event~static_fire~226",
-   "title": "Starship SN10 Static Fire",
-   "content_text": "SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.\r\n\r\nThe date of this event is a NET estimate.",
-   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg",
-   "date_published": "2021-02-20T00:00:00Z",
-   "date_modified": "2021-02-20T00:00:00Z",
-   "tags": [
-    "event",
-    "static_fire"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Static Fire | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "226",
-    "global": "~space-schedule~event~static_fire~226"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~event~landing~89",
    "title": "NASA Mars 2020 Perseverance Rover Landing",
-   "content_text": "NASA's Mars 2020 Perseverance rover will land in the Jezero crater using a MSL-inspired sky-crane at approximately 20:55 UTC.\r\n\r\nIt will investigate an astrobiologically relevant ancient environment on Mars and investigate its surface geological processes and history, including the assessment of its past habitability, the possibility of past life on Mars, and the potential for preservation of biosignatures within accessible geological materials. It will cache sample containers along its route for a potential future Mars sample-return mission.\r\n\r\nIt will also carry a helicopter drone.",
+   "content_text": "NASA's Mars 2020 Perseverance rover will land in the Jezero crater using a MSL-inspired sky-crane at approximately 20:55 UTC.\r\n\r\nIt will investigate an astrobiologically relevant ancient environment on Mars and investigate its surface geological processes and history, including the assessment of its past habitability, the possibility of past life on Mars, and the potential for preservation of biosignatures within accessible geological materials. It will cache sample containers along its route for a potential future Mars sample-return mission.\r\n\r\nPerseverance is also ferrying several cutting-edge technologies to the surface of Mars – including a helicopter named Ingenuity, the first aircraft to attempt powered, controlled flight on another planet.",
    "url": "https://youtu.be/21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa2520mars252020202520rover2520landing_image_20200214105503.jpg",
    "date_published": "2021-02-18T19:15:00Z",
