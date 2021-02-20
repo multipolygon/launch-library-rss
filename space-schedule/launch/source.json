@@ -19,7 +19,7 @@
             "inhold": false,
             "tbdtime": true,
             "tbddate": true,
-            "probability": -1,
+            "probability": 75,
             "holdreason": "",
             "failreason": "",
             "hashtag": null,
@@ -78,7 +78,7 @@
             },
             "webcast_live": false,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg",
-            "infographic": null,
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/antares2520230_infographic_20210219161454.jpeg",
             "program": [
                 {
                     "id": 11,

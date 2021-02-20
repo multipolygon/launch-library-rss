@@ -2,17 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>EVA | Event | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.atom.xml</id>
-  <updated>2021-02-28T12:05:00Z</updated>
+  <updated>2021-03-05T12:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Feva%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <entry>
+    <id>212</id>
+    <title>US EVA-72</title>
+    <updated>2021-03-05T12:00:00Z</updated>
+    <published>2021-03-05T12:00:00Z</published>
+    <content type="text">On Friday, March 5, NASA and JAXA astronauts Kate Rubins and Soichi Noguchi will venture outside the orbiting outpost to vent ammonia from the Early Ammonia System and complete several other tasks. The pair will install a “stiffener” on the Quest airlock thermal cover to prevent it from blowing out when residual atmosphere escapes as the hatch is opened. Glover began addressing this issue on a previous spacewalk by installing a stronger magnet to keep the cover closed. The crew also will remove and replace a wireless video transceiver assembly. Rubins will be EV 1 and Noguchi will be EV 2.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210105202154.jpg"/>
+    <category term="event"/>
+    <category term="eva"/>
+  </entry>
+  <entry>
     <id>211</id>
     <title>US EVA-71</title>
-    <updated>2021-02-28T12:05:00Z</updated>
-    <published>2021-02-28T12:05:00Z</published>
-    <content type="text">NASA astronauts Kathleen Rubins and Victor Glover will exit the orbital lab to prepare the installation of  iROSAs (ISS Roll Out Solar Arrays).</content>
+    <updated>2021-02-28T11:00:00Z</updated>
+    <published>2021-02-28T11:00:00Z</published>
+    <content type="text">On Sunday, Feb. 28, NASA astronauts Kate Rubins and Victor Glover will step out of the space station to begin assembling and installing modification kits required for upcoming solar array upgrades. The current solar arrays are functioning well, but have begun to show signs of degradation, as expected, as they were designed for a 15-year service life. The first pair of solar arrays were deployed in December 2000 and have been powering the station for more than 20 years. Later this year, the new solar arrays will be positioned in front of six of the current arrays, increasing the station’s total available power from 160 kilowatts to up to 215 kilowatts. Rubins will be extravehicular crew member 1 (EV 1) wearing red stripes. Glover will be extravehicular crew member 2 (EV 2) and wear a suit with no stripes.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg"/>
     <category term="event"/>

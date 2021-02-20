@@ -2,18 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Event</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/original.atom.xml</id>
-  <updated>2021-02-28T12:05:00Z</updated>
+  <updated>2021-03-19T16:43:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items in Space Schedule &gt; Event.</subtitle>
   <entry>
+    <id>~space-schedule~event~relocation~228</id>
+    <title>Soyuz MS-17 Relocation</title>
+    <updated>2021-03-19T16:43:00Z</updated>
+    <published>2021-03-19T16:43:00Z</published>
+    <content type="text">The Soyuz MS-17 spacecraft will be relocated from the Rassvet module to the Poisk module. Undocking scheduled at 16:43 UTC, redocking scheduled at 17:13 UTC.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_rel_image_20210220074256.jpeg"/>
+    <category term="event"/>
+    <category term="relocation"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~eva~212</id>
+    <title>US EVA-72</title>
+    <updated>2021-03-05T12:00:00Z</updated>
+    <published>2021-03-05T12:00:00Z</published>
+    <content type="text">On Friday, March 5, NASA and JAXA astronauts Kate Rubins and Soichi Noguchi will venture outside the orbiting outpost to vent ammonia from the Early Ammonia System and complete several other tasks. The pair will install a “stiffener” on the Quest airlock thermal cover to prevent it from blowing out when residual atmosphere escapes as the hatch is opened. Glover began addressing this issue on a previous spacewalk by installing a stronger magnet to keep the cover closed. The crew also will remove and replace a wireless video transceiver assembly. Rubins will be EV 1 and Noguchi will be EV 2.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210105202154.jpg"/>
+    <category term="event"/>
+    <category term="eva"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~eva~211</id>
     <title>US EVA-71</title>
-    <updated>2021-02-28T12:05:00Z</updated>
-    <published>2021-02-28T12:05:00Z</published>
-    <content type="text">NASA astronauts Kathleen Rubins and Victor Glover will exit the orbital lab to prepare the installation of  iROSAs (ISS Roll Out Solar Arrays).</content>
+    <updated>2021-02-28T11:00:00Z</updated>
+    <published>2021-02-28T11:00:00Z</published>
+    <content type="text">On Sunday, Feb. 28, NASA astronauts Kate Rubins and Victor Glover will step out of the space station to begin assembling and installing modification kits required for upcoming solar array upgrades. The current solar arrays are functioning well, but have begun to show signs of degradation, as expected, as they were designed for a 15-year service life. The first pair of solar arrays were deployed in December 2000 and have been powering the station for more than 20 years. Later this year, the new solar arrays will be positioned in front of six of the current arrays, increasing the station’s total available power from 160 kilowatts to up to 215 kilowatts. Rubins will be extravehicular crew member 1 (EV 1) wearing red stripes. Glover will be extravehicular crew member 2 (EV 2) and wear a suit with no stripes.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg"/>
     <category term="event"/>
@@ -55,18 +77,14 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <category term="berthing"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~landing~89</id>
-    <title>NASA Mars 2020 Perseverance Rover Landing</title>
-    <updated>2021-02-18T19:15:00Z</updated>
-    <published>2021-02-18T19:15:00Z</published>
-    <content type="text">NASA's Mars 2020 Perseverance rover will land in the Jezero crater using a MSL-inspired sky-crane at approximately 20:55 UTC.&#xD;
-&#xD;
-It will investigate an astrobiologically relevant ancient environment on Mars and investigate its surface geological processes and history, including the assessment of its past habitability, the possibility of past life on Mars, and the potential for preservation of biosignatures within accessible geological materials. It will cache sample containers along its route for a potential future Mars sample-return mission.&#xD;
-&#xD;
-Perseverance is also ferrying several cutting-edge technologies to the surface of Mars – including a helicopter named Ingenuity, the first aircraft to attempt powered, controlled flight on another planet.</content>
-    <link rel="alternate" href="https://youtu.be/21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa2520mars252020202520rover2520landing_image_20200214105503.jpg"/>
+    <id>~space-schedule~event~press_event~227</id>
+    <title>NASA Mars 2020 Perseverance Sol 1 Press Conference</title>
+    <updated>2021-02-19T18:00:00Z</updated>
+    <published>2021-02-19T18:00:00Z</published>
+    <content type="text">The Sol 1 press conference of NASA's Mars 2020 Perseverance mission will be broadcasted live on NASA TV and the JPL YouTube channel.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Xz-Id5ZNopM"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210219115157.jpeg"/>
     <category term="event"/>
-    <category term="landing"/>
+    <category term="press_event"/>
   </entry>
 </feed>

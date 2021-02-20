@@ -6,17 +6,27 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Feva%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Sun, 28 Feb 2021 12:05:00 GMT</pubDate>
+    <pubDate>Fri, 05 Mar 2021 12:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
+      <title>US EVA-72</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>On Friday, March 5, NASA and JAXA astronauts Kate Rubins and Soichi Noguchi will venture outside the orbiting outpost to vent ammonia from the Early Ammonia System and complete several other tasks. The pair will install a “stiffener” on the Quest airlock thermal cover to prevent it from blowing out when residual atmosphere escapes as the hatch is opened. Glover began addressing this issue on a previous spacewalk by installing a stronger magnet to keep the cover closed. The crew also will remove and replace a wireless video transceiver assembly. Rubins will be EV 1 and Noguchi will be EV 2.</description>
+      <category>event</category>
+      <category>eva</category>
+      <guid isPermaLink="false">212</guid>
+      <pubDate>Fri, 05 Mar 2021 12:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210105202154.jpg"/>
+    </item>
+    <item>
       <title>US EVA-71</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>NASA astronauts Kathleen Rubins and Victor Glover will exit the orbital lab to prepare the installation of  iROSAs (ISS Roll Out Solar Arrays).</description>
+      <description>On Sunday, Feb. 28, NASA astronauts Kate Rubins and Victor Glover will step out of the space station to begin assembling and installing modification kits required for upcoming solar array upgrades. The current solar arrays are functioning well, but have begun to show signs of degradation, as expected, as they were designed for a 15-year service life. The first pair of solar arrays were deployed in December 2000 and have been powering the station for more than 20 years. Later this year, the new solar arrays will be positioned in front of six of the current arrays, increasing the station’s total available power from 160 kilowatts to up to 215 kilowatts. Rubins will be extravehicular crew member 1 (EV 1) wearing red stripes. Glover will be extravehicular crew member 2 (EV 2) and wear a suit with no stripes.</description>
       <category>event</category>
       <category>eva</category>
       <guid isPermaLink="false">211</guid>
-      <pubDate>Sun, 28 Feb 2021 12:05:00 GMT</pubDate>
+      <pubDate>Sun, 28 Feb 2021 11:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg"/>
     </item>
   </channel>

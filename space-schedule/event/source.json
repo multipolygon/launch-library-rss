@@ -1,23 +1,23 @@
 {
-    "count": 8,
+    "count": 9,
     "next": null,
     "previous": null,
     "results": [
         {
-            "id": 89,
-            "url": "https://ll.thespacedevs.com/2.2.0/event/89.json",
-            "slug": "nasa-mars-2020-perseverance-rover-landing",
-            "name": "NASA Mars 2020 Perseverance Rover Landing",
+            "id": 227,
+            "url": "https://ll.thespacedevs.com/2.2.0/event/227.json",
+            "slug": "nasa-mars-2020-perseverance-sol-1-press-conference",
+            "name": "NASA Mars 2020 Perseverance Sol 1 Press Conference",
             "type": {
-                "id": 9,
-                "name": "Landing"
+                "id": 20,
+                "name": "Press Event"
             },
-            "description": "NASA's Mars 2020 Perseverance rover will land in the Jezero crater using a MSL-inspired sky-crane at approximately 20:55 UTC.\r\n\r\nIt will investigate an astrobiologically relevant ancient environment on Mars and investigate its surface geological processes and history, including the assessment of its past habitability, the possibility of past life on Mars, and the potential for preservation of biosignatures within accessible geological materials. It will cache sample containers along its route for a potential future Mars sample-return mission.\r\n\r\nPerseverance is also ferrying several cutting-edge technologies to the surface of Mars – including a helicopter named Ingenuity, the first aircraft to attempt powered, controlled flight on another planet.",
-            "location": "Jezero crater, Mars",
-            "news_url": "https://mars.nasa.gov/mars2020/",
-            "video_url": "https://youtu.be/21X5lGlDOfg",
-            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa2520mars252020202520rover2520landing_image_20200214105503.jpg",
-            "date": "2021-02-18T19:15:00Z",
+            "description": "The Sol 1 press conference of NASA's Mars 2020 Perseverance mission will be broadcasted live on NASA TV and the JPL YouTube channel.",
+            "location": "Jet Propulsion Laboratory, Pasadena, California, USA",
+            "news_url": null,
+            "video_url": "https://www.youtube.com/watch?v=Xz-Id5ZNopM",
+            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210219115157.jpeg",
+            "date": "2021-02-19T18:00:00Z",
             "launches": [
                 {
                     "id": "c4db6995-f25f-4608-8eb9-ce95d5226af2",
@@ -134,7 +134,7 @@
                     "inhold": false,
                     "tbdtime": true,
                     "tbddate": true,
-                    "probability": -1,
+                    "probability": 75,
                     "holdreason": "",
                     "failreason": "",
                     "hashtag": null,
@@ -193,7 +193,7 @@
                     },
                     "webcast_live": false,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg",
-                    "infographic": null,
+                    "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/antares2520230_infographic_20210219161454.jpeg",
                     "program": [
                         {
                             "id": 11,
@@ -522,12 +522,12 @@
                 "id": 3,
                 "name": "EVA"
             },
-            "description": "NASA astronauts Kathleen Rubins and Victor Glover will exit the orbital lab to prepare the installation of  iROSAs (ISS Roll Out Solar Arrays).",
+            "description": "On Sunday, Feb. 28, NASA astronauts Kate Rubins and Victor Glover will step out of the space station to begin assembling and installing modification kits required for upcoming solar array upgrades. The current solar arrays are functioning well, but have begun to show signs of degradation, as expected, as they were designed for a 15-year service life. The first pair of solar arrays were deployed in December 2000 and have been powering the station for more than 20 years. Later this year, the new solar arrays will be positioned in front of six of the current arrays, increasing the station’s total available power from 160 kilowatts to up to 215 kilowatts. Rubins will be extravehicular crew member 1 (EV 1) wearing red stripes. Glover will be extravehicular crew member 2 (EV 2) and wear a suit with no stripes.",
             "location": "International Space Station",
-            "news_url": null,
+            "news_url": "https://www.nasa.gov/press-release/nasa-tv-coverage-scheduled-for-upcoming-spacewalks-briefing",
             "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg",
-            "date": "2021-02-28T12:05:00Z",
+            "date": "2021-02-28T11:00:00Z",
             "launches": [],
             "expeditions": [
                 {
@@ -619,12 +619,12 @@
                 "id": 3,
                 "name": "EVA"
             },
-            "description": "NASA astronaut Kathleen Rubins and JAXA astronaut Soichi Noguchi will exit the orbital lab to continue upgrades on the space station.",
+            "description": "On Friday, March 5, NASA and JAXA astronauts Kate Rubins and Soichi Noguchi will venture outside the orbiting outpost to vent ammonia from the Early Ammonia System and complete several other tasks. The pair will install a “stiffener” on the Quest airlock thermal cover to prevent it from blowing out when residual atmosphere escapes as the hatch is opened. Glover began addressing this issue on a previous spacewalk by installing a stronger magnet to keep the cover closed. The crew also will remove and replace a wireless video transceiver assembly. Rubins will be EV 1 and Noguchi will be EV 2.",
             "location": "International Space Station",
-            "news_url": null,
-            "video_url": null,
+            "news_url": "https://www.nasa.gov/press-release/nasa-tv-coverage-scheduled-for-upcoming-spacewalks-briefing",
+            "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210105202154.jpg",
-            "date": "2021-03-31T12:05:00Z",
+            "date": "2021-03-05T12:00:00Z",
             "launches": [],
             "expeditions": [
                 {
@@ -662,6 +662,128 @@
                 }
             ],
             "program": [
+                {
+                    "id": 17,
+                    "url": "https://ll.thespacedevs.com/2.2.0/program/17.json",
+                    "name": "International Space Station",
+                    "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
+                    "agencies": [
+                        {
+                            "id": 16,
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/16.json",
+                            "name": "Canadian Space Agency",
+                            "type": "Government"
+                        },
+                        {
+                            "id": 27,
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/27.json",
+                            "name": "European Space Agency",
+                            "type": "Multinational"
+                        },
+                        {
+                            "id": 37,
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/37.json",
+                            "name": "Japan Aerospace Exploration Agency",
+                            "type": "Government"
+                        },
+                        {
+                            "id": 44,
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44.json",
+                            "name": "National Aeronautics and Space Administration",
+                            "type": "Government"
+                        },
+                        {
+                            "id": 63,
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                            "name": "Russian Federal Space Agency (ROSCOSMOS)",
+                            "type": "Government"
+                        }
+                    ],
+                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/international2_program_20201129184745.png",
+                    "start_date": "1998-11-20T06:40:00Z",
+                    "end_date": null,
+                    "info_url": "https://www.nasa.gov/mission_pages/station/main/index.html",
+                    "wiki_url": "https://en.wikipedia.org/wiki/International_Space_Station_programme"
+                }
+            ]
+        },
+        {
+            "id": 228,
+            "url": "https://ll.thespacedevs.com/2.2.0/event/228.json",
+            "slug": "soyuz-ms-17-relocation",
+            "name": "Soyuz MS-17 Relocation",
+            "type": {
+                "id": 25,
+                "name": "Relocation"
+            },
+            "description": "The Soyuz MS-17 spacecraft will be relocated from the Rassvet module to the Poisk module. Undocking scheduled at 16:43 UTC, redocking scheduled at 17:13 UTC.",
+            "location": "International Space Station",
+            "news_url": null,
+            "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_rel_image_20210220074256.jpeg",
+            "date": "2021-03-19T16:43:00Z",
+            "launches": [],
+            "expeditions": [
+                {
+                    "id": 140,
+                    "url": "https://ll.thespacedevs.com/2.2.0/expedition/140.json",
+                    "name": "Expedition 64",
+                    "start": "2020-10-20T20:15:00Z",
+                    "end": null,
+                    "spacestation": {
+                        "id": 4,
+                        "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4.json",
+                        "name": "International Space Station",
+                        "status": {
+                            "id": 1,
+                            "name": "Active"
+                        },
+                        "orbit": "Low Earth Orbit",
+                        "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/spacestation_images/international2520space2520station_image_20190220215716.jpeg"
+                    }
+                }
+            ],
+            "spacestations": [
+                {
+                    "id": 4,
+                    "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4.json",
+                    "name": "International Space Station",
+                    "status": {
+                        "id": 1,
+                        "name": "Active"
+                    },
+                    "founded": "1998-11-20",
+                    "description": "The International Space Station (ISS) is a space station, or a habitable artificial satellite, in low Earth orbit. Its first component was launched into orbit in 1998, with the first long-term residents arriving in November 2000. It has been inhabited continuously since that date. The last pressurised module was fitted in 2011, and an experimental inflatable space habitat was added in 2016. The station is expected to operate until 2030. Development and assembly of the station continues, with several new elements scheduled for launch in 2019. The ISS is the largest human-made body in low Earth orbit and can often be seen with the naked eye from Earth. The ISS consists of pressurised habitation modules, structural trusses, solar arrays, radiators, docking ports, experiment bays and robotic arms. ISS components have been launched by Russian Proton and Soyuz rockets, and American Space Shuttles.",
+                    "orbit": "Low Earth Orbit",
+                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/spacestation_images/international2520space2520station_image_20190220215716.jpeg"
+                }
+            ],
+            "program": [
+                {
+                    "id": 8,
+                    "url": "https://ll.thespacedevs.com/2.2.0/program/8.json",
+                    "name": "Soyuz",
+                    "description": "The Soyuz programme is a human spaceflight programme initiated by the Soviet Union in the early 1960s. The Soyuz spacecraft was originally part of a Moon landing project intended to put a Soviet cosmonaut on the Moon. It was the third Soviet human spaceflight programme after the Vostok and Voskhod programmes.",
+                    "agencies": [
+                        {
+                            "id": 63,
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                            "name": "Russian Federal Space Agency (ROSCOSMOS)",
+                            "type": "Government"
+                        },
+                        {
+                            "id": 66,
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/66.json",
+                            "name": "Soviet Space Program",
+                            "type": "Government"
+                        }
+                    ],
+                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/soyuz_program_20201129185543.png",
+                    "start_date": "1966-11-28T11:02:00Z",
+                    "end_date": null,
+                    "info_url": null,
+                    "wiki_url": "https://en.wikipedia.org/wiki/Soyuz_programme"
+                },
                 {
                     "id": 17,
                     "url": "https://ll.thespacedevs.com/2.2.0/program/17.json",
