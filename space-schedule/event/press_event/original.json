@@ -4,13 +4,13 @@
  "title": "Press Event | Event | Space Schedule",
  "items": [
   {
-   "id": "227",
-   "title": "NASA Mars 2020 Perseverance Sol 1 Press Conference",
-   "content_text": "The Sol 1 press conference of NASA's Mars 2020 Perseverance mission will be broadcasted live on NASA TV and the JPL YouTube channel.",
-   "url": "https://www.youtube.com/watch?v=Xz-Id5ZNopM",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210219115157.jpeg",
-   "date_published": "2021-02-19T18:00:00Z",
-   "date_modified": "2021-02-19T18:00:00Z",
+   "id": "229",
+   "title": "NASA Mars 2020 Perseverance Mission Images & Video Release",
+   "content_text": "Mission experts of the NASA's Mars 2020 Perseverance mission will provide updates about the rover, including imagery it captured during its descent and landing.",
+   "url": "https://youtu.be/gYQwuYZbA6o",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210221070241.jpeg",
+   "date_published": "2021-02-22T19:00:00Z",
+   "date_modified": "2021-02-22T19:00:00Z",
    "tags": [
     "event",
     "press_event"
@@ -18,14 +18,13 @@
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210219115157.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210221070241.jpeg"
     }
    ],
    "_meta": {
     "audioCount": 0,
     "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1
+    "imageCount": 1
    }
   }
  ],

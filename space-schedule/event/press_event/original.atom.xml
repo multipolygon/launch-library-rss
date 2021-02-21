@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Press Event | Event | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.atom.xml</id>
-  <updated>2021-02-19T18:00:00Z</updated>
+  <updated>2021-02-22T19:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <entry>
-    <id>227</id>
-    <title>NASA Mars 2020 Perseverance Sol 1 Press Conference</title>
-    <updated>2021-02-19T18:00:00Z</updated>
-    <published>2021-02-19T18:00:00Z</published>
-    <content type="text">The Sol 1 press conference of NASA's Mars 2020 Perseverance mission will be broadcasted live on NASA TV and the JPL YouTube channel.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Xz-Id5ZNopM"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210219115157.jpeg"/>
+    <id>229</id>
+    <title>NASA Mars 2020 Perseverance Mission Images &amp; Video Release</title>
+    <updated>2021-02-22T19:00:00Z</updated>
+    <published>2021-02-22T19:00:00Z</published>
+    <content type="text">Mission experts of the NASA's Mars 2020 Perseverance mission will provide updates about the rover, including imagery it captured during its descent and landing.</content>
+    <link rel="alternate" href="https://youtu.be/gYQwuYZbA6o"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210221070241.jpeg"/>
     <category term="event"/>
     <category term="press_event"/>
   </entry>

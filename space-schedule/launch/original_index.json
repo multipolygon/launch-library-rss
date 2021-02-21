@@ -17,22 +17,6 @@
     "videoCount": 0,
     "imageCount": 0
    }
-  },
-  {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/northrop_grumman_innovation_systems/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fnorthrop_grumman_innovation_systems%2Foriginal.json",
-   "title": "Northrop Grumman Innovation Systems | Launch | Space Schedule",
-   "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg",
-   "date_published": "2021-02-20T17:36:00Z",
-   "date_modified": "2021-02-20T17:36:00Z",
-   "_geo": {},
-   "_meta": {
-    "itemCount": 1,
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 0
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -43,7 +27,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal_index.json",
  "_meta": {
-  "itemCount": 2,
+  "itemCount": 1,
   "pageNumber": 1,
   "pageCount": 1
  }

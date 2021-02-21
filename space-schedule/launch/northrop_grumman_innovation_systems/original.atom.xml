@@ -1,27 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Northrop Grumman Innovation Systems | Launch | Space Schedule</title>
+  <title>Northrop Grumman Innovation Systems</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/northrop_grumman_innovation_systems/original.atom.xml</id>
-  <updated>2021-02-20T17:36:00Z</updated>
+  <updated>2021-02-21T11:25:10.536Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/northrop_grumman_innovation_systems/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/northrop_grumman_innovation_systems/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fnorthrop_grumman_innovation_systems%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
-  <entry>
-    <id>f1a8d62e-709d-4e89-ade9-a8779492c7a9</id>
-    <title>Antares 230+ | Cygnus CRS-2 NG-15 (S.S. Katherine Johnson)</title>
-    <updated>2021-02-20T17:36:00Z</updated>
-    <published>2021-02-20T17:36:00Z</published>
-    <content type="text">This is the 15th planned flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 14th flight to the International Space Station under the Commercial Resupply Services contract with NASA. This Cygnus spacecraft carries the name of American mathematician Katherine Johnson, whose calculations of orbital mechanics as a NASA employee were critical to the success of the first and subsequent U.S. crewed spaceflights.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/f1a8d62e-709d-4e89-ade9-a8779492c7a9.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg"/>
-    <category term="launch"/>
-    <category term="northrop_grumman_innovation_systems"/>
-    <category term="commercial"/>
-    <category term="antares"/>
-    <category term="antares_230"/>
-    <category term="resupply"/>
-    <category term="launch_area_0_a"/>
-    <category term="commercial_resupply_services"/>
-  </entry>
 </feed>

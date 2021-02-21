@@ -43,12 +43,15 @@
     <item>
       <title>PSLV-DL | Amazonia 1, Anand &amp; Saditsat</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/2a787f32-69db-4f78-b69e-df26e5c2ab88.json</link>
-      <description>-</description>
+      <description>Amazonia 1 is a Brazilian optical Earth observation satellite of the National Institute for Space Research (INPE). This satellite will further strengthen the existing structure by providing remote sensing data to users for monitoring deforestation in the Amazon region and analysis of diversified agriculture across the Brazilian territory.&#xD;
+&#xD;
+The 20 co-passenger satellites include one from ISRO (INS-2TD), four from IN-SPACe (three UNITYsats from consortium of three Indian academic institutes and One Satish Dhawan Sat from Space Kidz India) and 15 from NSIL.</description>
       <category>launch</category>
       <category>indian_space_research_organization</category>
       <category>government</category>
       <category>pslv</category>
       <category>pslv_dl</category>
+      <category>earth_science</category>
       <category>satish_dhawan_space_centre_first_launch_pad</category>
       <guid isPermaLink="false">~space-schedule~launch~indian_space_research_organization~2a787f32-69db-4f78-b69e-df26e5c2ab88</guid>
       <pubDate>Sun, 28 Feb 2021 04:53:00 GMT</pubDate>
@@ -77,6 +80,16 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
     </item>
     <item>
+      <title>NASA Mars 2020 Perseverance Mission Images &amp; Video Release</title>
+      <link>https://youtu.be/gYQwuYZbA6o</link>
+      <description>Mission experts of the NASA's Mars 2020 Perseverance mission will provide updates about the rover, including imagery it captured during its descent and landing.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~229</guid>
+      <pubDate>Mon, 22 Feb 2021 19:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210221070241.jpeg"/>
+    </item>
+    <item>
       <title>NG-15 Cygnus Berthing</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>NASA TV will livestream the rendezvous and capture of Northrop Grumman's NG-15 Cygnus cargo craft to the International Space Station.</description>
@@ -85,32 +98,6 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <guid isPermaLink="false">~space-schedule~event~berthing~214</guid>
       <pubDate>Mon, 22 Feb 2021 09:40:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-15_cygnus_be_image_20210105203038.jpg"/>
-    </item>
-    <item>
-      <title>Antares 230+ | Cygnus CRS-2 NG-15 (S.S. Katherine Johnson)</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/f1a8d62e-709d-4e89-ade9-a8779492c7a9.json</link>
-      <description>This is the 15th planned flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 14th flight to the International Space Station under the Commercial Resupply Services contract with NASA. This Cygnus spacecraft carries the name of American mathematician Katherine Johnson, whose calculations of orbital mechanics as a NASA employee were critical to the success of the first and subsequent U.S. crewed spaceflights.</description>
-      <category>launch</category>
-      <category>northrop_grumman_innovation_systems</category>
-      <category>commercial</category>
-      <category>antares</category>
-      <category>antares_230</category>
-      <category>resupply</category>
-      <category>launch_area_0_a</category>
-      <category>commercial_resupply_services</category>
-      <guid isPermaLink="false">~space-schedule~launch~northrop_grumman_innovation_systems~f1a8d62e-709d-4e89-ade9-a8779492c7a9</guid>
-      <pubDate>Sat, 20 Feb 2021 17:36:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg"/>
-    </item>
-    <item>
-      <title>NASA Mars 2020 Perseverance Sol 1 Press Conference</title>
-      <link>https://www.youtube.com/watch?v=Xz-Id5ZNopM</link>
-      <description>The Sol 1 press conference of NASA's Mars 2020 Perseverance mission will be broadcasted live on NASA TV and the JPL YouTube channel.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~227</guid>
-      <pubDate>Fri, 19 Feb 2021 18:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210219115157.jpeg"/>
     </item>
   </channel>
 </rss>

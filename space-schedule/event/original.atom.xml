@@ -66,6 +66,17 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <category term="static_fire"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~press_event~229</id>
+    <title>NASA Mars 2020 Perseverance Mission Images &amp; Video Release</title>
+    <updated>2021-02-22T19:00:00Z</updated>
+    <published>2021-02-22T19:00:00Z</published>
+    <content type="text">Mission experts of the NASA's Mars 2020 Perseverance mission will provide updates about the rover, including imagery it captured during its descent and landing.</content>
+    <link rel="alternate" href="https://youtu.be/gYQwuYZbA6o"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210221070241.jpeg"/>
+    <category term="event"/>
+    <category term="press_event"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~berthing~214</id>
     <title>NG-15 Cygnus Berthing</title>
     <updated>2021-02-22T09:40:00Z</updated>
@@ -75,16 +86,5 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-15_cygnus_be_image_20210105203038.jpg"/>
     <category term="event"/>
     <category term="berthing"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~press_event~227</id>
-    <title>NASA Mars 2020 Perseverance Sol 1 Press Conference</title>
-    <updated>2021-02-19T18:00:00Z</updated>
-    <published>2021-02-19T18:00:00Z</published>
-    <content type="text">The Sol 1 press conference of NASA's Mars 2020 Perseverance mission will be broadcasted live on NASA TV and the JPL YouTube channel.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Xz-Id5ZNopM"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210219115157.jpeg"/>
-    <category term="event"/>
-    <category term="press_event"/>
   </entry>
 </feed>

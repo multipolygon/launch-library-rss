@@ -2,28 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/northrop_grumman_innovation_systems/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Northrop Grumman Innovation Systems | Launch | Space Schedule</title>
+    <title>Northrop Grumman Innovation Systems</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fnorthrop_grumman_innovation_systems%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Sat, 20 Feb 2021 17:36:00 GMT</pubDate>
+    <pubDate>Sun, 21 Feb 2021 11:25:10 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <item>
-      <title>Antares 230+ | Cygnus CRS-2 NG-15 (S.S. Katherine Johnson)</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/f1a8d62e-709d-4e89-ade9-a8779492c7a9.json</link>
-      <description>This is the 15th planned flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 14th flight to the International Space Station under the Commercial Resupply Services contract with NASA. This Cygnus spacecraft carries the name of American mathematician Katherine Johnson, whose calculations of orbital mechanics as a NASA employee were critical to the success of the first and subsequent U.S. crewed spaceflights.</description>
-      <category>launch</category>
-      <category>northrop_grumman_innovation_systems</category>
-      <category>commercial</category>
-      <category>antares</category>
-      <category>antares_230</category>
-      <category>resupply</category>
-      <category>launch_area_0_a</category>
-      <category>commercial_resupply_services</category>
-      <guid isPermaLink="false">f1a8d62e-709d-4e89-ade9-a8779492c7a9</guid>
-      <pubDate>Sat, 20 Feb 2021 17:36:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg"/>
-    </item>
   </channel>
 </rss>

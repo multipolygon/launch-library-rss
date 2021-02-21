@@ -63,6 +63,16 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
     </item>
     <item>
+      <title>NASA Mars 2020 Perseverance Mission Images &amp; Video Release</title>
+      <link>https://youtu.be/gYQwuYZbA6o</link>
+      <description>Mission experts of the NASA's Mars 2020 Perseverance mission will provide updates about the rover, including imagery it captured during its descent and landing.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~229</guid>
+      <pubDate>Mon, 22 Feb 2021 19:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210221070241.jpeg"/>
+    </item>
+    <item>
       <title>NG-15 Cygnus Berthing</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>NASA TV will livestream the rendezvous and capture of Northrop Grumman's NG-15 Cygnus cargo craft to the International Space Station.</description>
@@ -71,16 +81,6 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <guid isPermaLink="false">~space-schedule~event~berthing~214</guid>
       <pubDate>Mon, 22 Feb 2021 09:40:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-15_cygnus_be_image_20210105203038.jpg"/>
-    </item>
-    <item>
-      <title>NASA Mars 2020 Perseverance Sol 1 Press Conference</title>
-      <link>https://www.youtube.com/watch?v=Xz-Id5ZNopM</link>
-      <description>The Sol 1 press conference of NASA's Mars 2020 Perseverance mission will be broadcasted live on NASA TV and the JPL YouTube channel.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~227</guid>
-      <pubDate>Fri, 19 Feb 2021 18:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210219115157.jpeg"/>
     </item>
   </channel>
 </rss>

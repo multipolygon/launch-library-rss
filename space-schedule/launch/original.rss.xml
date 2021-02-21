@@ -13,32 +13,19 @@
     <item>
       <title>PSLV-DL | Amazonia 1, Anand &amp; Saditsat</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/2a787f32-69db-4f78-b69e-df26e5c2ab88.json</link>
-      <description>-</description>
+      <description>Amazonia 1 is a Brazilian optical Earth observation satellite of the National Institute for Space Research (INPE). This satellite will further strengthen the existing structure by providing remote sensing data to users for monitoring deforestation in the Amazon region and analysis of diversified agriculture across the Brazilian territory.&#xD;
+&#xD;
+The 20 co-passenger satellites include one from ISRO (INS-2TD), four from IN-SPACe (three UNITYsats from consortium of three Indian academic institutes and One Satish Dhawan Sat from Space Kidz India) and 15 from NSIL.</description>
       <category>launch</category>
       <category>indian_space_research_organization</category>
       <category>government</category>
       <category>pslv</category>
       <category>pslv_dl</category>
+      <category>earth_science</category>
       <category>satish_dhawan_space_centre_first_launch_pad</category>
       <guid isPermaLink="false">~space-schedule~launch~indian_space_research_organization~2a787f32-69db-4f78-b69e-df26e5c2ab88</guid>
       <pubDate>Sun, 28 Feb 2021 04:53:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv-dl_image_20191201202351.jpeg"/>
-    </item>
-    <item>
-      <title>Antares 230+ | Cygnus CRS-2 NG-15 (S.S. Katherine Johnson)</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/f1a8d62e-709d-4e89-ade9-a8779492c7a9.json</link>
-      <description>This is the 15th planned flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 14th flight to the International Space Station under the Commercial Resupply Services contract with NASA. This Cygnus spacecraft carries the name of American mathematician Katherine Johnson, whose calculations of orbital mechanics as a NASA employee were critical to the success of the first and subsequent U.S. crewed spaceflights.</description>
-      <category>launch</category>
-      <category>northrop_grumman_innovation_systems</category>
-      <category>commercial</category>
-      <category>antares</category>
-      <category>antares_230</category>
-      <category>resupply</category>
-      <category>launch_area_0_a</category>
-      <category>commercial_resupply_services</category>
-      <guid isPermaLink="false">~space-schedule~launch~northrop_grumman_innovation_systems~f1a8d62e-709d-4e89-ade9-a8779492c7a9</guid>
-      <pubDate>Sat, 20 Feb 2021 17:36:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg"/>
     </item>
   </channel>
 </rss>
