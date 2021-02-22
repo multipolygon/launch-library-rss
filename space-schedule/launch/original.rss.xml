@@ -27,5 +27,19 @@ The 20 co-passenger satellites include one from ISRO (INS-2TD), four from IN-SPA
       <pubDate>Sun, 28 Feb 2021 04:53:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv-dl_image_20191201202351.jpeg"/>
     </item>
+    <item>
+      <title>Long March 4C | Yaogan-31-03</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/80e1d8bd-bae1-4db8-a509-a7c8b26435c5.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>china_aerospace_corporation</category>
+      <category>government</category>
+      <category>long_march_4</category>
+      <category>long_march_4_c</category>
+      <category>launch_area_4_sls_2_603</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_corporation~80e1d8bd-bae1-4db8-a509-a7c8b26435c5</guid>
+      <pubDate>Wed, 24 Feb 2021 02:13:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"/>
+    </item>
   </channel>
 </rss>

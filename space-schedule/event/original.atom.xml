@@ -55,17 +55,6 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <category term="static_fire"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~static_fire~226</id>
-    <title>Starship SN10 Static Fire</title>
-    <updated>2021-02-23T00:00:00Z</updated>
-    <published>2021-02-23T00:00:00Z</published>
-    <content type="text">SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
-  </entry>
-  <entry>
     <id>~space-schedule~event~press_event~229</id>
     <title>NASA Mars 2020 Perseverance Mission Images &amp; Video Release</title>
     <updated>2021-02-22T19:00:00Z</updated>
@@ -75,6 +64,17 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210221070241.jpeg"/>
     <category term="event"/>
     <category term="press_event"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~static_fire~226</id>
+    <title>Starship SN10 Static Fire</title>
+    <updated>2021-02-22T17:00:00Z</updated>
+    <published>2021-02-22T17:00:00Z</published>
+    <content type="text">SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
   </entry>
   <entry>
     <id>~space-schedule~event~berthing~214</id>

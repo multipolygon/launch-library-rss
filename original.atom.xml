@@ -73,15 +73,19 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <category term="static_fire"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~static_fire~226</id>
-    <title>Starship SN10 Static Fire</title>
-    <updated>2021-02-23T00:00:00Z</updated>
-    <published>2021-02-23T00:00:00Z</published>
-    <content type="text">SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
+    <id>~space-schedule~launch~china_aerospace_corporation~80e1d8bd-bae1-4db8-a509-a7c8b26435c5</id>
+    <title>Long March 4C | Yaogan-31-03</title>
+    <updated>2021-02-24T02:13:00Z</updated>
+    <published>2021-02-24T02:13:00Z</published>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/80e1d8bd-bae1-4db8-a509-a7c8b26435c5.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"/>
+    <category term="launch"/>
+    <category term="china_aerospace_corporation"/>
+    <category term="government"/>
+    <category term="long_march_4"/>
+    <category term="long_march_4_c"/>
+    <category term="launch_area_4_sls_2_603"/>
   </entry>
   <entry>
     <id>~space-schedule~event~press_event~229</id>
@@ -93,6 +97,17 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210221070241.jpeg"/>
     <category term="event"/>
     <category term="press_event"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~static_fire~226</id>
+    <title>Starship SN10 Static Fire</title>
+    <updated>2021-02-22T17:00:00Z</updated>
+    <published>2021-02-22T17:00:00Z</published>
+    <content type="text">SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
   </entry>
   <entry>
     <id>~space-schedule~event~berthing~214</id>
