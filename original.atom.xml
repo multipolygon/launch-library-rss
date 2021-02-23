@@ -20,6 +20,19 @@
     <category term="relocation"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~static_fire~225</id>
+    <title>SLS 2nd Hot Fire Test</title>
+    <updated>2021-03-07T00:00:00Z</updated>
+    <published>2021-03-07T00:00:00Z</published>
+    <content type="text">NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
+&#xD;
+The four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~eva~212</id>
     <title>US EVA-72</title>
     <updated>2021-03-05T12:00:00Z</updated>
@@ -43,7 +56,7 @@
   </entry>
   <entry>
     <id>~space-schedule~launch~indian_space_research_organization~2a787f32-69db-4f78-b69e-df26e5c2ab88</id>
-    <title>PSLV-DL | Amazonia 1, Anand &amp; Saditsat</title>
+    <title>PSLV-DL | Amazonia 1, Anand &amp; SDsat</title>
     <updated>2021-02-28T04:53:00Z</updated>
     <published>2021-02-28T04:53:00Z</published>
     <content type="text">Amazonia 1 is a Brazilian optical Earth observation satellite of the National Institute for Space Research (INPE). This satellite will further strengthen the existing structure by providing remote sensing data to users for monitoring deforestation in the Amazon region and analysis of diversified agriculture across the Brazilian territory.&#xD;
@@ -58,19 +71,6 @@ The 20 co-passenger satellites include one from ISRO (INS-2TD), four from IN-SPA
     <category term="pslv_dl"/>
     <category term="earth_science"/>
     <category term="satish_dhawan_space_centre_first_launch_pad"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~225</id>
-    <title>SLS 2nd Hot Fire Test</title>
-    <updated>2021-02-25T00:00:00Z</updated>
-    <published>2021-02-25T00:00:00Z</published>
-    <content type="text">NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
-&#xD;
-The four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
   </entry>
   <entry>
     <id>~space-schedule~launch~china_aerospace_corporation~80e1d8bd-bae1-4db8-a509-a7c8b26435c5</id>
@@ -88,6 +88,17 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <category term="launch_area_4_sls_2_603"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~static_fire~226</id>
+    <title>Starship SN10 Static Fire</title>
+    <updated>2021-02-23T17:00:00Z</updated>
+    <published>2021-02-23T17:00:00Z</published>
+    <content type="text">SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~press_event~229</id>
     <title>NASA Mars 2020 Perseverance Mission Images &amp; Video Release</title>
     <updated>2021-02-22T19:00:00Z</updated>
@@ -97,27 +108,5 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210221070241.jpeg"/>
     <category term="event"/>
     <category term="press_event"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~226</id>
-    <title>Starship SN10 Static Fire</title>
-    <updated>2021-02-22T17:00:00Z</updated>
-    <published>2021-02-22T17:00:00Z</published>
-    <content type="text">SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~berthing~214</id>
-    <title>NG-15 Cygnus Berthing</title>
-    <updated>2021-02-22T09:40:00Z</updated>
-    <published>2021-02-22T09:40:00Z</published>
-    <content type="text">NASA TV will livestream the rendezvous and capture of Northrop Grumman's NG-15 Cygnus cargo craft to the International Space Station.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-15_cygnus_be_image_20210105203038.jpg"/>
-    <category term="event"/>
-    <category term="berthing"/>
   </entry>
 </feed>

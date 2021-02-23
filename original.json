@@ -36,6 +36,39 @@
    }
   },
   {
+   "id": "~space-schedule~event~static_fire~225",
+   "title": "SLS 2nd Hot Fire Test",
+   "content_text": "NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. \r\n\r\nThe four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg",
+   "date_published": "2021-03-07T00:00:00Z",
+   "date_modified": "2021-03-07T00:00:00Z",
+   "tags": [
+    "event",
+    "static_fire"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Static Fire | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "225",
+    "global": "~space-schedule~event~static_fire~225"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~eva~212",
    "title": "US EVA-72",
    "content_text": "On Friday, March 5, NASA and JAXA astronauts Kate Rubins and Soichi Noguchi will venture outside the orbiting outpost to vent ammonia from the Early Ammonia System and complete several other tasks. The pair will install a “stiffener” on the Quest airlock thermal cover to prevent it from blowing out when residual atmosphere escapes as the hatch is opened. Glover began addressing this issue on a previous spacewalk by installing a stronger magnet to keep the cover closed. The crew also will remove and replace a wireless video transceiver assembly. Rubins will be EV 1 and Noguchi will be EV 2.",
@@ -103,7 +136,7 @@
   },
   {
    "id": "~space-schedule~launch~indian_space_research_organization~2a787f32-69db-4f78-b69e-df26e5c2ab88",
-   "title": "PSLV-DL | Amazonia 1, Anand & Saditsat",
+   "title": "PSLV-DL | Amazonia 1, Anand & SDsat",
    "content_text": "Amazonia 1 is a Brazilian optical Earth observation satellite of the National Institute for Space Research (INPE). This satellite will further strengthen the existing structure by providing remote sensing data to users for monitoring deforestation in the Amazon region and analysis of diversified agriculture across the Brazilian territory.\r\n\r\nThe 20 co-passenger satellites include one from ISRO (INS-2TD), four from IN-SPACe (three UNITYsats from consortium of three Indian academic institutes and One Satish Dhawan Sat from Space Kidz India) and 15 from NSIL.",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/2a787f32-69db-4f78-b69e-df26e5c2ab88.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv-dl_image_20191201202351.jpeg",
@@ -136,39 +169,6 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/indian_space_research_organization/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~static_fire~225",
-   "title": "SLS 2nd Hot Fire Test",
-   "content_text": "NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. \r\n\r\nThe four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg",
-   "date_published": "2021-02-25T00:00:00Z",
-   "date_modified": "2021-02-25T00:00:00Z",
-   "tags": [
-    "event",
-    "static_fire"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Static Fire | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "225",
-    "global": "~space-schedule~event~static_fire~225"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
    }
   },
   {
@@ -208,6 +208,39 @@
    }
   },
   {
+   "id": "~space-schedule~event~static_fire~226",
+   "title": "Starship SN10 Static Fire",
+   "content_text": "SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.",
+   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg",
+   "date_published": "2021-02-23T17:00:00Z",
+   "date_modified": "2021-02-23T17:00:00Z",
+   "tags": [
+    "event",
+    "static_fire"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Static Fire | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "226",
+    "global": "~space-schedule~event~static_fire~226"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~press_event~229",
    "title": "NASA Mars 2020 Perseverance Mission Images & Video Release",
    "content_text": "Mission experts of the NASA's Mars 2020 Perseverance mission will provide updates about the rover, including imagery it captured during its descent and landing.",
@@ -238,72 +271,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~static_fire~226",
-   "title": "Starship SN10 Static Fire",
-   "content_text": "SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.",
-   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg",
-   "date_published": "2021-02-22T17:00:00Z",
-   "date_modified": "2021-02-22T17:00:00Z",
-   "tags": [
-    "event",
-    "static_fire"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Static Fire | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "226",
-    "global": "~space-schedule~event~static_fire~226"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~berthing~214",
-   "title": "NG-15 Cygnus Berthing",
-   "content_text": "NASA TV will livestream the rendezvous and capture of Northrop Grumman's NG-15 Cygnus cargo craft to the International Space Station.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-15_cygnus_be_image_20210105203038.jpg",
-   "date_published": "2021-02-22T09:40:00Z",
-   "date_modified": "2021-02-22T09:40:00Z",
-   "tags": [
-    "event",
-    "berthing"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-15_cygnus_be_image_20210105203038.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Berthing | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "214",
-    "global": "~space-schedule~event~berthing~214"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/berthing/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -314,7 +281,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 9,
+  "itemCount": 8,
   "pageNumber": 1,
   "pageCount": 1
  }

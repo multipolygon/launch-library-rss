@@ -21,6 +21,18 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_rel_image_20210220074256.jpeg"/>
     </item>
     <item>
+      <title>SLS 2nd Hot Fire Test</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
+&#xD;
+The four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~225</guid>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
+    </item>
+    <item>
       <title>US EVA-72</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>On Friday, March 5, NASA and JAXA astronauts Kate Rubins and Soichi Noguchi will venture outside the orbiting outpost to vent ammonia from the Early Ammonia System and complete several other tasks. The pair will install a “stiffener” on the Quest airlock thermal cover to prevent it from blowing out when residual atmosphere escapes as the hatch is opened. Glover began addressing this issue on a previous spacewalk by installing a stronger magnet to keep the cover closed. The crew also will remove and replace a wireless video transceiver assembly. Rubins will be EV 1 and Noguchi will be EV 2.</description>
@@ -41,16 +53,14 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg"/>
     </item>
     <item>
-      <title>SLS 2nd Hot Fire Test</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
-&#xD;
-The four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
+      <title>Starship SN10 Static Fire</title>
+      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
+      <description>SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.</description>
       <category>event</category>
       <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~225</guid>
-      <pubDate>Thu, 25 Feb 2021 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~226</guid>
+      <pubDate>Tue, 23 Feb 2021 17:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
     </item>
     <item>
       <title>NASA Mars 2020 Perseverance Mission Images &amp; Video Release</title>
@@ -61,26 +71,6 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <guid isPermaLink="false">~space-schedule~event~press_event~229</guid>
       <pubDate>Mon, 22 Feb 2021 19:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210221070241.jpeg"/>
-    </item>
-    <item>
-      <title>Starship SN10 Static Fire</title>
-      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~226</guid>
-      <pubDate>Mon, 22 Feb 2021 17:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
-    </item>
-    <item>
-      <title>NG-15 Cygnus Berthing</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>NASA TV will livestream the rendezvous and capture of Northrop Grumman's NG-15 Cygnus cargo craft to the International Space Station.</description>
-      <category>event</category>
-      <category>berthing</category>
-      <guid isPermaLink="false">~space-schedule~event~berthing~214</guid>
-      <pubDate>Mon, 22 Feb 2021 09:40:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-15_cygnus_be_image_20210105203038.jpg"/>
     </item>
   </channel>
 </rss>

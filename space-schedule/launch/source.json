@@ -73,8 +73,8 @@
             "id": "2a787f32-69db-4f78-b69e-df26e5c2ab88",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/2a787f32-69db-4f78-b69e-df26e5c2ab88.json",
             "launch_library_id": 1662,
-            "slug": "pslv-dl-amazonia-1-anand-saditsat",
-            "name": "PSLV-DL | Amazonia 1, Anand & Saditsat",
+            "slug": "pslv-dl-amazonia-1-anand-sdsat",
+            "name": "PSLV-DL | Amazonia 1, Anand & SDsat",
             "status": {
                 "id": 1,
                 "name": "Go"
@@ -110,7 +110,7 @@
             "mission": {
                 "id": 1244,
                 "launch_library_id": null,
-                "name": "Amazonia 1, Anand & Saditsat",
+                "name": "Amazonia 1, Anand & SDsat",
                 "description": "Amazonia 1 is a Brazilian optical Earth observation satellite of the National Institute for Space Research (INPE). This satellite will further strengthen the existing structure by providing remote sensing data to users for monitoring deforestation in the Amazon region and analysis of diversified agriculture across the Brazilian territory.\r\n\r\nThe 20 co-passenger satellites include one from ISRO (INS-2TD), four from IN-SPACe (three UNITYsats from consortium of three Indian academic institutes and One Satish Dhawan Sat from Space Kidz India) and 15 from NSIL.",
                 "launch_designator": null,
                 "type": "Earth Science",

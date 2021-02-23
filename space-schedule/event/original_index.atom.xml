@@ -17,6 +17,14 @@
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Frelocation%2Foriginal.json"/>
   </entry>
   <entry>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json</id>
+    <title>Static Fire | Event | Space Schedule</title>
+    <updated>2021-03-07T00:00:00Z</updated>
+    <published>2021-03-07T00:00:00Z</published>
+    <content type="text">2 items</content>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json"/>
+  </entry>
+  <entry>
     <id>https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json</id>
     <title>EVA | Event | Space Schedule</title>
     <updated>2021-03-05T12:00:00Z</updated>
@@ -25,27 +33,11 @@
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Feva%2Foriginal.json"/>
   </entry>
   <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json</id>
-    <title>Static Fire | Event | Space Schedule</title>
-    <updated>2021-02-25T00:00:00Z</updated>
-    <published>2021-02-25T00:00:00Z</published>
-    <content type="text">2 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json"/>
-  </entry>
-  <entry>
     <id>https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json</id>
     <title>Press Event | Event | Space Schedule</title>
     <updated>2021-02-22T19:00:00Z</updated>
     <published>2021-02-22T19:00:00Z</published>
     <content type="text">1 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json"/>
-  </entry>
-  <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/berthing/original.json</id>
-    <title>Berthing | Event | Space Schedule</title>
-    <updated>2021-02-22T09:40:00Z</updated>
-    <published>2021-02-22T09:40:00Z</published>
-    <content type="text">1 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fberthing%2Foriginal.json"/>
   </entry>
 </feed>
