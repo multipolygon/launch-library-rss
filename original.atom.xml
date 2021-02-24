@@ -73,40 +73,25 @@ The 20 co-passenger satellites include one from ISRO (INS-2TD), four from IN-SPA
     <category term="satish_dhawan_space_centre_first_launch_pad"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~china_aerospace_corporation~80e1d8bd-bae1-4db8-a509-a7c8b26435c5</id>
-    <title>Long March 4C | Yaogan-31-03</title>
-    <updated>2021-02-24T02:13:00Z</updated>
-    <published>2021-02-24T02:13:00Z</published>
-    <content type="text">-</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/80e1d8bd-bae1-4db8-a509-a7c8b26435c5.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_corporation"/>
-    <category term="government"/>
-    <category term="long_march_4"/>
-    <category term="long_march_4_c"/>
-    <category term="launch_area_4_sls_2_603"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~226</id>
-    <title>Starship SN10 Static Fire</title>
-    <updated>2021-02-23T17:00:00Z</updated>
-    <published>2021-02-23T17:00:00Z</published>
-    <content type="text">SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Ky5l9ZxsG9M"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
+    <id>~space-schedule~event~static_fire~230</id>
+    <title>Starship SN10 Static Fire #2</title>
+    <updated>2021-02-24T23:00:00Z</updated>
+    <published>2021-02-24T23:00:00Z</published>
+    <content type="text">SpaceX will attempt a second static fire of the Starship SN10 vehicle after swapping out one of its engines.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=sTA0GTgFn5E"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210224072220.jpeg"/>
     <category term="event"/>
     <category term="static_fire"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~press_event~229</id>
-    <title>NASA Mars 2020 Perseverance Mission Images &amp; Video Release</title>
-    <updated>2021-02-22T19:00:00Z</updated>
-    <published>2021-02-22T19:00:00Z</published>
-    <content type="text">Mission experts of the NASA's Mars 2020 Perseverance mission will provide updates about the rover, including imagery it captured during its descent and landing.</content>
-    <link rel="alternate" href="https://youtu.be/gYQwuYZbA6o"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210221070241.jpeg"/>
+    <id>~space-schedule~event~static_fire~226</id>
+    <title>Starship SN10 Static Fire</title>
+    <updated>2021-02-23T23:00:00Z</updated>
+    <published>2021-02-23T23:00:00Z</published>
+    <content type="text">SpaceX successfully performed a static fire of the Starship SN10 vehicle.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=sTA0GTgFn5E"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
     <category term="event"/>
-    <category term="press_event"/>
+    <category term="static_fire"/>
   </entry>
 </feed>

@@ -135,13 +135,46 @@
    }
   },
   {
+   "id": "~space-schedule~event~static_fire~230",
+   "title": "Starship SN10 Static Fire #2",
+   "content_text": "SpaceX will attempt a second static fire of the Starship SN10 vehicle after swapping out one of its engines.",
+   "url": "https://www.youtube.com/watch?v=sTA0GTgFn5E",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210224072220.jpeg",
+   "date_published": "2021-02-24T23:00:00Z",
+   "date_modified": "2021-02-24T23:00:00Z",
+   "tags": [
+    "event",
+    "static_fire"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210224072220.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Static Fire | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "230",
+    "global": "~space-schedule~event~static_fire~230"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~static_fire~226",
    "title": "Starship SN10 Static Fire",
-   "content_text": "SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.",
-   "url": "https://www.youtube.com/watch?v=Ky5l9ZxsG9M",
+   "content_text": "SpaceX successfully performed a static fire of the Starship SN10 vehicle.",
+   "url": "https://www.youtube.com/watch?v=sTA0GTgFn5E",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg",
-   "date_published": "2021-02-23T17:00:00Z",
-   "date_modified": "2021-02-23T17:00:00Z",
+   "date_published": "2021-02-23T23:00:00Z",
+   "date_modified": "2021-02-23T23:00:00Z",
    "tags": [
     "event",
     "static_fire"
@@ -165,38 +198,6 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~press_event~229",
-   "title": "NASA Mars 2020 Perseverance Mission Images & Video Release",
-   "content_text": "Mission experts of the NASA's Mars 2020 Perseverance mission will provide updates about the rover, including imagery it captured during its descent and landing.",
-   "url": "https://youtu.be/gYQwuYZbA6o",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210221070241.jpeg",
-   "date_published": "2021-02-22T19:00:00Z",
-   "date_modified": "2021-02-22T19:00:00Z",
-   "tags": [
-    "event",
-    "press_event"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210221070241.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Press Event | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "229",
-    "global": "~space-schedule~event~press_event~229"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
    }
   }
  ],

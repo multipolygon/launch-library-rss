@@ -53,24 +53,24 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg"/>
     </item>
     <item>
+      <title>Starship SN10 Static Fire #2</title>
+      <link>https://www.youtube.com/watch?v=sTA0GTgFn5E</link>
+      <description>SpaceX will attempt a second static fire of the Starship SN10 vehicle after swapping out one of its engines.</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~230</guid>
+      <pubDate>Wed, 24 Feb 2021 23:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210224072220.jpeg"/>
+    </item>
+    <item>
       <title>Starship SN10 Static Fire</title>
-      <link>https://www.youtube.com/watch?v=Ky5l9ZxsG9M</link>
-      <description>SpaceX will attempt to perform a static fire of the Starship SN10 vehicle.</description>
+      <link>https://www.youtube.com/watch?v=sTA0GTgFn5E</link>
+      <description>SpaceX successfully performed a static fire of the Starship SN10 vehicle.</description>
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">~space-schedule~event~static_fire~226</guid>
-      <pubDate>Tue, 23 Feb 2021 17:00:00 GMT</pubDate>
+      <pubDate>Tue, 23 Feb 2021 23:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
-    </item>
-    <item>
-      <title>NASA Mars 2020 Perseverance Mission Images &amp; Video Release</title>
-      <link>https://youtu.be/gYQwuYZbA6o</link>
-      <description>Mission experts of the NASA's Mars 2020 Perseverance mission will provide updates about the rover, including imagery it captured during its descent and landing.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~229</guid>
-      <pubDate>Mon, 22 Feb 2021 19:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210221070241.jpeg"/>
     </item>
   </channel>
 </rss>
