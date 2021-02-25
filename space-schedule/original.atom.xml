@@ -44,6 +44,22 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <category term="eva"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~space_x~dfd4f0e0-0ab4-494d-bd88-1b93b934b269</id>
+    <title>Falcon 9 Block 5 | Starlink 17</title>
+    <updated>2021-03-01T01:37:00Z</updated>
+    <published>2021-03-01T01:37:00Z</published>
+    <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>
+    <category term="launch"/>
+    <category term="space_x"/>
+    <category term="commercial"/>
+    <category term="falcon"/>
+    <category term="falcon_9_block_5"/>
+    <category term="communications"/>
+    <category term="launch_complex_39_a"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~eva~211</id>
     <title>US EVA-71</title>
     <updated>2021-02-28T11:00:00Z</updated>
@@ -75,22 +91,11 @@ The 20 co-passenger satellites include one from ISRO (INS-2TD), four from IN-SPA
   <entry>
     <id>~space-schedule~event~static_fire~230</id>
     <title>Starship SN10 Static Fire #2</title>
-    <updated>2021-02-24T23:00:00Z</updated>
-    <published>2021-02-24T23:00:00Z</published>
+    <updated>2021-02-25T23:00:00Z</updated>
+    <published>2021-02-25T23:00:00Z</published>
     <content type="text">SpaceX will attempt a second static fire of the Starship SN10 vehicle after swapping out one of its engines.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=sTA0GTgFn5E"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210224072220.jpeg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~226</id>
-    <title>Starship SN10 Static Fire</title>
-    <updated>2021-02-23T23:00:00Z</updated>
-    <published>2021-02-23T23:00:00Z</published>
-    <content type="text">SpaceX successfully performed a static fire of the Starship SN10 vehicle.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=sTA0GTgFn5E"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
     <category term="event"/>
     <category term="static_fire"/>
   </entry>

@@ -43,6 +43,21 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210105202154.jpg"/>
     </item>
     <item>
+      <title>Falcon 9 Block 5 | Starlink 17</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json</link>
+      <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon_9_block_5</category>
+      <category>communications</category>
+      <category>launch_complex_39_a</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~dfd4f0e0-0ab4-494d-bd88-1b93b934b269</guid>
+      <pubDate>Mon, 01 Mar 2021 01:37:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>
+    </item>
+    <item>
       <title>US EVA-71</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>On Sunday, Feb. 28, NASA astronauts Kate Rubins and Victor Glover will step out of the space station to begin assembling and installing modification kits required for upcoming solar array upgrades. The current solar arrays are functioning well, but have begun to show signs of degradation, as expected, as they were designed for a 15-year service life. The first pair of solar arrays were deployed in December 2000 and have been powering the station for more than 20 years. Later this year, the new solar arrays will be positioned in front of six of the current arrays, increasing the station’s total available power from 160 kilowatts to up to 215 kilowatts. Rubins will be extravehicular crew member 1 (EV 1) wearing red stripes. Glover will be extravehicular crew member 2 (EV 2) and wear a suit with no stripes.</description>
@@ -76,18 +91,8 @@ The 20 co-passenger satellites include one from ISRO (INS-2TD), four from IN-SPA
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">~space-schedule~event~static_fire~230</guid>
-      <pubDate>Wed, 24 Feb 2021 23:00:00 GMT</pubDate>
+      <pubDate>Thu, 25 Feb 2021 23:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210224072220.jpeg"/>
-    </item>
-    <item>
-      <title>Starship SN10 Static Fire</title>
-      <link>https://www.youtube.com/watch?v=sTA0GTgFn5E</link>
-      <description>SpaceX successfully performed a static fire of the Starship SN10 vehicle.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~226</guid>
-      <pubDate>Tue, 23 Feb 2021 23:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210208012610.jpeg"/>
     </item>
   </channel>
 </rss>
