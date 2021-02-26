@@ -65,7 +65,7 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <updated>2021-02-28T11:00:00Z</updated>
     <published>2021-02-28T11:00:00Z</published>
     <content type="text">On Sunday, Feb. 28, NASA astronauts Kate Rubins and Victor Glover will step out of the space station to begin assembling and installing modification kits required for upcoming solar array upgrades. The current solar arrays are functioning well, but have begun to show signs of degradation, as expected, as they were designed for a 15-year service life. The first pair of solar arrays were deployed in December 2000 and have been powering the station for more than 20 years. Later this year, the new solar arrays will be positioned in front of six of the current arrays, increasing the station’s total available power from 160 kilowatts to up to 215 kilowatts. Rubins will be extravehicular crew member 1 (EV 1) wearing red stripes. Glover will be extravehicular crew member 2 (EV 2) and wear a suit with no stripes.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=gcv6beMn750https://www.youtube.com/watch?v=gcv6beMn750"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg"/>
     <category term="event"/>
     <category term="eva"/>
@@ -77,7 +77,7 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <published>2021-02-28T04:53:00Z</published>
     <content type="text">Amazonia 1 is a Brazilian optical Earth observation satellite of the National Institute for Space Research (INPE). This satellite will further strengthen the existing structure by providing remote sensing data to users for monitoring deforestation in the Amazon region and analysis of diversified agriculture across the Brazilian territory.&#xD;
 &#xD;
-The 20 co-passenger satellites include one from ISRO (INS-2TD), four from IN-SPACe (three UNITYsats from consortium of three Indian academic institutes and One Satish Dhawan Sat from Space Kidz India) and 15 from NSIL.</content>
+The 18 co-passenger satellites include four from IN-SPACe (three UNITYsats from consortium of three Indian academic institutes and One Satish Dhawan Sat from Space Kidz India) and 14 from NSIL.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/2a787f32-69db-4f78-b69e-df26e5c2ab88.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv-dl_image_20191201202351.jpeg"/>
     <category term="launch"/>
@@ -91,9 +91,9 @@ The 20 co-passenger satellites include one from ISRO (INS-2TD), four from IN-SPA
   <entry>
     <id>~space-schedule~event~static_fire~230</id>
     <title>Starship SN10 Static Fire #2</title>
-    <updated>2021-02-25T23:00:00Z</updated>
-    <published>2021-02-25T23:00:00Z</published>
-    <content type="text">SpaceX will attempt a second static fire of the Starship SN10 vehicle after swapping out one of its engines.</content>
+    <updated>2021-02-25T22:57:00Z</updated>
+    <published>2021-02-25T22:57:00Z</published>
+    <content type="text">SpaceX performed a second static fire of the Starship SN10 vehicle after swapping out one of its engines.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=sTA0GTgFn5E"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210224072220.jpeg"/>
     <category term="event"/>

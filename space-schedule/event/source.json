@@ -12,12 +12,12 @@
                 "id": 5,
                 "name": "Static Fire"
             },
-            "description": "SpaceX will attempt a second static fire of the Starship SN10 vehicle after swapping out one of its engines.",
+            "description": "SpaceX performed a second static fire of the Starship SN10 vehicle after swapping out one of its engines.",
             "location": "Boca Chica, Texas",
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=sTA0GTgFn5E",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210224072220.jpeg",
-            "date": "2021-02-25T23:00:00Z",
+            "date": "2021-02-25T22:57:00Z",
             "launches": [
                 {
                     "id": "c0ac9a61-5aac-40d7-9919-3c29ea7d4172",
@@ -29,9 +29,9 @@
                         "id": 2,
                         "name": "TBD"
                     },
-                    "net": "2021-02-26T18:00:00Z",
-                    "window_end": "2021-02-27T00:30:00Z",
-                    "window_start": "2021-02-26T15:00:00Z",
+                    "net": "2021-03-01T18:00:00Z",
+                    "window_end": "2021-03-02T00:30:00Z",
+                    "window_start": "2021-03-01T15:00:00Z",
                     "inhold": false,
                     "tbdtime": false,
                     "tbddate": false,
@@ -154,7 +154,7 @@
             "description": "On Sunday, Feb. 28, NASA astronauts Kate Rubins and Victor Glover will step out of the space station to begin assembling and installing modification kits required for upcoming solar array upgrades. The current solar arrays are functioning well, but have begun to show signs of degradation, as expected, as they were designed for a 15-year service life. The first pair of solar arrays were deployed in December 2000 and have been powering the station for more than 20 years. Later this year, the new solar arrays will be positioned in front of six of the current arrays, increasing the station’s total available power from 160 kilowatts to up to 215 kilowatts. Rubins will be extravehicular crew member 1 (EV 1) wearing red stripes. Glover will be extravehicular crew member 2 (EV 2) and wear a suit with no stripes.",
             "location": "International Space Station",
             "news_url": "https://www.nasa.gov/press-release/nasa-tv-coverage-scheduled-for-upcoming-spacewalks-briefing",
-            "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+            "video_url": "https://www.youtube.com/watch?v=gcv6beMn750https://www.youtube.com/watch?v=gcv6beMn750",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg",
             "date": "2021-02-28T11:00:00Z",
             "launches": [],

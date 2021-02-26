@@ -105,7 +105,7 @@
    "id": "~space-schedule~event~eva~211",
    "title": "US EVA-71",
    "content_text": "On Sunday, Feb. 28, NASA astronauts Kate Rubins and Victor Glover will step out of the space station to begin assembling and installing modification kits required for upcoming solar array upgrades. The current solar arrays are functioning well, but have begun to show signs of degradation, as expected, as they were designed for a 15-year service life. The first pair of solar arrays were deployed in December 2000 and have been powering the station for more than 20 years. Later this year, the new solar arrays will be positioned in front of six of the current arrays, increasing the station’s total available power from 160 kilowatts to up to 215 kilowatts. Rubins will be extravehicular crew member 1 (EV 1) wearing red stripes. Glover will be extravehicular crew member 2 (EV 2) and wear a suit with no stripes.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "url": "https://www.youtube.com/watch?v=gcv6beMn750https://www.youtube.com/watch?v=gcv6beMn750",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg",
    "date_published": "2021-02-28T11:00:00Z",
    "date_modified": "2021-02-28T11:00:00Z",
@@ -137,11 +137,11 @@
   {
    "id": "~space-schedule~event~static_fire~230",
    "title": "Starship SN10 Static Fire #2",
-   "content_text": "SpaceX will attempt a second static fire of the Starship SN10 vehicle after swapping out one of its engines.",
+   "content_text": "SpaceX performed a second static fire of the Starship SN10 vehicle after swapping out one of its engines.",
    "url": "https://www.youtube.com/watch?v=sTA0GTgFn5E",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210224072220.jpeg",
-   "date_published": "2021-02-25T23:00:00Z",
-   "date_modified": "2021-02-25T23:00:00Z",
+   "date_published": "2021-02-25T22:57:00Z",
+   "date_modified": "2021-02-25T22:57:00Z",
    "tags": [
     "event",
     "static_fire"
