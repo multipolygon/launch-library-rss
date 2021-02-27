@@ -43,6 +43,16 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210105202154.jpg"/>
     </item>
     <item>
+      <title>SpaceX Crew-2 Crew News Conference</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The crew of SpaceX's Crew-2 mission, NASA astronauts Shane Kimbrough and Megan McArthur as well as JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet will answer press questions during a live-streamed news conference.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~231</guid>
+      <pubDate>Mon, 01 Mar 2021 19:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20210227094223.jpeg"/>
+    </item>
+    <item>
       <title>US EVA-71</title>
       <link>https://www.youtube.com/watch?v=gcv6beMn750https://www.youtube.com/watch?v=gcv6beMn750</link>
       <description>On Sunday, Feb. 28, NASA astronauts Kate Rubins and Victor Glover will step out of the space station to begin assembling and installing modification kits required for upcoming solar array upgrades. The current solar arrays are functioning well, but have begun to show signs of degradation, as expected, as they were designed for a 15-year service life. The first pair of solar arrays were deployed in December 2000 and have been powering the station for more than 20 years. Later this year, the new solar arrays will be positioned in front of six of the current arrays, increasing the station’s total available power from 160 kilowatts to up to 215 kilowatts. Rubins will be extravehicular crew member 1 (EV 1) wearing red stripes. Glover will be extravehicular crew member 2 (EV 2) and wear a suit with no stripes.</description>
@@ -51,16 +61,6 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <guid isPermaLink="false">~space-schedule~event~eva~211</guid>
       <pubDate>Sun, 28 Feb 2021 11:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg"/>
-    </item>
-    <item>
-      <title>Starship SN10 Static Fire #2</title>
-      <link>https://www.youtube.com/watch?v=sTA0GTgFn5E</link>
-      <description>SpaceX performed a second static fire of the Starship SN10 vehicle after swapping out one of its engines.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~230</guid>
-      <pubDate>Thu, 25 Feb 2021 22:57:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210224072220.jpeg"/>
     </item>
   </channel>
 </rss>

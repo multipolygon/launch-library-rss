@@ -21,15 +21,5 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
     </item>
-    <item>
-      <title>Starship SN10 Static Fire #2</title>
-      <link>https://www.youtube.com/watch?v=sTA0GTgFn5E</link>
-      <description>SpaceX performed a second static fire of the Starship SN10 vehicle after swapping out one of its engines.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">230</guid>
-      <pubDate>Thu, 25 Feb 2021 22:57:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210224072220.jpeg"/>
-    </item>
   </channel>
 </rss>

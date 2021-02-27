@@ -43,6 +43,16 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210105202154.jpg"/>
     </item>
     <item>
+      <title>SpaceX Crew-2 Crew News Conference</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The crew of SpaceX's Crew-2 mission, NASA astronauts Shane Kimbrough and Megan McArthur as well as JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet will answer press questions during a live-streamed news conference.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~231</guid>
+      <pubDate>Mon, 01 Mar 2021 19:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20210227094223.jpeg"/>
+    </item>
+    <item>
       <title>Falcon 9 Block 5 | Starlink 17</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json</link>
       <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
@@ -68,7 +78,22 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg"/>
     </item>
     <item>
-      <title>PSLV-DL | Amazonia 1, Anand &amp; SDsat</title>
+      <title>Soyuz 2.1b/Fregat-M | Arktika-M No.1</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/b7e42e9f-7c6c-4a7b-ade3-e19df59209ae.json</link>
+      <description>Arktika-M ("Arctic-M") is a series of Earh observation satellites which will gather meteorological and hydrological data on polar region. Arktika-M satellites will also provide communication services for the region.</description>
+      <category>launch</category>
+      <category>russian_federal_space_agency_roscosmos</category>
+      <category>government</category>
+      <category>soyuz</category>
+      <category>soyuz_2_1_b_fregat_m</category>
+      <category>earth_science</category>
+      <category>31_6</category>
+      <guid isPermaLink="false">~space-schedule~launch~russian_federal_space_agency_roscosmos~b7e42e9f-7c6c-4a7b-ade3-e19df59209ae</guid>
+      <pubDate>Sun, 28 Feb 2021 06:55:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"/>
+    </item>
+    <item>
+      <title>PSLV-DL | Amazonia 1 &amp; 18 others</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/2a787f32-69db-4f78-b69e-df26e5c2ab88.json</link>
       <description>Amazonia 1 is a Brazilian optical Earth observation satellite of the National Institute for Space Research (INPE). This satellite will further strengthen the existing structure by providing remote sensing data to users for monitoring deforestation in the Amazon region and analysis of diversified agriculture across the Brazilian territory.&#xD;
 &#xD;
@@ -83,16 +108,6 @@ The 18 co-passenger satellites include four from IN-SPACe (three UNITYsats from 
       <guid isPermaLink="false">~space-schedule~launch~indian_space_research_organization~2a787f32-69db-4f78-b69e-df26e5c2ab88</guid>
       <pubDate>Sun, 28 Feb 2021 04:53:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv-dl_image_20191201202351.jpeg"/>
-    </item>
-    <item>
-      <title>Starship SN10 Static Fire #2</title>
-      <link>https://www.youtube.com/watch?v=sTA0GTgFn5E</link>
-      <description>SpaceX performed a second static fire of the Starship SN10 vehicle after swapping out one of its engines.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~230</guid>
-      <pubDate>Thu, 25 Feb 2021 22:57:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210224072220.jpeg"/>
     </item>
   </channel>
 </rss>

@@ -44,6 +44,17 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <category term="eva"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~press_event~231</id>
+    <title>SpaceX Crew-2 Crew News Conference</title>
+    <updated>2021-03-01T19:00:00Z</updated>
+    <published>2021-03-01T19:00:00Z</published>
+    <content type="text">The crew of SpaceX's Crew-2 mission, NASA astronauts Shane Kimbrough and Megan McArthur as well as JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet will answer press questions during a live-streamed news conference.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20210227094223.jpeg"/>
+    <category term="event"/>
+    <category term="press_event"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~eva~211</id>
     <title>US EVA-71</title>
     <updated>2021-02-28T11:00:00Z</updated>
@@ -53,16 +64,5 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg"/>
     <category term="event"/>
     <category term="eva"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~230</id>
-    <title>Starship SN10 Static Fire #2</title>
-    <updated>2021-02-25T22:57:00Z</updated>
-    <published>2021-02-25T22:57:00Z</published>
-    <content type="text">SpaceX performed a second static fire of the Starship SN10 vehicle after swapping out one of its engines.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=sTA0GTgFn5E"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn10_s_image_20210224072220.jpeg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
   </entry>
 </feed>
