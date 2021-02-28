@@ -2,27 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule</title>
+    <title>Russian Federal Space Agency Roscosmos</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Frussian_federal_space_agency_roscosmos%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Sun, 28 Feb 2021 06:55:00 GMT</pubDate>
+    <pubDate>Sun, 28 Feb 2021 11:25:46 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <item>
-      <title>Soyuz 2.1b/Fregat-M | Arktika-M No.1</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/b7e42e9f-7c6c-4a7b-ade3-e19df59209ae.json</link>
-      <description>Arktika-M ("Arctic-M") is a series of Earh observation satellites which will gather meteorological and hydrological data on polar region. Arktika-M satellites will also provide communication services for the region.</description>
-      <category>launch</category>
-      <category>russian_federal_space_agency_roscosmos</category>
-      <category>government</category>
-      <category>soyuz</category>
-      <category>soyuz_2_1_b_fregat_m</category>
-      <category>earth_science</category>
-      <category>31_6</category>
-      <guid isPermaLink="false">b7e42e9f-7c6c-4a7b-ade3-e19df59209ae</guid>
-      <pubDate>Sun, 28 Feb 2021 06:55:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"/>
-    </item>
   </channel>
 </rss>

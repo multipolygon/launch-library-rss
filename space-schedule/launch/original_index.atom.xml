@@ -16,20 +16,4 @@
     <content type="text">1 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json"/>
   </entry>
-  <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.json</id>
-    <title>Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule</title>
-    <updated>2021-02-28T06:55:00Z</updated>
-    <published>2021-02-28T06:55:00Z</published>
-    <content type="text">1 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Frussian_federal_space_agency_roscosmos%2Foriginal.json"/>
-  </entry>
-  <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/indian_space_research_organization/original.json</id>
-    <title>Indian Space Research Organization | Launch | Space Schedule</title>
-    <updated>2021-02-28T04:53:00Z</updated>
-    <published>2021-02-28T04:53:00Z</published>
-    <content type="text">1 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Findian_space_research_organization%2Foriginal.json"/>
-  </entry>
 </feed>

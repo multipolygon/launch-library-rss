@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule</title>
+  <title>Russian Federal Space Agency Roscosmos</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.atom.xml</id>
-  <updated>2021-02-28T06:55:00Z</updated>
+  <updated>2021-02-28T11:25:46.233Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Frussian_federal_space_agency_roscosmos%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
-  <entry>
-    <id>b7e42e9f-7c6c-4a7b-ade3-e19df59209ae</id>
-    <title>Soyuz 2.1b/Fregat-M | Arktika-M No.1</title>
-    <updated>2021-02-28T06:55:00Z</updated>
-    <published>2021-02-28T06:55:00Z</published>
-    <content type="text">Arktika-M ("Arctic-M") is a series of Earh observation satellites which will gather meteorological and hydrological data on polar region. Arktika-M satellites will also provide communication services for the region.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/b7e42e9f-7c6c-4a7b-ade3-e19df59209ae.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"/>
-    <category term="launch"/>
-    <category term="russian_federal_space_agency_roscosmos"/>
-    <category term="government"/>
-    <category term="soyuz"/>
-    <category term="soyuz_2_1_b_fregat_m"/>
-    <category term="earth_science"/>
-    <category term="31_6"/>
-  </entry>
 </feed>
