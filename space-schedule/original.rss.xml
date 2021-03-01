@@ -43,16 +43,6 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210105202154.jpg"/>
     </item>
     <item>
-      <title>SpaceX Crew-2 Crew News Conference</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The crew of SpaceX's Crew-2 mission, NASA astronauts Shane Kimbrough and Megan McArthur as well as JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet will answer press questions during a live-streamed news conference.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~231</guid>
-      <pubDate>Mon, 01 Mar 2021 19:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20210227094223.jpeg"/>
-    </item>
-    <item>
       <title>Falcon 9 Block 5 | Starlink 17</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269.json</link>
       <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
@@ -64,18 +54,18 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <category>communications</category>
       <category>launch_complex_39_a</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~dfd4f0e0-0ab4-494d-bd88-1b93b934b269</guid>
-      <pubDate>Mon, 01 Mar 2021 01:37:00 GMT</pubDate>
+      <pubDate>Tue, 02 Mar 2021 01:15:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png"/>
     </item>
     <item>
-      <title>US EVA-71</title>
-      <link>https://www.youtube.com/watch?v=gcv6beMn750</link>
-      <description>On Sunday, Feb. 28, NASA astronauts Kate Rubins and Victor Glover will step out of the space station to begin assembling and installing modification kits required for upcoming solar array upgrades. The current solar arrays are functioning well, but have begun to show signs of degradation, as expected, as they were designed for a 15-year service life. The first pair of solar arrays were deployed in December 2000 and have been powering the station for more than 20 years. Later this year, the new solar arrays will be positioned in front of six of the current arrays, increasing the station’s total available power from 160 kilowatts to up to 215 kilowatts. Rubins will be extravehicular crew member 1 (EV 1) wearing red stripes. Glover will be extravehicular crew member 2 (EV 2) and wear a suit with no stripes.</description>
+      <title>SpaceX Crew-2 Crew News Conference</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The crew of SpaceX's Crew-2 mission, NASA astronauts Shane Kimbrough and Megan McArthur as well as JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet will answer press questions during a live-streamed news conference.</description>
       <category>event</category>
-      <category>eva</category>
-      <guid isPermaLink="false">~space-schedule~event~eva~211</guid>
-      <pubDate>Sun, 28 Feb 2021 11:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-71_image_20210105202023.jpg"/>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~231</guid>
+      <pubDate>Mon, 01 Mar 2021 19:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20210227094223.jpeg"/>
     </item>
   </channel>
 </rss>
