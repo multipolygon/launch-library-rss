@@ -2,12 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Event</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/original.atom.xml</id>
-  <updated>2021-03-19T16:43:00Z</updated>
+  <updated>2021-04-01T00:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items in Space Schedule &gt; Event.</subtitle>
+  <entry>
+    <id>~space-schedule~event~landing~126</id>
+    <title>Tianwen-1 Rover Landing</title>
+    <updated>2021-04-01T00:00:00Z</updated>
+    <published>2021-04-01T00:00:00Z</published>
+    <content type="text">The Tianwen-1 rover will attempt to land on Mars using a parachute to slow down and a propulsive landing for the final 1.5km of the descent.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/event/126.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_rover_image_20200721110816.jpg"/>
+    <category term="event"/>
+    <category term="landing"/>
+  </entry>
   <entry>
     <id>~space-schedule~event~relocation~228</id>
     <title>Soyuz MS-17 Relocation</title>
@@ -49,7 +60,7 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <updated>2021-03-01T19:00:00Z</updated>
     <published>2021-03-01T19:00:00Z</published>
     <content type="text">The crew of SpaceX's Crew-2 mission, NASA astronauts Shane Kimbrough and Megan McArthur as well as JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet will answer press questions during a live-streamed news conference.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=m3_C91gNU4A"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20210227094223.jpeg"/>
     <category term="event"/>
     <category term="press_event"/>
