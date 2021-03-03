@@ -2,22 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Press Event | Event | Space Schedule</title>
+    <title>Press Event</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Mon, 01 Mar 2021 19:00:00 GMT</pubDate>
+    <pubDate>Wed, 03 Mar 2021 11:26:10 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <item>
-      <title>SpaceX Crew-2 Crew News Conference</title>
-      <link>https://www.youtube.com/watch?v=m3_C91gNU4A</link>
-      <description>The crew of SpaceX's Crew-2 mission, NASA astronauts Shane Kimbrough and Megan McArthur as well as JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet will answer press questions during a live-streamed news conference.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">231</guid>
-      <pubDate>Mon, 01 Mar 2021 19:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20210227094223.jpeg"/>
-    </item>
   </channel>
 </rss>

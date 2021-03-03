@@ -65,22 +65,6 @@
     "videoCount": 0,
     "imageCount": 0
    }
-  },
-  {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json",
-   "title": "Press Event | Event | Space Schedule",
-   "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20210227094223.jpeg",
-   "date_published": "2021-03-01T19:00:00Z",
-   "date_modified": "2021-03-01T19:00:00Z",
-   "_geo": {},
-   "_meta": {
-    "itemCount": 1,
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 0
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -91,7 +75,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal_index.json",
  "_meta": {
-  "itemCount": 5,
+  "itemCount": 4,
   "pageNumber": 1,
   "pageCount": 1
  }
