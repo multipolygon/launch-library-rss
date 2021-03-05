@@ -68,6 +68,43 @@
    }
   },
   {
+   "id": "~space-schedule~launch~space_x~134eb787-244e-4131-8b03-c9fbd0a11efc",
+   "title": "Falcon 9 Block 5 | Starlink 20",
+   "content_text": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/134eb787-244e-4131-8b03-c9fbd0a11efc.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210218213404.png",
+   "date_published": "2021-03-09T03:20:00Z",
+   "date_modified": "2021-03-09T03:20:00Z",
+   "tags": [
+    "launch",
+    "space_x",
+    "commercial",
+    "falcon",
+    "falcon_9_block_5",
+    "communications",
+    "space_launch_complex_40"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/png",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210218213404.png"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "SpaceX | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "134eb787-244e-4131-8b03-c9fbd0a11efc",
+    "global": "~space-schedule~launch~space_x~134eb787-244e-4131-8b03-c9fbd0a11efc"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~static_fire~225",
    "title": "SLS 2nd Hot Fire Test",
    "content_text": "NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. \r\n\r\nThe four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.",
@@ -103,8 +140,8 @@
   {
    "id": "~space-schedule~event~eva~212",
    "title": "US EVA-72",
-   "content_text": "On Friday, March 5, NASA and JAXA astronauts Kate Rubins and Soichi Noguchi will venture outside the orbiting outpost to vent ammonia from the Early Ammonia System and complete several other tasks. The pair will install a “stiffener” on the Quest airlock thermal cover to prevent it from blowing out when residual atmosphere escapes as the hatch is opened. Glover began addressing this issue on a previous spacewalk by installing a stronger magnet to keep the cover closed. The crew also will remove and replace a wireless video transceiver assembly. Rubins will be EV 1 and Noguchi will be EV 2.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "content_text": "NASA and JAXA astronauts Kate Rubins and Soichi Noguchi will venture outside the orbiting outpost to vent ammonia from the Early Ammonia System and complete several other tasks. The pair will install a “stiffener” on the Quest airlock thermal cover to prevent it from blowing out when residual atmosphere escapes as the hatch is opened. Glover began addressing this issue on a previous spacewalk by installing a stronger magnet to keep the cover closed. The crew also will remove and replace a wireless video transceiver assembly. Rubins will be EV 1 and Noguchi will be EV 2.",
+   "url": "https://www.youtube.com/watch?v=qRDASIpSfzQ",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210105202154.jpg",
    "date_published": "2021-03-05T12:00:00Z",
    "date_modified": "2021-03-05T12:00:00Z",
@@ -142,7 +179,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 4,
+  "itemCount": 5,
   "pageNumber": 1,
   "pageCount": 1
  }

@@ -12,10 +12,10 @@
                 "id": 3,
                 "name": "EVA"
             },
-            "description": "On Friday, March 5, NASA and JAXA astronauts Kate Rubins and Soichi Noguchi will venture outside the orbiting outpost to vent ammonia from the Early Ammonia System and complete several other tasks. The pair will install a “stiffener” on the Quest airlock thermal cover to prevent it from blowing out when residual atmosphere escapes as the hatch is opened. Glover began addressing this issue on a previous spacewalk by installing a stronger magnet to keep the cover closed. The crew also will remove and replace a wireless video transceiver assembly. Rubins will be EV 1 and Noguchi will be EV 2.",
+            "description": "NASA and JAXA astronauts Kate Rubins and Soichi Noguchi will venture outside the orbiting outpost to vent ammonia from the Early Ammonia System and complete several other tasks. The pair will install a “stiffener” on the Quest airlock thermal cover to prevent it from blowing out when residual atmosphere escapes as the hatch is opened. Glover began addressing this issue on a previous spacewalk by installing a stronger magnet to keep the cover closed. The crew also will remove and replace a wireless video transceiver assembly. Rubins will be EV 1 and Noguchi will be EV 2.",
             "location": "International Space Station",
             "news_url": "https://www.nasa.gov/press-release/nasa-tv-coverage-scheduled-for-upcoming-spacewalks-briefing",
-            "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+            "video_url": "https://www.youtube.com/watch?v=qRDASIpSfzQ",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210105202154.jpg",
             "date": "2021-03-05T12:00:00Z",
             "launches": [],
@@ -183,7 +183,7 @@
                             "name": "Kennedy Space Center, FL, USA",
                             "country_code": "USA",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg",
-                            "total_launch_count": 183,
+                            "total_launch_count": 184,
                             "total_landing_count": 0
                         },
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_4_20200803143518.jpg",
