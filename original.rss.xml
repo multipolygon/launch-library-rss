@@ -31,6 +31,18 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_rel_image_20210220074256.jpeg"/>
     </item>
     <item>
+      <title>SLS 2nd Hot Fire Test</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
+&#xD;
+The four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~225</guid>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
+    </item>
+    <item>
       <title>Falcon 9 Block 5 | Starlink 20</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/134eb787-244e-4131-8b03-c9fbd0a11efc.json</link>
       <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
@@ -42,20 +54,8 @@
       <category>communications</category>
       <category>space_launch_complex_40</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~134eb787-244e-4131-8b03-c9fbd0a11efc</guid>
-      <pubDate>Tue, 09 Mar 2021 03:20:00 GMT</pubDate>
+      <pubDate>Wed, 10 Mar 2021 02:58:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210218213404.png"/>
-    </item>
-    <item>
-      <title>SLS 2nd Hot Fire Test</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
-&#xD;
-The four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~225</guid>
-      <pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
     </item>
     <item>
       <title>US EVA-72</title>
