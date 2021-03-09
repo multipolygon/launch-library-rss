@@ -99,6 +99,39 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
    }
+  },
+  {
+   "id": "~space-schedule~event~static_fire~232",
+   "title": "Starship SN11 Static Fire",
+   "content_text": "SpaceX will perform a static fire of the Starship SN11 vehicle.",
+   "url": "https://www.youtube.com/watch?v=sTA0GTgFn5E",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg",
+   "date_published": "2021-03-11T00:00:00Z",
+   "date_modified": "2021-03-11T00:00:00Z",
+   "tags": [
+    "event",
+    "static_fire"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Static Fire | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "232",
+    "global": "~space-schedule~event~static_fire~232"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
+   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -109,7 +142,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 3,
+  "itemCount": 4,
   "pageNumber": 1,
   "pageCount": 1
  }

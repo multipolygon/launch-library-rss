@@ -38,13 +38,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json",
    "title": "Static Fire | Event | Space Schedule",
-   "content_text": "1 items",
+   "content_text": "2 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg",
    "date_published": "2021-03-16T00:00:00Z",
    "date_modified": "2021-03-16T00:00:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 1,
+    "itemCount": 2,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0
