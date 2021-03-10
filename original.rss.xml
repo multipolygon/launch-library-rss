@@ -7,9 +7,19 @@
     <description>All items.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+    <pubDate>Fri, 09 Apr 2021 10:47:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Soyuz MS-18 Docking</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The Soyuz MS-18 spacecraft will dock to the International Space Station carrying three new Expedition 65 crew members : ROSCOSMOS cosmonauts Oleg Novitsky and Pyotr Dubrov as well as NASA astronaut Mark Vande Hei.</description>
+      <category>event</category>
+      <category>docking</category>
+      <guid isPermaLink="false">~space-schedule~event~docking~234</guid>
+      <pubDate>Fri, 09 Apr 2021 10:47:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_doc_image_20210310072144.jpeg"/>
+    </item>
     <item>
       <title>Tianwen-1 Rover Landing</title>
       <link>https://ll.thespacedevs.com/2.2.0/event/126.json</link>
@@ -27,7 +37,7 @@
       <category>event</category>
       <category>relocation</category>
       <guid isPermaLink="false">~space-schedule~event~relocation~228</guid>
-      <pubDate>Fri, 19 Mar 2021 16:43:00 GMT</pubDate>
+      <pubDate>Fri, 19 Mar 2021 16:15:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_rel_image_20210220074256.jpeg"/>
     </item>
     <item>
@@ -43,13 +53,24 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
     </item>
     <item>
+      <title>US EVA-73</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA astronauts Victor Glover and Michael Hopkins will venture outside the orbiting outpost to vent early ammonia system jumper cables and relocate one of them near the Quest airlock in order to reconnect the jumper cable to the current cooling system, increasing its efficiency. The duo also will connect cables for the Columbus Bartolomeo payload platform, continuing work from a Jan. 27 spacewalk, and replace a cable for an amateur radio system. Additionally, the astronauts will replace a wireless antenna assembly on the Unity module, install a “stiffener” on the airlock’s thermal cover to provide additional structural integrity, and route cables to provide ethernet capabilities for two high-definition cameras on the station’s port truss, or “backbone.”&#xD;
+Glover will wear red stripes on his suit as extravehicular crew member 1 (EV 1) during what will be the fourth spacewalk of his career. Hopkins will be EV 2 and wear a suit with no stripes during what will be his fifth spacewalk. Hopkins will wear a high-definition camera on his helmet to provide clear views of the Columbus connectors. The mating of these connectors is one of several tasks deferred from previous spacewalks to allow astronauts to finish installing modification kits for new solar arrays set to launch later this year.</description>
+      <category>event</category>
+      <category>eva</category>
+      <guid isPermaLink="false">~space-schedule~event~eva~233</guid>
+      <pubDate>Sat, 13 Mar 2021 12:30:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210310071307.jpg"/>
+    </item>
+    <item>
       <title>Starship SN11 Static Fire</title>
       <link>https://www.youtube.com/watch?v=sTA0GTgFn5E</link>
       <description>SpaceX will perform a static fire of the Starship SN11 vehicle.</description>
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">~space-schedule~event~static_fire~232</guid>
-      <pubDate>Thu, 11 Mar 2021 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg"/>
     </item>
     <item>
@@ -64,7 +85,7 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <category>communications</category>
       <category>space_launch_complex_40</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~134eb787-244e-4131-8b03-c9fbd0a11efc</guid>
-      <pubDate>Wed, 10 Mar 2021 02:58:00 GMT</pubDate>
+      <pubDate>Thu, 11 Mar 2021 08:13:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210218213404.png"/>
     </item>
   </channel>

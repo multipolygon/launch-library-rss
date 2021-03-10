@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Relocation | Event | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/relocation/original.atom.xml</id>
-  <updated>2021-03-19T16:43:00Z</updated>
+  <updated>2021-03-19T16:15:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/relocation/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/relocation/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Frelocation%2Foriginal.json"/>
@@ -10,8 +10,8 @@
   <entry>
     <id>228</id>
     <title>Soyuz MS-17 Relocation</title>
-    <updated>2021-03-19T16:43:00Z</updated>
-    <published>2021-03-19T16:43:00Z</published>
+    <updated>2021-03-19T16:15:00Z</updated>
+    <published>2021-03-19T16:15:00Z</published>
     <content type="text">The Soyuz MS-17 spacecraft will be relocated from the Rassvet module to the Poisk module. Undocking scheduled at 16:43 UTC, redocking scheduled at 17:13 UTC.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_rel_image_20210220074256.jpeg"/>

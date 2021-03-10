@@ -3,6 +3,39 @@
  "description": "All items.",
  "items": [
   {
+   "id": "~space-schedule~event~docking~234",
+   "title": "Soyuz MS-18 Docking",
+   "content_text": "The Soyuz MS-18 spacecraft will dock to the International Space Station carrying three new Expedition 65 crew members : ROSCOSMOS cosmonauts Oleg Novitsky and Pyotr Dubrov as well as NASA astronaut Mark Vande Hei.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_doc_image_20210310072144.jpeg",
+   "date_published": "2021-04-09T10:47:00Z",
+   "date_modified": "2021-04-09T10:47:00Z",
+   "tags": [
+    "event",
+    "docking"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_doc_image_20210310072144.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Docking | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "234",
+    "global": "~space-schedule~event~docking~234"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~landing~126",
    "title": "Tianwen-1 Rover Landing",
    "content_text": "The Tianwen-1 rover will attempt to land on Mars using a parachute to slow down and a propulsive landing for the final 1.5km of the descent.",
@@ -40,8 +73,8 @@
    "content_text": "The Soyuz MS-17 spacecraft will be relocated from the Rassvet module to the Poisk module. Undocking scheduled at 16:43 UTC, redocking scheduled at 17:13 UTC.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_rel_image_20210220074256.jpeg",
-   "date_published": "2021-03-19T16:43:00Z",
-   "date_modified": "2021-03-19T16:43:00Z",
+   "date_published": "2021-03-19T16:15:00Z",
+   "date_modified": "2021-03-19T16:15:00Z",
    "tags": [
     "event",
     "relocation"
@@ -101,13 +134,46 @@
    }
   },
   {
+   "id": "~space-schedule~event~eva~233",
+   "title": "US EVA-73",
+   "content_text": "NASA astronauts Victor Glover and Michael Hopkins will venture outside the orbiting outpost to vent early ammonia system jumper cables and relocate one of them near the Quest airlock in order to reconnect the jumper cable to the current cooling system, increasing its efficiency. The duo also will connect cables for the Columbus Bartolomeo payload platform, continuing work from a Jan. 27 spacewalk, and replace a cable for an amateur radio system. Additionally, the astronauts will replace a wireless antenna assembly on the Unity module, install a “stiffener” on the airlock’s thermal cover to provide additional structural integrity, and route cables to provide ethernet capabilities for two high-definition cameras on the station’s port truss, or “backbone.”\r\nGlover will wear red stripes on his suit as extravehicular crew member 1 (EV 1) during what will be the fourth spacewalk of his career. Hopkins will be EV 2 and wear a suit with no stripes during what will be his fifth spacewalk. Hopkins will wear a high-definition camera on his helmet to provide clear views of the Columbus connectors. The mating of these connectors is one of several tasks deferred from previous spacewalks to allow astronauts to finish installing modification kits for new solar arrays set to launch later this year.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210310071307.jpg",
+   "date_published": "2021-03-13T12:30:00Z",
+   "date_modified": "2021-03-13T12:30:00Z",
+   "tags": [
+    "event",
+    "eva"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210310071307.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "EVA | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "233",
+    "global": "~space-schedule~event~eva~233"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~static_fire~232",
    "title": "Starship SN11 Static Fire",
    "content_text": "SpaceX will perform a static fire of the Starship SN11 vehicle.",
    "url": "https://www.youtube.com/watch?v=sTA0GTgFn5E",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg",
-   "date_published": "2021-03-11T00:00:00Z",
-   "date_modified": "2021-03-11T00:00:00Z",
+   "date_published": "2021-03-13T00:00:00Z",
+   "date_modified": "2021-03-13T00:00:00Z",
    "tags": [
     "event",
     "static_fire"
@@ -139,8 +205,8 @@
    "content_text": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/134eb787-244e-4131-8b03-c9fbd0a11efc.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210218213404.png",
-   "date_published": "2021-03-10T02:58:00Z",
-   "date_modified": "2021-03-10T02:58:00Z",
+   "date_published": "2021-03-11T08:13:00Z",
+   "date_modified": "2021-03-11T08:13:00Z",
    "tags": [
     "launch",
     "space_x",
@@ -179,7 +245,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 5,
+  "itemCount": 7,
   "pageNumber": 1,
   "pageCount": 1
  }

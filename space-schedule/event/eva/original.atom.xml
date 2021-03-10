@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Eva</title>
+  <title>EVA | Event | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.atom.xml</id>
-  <updated>2021-03-09T11:27:17.144Z</updated>
+  <updated>2021-03-13T12:30:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Feva%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
+  <entry>
+    <id>233</id>
+    <title>US EVA-73</title>
+    <updated>2021-03-13T12:30:00Z</updated>
+    <published>2021-03-13T12:30:00Z</published>
+    <content type="text">NASA astronauts Victor Glover and Michael Hopkins will venture outside the orbiting outpost to vent early ammonia system jumper cables and relocate one of them near the Quest airlock in order to reconnect the jumper cable to the current cooling system, increasing its efficiency. The duo also will connect cables for the Columbus Bartolomeo payload platform, continuing work from a Jan. 27 spacewalk, and replace a cable for an amateur radio system. Additionally, the astronauts will replace a wireless antenna assembly on the Unity module, install a “stiffener” on the airlock’s thermal cover to provide additional structural integrity, and route cables to provide ethernet capabilities for two high-definition cameras on the station’s port truss, or “backbone.”&#xD;
+Glover will wear red stripes on his suit as extravehicular crew member 1 (EV 1) during what will be the fourth spacewalk of his career. Hopkins will be EV 2 and wear a suit with no stripes during what will be his fifth spacewalk. Hopkins will wear a high-definition camera on his helmet to provide clear views of the Columbus connectors. The mating of these connectors is one of several tasks deferred from previous spacewalks to allow astronauts to finish installing modification kits for new solar arrays set to launch later this year.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210310071307.jpg"/>
+    <category term="event"/>
+    <category term="eva"/>
+  </entry>
 </feed>
