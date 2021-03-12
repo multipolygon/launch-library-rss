@@ -49,8 +49,23 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">~space-schedule~event~static_fire~225</guid>
-      <pubDate>Tue, 16 Mar 2021 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 18 Mar 2021 21:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
+    </item>
+    <item>
+      <title>Falcon 9 Block 5 | Starlink 21</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/896d876d-e834-4810-8a5e-44d6b6a42630.json</link>
+      <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon_9_block_5</category>
+      <category>communications</category>
+      <category>launch_complex_39_a</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~896d876d-e834-4810-8a5e-44d6b6a42630</guid>
+      <pubDate>Sun, 14 Mar 2021 09:44:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210308112429.png"/>
     </item>
     <item>
       <title>US EVA-73</title>
@@ -64,29 +79,28 @@ Glover will wear red stripes on his suit as extravehicular crew member 1 (EV 1) 
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210310071307.jpg"/>
     </item>
     <item>
+      <title>Long March 4C | Yaogan-31-04</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/ac1deedc-8690-439a-90d8-d5166451f131.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_technology_corporation</category>
+      <category>government</category>
+      <category>long_march_4</category>
+      <category>long_march_4_c</category>
+      <category>launch_area_4_sls_2_603</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~ac1deedc-8690-439a-90d8-d5166451f131</guid>
+      <pubDate>Sat, 13 Mar 2021 02:11:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"/>
+    </item>
+    <item>
       <title>Starship SN11 Static Fire</title>
       <link>https://www.youtube.com/watch?v=sTA0GTgFn5E</link>
       <description>SpaceX will perform a static fire of the Starship SN11 vehicle.</description>
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">~space-schedule~event~static_fire~232</guid>
-      <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 12 Mar 2021 16:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg"/>
-    </item>
-    <item>
-      <title>Falcon 9 Block 5 | Starlink 20</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/134eb787-244e-4131-8b03-c9fbd0a11efc.json</link>
-      <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
-      <category>launch</category>
-      <category>space_x</category>
-      <category>commercial</category>
-      <category>falcon</category>
-      <category>falcon_9_block_5</category>
-      <category>communications</category>
-      <category>space_launch_complex_40</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~134eb787-244e-4131-8b03-c9fbd0a11efc</guid>
-      <pubDate>Thu, 11 Mar 2021 08:13:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210218213404.png"/>
     </item>
   </channel>
 </rss>

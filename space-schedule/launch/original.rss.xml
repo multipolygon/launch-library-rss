@@ -7,12 +7,12 @@
     <description>All items in Space Schedule &gt; Launch.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Thu, 11 Mar 2021 08:13:00 GMT</pubDate>
+    <pubDate>Sun, 14 Mar 2021 09:44:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
-      <title>Falcon 9 Block 5 | Starlink 20</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/134eb787-244e-4131-8b03-c9fbd0a11efc.json</link>
+      <title>Falcon 9 Block 5 | Starlink 21</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/896d876d-e834-4810-8a5e-44d6b6a42630.json</link>
       <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
       <category>launch</category>
       <category>space_x</category>
@@ -20,10 +20,24 @@
       <category>falcon</category>
       <category>falcon_9_block_5</category>
       <category>communications</category>
-      <category>space_launch_complex_40</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~134eb787-244e-4131-8b03-c9fbd0a11efc</guid>
-      <pubDate>Thu, 11 Mar 2021 08:13:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210218213404.png"/>
+      <category>launch_complex_39_a</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~896d876d-e834-4810-8a5e-44d6b6a42630</guid>
+      <pubDate>Sun, 14 Mar 2021 09:44:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210308112429.png"/>
+    </item>
+    <item>
+      <title>Long March 4C | Yaogan-31-04</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/ac1deedc-8690-439a-90d8-d5166451f131.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_technology_corporation</category>
+      <category>government</category>
+      <category>long_march_4</category>
+      <category>long_march_4_c</category>
+      <category>launch_area_4_sls_2_603</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~ac1deedc-8690-439a-90d8-d5166451f131</guid>
+      <pubDate>Sat, 13 Mar 2021 02:11:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"/>
     </item>
   </channel>
 </rss>

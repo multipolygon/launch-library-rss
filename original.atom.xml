@@ -44,8 +44,8 @@
   <entry>
     <id>~space-schedule~event~static_fire~225</id>
     <title>SLS 2nd Hot Fire Test</title>
-    <updated>2021-03-16T00:00:00Z</updated>
-    <published>2021-03-16T00:00:00Z</published>
+    <updated>2021-03-18T21:00:00Z</updated>
+    <published>2021-03-18T21:00:00Z</published>
     <content type="text">NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
 &#xD;
 The four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</content>
@@ -53,6 +53,22 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
     <category term="event"/>
     <category term="static_fire"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~space_x~896d876d-e834-4810-8a5e-44d6b6a42630</id>
+    <title>Falcon 9 Block 5 | Starlink 21</title>
+    <updated>2021-03-14T09:44:00Z</updated>
+    <published>2021-03-14T09:44:00Z</published>
+    <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/896d876d-e834-4810-8a5e-44d6b6a42630.json"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210308112429.png"/>
+    <category term="launch"/>
+    <category term="space_x"/>
+    <category term="commercial"/>
+    <category term="falcon"/>
+    <category term="falcon_9_block_5"/>
+    <category term="communications"/>
+    <category term="launch_complex_39_a"/>
   </entry>
   <entry>
     <id>~space-schedule~event~eva~233</id>
@@ -67,30 +83,29 @@ Glover will wear red stripes on his suit as extravehicular crew member 1 (EV 1) 
     <category term="eva"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~ac1deedc-8690-439a-90d8-d5166451f131</id>
+    <title>Long March 4C | Yaogan-31-04</title>
+    <updated>2021-03-13T02:11:00Z</updated>
+    <published>2021-03-13T02:11:00Z</published>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/ac1deedc-8690-439a-90d8-d5166451f131.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"/>
+    <category term="launch"/>
+    <category term="china_aerospace_science_and_technology_corporation"/>
+    <category term="government"/>
+    <category term="long_march_4"/>
+    <category term="long_march_4_c"/>
+    <category term="launch_area_4_sls_2_603"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~static_fire~232</id>
     <title>Starship SN11 Static Fire</title>
-    <updated>2021-03-13T00:00:00Z</updated>
-    <published>2021-03-13T00:00:00Z</published>
+    <updated>2021-03-12T16:00:00Z</updated>
+    <published>2021-03-12T16:00:00Z</published>
     <content type="text">SpaceX will perform a static fire of the Starship SN11 vehicle.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=sTA0GTgFn5E"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg"/>
     <category term="event"/>
     <category term="static_fire"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~space_x~134eb787-244e-4131-8b03-c9fbd0a11efc</id>
-    <title>Falcon 9 Block 5 | Starlink 20</title>
-    <updated>2021-03-11T08:13:00Z</updated>
-    <published>2021-03-11T08:13:00Z</published>
-    <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/134eb787-244e-4131-8b03-c9fbd0a11efc.json"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210218213404.png"/>
-    <category term="launch"/>
-    <category term="space_x"/>
-    <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon_9_block_5"/>
-    <category term="communications"/>
-    <category term="space_launch_complex_40"/>
   </entry>
 </feed>
