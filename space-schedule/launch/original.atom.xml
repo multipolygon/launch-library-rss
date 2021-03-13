@@ -2,17 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Launch</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/original.atom.xml</id>
-  <updated>2021-03-14T09:44:00Z</updated>
+  <updated>2021-03-20T06:07:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items in Space Schedule &gt; Launch.</subtitle>
   <entry>
+    <id>~space-schedule~launch~gk_launch_services_jv~54c50fe1-bbd1-4515-9630-37612383c3c1</id>
+    <title>Soyuz 2.1a/Fregat-M | CAS500-1 &amp; rideshare</title>
+    <updated>2021-03-20T06:07:00Z</updated>
+    <published>2021-03-20T06:07:00Z</published>
+    <content type="text">CAS500-1 is the first of two South Korean Earth observation satellites. These spacecraft feature the AEISS-C imaging system with a ground resolution of 0.5 m in panchromatic mode and 2 m in color mode.&#xD;
+&#xD;
+More than a dozen other satellites are included as secondary payloads, among them being the first spacecraft by the Catalan Space Agency.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/54c50fe1-bbd1-4515-9630-37612383c3c1.json"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png"/>
+    <category term="launch"/>
+    <category term="gk_launch_services_jv"/>
+    <category term="commercial"/>
+    <category term="soyuz"/>
+    <category term="soyuz_2_1_a_fregat_m"/>
+    <category term="earth_science"/>
+    <category term="31_6"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~space_x~896d876d-e834-4810-8a5e-44d6b6a42630</id>
     <title>Falcon 9 Block 5 | Starlink 21</title>
-    <updated>2021-03-14T09:44:00Z</updated>
-    <published>2021-03-14T09:44:00Z</published>
+    <updated>2021-03-14T10:01:00Z</updated>
+    <published>2021-03-14T10:01:00Z</published>
     <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/896d876d-e834-4810-8a5e-44d6b6a42630.json"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210308112429.png"/>
@@ -23,20 +41,5 @@
     <category term="falcon_9_block_5"/>
     <category term="communications"/>
     <category term="launch_complex_39_a"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~ac1deedc-8690-439a-90d8-d5166451f131</id>
-    <title>Long March 4C | Yaogan-31-04</title>
-    <updated>2021-03-13T02:11:00Z</updated>
-    <published>2021-03-13T02:11:00Z</published>
-    <content type="text">-</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/ac1deedc-8690-439a-90d8-d5166451f131.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_science_and_technology_corporation"/>
-    <category term="government"/>
-    <category term="long_march_4"/>
-    <category term="long_march_4_c"/>
-    <category term="launch_area_4_sls_2_603"/>
   </entry>
 </feed>

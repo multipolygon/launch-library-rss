@@ -31,6 +31,24 @@
     <category term="landing"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~gk_launch_services_jv~54c50fe1-bbd1-4515-9630-37612383c3c1</id>
+    <title>Soyuz 2.1a/Fregat-M | CAS500-1 &amp; rideshare</title>
+    <updated>2021-03-20T06:07:00Z</updated>
+    <published>2021-03-20T06:07:00Z</published>
+    <content type="text">CAS500-1 is the first of two South Korean Earth observation satellites. These spacecraft feature the AEISS-C imaging system with a ground resolution of 0.5 m in panchromatic mode and 2 m in color mode.&#xD;
+&#xD;
+More than a dozen other satellites are included as secondary payloads, among them being the first spacecraft by the Catalan Space Agency.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/54c50fe1-bbd1-4515-9630-37612383c3c1.json"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png"/>
+    <category term="launch"/>
+    <category term="gk_launch_services_jv"/>
+    <category term="commercial"/>
+    <category term="soyuz"/>
+    <category term="soyuz_2_1_a_fregat_m"/>
+    <category term="earth_science"/>
+    <category term="31_6"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~relocation~228</id>
     <title>Soyuz MS-17 Relocation</title>
     <updated>2021-03-19T16:15:00Z</updated>
@@ -55,10 +73,21 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <category term="static_fire"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~static_fire~232</id>
+    <title>Starship SN11 Static Fire</title>
+    <updated>2021-03-15T21:00:00Z</updated>
+    <published>2021-03-15T21:00:00Z</published>
+    <content type="text">SpaceX will perform a static fire of the Starship SN11 vehicle.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=sTA0GTgFn5E"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~space_x~896d876d-e834-4810-8a5e-44d6b6a42630</id>
     <title>Falcon 9 Block 5 | Starlink 21</title>
-    <updated>2021-03-14T09:44:00Z</updated>
-    <published>2021-03-14T09:44:00Z</published>
+    <updated>2021-03-14T10:01:00Z</updated>
+    <published>2021-03-14T10:01:00Z</published>
     <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/896d876d-e834-4810-8a5e-44d6b6a42630.json"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210308112429.png"/>
@@ -77,35 +106,9 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <published>2021-03-13T12:30:00Z</published>
     <content type="text">NASA astronauts Victor Glover and Michael Hopkins will venture outside the orbiting outpost to vent early ammonia system jumper cables and relocate one of them near the Quest airlock in order to reconnect the jumper cable to the current cooling system, increasing its efficiency. The duo also will connect cables for the Columbus Bartolomeo payload platform, continuing work from a Jan. 27 spacewalk, and replace a cable for an amateur radio system. Additionally, the astronauts will replace a wireless antenna assembly on the Unity module, install a “stiffener” on the airlock’s thermal cover to provide additional structural integrity, and route cables to provide ethernet capabilities for two high-definition cameras on the station’s port truss, or “backbone.”&#xD;
 Glover will wear red stripes on his suit as extravehicular crew member 1 (EV 1) during what will be the fourth spacewalk of his career. Hopkins will be EV 2 and wear a suit with no stripes during what will be his fifth spacewalk. Hopkins will wear a high-definition camera on his helmet to provide clear views of the Columbus connectors. The mating of these connectors is one of several tasks deferred from previous spacewalks to allow astronauts to finish installing modification kits for new solar arrays set to launch later this year.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=OrJ254vHfds"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210310071307.jpg"/>
     <category term="event"/>
     <category term="eva"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~ac1deedc-8690-439a-90d8-d5166451f131</id>
-    <title>Long March 4C | Yaogan-31-04</title>
-    <updated>2021-03-13T02:11:00Z</updated>
-    <published>2021-03-13T02:11:00Z</published>
-    <content type="text">-</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/ac1deedc-8690-439a-90d8-d5166451f131.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_science_and_technology_corporation"/>
-    <category term="government"/>
-    <category term="long_march_4"/>
-    <category term="long_march_4_c"/>
-    <category term="launch_area_4_sls_2_603"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~232</id>
-    <title>Starship SN11 Static Fire</title>
-    <updated>2021-03-12T16:00:00Z</updated>
-    <published>2021-03-12T16:00:00Z</published>
-    <content type="text">SpaceX will perform a static fire of the Starship SN11 vehicle.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=sTA0GTgFn5E"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
   </entry>
 </feed>

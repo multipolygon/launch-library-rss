@@ -4,46 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": 232,
-            "url": "https://ll.thespacedevs.com/2.2.0/event/232.json",
-            "slug": "starship-sn11-static-fire",
-            "name": "Starship SN11 Static Fire",
-            "type": {
-                "id": 5,
-                "name": "Static Fire"
-            },
-            "description": "SpaceX will perform a static fire of the Starship SN11 vehicle.",
-            "location": "Boca Chica, Texas",
-            "news_url": null,
-            "video_url": "https://www.youtube.com/watch?v=sTA0GTgFn5E",
-            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg",
-            "date": "2021-03-12T16:00:00Z",
-            "launches": [],
-            "expeditions": [],
-            "spacestations": [],
-            "program": [
-                {
-                    "id": 1,
-                    "url": "https://ll.thespacedevs.com/2.2.0/program/1.json",
-                    "name": "SpaceX Starship",
-                    "description": "The SpaceX Starship is a fully reusable super heavy-lift launch vehicle under development by SpaceX since 2012, as a self-funded private spaceflight project.  The second stage of the Starship — is designed as a long-duration cargo and passenger-carrying spacecraft. It is expected to be initially used without any booster stage at all, as part of an extensive development program to prove out launch-and-landing and iterate on a variety of design details, particularly with respect to the vehicle's atmospheric reentry.",
-                    "agencies": [
-                        {
-                            "id": 121,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/121.json",
-                            "name": "SpaceX",
-                            "type": "Commercial"
-                        }
-                    ],
-                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/spacex2520star_program_20201129204513.png",
-                    "start_date": "2019-03-01T05:00:00Z",
-                    "end_date": null,
-                    "info_url": "https://www.spacex.com/vehicles/starship/",
-                    "wiki_url": "https://en.wikipedia.org/wiki/SpaceX_Starship"
-                }
-            ]
-        },
-        {
             "id": 233,
             "url": "https://ll.thespacedevs.com/2.2.0/event/233.json",
             "slug": "us-eva-73",
@@ -55,7 +15,7 @@
             "description": "NASA astronauts Victor Glover and Michael Hopkins will venture outside the orbiting outpost to vent early ammonia system jumper cables and relocate one of them near the Quest airlock in order to reconnect the jumper cable to the current cooling system, increasing its efficiency. The duo also will connect cables for the Columbus Bartolomeo payload platform, continuing work from a Jan. 27 spacewalk, and replace a cable for an amateur radio system. Additionally, the astronauts will replace a wireless antenna assembly on the Unity module, install a “stiffener” on the airlock’s thermal cover to provide additional structural integrity, and route cables to provide ethernet capabilities for two high-definition cameras on the station’s port truss, or “backbone.”\r\nGlover will wear red stripes on his suit as extravehicular crew member 1 (EV 1) during what will be the fourth spacewalk of his career. Hopkins will be EV 2 and wear a suit with no stripes during what will be his fifth spacewalk. Hopkins will wear a high-definition camera on his helmet to provide clear views of the Columbus connectors. The mating of these connectors is one of several tasks deferred from previous spacewalks to allow astronauts to finish installing modification kits for new solar arrays set to launch later this year.",
             "location": "International Space Station",
             "news_url": "https://www.nasa.gov/press-release/nasa-tv-to-provide-coverage-as-astronauts-venture-out-for-spacewalk",
-            "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+            "video_url": "https://www.youtube.com/watch?v=OrJ254vHfds",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210310071307.jpg",
             "date": "2021-03-13T12:30:00Z",
             "launches": [],
@@ -137,6 +97,46 @@
                     "end_date": null,
                     "info_url": "https://www.nasa.gov/mission_pages/station/main/index.html",
                     "wiki_url": "https://en.wikipedia.org/wiki/International_Space_Station_programme"
+                }
+            ]
+        },
+        {
+            "id": 232,
+            "url": "https://ll.thespacedevs.com/2.2.0/event/232.json",
+            "slug": "starship-sn11-static-fire",
+            "name": "Starship SN11 Static Fire",
+            "type": {
+                "id": 5,
+                "name": "Static Fire"
+            },
+            "description": "SpaceX will perform a static fire of the Starship SN11 vehicle.",
+            "location": "Boca Chica, Texas",
+            "news_url": null,
+            "video_url": "https://www.youtube.com/watch?v=sTA0GTgFn5E",
+            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg",
+            "date": "2021-03-15T21:00:00Z",
+            "launches": [],
+            "expeditions": [],
+            "spacestations": [],
+            "program": [
+                {
+                    "id": 1,
+                    "url": "https://ll.thespacedevs.com/2.2.0/program/1.json",
+                    "name": "SpaceX Starship",
+                    "description": "The SpaceX Starship is a fully reusable super heavy-lift launch vehicle under development by SpaceX since 2012, as a self-funded private spaceflight project.  The second stage of the Starship — is designed as a long-duration cargo and passenger-carrying spacecraft. It is expected to be initially used without any booster stage at all, as part of an extensive development program to prove out launch-and-landing and iterate on a variety of design details, particularly with respect to the vehicle's atmospheric reentry.",
+                    "agencies": [
+                        {
+                            "id": 121,
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/121.json",
+                            "name": "SpaceX",
+                            "type": "Commercial"
+                        }
+                    ],
+                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/spacex2520star_program_20201129204513.png",
+                    "start_date": "2019-03-01T05:00:00Z",
+                    "end_date": null,
+                    "info_url": "https://www.spacex.com/vehicles/starship/",
+                    "wiki_url": "https://en.wikipedia.org/wiki/SpaceX_Starship"
                 }
             ]
         },
