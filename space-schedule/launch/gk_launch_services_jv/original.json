@@ -1,46 +1,16 @@
 {
- "title": "GK Launch Services JV | Launch | Space Schedule",
- "items": [
-  {
-   "id": "54c50fe1-bbd1-4515-9630-37612383c3c1",
-   "title": "Soyuz 2.1a/Fregat-M | CAS500-1 & rideshare",
-   "content_text": "CAS500-1 is the first of two South Korean Earth observation satellites. These spacecraft feature the AEISS-C imaging system with a ground resolution of 0.5 m in panchromatic mode and 2 m in color mode.\r\n\r\nMore than a dozen other satellites are included as secondary payloads, among them being the first spacecraft by the Catalan Space Agency.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/54c50fe1-bbd1-4515-9630-37612383c3c1.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png",
-   "date_published": "2021-03-20T06:07:00Z",
-   "date_modified": "2021-03-20T06:07:00Z",
-   "tags": [
-    "launch",
-    "gk_launch_services_jv",
-    "commercial",
-    "soyuz",
-    "soyuz_2_1_a_fregat_m",
-    "earth_science",
-    "31_6"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1
-   }
-  }
- ],
  "version": "https://jsonfeed.org/version/1",
  "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/launch/gk_launch_services_jv/original.json",
+ "title": "Gk Launch Services Jv",
+ "items": [],
  "_feed_url": {
   "rss": "https://launch-library-rss.multipolygon.net/space-schedule/launch/gk_launch_services_jv/original.rss.xml",
   "atom": "https://launch-library-rss.multipolygon.net/space-schedule/launch/gk_launch_services_jv/original.atom.xml"
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fgk_launch_services_jv%2Foriginal.json",
  "_meta": {
-  "itemCount": 1,
+  "itemCount": 0,
   "pageNumber": 1,
-  "pageCount": 1
+  "pageCount": 0
  }
 }

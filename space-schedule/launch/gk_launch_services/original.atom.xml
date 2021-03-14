@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Launch</title>
-  <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/original.atom.xml</id>
+  <title>GK Launch Services | Launch | Space Schedule</title>
+  <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/gk_launch_services/original.atom.xml</id>
   <updated>2021-03-20T06:07:00Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/original.atom.xml"/>
-  <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/original.json"/>
-  <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json"/>
+  <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/gk_launch_services/original.atom.xml"/>
+  <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/gk_launch_services/original.json"/>
+  <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fgk_launch_services%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
-  <subtitle>All items in Space Schedule &gt; Launch.</subtitle>
   <entry>
-    <id>~space-schedule~launch~gk_launch_services~54c50fe1-bbd1-4515-9630-37612383c3c1</id>
+    <id>54c50fe1-bbd1-4515-9630-37612383c3c1</id>
     <title>Soyuz 2.1a/Fregat-M | CAS500-1 &amp; rideshare</title>
     <updated>2021-03-20T06:07:00Z</updated>
     <published>2021-03-20T06:07:00Z</published>

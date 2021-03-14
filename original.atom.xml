@@ -31,7 +31,7 @@
     <category term="landing"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~gk_launch_services_jv~54c50fe1-bbd1-4515-9630-37612383c3c1</id>
+    <id>~space-schedule~launch~gk_launch_services~54c50fe1-bbd1-4515-9630-37612383c3c1</id>
     <title>Soyuz 2.1a/Fregat-M | CAS500-1 &amp; rideshare</title>
     <updated>2021-03-20T06:07:00Z</updated>
     <published>2021-03-20T06:07:00Z</published>
@@ -41,7 +41,7 @@ More than a dozen other satellites are included as secondary payloads, among the
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/54c50fe1-bbd1-4515-9630-37612383c3c1.json"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png"/>
     <category term="launch"/>
-    <category term="gk_launch_services_jv"/>
+    <category term="gk_launch_services"/>
     <category term="commercial"/>
     <category term="soyuz"/>
     <category term="soyuz_2_1_a_fregat_m"/>
@@ -82,22 +82,6 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg"/>
     <category term="event"/>
     <category term="static_fire"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~space_x~896d876d-e834-4810-8a5e-44d6b6a42630</id>
-    <title>Falcon 9 Block 5 | Starlink 21</title>
-    <updated>2021-03-14T10:01:00Z</updated>
-    <published>2021-03-14T10:01:00Z</published>
-    <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/896d876d-e834-4810-8a5e-44d6b6a42630.json"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210308112429.png"/>
-    <category term="launch"/>
-    <category term="space_x"/>
-    <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon_9_block_5"/>
-    <category term="communications"/>
-    <category term="launch_complex_39_a"/>
   </entry>
   <entry>
     <id>~space-schedule~event~eva~233</id>

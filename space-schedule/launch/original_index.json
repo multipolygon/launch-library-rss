@@ -3,29 +3,13 @@
  "description": "All feeds in Space Schedule > Launch.",
  "items": [
   {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/gk_launch_services_jv/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fgk_launch_services_jv%2Foriginal.json",
-   "title": "GK Launch Services JV | Launch | Space Schedule",
+   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/gk_launch_services/original.json",
+   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fgk_launch_services%2Foriginal.json",
+   "title": "GK Launch Services | Launch | Space Schedule",
    "content_text": "1 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png",
    "date_published": "2021-03-20T06:07:00Z",
    "date_modified": "2021-03-20T06:07:00Z",
-   "_geo": {},
-   "_meta": {
-    "itemCount": 1,
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 0
-   }
-  },
-  {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json",
-   "title": "SpaceX | Launch | Space Schedule",
-   "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210308112429.png",
-   "date_published": "2021-03-14T10:01:00Z",
-   "date_modified": "2021-03-14T10:01:00Z",
    "_geo": {},
    "_meta": {
     "itemCount": 1,
@@ -43,7 +27,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal_index.json",
  "_meta": {
-  "itemCount": 2,
+  "itemCount": 1,
   "pageNumber": 1,
   "pageCount": 1
  }

@@ -9,19 +9,11 @@
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All feeds in Space Schedule &gt; Launch.</subtitle>
   <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/gk_launch_services_jv/original.json</id>
-    <title>GK Launch Services JV | Launch | Space Schedule</title>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/gk_launch_services/original.json</id>
+    <title>GK Launch Services | Launch | Space Schedule</title>
     <updated>2021-03-20T06:07:00Z</updated>
     <published>2021-03-20T06:07:00Z</published>
     <content type="text">1 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fgk_launch_services_jv%2Foriginal.json"/>
-  </entry>
-  <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json</id>
-    <title>SpaceX | Launch | Space Schedule</title>
-    <updated>2021-03-14T10:01:00Z</updated>
-    <published>2021-03-14T10:01:00Z</published>
-    <content type="text">1 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json"/>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fgk_launch_services%2Foriginal.json"/>
   </entry>
 </feed>
