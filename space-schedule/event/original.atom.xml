@@ -57,24 +57,12 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
   <entry>
     <id>~space-schedule~event~static_fire~232</id>
     <title>Starship SN11 Static Fire</title>
-    <updated>2021-03-15T21:00:00Z</updated>
-    <published>2021-03-15T21:00:00Z</published>
+    <updated>2021-03-15T17:00:00Z</updated>
+    <published>2021-03-15T17:00:00Z</published>
     <content type="text">SpaceX will perform a static fire of the Starship SN11 vehicle.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=sTA0GTgFn5E"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg"/>
     <category term="event"/>
     <category term="static_fire"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~eva~233</id>
-    <title>US EVA-73</title>
-    <updated>2021-03-13T12:30:00Z</updated>
-    <published>2021-03-13T12:30:00Z</published>
-    <content type="text">NASA astronauts Victor Glover and Michael Hopkins will venture outside the orbiting outpost to vent early ammonia system jumper cables and relocate one of them near the Quest airlock in order to reconnect the jumper cable to the current cooling system, increasing its efficiency. The duo also will connect cables for the Columbus Bartolomeo payload platform, continuing work from a Jan. 27 spacewalk, and replace a cable for an amateur radio system. Additionally, the astronauts will replace a wireless antenna assembly on the Unity module, install a “stiffener” on the airlock’s thermal cover to provide additional structural integrity, and route cables to provide ethernet capabilities for two high-definition cameras on the station’s port truss, or “backbone.”&#xD;
-Glover will wear red stripes on his suit as extravehicular crew member 1 (EV 1) during what will be the fourth spacewalk of his career. Hopkins will be EV 2 and wear a suit with no stripes during what will be his fifth spacewalk. Hopkins will wear a high-definition camera on his helmet to provide clear views of the Columbus connectors. The mating of these connectors is one of several tasks deferred from previous spacewalks to allow astronauts to finish installing modification kits for new solar arrays set to launch later this year.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=OrJ254vHfds"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210310071307.jpg"/>
-    <category term="event"/>
-    <category term="eva"/>
   </entry>
 </feed>

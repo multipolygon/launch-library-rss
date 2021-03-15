@@ -176,8 +176,8 @@
    "content_text": "SpaceX will perform a static fire of the Starship SN11 vehicle.",
    "url": "https://www.youtube.com/watch?v=sTA0GTgFn5E",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg",
-   "date_published": "2021-03-15T21:00:00Z",
-   "date_modified": "2021-03-15T21:00:00Z",
+   "date_published": "2021-03-15T17:00:00Z",
+   "date_modified": "2021-03-15T17:00:00Z",
    "tags": [
     "event",
     "static_fire"
@@ -202,39 +202,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~eva~233",
-   "title": "US EVA-73",
-   "content_text": "NASA astronauts Victor Glover and Michael Hopkins will venture outside the orbiting outpost to vent early ammonia system jumper cables and relocate one of them near the Quest airlock in order to reconnect the jumper cable to the current cooling system, increasing its efficiency. The duo also will connect cables for the Columbus Bartolomeo payload platform, continuing work from a Jan. 27 spacewalk, and replace a cable for an amateur radio system. Additionally, the astronauts will replace a wireless antenna assembly on the Unity module, install a “stiffener” on the airlock’s thermal cover to provide additional structural integrity, and route cables to provide ethernet capabilities for two high-definition cameras on the station’s port truss, or “backbone.”\r\nGlover will wear red stripes on his suit as extravehicular crew member 1 (EV 1) during what will be the fourth spacewalk of his career. Hopkins will be EV 2 and wear a suit with no stripes during what will be his fifth spacewalk. Hopkins will wear a high-definition camera on his helmet to provide clear views of the Columbus connectors. The mating of these connectors is one of several tasks deferred from previous spacewalks to allow astronauts to finish installing modification kits for new solar arrays set to launch later this year.",
-   "url": "https://www.youtube.com/watch?v=OrJ254vHfds",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210310071307.jpg",
-   "date_published": "2021-03-13T12:30:00Z",
-   "date_modified": "2021-03-13T12:30:00Z",
-   "tags": [
-    "event",
-    "eva"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-72_image_20210310071307.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "EVA | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "233",
-    "global": "~space-schedule~event~eva~233"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -245,7 +212,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 7,
+  "itemCount": 6,
   "pageNumber": 1,
   "pageCount": 1
  }
