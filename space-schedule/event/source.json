@@ -17,7 +17,7 @@
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=sTA0GTgFn5E",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg",
-            "date": "2021-03-16T15:00:00Z",
+            "date": "2021-03-17T15:00:00Z",
             "launches": [
                 {
                     "id": "fc7a010b-0e88-43cb-8953-9a969c475dd6",
@@ -29,9 +29,9 @@
                         "id": 2,
                         "name": "TBD"
                     },
-                    "net": "2021-03-17T14:00:00Z",
-                    "window_end": "2021-03-18T00:30:00Z",
-                    "window_start": "2021-03-17T11:00:00Z",
+                    "net": "2021-03-19T14:00:00Z",
+                    "window_end": "2021-03-20T00:30:00Z",
+                    "window_start": "2021-03-19T11:00:00Z",
                     "inhold": false,
                     "tbdtime": false,
                     "tbddate": false,
@@ -156,7 +156,7 @@
             "news_url": "https://blogs.nasa.gov/artemis/2021/01/29/green-run-update-nasa-proceeds-with-plans-for-second-hot-fire-test/",
             "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg",
-            "date": "2021-03-18T21:00:00Z",
+            "date": "2021-03-18T19:00:00Z",
             "launches": [
                 {
                     "id": "65896761-b6ca-4df3-9699-e077a360c52a",

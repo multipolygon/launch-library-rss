@@ -7,9 +7,24 @@
     <description>All items in Space Schedule &gt; Launch.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Sat, 20 Mar 2021 06:07:00 GMT</pubDate>
+    <pubDate>Mon, 22 Mar 2021 22:19:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Falcon 9 Block 5 | Starlink 22</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/ec03fe36-fe2a-4e43-8e10-d07d5349f1de.json</link>
+      <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon_9_block_5</category>
+      <category>communications</category>
+      <category>space_launch_complex_40</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~ec03fe36-fe2a-4e43-8e10-d07d5349f1de</guid>
+      <pubDate>Mon, 22 Mar 2021 22:19:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210314085034.png"/>
+    </item>
     <item>
       <title>Soyuz 2.1a/Fregat-M | CAS500-1 &amp; rideshare</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/54c50fe1-bbd1-4515-9630-37612383c3c1.json</link>

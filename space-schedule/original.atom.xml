@@ -42,6 +42,22 @@
     <category term="landing"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~space_x~ec03fe36-fe2a-4e43-8e10-d07d5349f1de</id>
+    <title>Falcon 9 Block 5 | Starlink 22</title>
+    <updated>2021-03-22T22:19:00Z</updated>
+    <published>2021-03-22T22:19:00Z</published>
+    <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/ec03fe36-fe2a-4e43-8e10-d07d5349f1de.json"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210314085034.png"/>
+    <category term="launch"/>
+    <category term="space_x"/>
+    <category term="commercial"/>
+    <category term="falcon"/>
+    <category term="falcon_9_block_5"/>
+    <category term="communications"/>
+    <category term="space_launch_complex_40"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~gk_launch_services~54c50fe1-bbd1-4515-9630-37612383c3c1</id>
     <title>Soyuz 2.1a/Fregat-M | CAS500-1 &amp; rideshare</title>
     <updated>2021-03-20T06:07:00Z</updated>
@@ -73,8 +89,8 @@ More than a dozen other satellites are included as secondary payloads, among the
   <entry>
     <id>~space-schedule~event~static_fire~225</id>
     <title>SLS 2nd Hot Fire Test</title>
-    <updated>2021-03-18T21:00:00Z</updated>
-    <published>2021-03-18T21:00:00Z</published>
+    <updated>2021-03-18T19:00:00Z</updated>
+    <published>2021-03-18T19:00:00Z</published>
     <content type="text">NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
 &#xD;
 The four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</content>
@@ -86,8 +102,8 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
   <entry>
     <id>~space-schedule~event~static_fire~232</id>
     <title>Starship SN11 Static Fire</title>
-    <updated>2021-03-16T15:00:00Z</updated>
-    <published>2021-03-16T15:00:00Z</published>
+    <updated>2021-03-17T15:00:00Z</updated>
+    <published>2021-03-17T15:00:00Z</published>
     <content type="text">SpaceX will perform a static fire of the Starship SN11 vehicle.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=sTA0GTgFn5E"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg"/>

@@ -55,8 +55,8 @@
   <entry>
     <id>~space-schedule~event~static_fire~225</id>
     <title>SLS 2nd Hot Fire Test</title>
-    <updated>2021-03-18T21:00:00Z</updated>
-    <published>2021-03-18T21:00:00Z</published>
+    <updated>2021-03-18T19:00:00Z</updated>
+    <published>2021-03-18T19:00:00Z</published>
     <content type="text">NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
 &#xD;
 The four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</content>
@@ -68,8 +68,8 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
   <entry>
     <id>~space-schedule~event~static_fire~232</id>
     <title>Starship SN11 Static Fire</title>
-    <updated>2021-03-16T15:00:00Z</updated>
-    <published>2021-03-16T15:00:00Z</published>
+    <updated>2021-03-17T15:00:00Z</updated>
+    <published>2021-03-17T15:00:00Z</published>
     <content type="text">SpaceX will perform a static fire of the Starship SN11 vehicle.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=sTA0GTgFn5E"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg"/>
