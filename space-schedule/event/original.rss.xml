@@ -7,9 +7,29 @@
     <description>All items in Space Schedule &gt; Event.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
+    <pubDate>Sat, 17 Apr 2021 04:56:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Soyuz MS-17 Landing</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The Soyuz MS-17 spacecraft carrying ROSCOSMOS cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov as well as NASA astronaut Kathleen Rubins will land back on Earth near Dzhezkazgan, Kazakhstan.</description>
+      <category>event</category>
+      <category>landing</category>
+      <guid isPermaLink="false">~space-schedule~event~landing~237</guid>
+      <pubDate>Sat, 17 Apr 2021 04:56:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_lan_image_20210310074325.jpg"/>
+    </item>
+    <item>
+      <title>Soyuz MS-17 Undocking</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The Soyuz MS-17 spacecraft will undock from the International Space Station carrying Expedition 64 crew members ROSCOSMOS cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov as well as NASA astronaut Kathleen Rubins.</description>
+      <category>event</category>
+      <category>undocking</category>
+      <guid isPermaLink="false">~space-schedule~event~undocking~236</guid>
+      <pubDate>Sat, 17 Apr 2021 01:33:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_und_image_20210310074057.jpeg"/>
+    </item>
     <item>
       <title>ISS Expedition 64-65 Change of Command Ceremony</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
@@ -27,7 +47,7 @@
       <category>event</category>
       <category>docking</category>
       <guid isPermaLink="false">~space-schedule~event~docking~234</guid>
-      <pubDate>Fri, 09 Apr 2021 10:47:00 GMT</pubDate>
+      <pubDate>Fri, 09 Apr 2021 11:07:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_doc_image_20210310072144.jpeg"/>
     </item>
     <item>
@@ -41,6 +61,16 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_rover_image_20200721110816.jpg"/>
     </item>
     <item>
+      <title>NASA Mars 2020 Ingenuity Pre-Flight Press Conference</title>
+      <link>https://www.youtube.com/watch?v=WK5YXZIIEKU</link>
+      <description>NASA/JPL will hold a press conference ahead of Ingenuity's first flight on Mars.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~238</guid>
+      <pubDate>Tue, 23 Mar 2021 17:30:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210318061727.jpeg"/>
+    </item>
+    <item>
       <title>Soyuz MS-17 Relocation</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The Soyuz MS-17 spacecraft will be relocated from the Rassvet module to the Poisk module. Undocking scheduled at 16:43 UTC, redocking scheduled at 17:13 UTC.</description>
@@ -51,8 +81,18 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_rel_image_20210220074256.jpeg"/>
     </item>
     <item>
+      <title>Starship SN11 Static Fire</title>
+      <link>https://www.youtube.com/watch?v=sTA0GTgFn5E</link>
+      <description>SpaceX will perform a static fire of the Starship SN11 vehicle.</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~232</guid>
+      <pubDate>Fri, 19 Mar 2021 15:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg"/>
+    </item>
+    <item>
       <title>SLS 2nd Hot Fire Test</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <link>https://www.youtube.com/watch?v=XGRE_7yz_kM</link>
       <description>NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
 &#xD;
 The four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
@@ -61,16 +101,6 @@ The four RS-25 engines will be fired for 8 minutes, demonstrating performance si
       <guid isPermaLink="false">~space-schedule~event~static_fire~225</guid>
       <pubDate>Thu, 18 Mar 2021 19:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
-    </item>
-    <item>
-      <title>Starship SN11 Static Fire</title>
-      <link>https://www.youtube.com/watch?v=sTA0GTgFn5E</link>
-      <description>SpaceX will perform a static fire of the Starship SN11 vehicle.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~232</guid>
-      <pubDate>Wed, 17 Mar 2021 15:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg"/>
     </item>
   </channel>
 </rss>

@@ -3,6 +3,44 @@
  "description": "All items in Space Schedule > Launch.",
  "items": [
   {
+   "id": "~space-schedule~launch~russian_federal_space_agency_roscosmos~3898f855-5794-48b5-9cb8-6741cb53363b",
+   "title": "Soyuz 2.1a | Soyuz MS-18",
+   "content_text": "Soyuz MS-18 begins expedition 65 by carrying Roscosmos cosmonauts Oleg Novitsky, Pyotr Dubrov and NASA astronaut Mark Vande Hei to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan. After launching from the Baikonur Cosmodrome in Kazakhstan, they will rendezvous to the station where they will remain for their 6 month stay.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/3898f855-5794-48b5-9cb8-6741cb53363b.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
+   "date_published": "2021-04-09T07:42:00Z",
+   "date_modified": "2021-04-09T07:42:00Z",
+   "tags": [
+    "launch",
+    "russian_federal_space_agency_roscosmos",
+    "government",
+    "soyuz",
+    "soyuz_2_1_a",
+    "human_exploration",
+    "31_6",
+    "international_space_station"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "3898f855-5794-48b5-9cb8-6741cb53363b",
+    "global": "~space-schedule~launch~russian_federal_space_agency_roscosmos~3898f855-5794-48b5-9cb8-6741cb53363b"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~launch~space_x~ec03fe36-fe2a-4e43-8e10-d07d5349f1de",
    "title": "Falcon 9 Block 5 | Starlink 22",
    "content_text": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
@@ -85,7 +123,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 2,
+  "itemCount": 3,
   "pageNumber": 1,
   "pageCount": 1
  }

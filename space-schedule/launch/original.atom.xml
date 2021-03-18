@@ -2,12 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Launch</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/original.atom.xml</id>
-  <updated>2021-03-22T22:19:00Z</updated>
+  <updated>2021-04-09T07:42:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items in Space Schedule &gt; Launch.</subtitle>
+  <entry>
+    <id>~space-schedule~launch~russian_federal_space_agency_roscosmos~3898f855-5794-48b5-9cb8-6741cb53363b</id>
+    <title>Soyuz 2.1a | Soyuz MS-18</title>
+    <updated>2021-04-09T07:42:00Z</updated>
+    <published>2021-04-09T07:42:00Z</published>
+    <content type="text">Soyuz MS-18 begins expedition 65 by carrying Roscosmos cosmonauts Oleg Novitsky, Pyotr Dubrov and NASA astronaut Mark Vande Hei to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan. After launching from the Baikonur Cosmodrome in Kazakhstan, they will rendezvous to the station where they will remain for their 6 month stay.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/3898f855-5794-48b5-9cb8-6741cb53363b.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
+    <category term="launch"/>
+    <category term="russian_federal_space_agency_roscosmos"/>
+    <category term="government"/>
+    <category term="soyuz"/>
+    <category term="soyuz_2_1_a"/>
+    <category term="human_exploration"/>
+    <category term="31_6"/>
+    <category term="international_space_station"/>
+  </entry>
   <entry>
     <id>~space-schedule~launch~space_x~ec03fe36-fe2a-4e43-8e10-d07d5349f1de</id>
     <title>Falcon 9 Block 5 | Starlink 22</title>

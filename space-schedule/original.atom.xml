@@ -2,12 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Space-schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/original.atom.xml</id>
-  <updated>2021-04-15T00:00:00Z</updated>
+  <updated>2021-04-17T04:56:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items in subcategories for category.</subtitle>
+  <entry>
+    <id>~space-schedule~event~landing~237</id>
+    <title>Soyuz MS-17 Landing</title>
+    <updated>2021-04-17T04:56:00Z</updated>
+    <published>2021-04-17T04:56:00Z</published>
+    <content type="text">The Soyuz MS-17 spacecraft carrying ROSCOSMOS cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov as well as NASA astronaut Kathleen Rubins will land back on Earth near Dzhezkazgan, Kazakhstan.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_lan_image_20210310074325.jpg"/>
+    <category term="event"/>
+    <category term="landing"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~undocking~236</id>
+    <title>Soyuz MS-17 Undocking</title>
+    <updated>2021-04-17T01:33:00Z</updated>
+    <published>2021-04-17T01:33:00Z</published>
+    <content type="text">The Soyuz MS-17 spacecraft will undock from the International Space Station carrying Expedition 64 crew members ROSCOSMOS cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov as well as NASA astronaut Kathleen Rubins.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_und_image_20210310074057.jpeg"/>
+    <category term="event"/>
+    <category term="undocking"/>
+  </entry>
   <entry>
     <id>~space-schedule~event~change_of_command~235</id>
     <title>ISS Expedition 64-65 Change of Command Ceremony</title>
@@ -22,13 +44,30 @@
   <entry>
     <id>~space-schedule~event~docking~234</id>
     <title>Soyuz MS-18 Docking</title>
-    <updated>2021-04-09T10:47:00Z</updated>
-    <published>2021-04-09T10:47:00Z</published>
+    <updated>2021-04-09T11:07:00Z</updated>
+    <published>2021-04-09T11:07:00Z</published>
     <content type="text">The Soyuz MS-18 spacecraft will dock to the International Space Station carrying three new Expedition 65 crew members : ROSCOSMOS cosmonauts Oleg Novitsky and Pyotr Dubrov as well as NASA astronaut Mark Vande Hei.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_doc_image_20210310072144.jpeg"/>
     <category term="event"/>
     <category term="docking"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~russian_federal_space_agency_roscosmos~3898f855-5794-48b5-9cb8-6741cb53363b</id>
+    <title>Soyuz 2.1a | Soyuz MS-18</title>
+    <updated>2021-04-09T07:42:00Z</updated>
+    <published>2021-04-09T07:42:00Z</published>
+    <content type="text">Soyuz MS-18 begins expedition 65 by carrying Roscosmos cosmonauts Oleg Novitsky, Pyotr Dubrov and NASA astronaut Mark Vande Hei to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan. After launching from the Baikonur Cosmodrome in Kazakhstan, they will rendezvous to the station where they will remain for their 6 month stay.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/3898f855-5794-48b5-9cb8-6741cb53363b.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
+    <category term="launch"/>
+    <category term="russian_federal_space_agency_roscosmos"/>
+    <category term="government"/>
+    <category term="soyuz"/>
+    <category term="soyuz_2_1_a"/>
+    <category term="human_exploration"/>
+    <category term="31_6"/>
+    <category term="international_space_station"/>
   </entry>
   <entry>
     <id>~space-schedule~event~landing~126</id>
@@ -40,6 +79,17 @@
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_rover_image_20200721110816.jpg"/>
     <category term="event"/>
     <category term="landing"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~press_event~238</id>
+    <title>NASA Mars 2020 Ingenuity Pre-Flight Press Conference</title>
+    <updated>2021-03-23T17:30:00Z</updated>
+    <published>2021-03-23T17:30:00Z</published>
+    <content type="text">NASA/JPL will hold a press conference ahead of Ingenuity's first flight on Mars.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=WK5YXZIIEKU"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210318061727.jpeg"/>
+    <category term="event"/>
+    <category term="press_event"/>
   </entry>
   <entry>
     <id>~space-schedule~launch~space_x~ec03fe36-fe2a-4e43-8e10-d07d5349f1de</id>
@@ -87,6 +137,17 @@ More than a dozen other satellites are included as secondary payloads, among the
     <category term="relocation"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~static_fire~232</id>
+    <title>Starship SN11 Static Fire</title>
+    <updated>2021-03-19T15:00:00Z</updated>
+    <published>2021-03-19T15:00:00Z</published>
+    <content type="text">SpaceX will perform a static fire of the Starship SN11 vehicle.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=sTA0GTgFn5E"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~static_fire~225</id>
     <title>SLS 2nd Hot Fire Test</title>
     <updated>2021-03-18T19:00:00Z</updated>
@@ -94,19 +155,8 @@ More than a dozen other satellites are included as secondary payloads, among the
     <content type="text">NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
 &#xD;
 The four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=XGRE_7yz_kM"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~232</id>
-    <title>Starship SN11 Static Fire</title>
-    <updated>2021-03-17T15:00:00Z</updated>
-    <published>2021-03-17T15:00:00Z</published>
-    <content type="text">SpaceX will perform a static fire of the Starship SN11 vehicle.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=sTA0GTgFn5E"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg"/>
     <category term="event"/>
     <category term="static_fire"/>
   </entry>

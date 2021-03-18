@@ -2,12 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Russian Federal Space Agency Roscosmos</title>
+    <title>Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Frussian_federal_space_agency_roscosmos%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Wed, 17 Mar 2021 11:27:29 GMT</pubDate>
+    <pubDate>Fri, 09 Apr 2021 07:42:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Soyuz 2.1a | Soyuz MS-18</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/3898f855-5794-48b5-9cb8-6741cb53363b.json</link>
+      <description>Soyuz MS-18 begins expedition 65 by carrying Roscosmos cosmonauts Oleg Novitsky, Pyotr Dubrov and NASA astronaut Mark Vande Hei to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan. After launching from the Baikonur Cosmodrome in Kazakhstan, they will rendezvous to the station where they will remain for their 6 month stay.</description>
+      <category>launch</category>
+      <category>russian_federal_space_agency_roscosmos</category>
+      <category>government</category>
+      <category>soyuz</category>
+      <category>soyuz_2_1_a</category>
+      <category>human_exploration</category>
+      <category>31_6</category>
+      <category>international_space_station</category>
+      <guid isPermaLink="false">3898f855-5794-48b5-9cb8-6741cb53363b</guid>
+      <pubDate>Fri, 09 Apr 2021 07:42:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
+    </item>
   </channel>
 </rss>

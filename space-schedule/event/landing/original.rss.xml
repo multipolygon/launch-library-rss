@@ -6,9 +6,19 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Flanding%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+    <pubDate>Sat, 17 Apr 2021 04:56:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Soyuz MS-17 Landing</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The Soyuz MS-17 spacecraft carrying ROSCOSMOS cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov as well as NASA astronaut Kathleen Rubins will land back on Earth near Dzhezkazgan, Kazakhstan.</description>
+      <category>event</category>
+      <category>landing</category>
+      <guid isPermaLink="false">237</guid>
+      <pubDate>Sat, 17 Apr 2021 04:56:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_lan_image_20210310074325.jpg"/>
+    </item>
     <item>
       <title>Tianwen-1 Rover Landing</title>
       <link>https://ll.thespacedevs.com/2.2.0/event/126.json</link>
