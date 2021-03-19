@@ -77,6 +77,21 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_rover_image_20200721110816.jpg"/>
     </item>
     <item>
+      <title>Soyuz 2.1b/Fregat-M | OneWeb 5</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/6bd4d3d9-d76d-4348-99d3-fad749b6b863.json</link>
+      <description>A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Interned broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</description>
+      <category>launch</category>
+      <category>arianespace</category>
+      <category>commercial</category>
+      <category>soyuz</category>
+      <category>soyuz_2_1_b_fregat_m</category>
+      <category>communications</category>
+      <category>cosmodrome_site_1_s</category>
+      <guid isPermaLink="false">~space-schedule~launch~arianespace~6bd4d3d9-d76d-4348-99d3-fad749b6b863</guid>
+      <pubDate>Thu, 25 Mar 2021 02:47:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"/>
+    </item>
+    <item>
       <title>NASA Mars 2020 Ingenuity Pre-Flight Press Conference</title>
       <link>https://www.youtube.com/watch?v=WK5YXZIIEKU</link>
       <description>NASA/JPL will hold a press conference ahead of Ingenuity's first flight on Mars.</description>
@@ -100,6 +115,16 @@
       <guid isPermaLink="false">~space-schedule~launch~space_x~ec03fe36-fe2a-4e43-8e10-d07d5349f1de</guid>
       <pubDate>Mon, 22 Mar 2021 22:19:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210314085034.png"/>
+    </item>
+    <item>
+      <title>Starship SN11 Static Fire</title>
+      <link>https://www.youtube.com/watch?v=sTA0GTgFn5E</link>
+      <description>SpaceX will perform a static fire of the Starship SN11 vehicle.</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~232</guid>
+      <pubDate>Mon, 22 Mar 2021 15:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg"/>
     </item>
     <item>
       <title>Soyuz 2.1a/Fregat-M | CAS500-1 &amp; rideshare</title>
@@ -129,25 +154,15 @@ More than a dozen other satellites are included as secondary payloads, among the
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_rel_image_20210220074256.jpeg"/>
     </item>
     <item>
-      <title>Starship SN11 Static Fire</title>
-      <link>https://www.youtube.com/watch?v=sTA0GTgFn5E</link>
-      <description>SpaceX will perform a static fire of the Starship SN11 vehicle.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~232</guid>
-      <pubDate>Fri, 19 Mar 2021 15:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg"/>
-    </item>
-    <item>
       <title>SLS 2nd Hot Fire Test</title>
       <link>https://www.youtube.com/watch?v=XGRE_7yz_kM</link>
-      <description>NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
+      <description>NASA successfully conducted a second Green Run hot fire with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
 &#xD;
-The four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
+The four RS-25 engines were fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">~space-schedule~event~static_fire~225</guid>
-      <pubDate>Thu, 18 Mar 2021 19:00:00 GMT</pubDate>
+      <pubDate>Thu, 18 Mar 2021 20:37:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
     </item>
   </channel>

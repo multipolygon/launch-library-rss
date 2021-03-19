@@ -41,6 +41,43 @@
    }
   },
   {
+   "id": "~space-schedule~launch~arianespace~6bd4d3d9-d76d-4348-99d3-fad749b6b863",
+   "title": "Soyuz 2.1b/Fregat-M | OneWeb 5",
+   "content_text": "A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Interned broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/6bd4d3d9-d76d-4348-99d3-fad749b6b863.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
+   "date_published": "2021-03-25T02:47:00Z",
+   "date_modified": "2021-03-25T02:47:00Z",
+   "tags": [
+    "launch",
+    "arianespace",
+    "commercial",
+    "soyuz",
+    "soyuz_2_1_b_fregat_m",
+    "communications",
+    "cosmodrome_site_1_s"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Arianespace | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "6bd4d3d9-d76d-4348-99d3-fad749b6b863",
+    "global": "~space-schedule~launch~arianespace~6bd4d3d9-d76d-4348-99d3-fad749b6b863"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~launch~space_x~ec03fe36-fe2a-4e43-8e10-d07d5349f1de",
    "title": "Falcon 9 Block 5 | Starlink 22",
    "content_text": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
@@ -123,7 +160,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 3,
+  "itemCount": 4,
   "pageNumber": 1,
   "pageCount": 1
  }

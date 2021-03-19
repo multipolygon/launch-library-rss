@@ -71,6 +71,16 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210318061727.jpeg"/>
     </item>
     <item>
+      <title>Starship SN11 Static Fire</title>
+      <link>https://www.youtube.com/watch?v=sTA0GTgFn5E</link>
+      <description>SpaceX will perform a static fire of the Starship SN11 vehicle.</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~232</guid>
+      <pubDate>Mon, 22 Mar 2021 15:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg"/>
+    </item>
+    <item>
       <title>Soyuz MS-17 Relocation</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The Soyuz MS-17 spacecraft will be relocated from the Rassvet module to the Poisk module. Undocking scheduled at 16:43 UTC, redocking scheduled at 17:13 UTC.</description>
@@ -81,25 +91,15 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_rel_image_20210220074256.jpeg"/>
     </item>
     <item>
-      <title>Starship SN11 Static Fire</title>
-      <link>https://www.youtube.com/watch?v=sTA0GTgFn5E</link>
-      <description>SpaceX will perform a static fire of the Starship SN11 vehicle.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~232</guid>
-      <pubDate>Fri, 19 Mar 2021 15:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg"/>
-    </item>
-    <item>
       <title>SLS 2nd Hot Fire Test</title>
       <link>https://www.youtube.com/watch?v=XGRE_7yz_kM</link>
-      <description>NASA plans to conduct a second Green Run hot fire test as early as the fourth week in February with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
+      <description>NASA successfully conducted a second Green Run hot fire with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
 &#xD;
-The four RS-25 engines will be fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
+The four RS-25 engines were fired for 8 minutes, demonstrating performance similar to an actual launch.</description>
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">~space-schedule~event~static_fire~225</guid>
-      <pubDate>Thu, 18 Mar 2021 19:00:00 GMT</pubDate>
+      <pubDate>Thu, 18 Mar 2021 20:37:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
     </item>
   </channel>

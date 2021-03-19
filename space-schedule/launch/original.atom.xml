@@ -26,6 +26,22 @@
     <category term="international_space_station"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~arianespace~6bd4d3d9-d76d-4348-99d3-fad749b6b863</id>
+    <title>Soyuz 2.1b/Fregat-M | OneWeb 5</title>
+    <updated>2021-03-25T02:47:00Z</updated>
+    <published>2021-03-25T02:47:00Z</published>
+    <content type="text">A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Interned broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/6bd4d3d9-d76d-4348-99d3-fad749b6b863.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"/>
+    <category term="launch"/>
+    <category term="arianespace"/>
+    <category term="commercial"/>
+    <category term="soyuz"/>
+    <category term="soyuz_2_1_b_fregat_m"/>
+    <category term="communications"/>
+    <category term="cosmodrome_site_1_s"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~space_x~ec03fe36-fe2a-4e43-8e10-d07d5349f1de</id>
     <title>Falcon 9 Block 5 | Starlink 22</title>
     <updated>2021-03-22T22:19:00Z</updated>
