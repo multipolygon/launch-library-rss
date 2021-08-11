@@ -3,29 +3,13 @@
  "description": "All feeds in Space Schedule > Launch.",
  "items": [
   {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Frussian_federal_space_agency_roscosmos%2Foriginal.json",
-   "title": "Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule",
-   "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
-   "date_published": "2021-04-09T07:42:00Z",
-   "date_modified": "2021-04-09T07:42:00Z",
-   "_geo": {},
-   "_meta": {
-    "itemCount": 1,
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 0
-   }
-  },
-  {
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Farianespace%2Foriginal.json",
    "title": "Arianespace | Launch | Space Schedule",
    "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
-   "date_published": "2021-03-25T02:47:00Z",
-   "date_modified": "2021-03-25T02:47:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
+   "date_published": "2021-08-17T01:47:00Z",
+   "date_modified": "2021-08-17T01:47:00Z",
    "_geo": {},
    "_meta": {
     "itemCount": 1,
@@ -35,29 +19,13 @@
    }
   },
   {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json",
-   "title": "SpaceX | Launch | Space Schedule",
+   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/indian_space_research_organization/original.json",
+   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Findian_space_research_organization%2Foriginal.json",
+   "title": "Indian Space Research Organization | Launch | Space Schedule",
    "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210314085034.png",
-   "date_published": "2021-03-22T22:19:00Z",
-   "date_modified": "2021-03-22T22:19:00Z",
-   "_geo": {},
-   "_meta": {
-    "itemCount": 1,
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 0
-   }
-  },
-  {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/gk_launch_services/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fgk_launch_services%2Foriginal.json",
-   "title": "GK Launch Services | Launch | Space Schedule",
-   "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png",
-   "date_published": "2021-03-20T06:07:00Z",
-   "date_modified": "2021-03-20T06:07:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg",
+   "date_published": "2021-08-12T00:13:00Z",
+   "date_modified": "2021-08-12T00:13:00Z",
    "_geo": {},
    "_meta": {
     "itemCount": 1,
@@ -75,7 +43,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal_index.json",
  "_meta": {
-  "itemCount": 4,
+  "itemCount": 2,
   "pageNumber": 1,
   "pageCount": 1
  }

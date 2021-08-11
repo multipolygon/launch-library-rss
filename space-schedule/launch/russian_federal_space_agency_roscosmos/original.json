@@ -1,47 +1,16 @@
 {
- "title": "Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule",
- "items": [
-  {
-   "id": "3898f855-5794-48b5-9cb8-6741cb53363b",
-   "title": "Soyuz 2.1a | Soyuz MS-18",
-   "content_text": "Soyuz MS-18 begins expedition 65 by carrying Roscosmos cosmonauts Oleg Novitsky, Pyotr Dubrov and NASA astronaut Mark Vande Hei to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan. After launching from the Baikonur Cosmodrome in Kazakhstan, they will rendezvous to the station where they will remain for their 6 month stay.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/3898f855-5794-48b5-9cb8-6741cb53363b.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
-   "date_published": "2021-04-09T07:42:00Z",
-   "date_modified": "2021-04-09T07:42:00Z",
-   "tags": [
-    "launch",
-    "russian_federal_space_agency_roscosmos",
-    "government",
-    "soyuz",
-    "soyuz_2_1_a",
-    "human_exploration",
-    "31_6",
-    "international_space_station"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1
-   }
-  }
- ],
  "version": "https://jsonfeed.org/version/1",
  "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.json",
+ "title": "Russian Federal Space Agency Roscosmos",
+ "items": [],
  "_feed_url": {
   "rss": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.rss.xml",
   "atom": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.atom.xml"
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Frussian_federal_space_agency_roscosmos%2Foriginal.json",
  "_meta": {
-  "itemCount": 1,
+  "itemCount": 0,
   "pageNumber": 1,
-  "pageCount": 1
+  "pageCount": 0
  }
 }

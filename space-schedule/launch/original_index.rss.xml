@@ -7,36 +7,22 @@
     <description>All feeds in Space Schedule &gt; Launch.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Fri, 09 Apr 2021 07:42:00 GMT</pubDate>
+    <pubDate>Tue, 17 Aug 2021 01:47:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <item>
-      <title>Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule</title>
-      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Frussian_federal_space_agency_roscosmos%2Foriginal.json</link>
-      <description>1 items</description>
-      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.json</guid>
-      <pubDate>Fri, 09 Apr 2021 07:42:00 GMT</pubDate>
-    </item>
     <item>
       <title>Arianespace | Launch | Space Schedule</title>
       <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Farianespace%2Foriginal.json</link>
       <description>1 items</description>
       <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json</guid>
-      <pubDate>Thu, 25 Mar 2021 02:47:00 GMT</pubDate>
+      <pubDate>Tue, 17 Aug 2021 01:47:00 GMT</pubDate>
     </item>
     <item>
-      <title>SpaceX | Launch | Space Schedule</title>
-      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json</link>
+      <title>Indian Space Research Organization | Launch | Space Schedule</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Findian_space_research_organization%2Foriginal.json</link>
       <description>1 items</description>
-      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json</guid>
-      <pubDate>Mon, 22 Mar 2021 22:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GK Launch Services | Launch | Space Schedule</title>
-      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fgk_launch_services%2Foriginal.json</link>
-      <description>1 items</description>
-      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/gk_launch_services/original.json</guid>
-      <pubDate>Sat, 20 Mar 2021 06:07:00 GMT</pubDate>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/indian_space_research_organization/original.json</guid>
+      <pubDate>Thu, 12 Aug 2021 00:13:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -3,64 +3,25 @@
  "description": "All items in Space Schedule > Launch.",
  "items": [
   {
-   "id": "~space-schedule~launch~russian_federal_space_agency_roscosmos~3898f855-5794-48b5-9cb8-6741cb53363b",
-   "title": "Soyuz 2.1a | Soyuz MS-18",
-   "content_text": "Soyuz MS-18 begins expedition 65 by carrying Roscosmos cosmonauts Oleg Novitsky, Pyotr Dubrov and NASA astronaut Mark Vande Hei to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan. After launching from the Baikonur Cosmodrome in Kazakhstan, they will rendezvous to the station where they will remain for their 6 month stay.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/3898f855-5794-48b5-9cb8-6741cb53363b.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
-   "date_published": "2021-04-09T07:42:00Z",
-   "date_modified": "2021-04-09T07:42:00Z",
-   "tags": [
-    "launch",
-    "russian_federal_space_agency_roscosmos",
-    "government",
-    "soyuz",
-    "soyuz_2_1_a",
-    "human_exploration",
-    "31_6",
-    "international_space_station"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "3898f855-5794-48b5-9cb8-6741cb53363b",
-    "global": "~space-schedule~launch~russian_federal_space_agency_roscosmos~3898f855-5794-48b5-9cb8-6741cb53363b"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~launch~arianespace~6bd4d3d9-d76d-4348-99d3-fad749b6b863",
-   "title": "Soyuz 2.1b/Fregat-M | OneWeb 5",
-   "content_text": "A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Interned broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/6bd4d3d9-d76d-4348-99d3-fad749b6b863.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
-   "date_published": "2021-03-25T02:47:00Z",
-   "date_modified": "2021-03-25T02:47:00Z",
+   "id": "~space-schedule~launch~arianespace~c46cfec6-f135-41f9-995f-9482b8cbe668",
+   "title": "Vega | Pléiades Neo 4",
+   "content_text": "Pléiades Neo is a constellation of four optical high-resolution Earth observation satellites built and operated by Airbus. It is a dual purpose constellation, serving both civilian and military purposes. Pléiades Neo 4 is the second satellite in the constellation which is to deliver imagery with spatial resolution of 30 cm. It is launched along with several rideshare payloads.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/c46cfec6-f135-41f9-995f-9482b8cbe668.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
+   "date_published": "2021-08-17T01:47:00Z",
+   "date_modified": "2021-08-17T01:47:00Z",
    "tags": [
     "launch",
     "arianespace",
     "commercial",
-    "soyuz",
-    "soyuz_2_1_b_fregat_m",
-    "communications",
-    "cosmodrome_site_1_s"
+    "vega",
+    "government_top_secret",
+    "ariane_launch_area_1"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"
     }
    ],
    "_meta": {
@@ -70,85 +31,48 @@
     "subtitle": "Arianespace | Launch | Space Schedule"
    },
    "_id": {
-    "parent": "6bd4d3d9-d76d-4348-99d3-fad749b6b863",
-    "global": "~space-schedule~launch~arianespace~6bd4d3d9-d76d-4348-99d3-fad749b6b863"
+    "parent": "c46cfec6-f135-41f9-995f-9482b8cbe668",
+    "global": "~space-schedule~launch~arianespace~c46cfec6-f135-41f9-995f-9482b8cbe668"
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
    }
   },
   {
-   "id": "~space-schedule~launch~space_x~ec03fe36-fe2a-4e43-8e10-d07d5349f1de",
-   "title": "Falcon 9 Block 5 | Starlink 22",
-   "content_text": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/ec03fe36-fe2a-4e43-8e10-d07d5349f1de.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210314085034.png",
-   "date_published": "2021-03-22T22:19:00Z",
-   "date_modified": "2021-03-22T22:19:00Z",
+   "id": "~space-schedule~launch~indian_space_research_organization~397c50c5-8a2b-4ca5-807d-8911c14b7126",
+   "title": "GSLV Mk II | EOS-03 (GISAT-1)",
+   "content_text": "GISAT-1 is an Indian earth observation satellite to be launched in geostationary orbit. It is tasked with continuous observation of Indian sub-continent and quick monitoring of natural hazards and disaster. GISAT carries an imaging payload consisting of of multi-spectral, multi-resolution from 50 m to 1.5 km. It will provide pictures of the area of interest on near real time basis including border areas.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/397c50c5-8a2b-4ca5-807d-8911c14b7126.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg",
+   "date_published": "2021-08-12T00:13:00Z",
+   "date_modified": "2021-08-12T00:13:00Z",
    "tags": [
     "launch",
-    "space_x",
-    "commercial",
-    "falcon",
-    "falcon_9_block_5",
-    "communications",
-    "space_launch_complex_40"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210314085034.png"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "SpaceX | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "ec03fe36-fe2a-4e43-8e10-d07d5349f1de",
-    "global": "~space-schedule~launch~space_x~ec03fe36-fe2a-4e43-8e10-d07d5349f1de"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~launch~gk_launch_services~54c50fe1-bbd1-4515-9630-37612383c3c1",
-   "title": "Soyuz 2.1a/Fregat-M | CAS500-1 & rideshare",
-   "content_text": "CAS500-1 is the first of two South Korean Earth observation satellites. These spacecraft feature the AEISS-C imaging system with a ground resolution of 0.5 m in panchromatic mode and 2 m in color mode.\r\n\r\nMore than a dozen other satellites are included as secondary payloads, among them being the first spacecraft by the Catalan Space Agency.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/54c50fe1-bbd1-4515-9630-37612383c3c1.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png",
-   "date_published": "2021-03-20T06:07:00Z",
-   "date_modified": "2021-03-20T06:07:00Z",
-   "tags": [
-    "launch",
-    "gk_launch_services",
-    "commercial",
-    "soyuz",
-    "soyuz_2_1_a_fregat_m",
+    "indian_space_research_organization",
+    "government",
+    "pslv",
+    "gslv_mk_ii",
     "earth_science",
-    "31_6"
+    "satish_dhawan_space_centre_second_launch_pad"
    ],
    "attachments": [
     {
-     "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png"
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg"
     }
    ],
    "_meta": {
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "subtitle": "GK Launch Services | Launch | Space Schedule"
+    "subtitle": "Indian Space Research Organization | Launch | Space Schedule"
    },
    "_id": {
-    "parent": "54c50fe1-bbd1-4515-9630-37612383c3c1",
-    "global": "~space-schedule~launch~gk_launch_services~54c50fe1-bbd1-4515-9630-37612383c3c1"
+    "parent": "397c50c5-8a2b-4ca5-807d-8911c14b7126",
+    "global": "~space-schedule~launch~indian_space_research_organization~397c50c5-8a2b-4ca5-807d-8911c14b7126"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/gk_launch_services/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/indian_space_research_organization/original.json"
    }
   }
  ],
@@ -160,7 +84,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 4,
+  "itemCount": 2,
   "pageNumber": 1,
   "pageCount": 1
  }

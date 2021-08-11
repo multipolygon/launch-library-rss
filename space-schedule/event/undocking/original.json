@@ -4,13 +4,13 @@
  "title": "Undocking | Event | Space Schedule",
  "items": [
   {
-   "id": "236",
-   "title": "Soyuz MS-17 Undocking",
-   "content_text": "The Soyuz MS-17 spacecraft will undock from the International Space Station carrying Expedition 64 crew members ROSCOSMOS cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov as well as NASA astronaut Kathleen Rubins.",
+   "id": "272",
+   "title": "Boeing Starliner OFT 2 Undocking",
+   "content_text": "The Boeing CST-100 Starliner will undock from the International Space Station and conduct a deorbit burn as part of its second uncrewed test flight.\r\n\r\nFollowing the deorbit burn the capsule will renter the Earth's atmosphere and land at the 'White Sands Missile Range' using its parachutes.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_und_image_20210310074057.jpeg",
-   "date_published": "2021-04-17T01:33:00Z",
-   "date_modified": "2021-04-17T01:33:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519072911.jpeg",
+   "date_published": "2021-08-16T00:00:00Z",
+   "date_modified": "2021-08-16T00:00:00Z",
    "tags": [
     "event",
     "undocking"
@@ -18,7 +18,7 @@
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_und_image_20210310074057.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519072911.jpeg"
     }
    ],
    "_meta": {

@@ -2,25 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Arianespace | Launch | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.atom.xml</id>
-  <updated>2021-03-25T02:47:00Z</updated>
+  <updated>2021-08-17T01:47:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Farianespace%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <entry>
-    <id>6bd4d3d9-d76d-4348-99d3-fad749b6b863</id>
-    <title>Soyuz 2.1b/Fregat-M | OneWeb 5</title>
-    <updated>2021-03-25T02:47:00Z</updated>
-    <published>2021-03-25T02:47:00Z</published>
-    <content type="text">A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Interned broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/6bd4d3d9-d76d-4348-99d3-fad749b6b863.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"/>
+    <id>c46cfec6-f135-41f9-995f-9482b8cbe668</id>
+    <title>Vega | Pléiades Neo 4</title>
+    <updated>2021-08-17T01:47:00Z</updated>
+    <published>2021-08-17T01:47:00Z</published>
+    <content type="text">Pléiades Neo is a constellation of four optical high-resolution Earth observation satellites built and operated by Airbus. It is a dual purpose constellation, serving both civilian and military purposes. Pléiades Neo 4 is the second satellite in the constellation which is to deliver imagery with spatial resolution of 30 cm. It is launched along with several rideshare payloads.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/c46cfec6-f135-41f9-995f-9482b8cbe668.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"/>
     <category term="launch"/>
     <category term="arianespace"/>
     <category term="commercial"/>
-    <category term="soyuz"/>
-    <category term="soyuz_2_1_b_fregat_m"/>
-    <category term="communications"/>
-    <category term="cosmodrome_site_1_s"/>
+    <category term="vega"/>
+    <category term="government_top_secret"/>
+    <category term="ariane_launch_area_1"/>
   </entry>
 </feed>

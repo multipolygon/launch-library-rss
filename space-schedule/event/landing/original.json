@@ -4,13 +4,13 @@
  "title": "Landing | Event | Space Schedule",
  "items": [
   {
-   "id": "237",
-   "title": "Soyuz MS-17 Landing",
-   "content_text": "The Soyuz MS-17 spacecraft carrying ROSCOSMOS cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov as well as NASA astronaut Kathleen Rubins will land back on Earth near Dzhezkazgan, Kazakhstan.",
+   "id": "273",
+   "title": "Boeing Starliner OFT 2 Landing",
+   "content_text": "Following its deorbit burn, the Boeing CST-100 Starliner will reenter the Earth's atmosphere and land at the White Sands Missile Range using its parachutes.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_lan_image_20210310074325.jpg",
-   "date_published": "2021-04-17T04:56:00Z",
-   "date_modified": "2021-04-17T04:56:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519073043.jpeg",
+   "date_published": "2021-08-16T01:00:00Z",
+   "date_modified": "2021-08-16T01:00:00Z",
    "tags": [
     "event",
     "landing"
@@ -18,7 +18,7 @@
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_lan_image_20210310074325.jpg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519073043.jpeg"
     }
    ],
    "_meta": {
@@ -26,30 +26,6 @@
     "videoCount": 0,
     "imageCount": 1,
     "youtubeCount": 1
-   }
-  },
-  {
-   "id": "126",
-   "title": "Tianwen-1 Rover Landing",
-   "content_text": "The Tianwen-1 rover will attempt to land on Mars using a parachute to slow down and a propulsive landing for the final 1.5km of the descent.",
-   "url": "https://ll.thespacedevs.com/2.2.0/event/126.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_rover_image_20200721110816.jpg",
-   "date_published": "2021-04-01T00:00:00Z",
-   "date_modified": "2021-04-01T00:00:00Z",
-   "tags": [
-    "event",
-    "landing"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_rover_image_20200721110816.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1
    }
   }
  ],
@@ -59,7 +35,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Flanding%2Foriginal.json",
  "_meta": {
-  "itemCount": 2,
+  "itemCount": 1,
   "pageNumber": 1,
   "pageCount": 1
  }

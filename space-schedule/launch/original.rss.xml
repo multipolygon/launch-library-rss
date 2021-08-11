@@ -7,71 +7,37 @@
     <description>All items in Space Schedule &gt; Launch.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Fri, 09 Apr 2021 07:42:00 GMT</pubDate>
+    <pubDate>Tue, 17 Aug 2021 01:47:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
-      <title>Soyuz 2.1a | Soyuz MS-18</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/3898f855-5794-48b5-9cb8-6741cb53363b.json</link>
-      <description>Soyuz MS-18 begins expedition 65 by carrying Roscosmos cosmonauts Oleg Novitsky, Pyotr Dubrov and NASA astronaut Mark Vande Hei to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan. After launching from the Baikonur Cosmodrome in Kazakhstan, they will rendezvous to the station where they will remain for their 6 month stay.</description>
-      <category>launch</category>
-      <category>russian_federal_space_agency_roscosmos</category>
-      <category>government</category>
-      <category>soyuz</category>
-      <category>soyuz_2_1_a</category>
-      <category>human_exploration</category>
-      <category>31_6</category>
-      <category>international_space_station</category>
-      <guid isPermaLink="false">~space-schedule~launch~russian_federal_space_agency_roscosmos~3898f855-5794-48b5-9cb8-6741cb53363b</guid>
-      <pubDate>Fri, 09 Apr 2021 07:42:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
-    </item>
-    <item>
-      <title>Soyuz 2.1b/Fregat-M | OneWeb 5</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/6bd4d3d9-d76d-4348-99d3-fad749b6b863.json</link>
-      <description>A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Interned broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</description>
+      <title>Vega | Pléiades Neo 4</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/c46cfec6-f135-41f9-995f-9482b8cbe668.json</link>
+      <description>Pléiades Neo is a constellation of four optical high-resolution Earth observation satellites built and operated by Airbus. It is a dual purpose constellation, serving both civilian and military purposes. Pléiades Neo 4 is the second satellite in the constellation which is to deliver imagery with spatial resolution of 30 cm. It is launched along with several rideshare payloads.</description>
       <category>launch</category>
       <category>arianespace</category>
       <category>commercial</category>
-      <category>soyuz</category>
-      <category>soyuz_2_1_b_fregat_m</category>
-      <category>communications</category>
-      <category>cosmodrome_site_1_s</category>
-      <guid isPermaLink="false">~space-schedule~launch~arianespace~6bd4d3d9-d76d-4348-99d3-fad749b6b863</guid>
-      <pubDate>Thu, 25 Mar 2021 02:47:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"/>
+      <category>vega</category>
+      <category>government_top_secret</category>
+      <category>ariane_launch_area_1</category>
+      <guid isPermaLink="false">~space-schedule~launch~arianespace~c46cfec6-f135-41f9-995f-9482b8cbe668</guid>
+      <pubDate>Tue, 17 Aug 2021 01:47:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"/>
     </item>
     <item>
-      <title>Falcon 9 Block 5 | Starlink 22</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/ec03fe36-fe2a-4e43-8e10-d07d5349f1de.json</link>
-      <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
+      <title>GSLV Mk II | EOS-03 (GISAT-1)</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/397c50c5-8a2b-4ca5-807d-8911c14b7126.json</link>
+      <description>GISAT-1 is an Indian earth observation satellite to be launched in geostationary orbit. It is tasked with continuous observation of Indian sub-continent and quick monitoring of natural hazards and disaster. GISAT carries an imaging payload consisting of of multi-spectral, multi-resolution from 50 m to 1.5 km. It will provide pictures of the area of interest on near real time basis including border areas.</description>
       <category>launch</category>
-      <category>space_x</category>
-      <category>commercial</category>
-      <category>falcon</category>
-      <category>falcon_9_block_5</category>
-      <category>communications</category>
-      <category>space_launch_complex_40</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~ec03fe36-fe2a-4e43-8e10-d07d5349f1de</guid>
-      <pubDate>Mon, 22 Mar 2021 22:19:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210314085034.png"/>
-    </item>
-    <item>
-      <title>Soyuz 2.1a/Fregat-M | CAS500-1 &amp; rideshare</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/54c50fe1-bbd1-4515-9630-37612383c3c1.json</link>
-      <description>CAS500-1 is the first of two South Korean Earth observation satellites. These spacecraft feature the AEISS-C imaging system with a ground resolution of 0.5 m in panchromatic mode and 2 m in color mode.&#xD;
-&#xD;
-More than a dozen other satellites are included as secondary payloads, among them being the first spacecraft by the Catalan Space Agency.</description>
-      <category>launch</category>
-      <category>gk_launch_services</category>
-      <category>commercial</category>
-      <category>soyuz</category>
-      <category>soyuz_2_1_a_fregat_m</category>
+      <category>indian_space_research_organization</category>
+      <category>government</category>
+      <category>pslv</category>
+      <category>gslv_mk_ii</category>
       <category>earth_science</category>
-      <category>31_6</category>
-      <guid isPermaLink="false">~space-schedule~launch~gk_launch_services~54c50fe1-bbd1-4515-9630-37612383c3c1</guid>
-      <pubDate>Sat, 20 Mar 2021 06:07:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png"/>
+      <category>satish_dhawan_space_centre_second_launch_pad</category>
+      <guid isPermaLink="false">~space-schedule~launch~indian_space_research_organization~397c50c5-8a2b-4ca5-807d-8911c14b7126</guid>
+      <pubDate>Thu, 12 Aug 2021 00:13:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg"/>
     </item>
   </channel>
 </rss>

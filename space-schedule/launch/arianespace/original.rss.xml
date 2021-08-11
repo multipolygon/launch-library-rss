@@ -6,23 +6,22 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Farianespace%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Thu, 25 Mar 2021 02:47:00 GMT</pubDate>
+    <pubDate>Tue, 17 Aug 2021 01:47:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
-      <title>Soyuz 2.1b/Fregat-M | OneWeb 5</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/6bd4d3d9-d76d-4348-99d3-fad749b6b863.json</link>
-      <description>A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Interned broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</description>
+      <title>Vega | Pléiades Neo 4</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/c46cfec6-f135-41f9-995f-9482b8cbe668.json</link>
+      <description>Pléiades Neo is a constellation of four optical high-resolution Earth observation satellites built and operated by Airbus. It is a dual purpose constellation, serving both civilian and military purposes. Pléiades Neo 4 is the second satellite in the constellation which is to deliver imagery with spatial resolution of 30 cm. It is launched along with several rideshare payloads.</description>
       <category>launch</category>
       <category>arianespace</category>
       <category>commercial</category>
-      <category>soyuz</category>
-      <category>soyuz_2_1_b_fregat_m</category>
-      <category>communications</category>
-      <category>cosmodrome_site_1_s</category>
-      <guid isPermaLink="false">6bd4d3d9-d76d-4348-99d3-fad749b6b863</guid>
-      <pubDate>Thu, 25 Mar 2021 02:47:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"/>
+      <category>vega</category>
+      <category>government_top_secret</category>
+      <category>ariane_launch_area_1</category>
+      <guid isPermaLink="false">c46cfec6-f135-41f9-995f-9482b8cbe668</guid>
+      <pubDate>Tue, 17 Aug 2021 01:47:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"/>
     </item>
   </channel>
 </rss>

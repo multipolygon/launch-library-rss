@@ -2,19 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Undocking | Event | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/undocking/original.atom.xml</id>
-  <updated>2021-04-17T01:33:00Z</updated>
+  <updated>2021-08-16T00:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/undocking/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/undocking/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fundocking%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <entry>
-    <id>236</id>
-    <title>Soyuz MS-17 Undocking</title>
-    <updated>2021-04-17T01:33:00Z</updated>
-    <published>2021-04-17T01:33:00Z</published>
-    <content type="text">The Soyuz MS-17 spacecraft will undock from the International Space Station carrying Expedition 64 crew members ROSCOSMOS cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov as well as NASA astronaut Kathleen Rubins.</content>
+    <id>272</id>
+    <title>Boeing Starliner OFT 2 Undocking</title>
+    <updated>2021-08-16T00:00:00Z</updated>
+    <published>2021-08-16T00:00:00Z</published>
+    <content type="text">The Boeing CST-100 Starliner will undock from the International Space Station and conduct a deorbit burn as part of its second uncrewed test flight.&#xD;
+&#xD;
+Following the deorbit burn the capsule will renter the Earth's atmosphere and land at the 'White Sands Missile Range' using its parachutes.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_und_image_20210310074057.jpeg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519072911.jpeg"/>
     <category term="event"/>
     <category term="undocking"/>
   </entry>

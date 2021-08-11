@@ -2,178 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Space-schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/original.atom.xml</id>
-  <updated>2021-04-17T04:56:00Z</updated>
+  <updated>2021-09-08T00:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items in subcategories for category.</subtitle>
   <entry>
-    <id>~space-schedule~event~landing~237</id>
-    <title>Soyuz MS-17 Landing</title>
-    <updated>2021-04-17T04:56:00Z</updated>
-    <published>2021-04-17T04:56:00Z</published>
-    <content type="text">The Soyuz MS-17 spacecraft carrying ROSCOSMOS cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov as well as NASA astronaut Kathleen Rubins will land back on Earth near Dzhezkazgan, Kazakhstan.</content>
+    <id>~space-schedule~event~eva~317</id>
+    <title>Russian EVA-50</title>
+    <updated>2021-09-08T00:00:00Z</updated>
+    <published>2021-09-08T00:00:00Z</published>
+    <content type="text">Roscosmos cosmonauts Oleg Novitskiy and Pyotr Dubrov will exit the International Space Station through the Poisk airlock to continue establishing external cable connections between the new MLM Nauka module and the Zvezda module.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_lan_image_20210310074325.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-50_image_20210805074910.jpeg"/>
     <category term="event"/>
-    <category term="landing"/>
+    <category term="eva"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~undocking~236</id>
-    <title>Soyuz MS-17 Undocking</title>
-    <updated>2021-04-17T01:33:00Z</updated>
-    <published>2021-04-17T01:33:00Z</published>
-    <content type="text">The Soyuz MS-17 spacecraft will undock from the International Space Station carrying Expedition 64 crew members ROSCOSMOS cosmonauts Sergey Ryzhikov and Sergey Kud-Sverchkov as well as NASA astronaut Kathleen Rubins.</content>
+    <id>~space-schedule~event~eva~316</id>
+    <title>Russian EVA-49</title>
+    <updated>2021-09-02T00:00:00Z</updated>
+    <published>2021-09-02T00:00:00Z</published>
+    <content type="text">Roscosmos cosmonauts Oleg Novitskiy and Pyotr Dubrov will exit the International Space Station through the Poisk airlock to establish external cable connections between the new MLM Nauka module and the Zvezda module.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_und_image_20210310074057.jpeg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-48_image_20210805073004.jpeg"/>
     <category term="event"/>
-    <category term="undocking"/>
+    <category term="eva"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~change_of_command~235</id>
-    <title>ISS Expedition 64-65 Change of Command Ceremony</title>
-    <updated>2021-04-15T00:00:00Z</updated>
-    <published>2021-04-15T00:00:00Z</published>
-    <content type="text">ROSCOSMOS cosmonaut Sergey Ryzhikov, Expedition 64 commander, will hand over the International Space Station command to ROSCOSMOS cosmonaut Oleg Novitsky who will become commander of Expedition 65.</content>
+    <id>~space-schedule~event~docking~275</id>
+    <title>CRS-23 Dragon Docking</title>
+    <updated>2021-08-31T00:00:00Z</updated>
+    <published>2021-08-31T00:00:00Z</published>
+    <content type="text">Following its launch atop a Falcon 9, the CRS-23 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20210310073740.jpg"/>
-    <category term="event"/>
-    <category term="change_of_command"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~docking~234</id>
-    <title>Soyuz MS-18 Docking</title>
-    <updated>2021-04-09T11:07:00Z</updated>
-    <published>2021-04-09T11:07:00Z</published>
-    <content type="text">The Soyuz MS-18 spacecraft will dock to the International Space Station carrying three new Expedition 65 crew members : ROSCOSMOS cosmonauts Oleg Novitsky and Pyotr Dubrov as well as NASA astronaut Mark Vande Hei.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_doc_image_20210310072144.jpeg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_d_image_20210519074125.jpeg"/>
     <category term="event"/>
     <category term="docking"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~russian_federal_space_agency_roscosmos~3898f855-5794-48b5-9cb8-6741cb53363b</id>
-    <title>Soyuz 2.1a | Soyuz MS-18</title>
-    <updated>2021-04-09T07:42:00Z</updated>
-    <published>2021-04-09T07:42:00Z</published>
-    <content type="text">Soyuz MS-18 begins expedition 65 by carrying Roscosmos cosmonauts Oleg Novitsky, Pyotr Dubrov and NASA astronaut Mark Vande Hei to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan. After launching from the Baikonur Cosmodrome in Kazakhstan, they will rendezvous to the station where they will remain for their 6 month stay.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/3898f855-5794-48b5-9cb8-6741cb53363b.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
+    <id>~space-schedule~launch~arianespace~c46cfec6-f135-41f9-995f-9482b8cbe668</id>
+    <title>Vega | Pléiades Neo 4</title>
+    <updated>2021-08-17T01:47:00Z</updated>
+    <published>2021-08-17T01:47:00Z</published>
+    <content type="text">Pléiades Neo is a constellation of four optical high-resolution Earth observation satellites built and operated by Airbus. It is a dual purpose constellation, serving both civilian and military purposes. Pléiades Neo 4 is the second satellite in the constellation which is to deliver imagery with spatial resolution of 30 cm. It is launched along with several rideshare payloads.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/c46cfec6-f135-41f9-995f-9482b8cbe668.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"/>
     <category term="launch"/>
-    <category term="russian_federal_space_agency_roscosmos"/>
-    <category term="government"/>
-    <category term="soyuz"/>
-    <category term="soyuz_2_1_a"/>
-    <category term="human_exploration"/>
-    <category term="31_6"/>
-    <category term="international_space_station"/>
+    <category term="arianespace"/>
+    <category term="commercial"/>
+    <category term="vega"/>
+    <category term="government_top_secret"/>
+    <category term="ariane_launch_area_1"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~landing~126</id>
-    <title>Tianwen-1 Rover Landing</title>
-    <updated>2021-04-01T00:00:00Z</updated>
-    <published>2021-04-01T00:00:00Z</published>
-    <content type="text">The Tianwen-1 rover will attempt to land on Mars using a parachute to slow down and a propulsive landing for the final 1.5km of the descent.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/event/126.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianwen-1_rover_image_20200721110816.jpg"/>
+    <id>~space-schedule~event~landing~273</id>
+    <title>Boeing Starliner OFT 2 Landing</title>
+    <updated>2021-08-16T01:00:00Z</updated>
+    <published>2021-08-16T01:00:00Z</published>
+    <content type="text">Following its deorbit burn, the Boeing CST-100 Starliner will reenter the Earth's atmosphere and land at the White Sands Missile Range using its parachutes.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519073043.jpeg"/>
     <category term="event"/>
     <category term="landing"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~arianespace~6bd4d3d9-d76d-4348-99d3-fad749b6b863</id>
-    <title>Soyuz 2.1b/Fregat-M | OneWeb 5</title>
-    <updated>2021-03-25T02:47:00Z</updated>
-    <published>2021-03-25T02:47:00Z</published>
-    <content type="text">A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Interned broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/6bd4d3d9-d76d-4348-99d3-fad749b6b863.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg"/>
-    <category term="launch"/>
-    <category term="arianespace"/>
-    <category term="commercial"/>
-    <category term="soyuz"/>
-    <category term="soyuz_2_1_b_fregat_m"/>
-    <category term="communications"/>
-    <category term="cosmodrome_site_1_s"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~press_event~238</id>
-    <title>NASA Mars 2020 Ingenuity Pre-Flight Press Conference</title>
-    <updated>2021-03-23T17:30:00Z</updated>
-    <published>2021-03-23T17:30:00Z</published>
-    <content type="text">NASA/JPL will hold a press conference ahead of Ingenuity's first flight on Mars.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=WK5YXZIIEKU"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20210318061727.jpeg"/>
-    <category term="event"/>
-    <category term="press_event"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~space_x~ec03fe36-fe2a-4e43-8e10-d07d5349f1de</id>
-    <title>Falcon 9 Block 5 | Starlink 22</title>
-    <updated>2021-03-22T22:19:00Z</updated>
-    <published>2021-03-22T22:19:00Z</published>
-    <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/ec03fe36-fe2a-4e43-8e10-d07d5349f1de.json"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210314085034.png"/>
-    <category term="launch"/>
-    <category term="space_x"/>
-    <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon_9_block_5"/>
-    <category term="communications"/>
-    <category term="space_launch_complex_40"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~232</id>
-    <title>Starship SN11 Static Fire</title>
-    <updated>2021-03-22T15:00:00Z</updated>
-    <published>2021-03-22T15:00:00Z</published>
-    <content type="text">SpaceX will perform a static fire of the Starship SN11 vehicle.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=sTA0GTgFn5E"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_sn11_s_image_20210308182752.jpeg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~gk_launch_services~54c50fe1-bbd1-4515-9630-37612383c3c1</id>
-    <title>Soyuz 2.1a/Fregat-M | CAS500-1 &amp; rideshare</title>
-    <updated>2021-03-20T06:07:00Z</updated>
-    <published>2021-03-20T06:07:00Z</published>
-    <content type="text">CAS500-1 is the first of two South Korean Earth observation satellites. These spacecraft feature the AEISS-C imaging system with a ground resolution of 0.5 m in panchromatic mode and 2 m in color mode.&#xD;
-&#xD;
-More than a dozen other satellites are included as secondary payloads, among them being the first spacecraft by the Catalan Space Agency.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/54c50fe1-bbd1-4515-9630-37612383c3c1.json"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png"/>
-    <category term="launch"/>
-    <category term="gk_launch_services"/>
-    <category term="commercial"/>
-    <category term="soyuz"/>
-    <category term="soyuz_2_1_a_fregat_m"/>
-    <category term="earth_science"/>
-    <category term="31_6"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~relocation~228</id>
-    <title>Soyuz MS-17 Relocation</title>
-    <updated>2021-03-19T16:15:00Z</updated>
-    <published>2021-03-19T16:15:00Z</published>
-    <content type="text">The Soyuz MS-17 spacecraft will be relocated from the Rassvet module to the Poisk module. Undocking scheduled at 16:43 UTC, redocking scheduled at 17:13 UTC.</content>
+    <id>~space-schedule~event~docking~270</id>
+    <title>Boeing Starliner OFT 2 Docking</title>
+    <updated>2021-08-16T00:00:00Z</updated>
+    <published>2021-08-16T00:00:00Z</published>
+    <content type="text">The Boeing CST-100 Starliner will dock with the International Space Station as part of its second uncrewed test flight.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-17_rel_image_20210220074256.jpeg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519071201.jpeg"/>
     <category term="event"/>
-    <category term="relocation"/>
+    <category term="docking"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~static_fire~225</id>
-    <title>SLS 2nd Hot Fire Test</title>
-    <updated>2021-03-18T20:37:00Z</updated>
-    <published>2021-03-18T20:37:00Z</published>
-    <content type="text">NASA successfully conducted a second Green Run hot fire with the Space Launch System (SLS) rocket’s core stage that will launch the Artemis I mission to the Moon. &#xD;
+    <id>~space-schedule~event~undocking~272</id>
+    <title>Boeing Starliner OFT 2 Undocking</title>
+    <updated>2021-08-16T00:00:00Z</updated>
+    <published>2021-08-16T00:00:00Z</published>
+    <content type="text">The Boeing CST-100 Starliner will undock from the International Space Station and conduct a deorbit burn as part of its second uncrewed test flight.&#xD;
 &#xD;
-The four RS-25 engines were fired for 8 minutes, demonstrating performance similar to an actual launch.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=XGRE_7yz_kM"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/sls_hot_fire_2_image_20210130015920.jpg"/>
+Following the deorbit burn the capsule will renter the Earth's atmosphere and land at the 'White Sands Missile Range' using its parachutes.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519072911.jpeg"/>
     <category term="event"/>
-    <category term="static_fire"/>
+    <category term="undocking"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~eva~307</id>
+    <title>US EVA-77</title>
+    <updated>2021-08-15T00:00:00Z</updated>
+    <published>2021-08-15T00:00:00Z</published>
+    <content type="text">NASA astronaut Mark Vande Hei and JAXA astronaut Akihiko Hoshide will venture outside the orbiting outpost to perform maintenance tasks and activate the Bartolomeo platform on the exterior of the Columbus module.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg"/>
+    <category term="event"/>
+    <category term="eva"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~berthing~271</id>
+    <title>NG-16 Cygnus Berthing</title>
+    <updated>2021-08-12T10:10:00Z</updated>
+    <published>2021-08-12T10:10:00Z</published>
+    <content type="text">NASA TV will livestream the rendezvous and capture of Northrop Grumman's NG-16 Cygnus cargo craft to the International Space Station.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_be_image_20210519072616.jpg"/>
+    <category term="event"/>
+    <category term="berthing"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~indian_space_research_organization~397c50c5-8a2b-4ca5-807d-8911c14b7126</id>
+    <title>GSLV Mk II | EOS-03 (GISAT-1)</title>
+    <updated>2021-08-12T00:13:00Z</updated>
+    <published>2021-08-12T00:13:00Z</published>
+    <content type="text">GISAT-1 is an Indian earth observation satellite to be launched in geostationary orbit. It is tasked with continuous observation of Indian sub-continent and quick monitoring of natural hazards and disaster. GISAT carries an imaging payload consisting of of multi-spectral, multi-resolution from 50 m to 1.5 km. It will provide pictures of the area of interest on near real time basis including border areas.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/397c50c5-8a2b-4ca5-807d-8911c14b7126.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg"/>
+    <category term="launch"/>
+    <category term="indian_space_research_organization"/>
+    <category term="government"/>
+    <category term="pslv"/>
+    <category term="gslv_mk_ii"/>
+    <category term="earth_science"/>
+    <category term="satish_dhawan_space_centre_second_launch_pad"/>
   </entry>
 </feed>
