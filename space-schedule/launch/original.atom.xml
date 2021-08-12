@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Launch</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/original.atom.xml</id>
-  <updated>2021-08-17T01:47:00Z</updated>
+  <updated>2021-08-28T07:37:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items in Space Schedule &gt; Launch.</subtitle>
+  <entry>
+    <id>~space-schedule~launch~space_x~13386512-85bb-4c93-a9b0-f5eac05fbe4f</id>
+    <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-23</title>
+    <updated>2021-08-28T07:37:00Z</updated>
+    <published>2021-08-28T07:37:00Z</published>
+    <content type="text">SpaceX will launch the cargo variant of its Dragon 2 spacecraft on their 23rd commercial resupply services mission to the International Space Station. The flight will be conducted under the second Commercial Resupply Services contract with NASA.&#xD;
+&#xD;
+Dragon will be filled with supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/13386512-85bb-4c93-a9b0-f5eac05fbe4f.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg"/>
+    <category term="launch"/>
+    <category term="space_x"/>
+    <category term="commercial"/>
+    <category term="falcon"/>
+    <category term="falcon_9"/>
+    <category term="resupply"/>
+    <category term="launch_complex_39_a"/>
+    <category term="commercial_resupply_services"/>
+  </entry>
   <entry>
     <id>~space-schedule~launch~arianespace~c46cfec6-f135-41f9-995f-9482b8cbe668</id>
     <title>Vega | Pléiades Neo 4</title>
@@ -22,21 +41,5 @@
     <category term="vega"/>
     <category term="government_top_secret"/>
     <category term="ariane_launch_area_1"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~indian_space_research_organization~397c50c5-8a2b-4ca5-807d-8911c14b7126</id>
-    <title>GSLV Mk II | EOS-03 (GISAT-1)</title>
-    <updated>2021-08-12T00:13:00Z</updated>
-    <published>2021-08-12T00:13:00Z</published>
-    <content type="text">GISAT-1 is an Indian earth observation satellite to be launched in geostationary orbit. It is tasked with continuous observation of Indian sub-continent and quick monitoring of natural hazards and disaster. GISAT carries an imaging payload consisting of of multi-spectral, multi-resolution from 50 m to 1.5 km. It will provide pictures of the area of interest on near real time basis including border areas.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/397c50c5-8a2b-4ca5-807d-8911c14b7126.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg"/>
-    <category term="launch"/>
-    <category term="indian_space_research_organization"/>
-    <category term="government"/>
-    <category term="pslv"/>
-    <category term="gslv_mk_ii"/>
-    <category term="earth_science"/>
-    <category term="satish_dhawan_space_centre_second_launch_pad"/>
   </entry>
 </feed>

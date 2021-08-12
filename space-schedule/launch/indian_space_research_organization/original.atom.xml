@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Indian Space Research Organization | Launch | Space Schedule</title>
+  <title>Indian Space Research Organization</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/indian_space_research_organization/original.atom.xml</id>
-  <updated>2021-08-12T00:13:00Z</updated>
+  <updated>2021-08-12T11:19:56.633Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/indian_space_research_organization/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/indian_space_research_organization/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Findian_space_research_organization%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
-  <entry>
-    <id>397c50c5-8a2b-4ca5-807d-8911c14b7126</id>
-    <title>GSLV Mk II | EOS-03 (GISAT-1)</title>
-    <updated>2021-08-12T00:13:00Z</updated>
-    <published>2021-08-12T00:13:00Z</published>
-    <content type="text">GISAT-1 is an Indian earth observation satellite to be launched in geostationary orbit. It is tasked with continuous observation of Indian sub-continent and quick monitoring of natural hazards and disaster. GISAT carries an imaging payload consisting of of multi-spectral, multi-resolution from 50 m to 1.5 km. It will provide pictures of the area of interest on near real time basis including border areas.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/397c50c5-8a2b-4ca5-807d-8911c14b7126.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg"/>
-    <category term="launch"/>
-    <category term="indian_space_research_organization"/>
-    <category term="government"/>
-    <category term="pslv"/>
-    <category term="gslv_mk_ii"/>
-    <category term="earth_science"/>
-    <category term="satish_dhawan_space_centre_second_launch_pad"/>
-  </entry>
 </feed>

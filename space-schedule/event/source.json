@@ -86,11 +86,11 @@
                             "name": "Wallops Island, Virginia, USA",
                             "country_code": "USA",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_21_20200803142423.jpg",
-                            "total_launch_count": 22,
+                            "total_launch_count": 23,
                             "total_landing_count": 0
                         },
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_76_20200803143538.jpg",
-                        "total_launch_count": 14
+                        "total_launch_count": 15
                     },
                     "webcast_live": true,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg",
@@ -987,12 +987,12 @@
                     "slug": "falcon-9-block-5-dragon-crs-2-spx-23",
                     "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-23",
                     "status": {
-                        "id": 2,
-                        "name": "TBD"
+                        "id": 1,
+                        "name": "Go"
                     },
-                    "net": "2021-08-28T07:30:00Z",
-                    "window_end": "2021-08-28T07:30:00Z",
-                    "window_start": "2021-08-28T07:30:00Z",
+                    "net": "2021-08-28T07:37:00Z",
+                    "window_end": "2021-08-28T07:37:00Z",
+                    "window_start": "2021-08-28T07:37:00Z",
                     "inhold": false,
                     "tbdtime": false,
                     "tbddate": false,
@@ -1571,12 +1571,12 @@
                     "slug": "falcon-9-block-5-dragon-crs-2-spx-23",
                     "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-23",
                     "status": {
-                        "id": 2,
-                        "name": "TBD"
+                        "id": 1,
+                        "name": "Go"
                     },
-                    "net": "2021-08-28T07:30:00Z",
-                    "window_end": "2021-08-28T07:30:00Z",
-                    "window_start": "2021-08-28T07:30:00Z",
+                    "net": "2021-08-28T07:37:00Z",
+                    "window_end": "2021-08-28T07:37:00Z",
+                    "window_start": "2021-08-28T07:37:00Z",
                     "inhold": false,
                     "tbdtime": false,
                     "tbddate": false,

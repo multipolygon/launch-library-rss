@@ -41,6 +41,24 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_d_image_20210519074125.jpeg"/>
     </item>
     <item>
+      <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-23</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/13386512-85bb-4c93-a9b0-f5eac05fbe4f.json</link>
+      <description>SpaceX will launch the cargo variant of its Dragon 2 spacecraft on their 23rd commercial resupply services mission to the International Space Station. The flight will be conducted under the second Commercial Resupply Services contract with NASA.&#xD;
+&#xD;
+Dragon will be filled with supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon_9</category>
+      <category>resupply</category>
+      <category>launch_complex_39_a</category>
+      <category>commercial_resupply_services</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~13386512-85bb-4c93-a9b0-f5eac05fbe4f</guid>
+      <pubDate>Sat, 28 Aug 2021 07:37:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg"/>
+    </item>
+    <item>
       <title>Vega | Pléiades Neo 4</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/c46cfec6-f135-41f9-995f-9482b8cbe668.json</link>
       <description>Pléiades Neo is a constellation of four optical high-resolution Earth observation satellites built and operated by Airbus. It is a dual purpose constellation, serving both civilian and military purposes. Pléiades Neo 4 is the second satellite in the constellation which is to deliver imagery with spatial resolution of 30 cm. It is launched along with several rideshare payloads.</description>
@@ -105,21 +123,6 @@ Following the deorbit burn the capsule will renter the Earth's atmosphere and la
       <guid isPermaLink="false">~space-schedule~event~berthing~271</guid>
       <pubDate>Thu, 12 Aug 2021 10:10:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_be_image_20210519072616.jpg"/>
-    </item>
-    <item>
-      <title>GSLV Mk II | EOS-03 (GISAT-1)</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/397c50c5-8a2b-4ca5-807d-8911c14b7126.json</link>
-      <description>GISAT-1 is an Indian earth observation satellite to be launched in geostationary orbit. It is tasked with continuous observation of Indian sub-continent and quick monitoring of natural hazards and disaster. GISAT carries an imaging payload consisting of of multi-spectral, multi-resolution from 50 m to 1.5 km. It will provide pictures of the area of interest on near real time basis including border areas.</description>
-      <category>launch</category>
-      <category>indian_space_research_organization</category>
-      <category>government</category>
-      <category>pslv</category>
-      <category>gslv_mk_ii</category>
-      <category>earth_science</category>
-      <category>satish_dhawan_space_centre_second_launch_pad</category>
-      <guid isPermaLink="false">~space-schedule~launch~indian_space_research_organization~397c50c5-8a2b-4ca5-807d-8911c14b7126</guid>
-      <pubDate>Thu, 12 Aug 2021 00:13:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg"/>
     </item>
   </channel>
 </rss>
