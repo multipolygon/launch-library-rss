@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Press Event</title>
+  <title>Press Event | Event | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.atom.xml</id>
-  <updated>2021-08-12T11:19:56.738Z</updated>
+  <updated>2021-08-13T17:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
+  <entry>
+    <id>320</id>
+    <title>Boeing Starliner OFT-2 Update</title>
+    <updated>2021-08-13T17:00:00Z</updated>
+    <published>2021-08-13T17:00:00Z</published>
+    <content type="text">NASA and Boeing are continuing discussions on the status of the Orbital Flight Test-2 (OFT-2) mission, and will host a joint media teleconference at 1 p.m. EDT, Friday, Aug. 13, to discuss the second uncrewed flight of Boeing’s CST-100 Starliner spacecraft to the International Space Station, as part of the agency’s Commercial Crew Program.</content>
+    <link rel="alternate" href="https://www.nasa.gov/nasalive"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210813082709.jpeg"/>
+    <category term="event"/>
+    <category term="press_event"/>
+  </entry>
 </feed>

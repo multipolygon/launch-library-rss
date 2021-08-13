@@ -22,13 +22,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Farianespace%2Foriginal.json",
    "title": "Arianespace | Launch | Space Schedule",
-   "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
-   "date_published": "2021-08-17T01:47:00Z",
-   "date_modified": "2021-08-17T01:47:00Z",
+   "content_text": "2 items",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085931.jpeg",
+   "date_published": "2021-08-19T22:23:00Z",
+   "date_modified": "2021-08-19T22:23:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 1,
+    "itemCount": 2,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0

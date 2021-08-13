@@ -3,6 +3,22 @@
  "description": "All feeds in Space Schedule > Event.",
  "items": [
   {
+   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/undocking/original.json",
+   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fundocking%2Foriginal.json",
+   "title": "Undocking | Event | Space Schedule",
+   "content_text": "2 items",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg",
+   "date_published": "2021-09-12T00:00:00Z",
+   "date_modified": "2021-09-12T00:00:00Z",
+   "_geo": {},
+   "_meta": {
+    "itemCount": 2,
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 0
+   }
+  },
+  {
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Feva%2Foriginal.json",
    "title": "EVA | Event | Space Schedule",
@@ -40,8 +56,8 @@
    "title": "Landing | Event | Space Schedule",
    "content_text": "1 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519073043.jpeg",
-   "date_published": "2021-08-16T01:00:00Z",
-   "date_modified": "2021-08-16T01:00:00Z",
+   "date_published": "2021-08-20T01:00:00Z",
+   "date_modified": "2021-08-20T01:00:00Z",
    "_geo": {},
    "_meta": {
     "itemCount": 1,
@@ -51,29 +67,13 @@
    }
   },
   {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/undocking/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fundocking%2Foriginal.json",
-   "title": "Undocking | Event | Space Schedule",
+   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json",
+   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json",
+   "title": "Press Event | Event | Space Schedule",
    "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519072911.jpeg",
-   "date_published": "2021-08-16T00:00:00Z",
-   "date_modified": "2021-08-16T00:00:00Z",
-   "_geo": {},
-   "_meta": {
-    "itemCount": 1,
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 0
-   }
-  },
-  {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/berthing/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fberthing%2Foriginal.json",
-   "title": "Berthing | Event | Space Schedule",
-   "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_be_image_20210519072616.jpg",
-   "date_published": "2021-08-12T10:10:00Z",
-   "date_modified": "2021-08-12T10:10:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210813082709.jpeg",
+   "date_published": "2021-08-13T17:00:00Z",
+   "date_modified": "2021-08-13T17:00:00Z",
    "_geo": {},
    "_meta": {
     "itemCount": 1,

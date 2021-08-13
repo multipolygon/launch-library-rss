@@ -6,9 +6,19 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fundocking%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Mon, 16 Aug 2021 00:00:00 GMT</pubDate>
+    <pubDate>Sun, 12 Sep 2021 00:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>CRS-23 Dragon Undocking</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The SpaceX CRS-23 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.</description>
+      <category>event</category>
+      <category>undocking</category>
+      <guid isPermaLink="false">276</guid>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg"/>
+    </item>
     <item>
       <title>Boeing Starliner OFT 2 Undocking</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
@@ -18,7 +28,7 @@ Following the deorbit burn the capsule will renter the Earth's atmosphere and la
       <category>event</category>
       <category>undocking</category>
       <guid isPermaLink="false">272</guid>
-      <pubDate>Mon, 16 Aug 2021 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519072911.jpeg"/>
     </item>
   </channel>

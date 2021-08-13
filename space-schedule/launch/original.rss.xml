@@ -29,6 +29,21 @@ Dragon will be filled with supplies and payloads, including critical materials t
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg"/>
     </item>
     <item>
+      <title>Soyuz 2.1b/Fregat-M | OneWeb 9</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/c185a08e-9d82-4590-a13f-213c84c865e0.json</link>
+      <description>A batch of 34 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</description>
+      <category>launch</category>
+      <category>arianespace</category>
+      <category>commercial</category>
+      <category>soyuz</category>
+      <category>soyuz_2_1_b_fregat_m</category>
+      <category>communications</category>
+      <category>31_6</category>
+      <guid isPermaLink="false">~space-schedule~launch~arianespace~c185a08e-9d82-4590-a13f-213c84c865e0</guid>
+      <pubDate>Thu, 19 Aug 2021 22:23:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085931.jpeg"/>
+    </item>
+    <item>
       <title>Vega | Pléiades Neo 4</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/c46cfec6-f135-41f9-995f-9482b8cbe668.json</link>
       <description>Pléiades Neo is a constellation of four optical high-resolution Earth observation satellites built and operated by Airbus. It is a dual purpose constellation, serving both civilian and military purposes. Pléiades Neo 4 is the second satellite in the constellation which is to deliver imagery with spatial resolution of 30 cm. It is launched along with several rideshare payloads.</description>
