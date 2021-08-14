@@ -19,17 +19,5 @@
       <pubDate>Sun, 12 Sep 2021 00:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg"/>
     </item>
-    <item>
-      <title>Boeing Starliner OFT 2 Undocking</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The Boeing CST-100 Starliner will undock from the International Space Station and conduct a deorbit burn as part of its second uncrewed test flight.&#xD;
-&#xD;
-Following the deorbit burn the capsule will renter the Earth's atmosphere and land at the 'White Sands Missile Range' using its parachutes.</description>
-      <category>event</category>
-      <category>undocking</category>
-      <guid isPermaLink="false">272</guid>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519072911.jpeg"/>
-    </item>
   </channel>
 </rss>

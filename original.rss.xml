@@ -27,7 +27,7 @@
       <category>event</category>
       <category>eva</category>
       <guid isPermaLink="false">~space-schedule~event~eva~317</guid>
-      <pubDate>Wed, 08 Sep 2021 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 08 Sep 2021 15:40:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-50_image_20210805074910.jpeg"/>
     </item>
     <item>
@@ -37,7 +37,7 @@
       <category>event</category>
       <category>eva</category>
       <guid isPermaLink="false">~space-schedule~event~eva~316</guid>
-      <pubDate>Thu, 02 Sep 2021 15:55:00 GMT</pubDate>
+      <pubDate>Thu, 02 Sep 2021 15:35:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-48_image_20210805073004.jpeg"/>
     </item>
     <item>
@@ -47,7 +47,7 @@
       <category>event</category>
       <category>docking</category>
       <guid isPermaLink="false">~space-schedule~event~docking~275</guid>
-      <pubDate>Tue, 31 Aug 2021 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 29 Aug 2021 15:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_d_image_20210519074125.jpeg"/>
     </item>
     <item>
@@ -69,36 +69,14 @@ Dragon will be filled with supplies and payloads, including critical materials t
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg"/>
     </item>
     <item>
-      <title>Boeing Starliner OFT 2 Landing</title>
+      <title>US EVA-77</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>Following its deorbit burn, the Boeing CST-100 Starliner will reenter the Earth's atmosphere and land at the White Sands Missile Range using its parachutes.</description>
+      <description>NASA astronaut Mark Vande Hei and JAXA astronaut Akihiko Hoshide will venture outside the orbiting outpost to perform maintenance tasks and activate the Bartolomeo platform on the exterior of the Columbus module.</description>
       <category>event</category>
-      <category>landing</category>
-      <guid isPermaLink="false">~space-schedule~event~landing~273</guid>
-      <pubDate>Fri, 20 Aug 2021 01:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519073043.jpeg"/>
-    </item>
-    <item>
-      <title>Boeing Starliner OFT 2 Docking</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The Boeing CST-100 Starliner will dock with the International Space Station as part of its second uncrewed test flight.</description>
-      <category>event</category>
-      <category>docking</category>
-      <guid isPermaLink="false">~space-schedule~event~docking~270</guid>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519071201.jpeg"/>
-    </item>
-    <item>
-      <title>Boeing Starliner OFT 2 Undocking</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The Boeing CST-100 Starliner will undock from the International Space Station and conduct a deorbit burn as part of its second uncrewed test flight.&#xD;
-&#xD;
-Following the deorbit burn the capsule will renter the Earth's atmosphere and land at the 'White Sands Missile Range' using its parachutes.</description>
-      <category>event</category>
-      <category>undocking</category>
-      <guid isPermaLink="false">~space-schedule~event~undocking~272</guid>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519072911.jpeg"/>
+      <category>eva</category>
+      <guid isPermaLink="false">~space-schedule~event~eva~307</guid>
+      <pubDate>Tue, 24 Aug 2021 12:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg"/>
     </item>
     <item>
       <title>Soyuz 2.1b/Fregat-M | OneWeb 9</title>
@@ -128,16 +106,6 @@ Following the deorbit burn the capsule will renter the Earth's atmosphere and la
       <guid isPermaLink="false">~space-schedule~launch~arianespace~c46cfec6-f135-41f9-995f-9482b8cbe668</guid>
       <pubDate>Tue, 17 Aug 2021 01:47:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"/>
-    </item>
-    <item>
-      <title>US EVA-77</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>NASA astronaut Mark Vande Hei and JAXA astronaut Akihiko Hoshide will venture outside the orbiting outpost to perform maintenance tasks and activate the Bartolomeo platform on the exterior of the Columbus module.</description>
-      <category>event</category>
-      <category>eva</category>
-      <guid isPermaLink="false">~space-schedule~event~eva~307</guid>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg"/>
     </item>
     <item>
       <title>Boeing Starliner OFT-2 Update</title>

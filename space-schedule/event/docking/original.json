@@ -9,8 +9,8 @@
    "content_text": "Following its launch atop a Falcon 9, the CRS-23 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_d_image_20210519074125.jpeg",
-   "date_published": "2021-08-31T00:00:00Z",
-   "date_modified": "2021-08-31T00:00:00Z",
+   "date_published": "2021-08-29T15:00:00Z",
+   "date_modified": "2021-08-29T15:00:00Z",
    "tags": [
     "event",
     "docking"
@@ -27,31 +27,6 @@
     "imageCount": 1,
     "youtubeCount": 1
    }
-  },
-  {
-   "id": "270",
-   "title": "Boeing Starliner OFT 2 Docking",
-   "content_text": "The Boeing CST-100 Starliner will dock with the International Space Station as part of its second uncrewed test flight.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519071201.jpeg",
-   "date_published": "2021-08-20T00:00:00Z",
-   "date_modified": "2021-08-20T00:00:00Z",
-   "tags": [
-    "event",
-    "docking"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519071201.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1
-   }
   }
  ],
  "_feed_url": {
@@ -60,7 +35,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fdocking%2Foriginal.json",
  "_meta": {
-  "itemCount": 2,
+  "itemCount": 1,
   "pageNumber": 1,
   "pageCount": 1
  }

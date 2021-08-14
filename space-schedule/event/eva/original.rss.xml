@@ -6,7 +6,7 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Feva%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Wed, 08 Sep 2021 00:00:00 GMT</pubDate>
+    <pubDate>Wed, 08 Sep 2021 15:40:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
@@ -16,7 +16,7 @@
       <category>event</category>
       <category>eva</category>
       <guid isPermaLink="false">317</guid>
-      <pubDate>Wed, 08 Sep 2021 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 08 Sep 2021 15:40:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-50_image_20210805074910.jpeg"/>
     </item>
     <item>
@@ -26,7 +26,7 @@
       <category>event</category>
       <category>eva</category>
       <guid isPermaLink="false">316</guid>
-      <pubDate>Thu, 02 Sep 2021 15:55:00 GMT</pubDate>
+      <pubDate>Thu, 02 Sep 2021 15:35:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-48_image_20210805073004.jpeg"/>
     </item>
     <item>
@@ -36,7 +36,7 @@
       <category>event</category>
       <category>eva</category>
       <guid isPermaLink="false">307</guid>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 24 Aug 2021 12:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg"/>
     </item>
   </channel>

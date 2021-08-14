@@ -27,7 +27,7 @@
       <category>event</category>
       <category>eva</category>
       <guid isPermaLink="false">~space-schedule~event~eva~317</guid>
-      <pubDate>Wed, 08 Sep 2021 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 08 Sep 2021 15:40:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-50_image_20210805074910.jpeg"/>
     </item>
     <item>
@@ -37,7 +37,7 @@
       <category>event</category>
       <category>eva</category>
       <guid isPermaLink="false">~space-schedule~event~eva~316</guid>
-      <pubDate>Thu, 02 Sep 2021 15:55:00 GMT</pubDate>
+      <pubDate>Thu, 02 Sep 2021 15:35:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-48_image_20210805073004.jpeg"/>
     </item>
     <item>
@@ -47,40 +47,8 @@
       <category>event</category>
       <category>docking</category>
       <guid isPermaLink="false">~space-schedule~event~docking~275</guid>
-      <pubDate>Tue, 31 Aug 2021 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 29 Aug 2021 15:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_d_image_20210519074125.jpeg"/>
-    </item>
-    <item>
-      <title>Boeing Starliner OFT 2 Landing</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>Following its deorbit burn, the Boeing CST-100 Starliner will reenter the Earth's atmosphere and land at the White Sands Missile Range using its parachutes.</description>
-      <category>event</category>
-      <category>landing</category>
-      <guid isPermaLink="false">~space-schedule~event~landing~273</guid>
-      <pubDate>Fri, 20 Aug 2021 01:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519073043.jpeg"/>
-    </item>
-    <item>
-      <title>Boeing Starliner OFT 2 Docking</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The Boeing CST-100 Starliner will dock with the International Space Station as part of its second uncrewed test flight.</description>
-      <category>event</category>
-      <category>docking</category>
-      <guid isPermaLink="false">~space-schedule~event~docking~270</guid>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519071201.jpeg"/>
-    </item>
-    <item>
-      <title>Boeing Starliner OFT 2 Undocking</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The Boeing CST-100 Starliner will undock from the International Space Station and conduct a deorbit burn as part of its second uncrewed test flight.&#xD;
-&#xD;
-Following the deorbit burn the capsule will renter the Earth's atmosphere and land at the 'White Sands Missile Range' using its parachutes.</description>
-      <category>event</category>
-      <category>undocking</category>
-      <guid isPermaLink="false">~space-schedule~event~undocking~272</guid>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210519072911.jpeg"/>
     </item>
     <item>
       <title>US EVA-77</title>
@@ -89,7 +57,7 @@ Following the deorbit burn the capsule will renter the Earth's atmosphere and la
       <category>event</category>
       <category>eva</category>
       <guid isPermaLink="false">~space-schedule~event~eva~307</guid>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 24 Aug 2021 12:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg"/>
     </item>
     <item>

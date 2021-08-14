@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>EVA | Event | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.atom.xml</id>
-  <updated>2021-09-08T00:00:00Z</updated>
+  <updated>2021-09-08T15:40:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Feva%2Foriginal.json"/>
@@ -10,8 +10,8 @@
   <entry>
     <id>317</id>
     <title>Russian EVA-50</title>
-    <updated>2021-09-08T00:00:00Z</updated>
-    <published>2021-09-08T00:00:00Z</published>
+    <updated>2021-09-08T15:40:00Z</updated>
+    <published>2021-09-08T15:40:00Z</published>
     <content type="text">Roscosmos cosmonauts Oleg Novitskiy and Pyotr Dubrov will exit the International Space Station through the Poisk airlock to continue establishing external cable connections between the new MLM Nauka module and the Zvezda module.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-50_image_20210805074910.jpeg"/>
@@ -21,8 +21,8 @@
   <entry>
     <id>316</id>
     <title>Russian EVA-49</title>
-    <updated>2021-09-02T15:55:00Z</updated>
-    <published>2021-09-02T15:55:00Z</published>
+    <updated>2021-09-02T15:35:00Z</updated>
+    <published>2021-09-02T15:35:00Z</published>
     <content type="text">Roscosmos cosmonauts Oleg Novitskiy and Pyotr Dubrov will exit the International Space Station through the Poisk airlock to establish external cable connections between the new MLM Nauka module and the Zvezda module.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-48_image_20210805073004.jpeg"/>
@@ -32,8 +32,8 @@
   <entry>
     <id>307</id>
     <title>US EVA-77</title>
-    <updated>2021-08-15T00:00:00Z</updated>
-    <published>2021-08-15T00:00:00Z</published>
+    <updated>2021-08-24T12:00:00Z</updated>
+    <published>2021-08-24T12:00:00Z</published>
     <content type="text">NASA astronaut Mark Vande Hei and JAXA astronaut Akihiko Hoshide will venture outside the orbiting outpost to perform maintenance tasks and activate the Bartolomeo platform on the exterior of the Columbus module.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg"/>
