@@ -107,15 +107,5 @@ Dragon will be filled with supplies and payloads, including critical materials t
       <pubDate>Tue, 17 Aug 2021 01:47:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"/>
     </item>
-    <item>
-      <title>Boeing Starliner OFT-2 Update</title>
-      <link>https://www.nasa.gov/nasalive</link>
-      <description>NASA and Boeing are continuing discussions on the status of the Orbital Flight Test-2 (OFT-2) mission, and will host a joint media teleconference at 1 p.m. EDT, Friday, Aug. 13, to discuss the second uncrewed flight of Boeing’s CST-100 Starliner spacecraft to the International Space Station, as part of the agency’s Commercial Crew Program.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~320</guid>
-      <pubDate>Fri, 13 Aug 2021 17:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210813082709.jpeg"/>
-    </item>
   </channel>
 </rss>

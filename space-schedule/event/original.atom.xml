@@ -63,15 +63,4 @@
     <category term="event"/>
     <category term="eva"/>
   </entry>
-  <entry>
-    <id>~space-schedule~event~press_event~320</id>
-    <title>Boeing Starliner OFT-2 Update</title>
-    <updated>2021-08-13T17:00:00Z</updated>
-    <published>2021-08-13T17:00:00Z</published>
-    <content type="text">NASA and Boeing are continuing discussions on the status of the Orbital Flight Test-2 (OFT-2) mission, and will host a joint media teleconference at 1 p.m. EDT, Friday, Aug. 13, to discuss the second uncrewed flight of Boeing’s CST-100 Starliner spacecraft to the International Space Station, as part of the agency’s Commercial Crew Program.</content>
-    <link rel="alternate" href="https://www.nasa.gov/nasalive"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20210813082709.jpeg"/>
-    <category term="event"/>
-    <category term="press_event"/>
-  </entry>
 </feed>
