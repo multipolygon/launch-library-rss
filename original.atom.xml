@@ -99,18 +99,21 @@ Dragon will be filled with supplies and payloads, including critical materials t
     <category term="31_6"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~arianespace~c46cfec6-f135-41f9-995f-9482b8cbe668</id>
-    <title>Vega | Pléiades Neo 4</title>
-    <updated>2021-08-17T01:47:00Z</updated>
-    <published>2021-08-17T01:47:00Z</published>
-    <content type="text">Pléiades Neo is a constellation of four optical high-resolution Earth observation satellites built and operated by Airbus. It is a dual purpose constellation, serving both civilian and military purposes. Pléiades Neo 4 is the second satellite in the constellation which is to deliver imagery with spatial resolution of 30 cm. It is launched along with several rideshare payloads.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/c46cfec6-f135-41f9-995f-9482b8cbe668.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"/>
+    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~0c6bdb4c-74cc-470b-9ffd-2df58d6408d6</id>
+    <title>Long March 4B (?) | Gaofen-11-03 (?)</title>
+    <updated>2021-08-18T22:35:00Z</updated>
+    <published>2021-08-18T22:35:00Z</published>
+    <content type="text">NOTE: Payload and rocket identities not confirmed.&#xD;
+&#xD;
+Gaofen is a series of civilian Earth observation satellites developed and launched for the China High-definition Earth Observation System (CHEOS), a state-sponsored programme aimed to develop a near-real time, all-weather, global surveillance network consisting of satellite, near-space (stratosphere) airships, and aerial observation platforms.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/0c6bdb4c-74cc-470b-9ffd-2df58d6408d6.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190430065008.jpg"/>
     <category term="launch"/>
-    <category term="arianespace"/>
-    <category term="commercial"/>
-    <category term="vega"/>
-    <category term="government_top_secret"/>
-    <category term="ariane_launch_area_1"/>
+    <category term="china_aerospace_science_and_technology_corporation"/>
+    <category term="government"/>
+    <category term="long_march_4"/>
+    <category term="long_march_4_b"/>
+    <category term="earth_science"/>
+    <category term="launch_complex_9"/>
   </entry>
 </feed>

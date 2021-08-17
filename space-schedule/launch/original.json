@@ -78,39 +78,40 @@
    }
   },
   {
-   "id": "~space-schedule~launch~arianespace~c46cfec6-f135-41f9-995f-9482b8cbe668",
-   "title": "Vega | Pléiades Neo 4",
-   "content_text": "Pléiades Neo is a constellation of four optical high-resolution Earth observation satellites built and operated by Airbus. It is a dual purpose constellation, serving both civilian and military purposes. Pléiades Neo 4 is the second satellite in the constellation which is to deliver imagery with spatial resolution of 30 cm. It is launched along with several rideshare payloads.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/c46cfec6-f135-41f9-995f-9482b8cbe668.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
-   "date_published": "2021-08-17T01:47:00Z",
-   "date_modified": "2021-08-17T01:47:00Z",
+   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~0c6bdb4c-74cc-470b-9ffd-2df58d6408d6",
+   "title": "Long March 4B (?) | Gaofen-11-03 (?)",
+   "content_text": "NOTE: Payload and rocket identities not confirmed.\r\n\r\nGaofen is a series of civilian Earth observation satellites developed and launched for the China High-definition Earth Observation System (CHEOS), a state-sponsored programme aimed to develop a near-real time, all-weather, global surveillance network consisting of satellite, near-space (stratosphere) airships, and aerial observation platforms.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/0c6bdb4c-74cc-470b-9ffd-2df58d6408d6.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190430065008.jpg",
+   "date_published": "2021-08-18T22:35:00Z",
+   "date_modified": "2021-08-18T22:35:00Z",
    "tags": [
     "launch",
-    "arianespace",
-    "commercial",
-    "vega",
-    "government_top_secret",
-    "ariane_launch_area_1"
+    "china_aerospace_science_and_technology_corporation",
+    "government",
+    "long_march_4",
+    "long_march_4_b",
+    "earth_science",
+    "launch_complex_9"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190430065008.jpg"
     }
    ],
    "_meta": {
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "subtitle": "Arianespace | Launch | Space Schedule"
+    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
    },
    "_id": {
-    "parent": "c46cfec6-f135-41f9-995f-9482b8cbe668",
-    "global": "~space-schedule~launch~arianespace~c46cfec6-f135-41f9-995f-9482b8cbe668"
+    "parent": "0c6bdb4c-74cc-470b-9ffd-2df58d6408d6",
+    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~0c6bdb4c-74cc-470b-9ffd-2df58d6408d6"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
    }
   }
  ],
