@@ -29,6 +29,20 @@ Dragon will be filled with supplies and payloads, including critical materials t
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg"/>
     </item>
     <item>
+      <title>New Shepard | NS-17</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/ff3ef28b-afd5-414f-aab4-040d5b74fdd6.json</link>
+      <description>Seventeenth flight of New Shepard. It will carry a second NASA lunar landing technology demonstration on the exterior of the booster, 18 commercial payloads inside the crew capsule, and an art installation on the exterior of the capsule.</description>
+      <category>launch</category>
+      <category>blue_origin</category>
+      <category>commercial</category>
+      <category>new_shepard</category>
+      <category>suborbital</category>
+      <category>west_texas_suborbital_launch_site_corn_ranch</category>
+      <guid isPermaLink="false">~space-schedule~launch~blue_origin~ff3ef28b-afd5-414f-aab4-040d5b74fdd6</guid>
+      <pubDate>Wed, 25 Aug 2021 13:35:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"/>
+    </item>
+    <item>
       <title>Soyuz 2.1b/Fregat-M | OneWeb 9</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/c185a08e-9d82-4590-a13f-213c84c865e0.json</link>
       <description>A batch of 34 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</description>
@@ -42,23 +56,6 @@ Dragon will be filled with supplies and payloads, including critical materials t
       <guid isPermaLink="false">~space-schedule~launch~arianespace~c185a08e-9d82-4590-a13f-213c84c865e0</guid>
       <pubDate>Thu, 19 Aug 2021 22:23:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085931.jpeg"/>
-    </item>
-    <item>
-      <title>Long March 4B (?) | Gaofen-11-03 (?)</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/0c6bdb4c-74cc-470b-9ffd-2df58d6408d6.json</link>
-      <description>NOTE: Payload and rocket identities not confirmed.&#xD;
-&#xD;
-Gaofen is a series of civilian Earth observation satellites developed and launched for the China High-definition Earth Observation System (CHEOS), a state-sponsored programme aimed to develop a near-real time, all-weather, global surveillance network consisting of satellite, near-space (stratosphere) airships, and aerial observation platforms.</description>
-      <category>launch</category>
-      <category>china_aerospace_science_and_technology_corporation</category>
-      <category>government</category>
-      <category>long_march_4</category>
-      <category>long_march_4_b</category>
-      <category>earth_science</category>
-      <category>launch_complex_9</category>
-      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~0c6bdb4c-74cc-470b-9ffd-2df58d6408d6</guid>
-      <pubDate>Wed, 18 Aug 2021 22:35:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190430065008.jpg"/>
     </item>
   </channel>
 </rss>

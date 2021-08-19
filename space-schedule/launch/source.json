@@ -4,84 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "0c6bdb4c-74cc-470b-9ffd-2df58d6408d6",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/0c6bdb4c-74cc-470b-9ffd-2df58d6408d6.json",
-            "launch_library_id": null,
-            "slug": "long-march-4b-gaofen-11-03",
-            "name": "Long March 4B (?) | Gaofen-11-03 (?)",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-08-18T22:45:00Z",
-            "window_end": "2021-08-18T23:02:00Z",
-            "window_start": "2021-08-18T22:35:00Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": null,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 88,
-                "url": "https://ll.thespacedevs.com/2.2.0/agencies/88.json",
-                "name": "China Aerospace Science and Technology Corporation",
-                "type": "Government"
-            },
-            "rocket": {
-                "id": 2997,
-                "configuration": {
-                    "id": 10,
-                    "launch_library_id": 16,
-                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/10.json",
-                    "name": "Long March 4B",
-                    "family": "Long March 4",
-                    "full_name": "Long March 4B",
-                    "variant": "B"
-                }
-            },
-            "mission": {
-                "id": 1420,
-                "launch_library_id": null,
-                "name": "Gaofen-11-03 (?)",
-                "description": "NOTE: Payload and rocket identities not confirmed.\r\n\r\nGaofen is a series of civilian Earth observation satellites developed and launched for the China High-definition Earth Observation System (CHEOS), a state-sponsored programme aimed to develop a near-real time, all-weather, global surveillance network consisting of satellite, near-space (stratosphere) airships, and aerial observation platforms.",
-                "launch_designator": null,
-                "type": "Earth Science",
-                "orbit": {
-                    "id": 17,
-                    "name": "Sun-Synchronous Orbit",
-                    "abbrev": "SSO"
-                }
-            },
-            "pad": {
-                "id": 25,
-                "url": "https://ll.thespacedevs.com/2.2.0/pad/25.json",
-                "agency_id": null,
-                "name": "Launch Complex 9",
-                "info_url": null,
-                "wiki_url": "",
-                "map_url": "http://maps.google.com/maps?q=38.849+N,+111.608+E",
-                "latitude": "38.849",
-                "longitude": "111.608",
-                "location": {
-                    "id": 19,
-                    "url": "https://ll.thespacedevs.com/2.2.0/location/19.json",
-                    "name": "Taiyuan, People's Republic of China",
-                    "country_code": "CHN",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_19_20200803142421.jpg",
-                    "total_launch_count": 65,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_25_20200803143501.jpg",
-                "total_launch_count": 22
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190430065008.jpg",
-            "infographic": null,
-            "program": []
-        },
-        {
             "id": "c185a08e-9d82-4590-a13f-213c84c865e0",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/c185a08e-9d82-4590-a13f-213c84c865e0.json",
             "launch_library_id": null,
@@ -156,6 +78,84 @@
             },
             "webcast_live": false,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085931.jpeg",
+            "infographic": null,
+            "program": []
+        },
+        {
+            "id": "ff3ef28b-afd5-414f-aab4-040d5b74fdd6",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/ff3ef28b-afd5-414f-aab4-040d5b74fdd6.json",
+            "launch_library_id": null,
+            "slug": "new-shepard-ns-17",
+            "name": "New Shepard | NS-17",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-08-25T13:35:00Z",
+            "window_end": "2021-08-25T13:35:00Z",
+            "window_start": "2021-08-25T13:35:00Z",
+            "inhold": false,
+            "tbdtime": false,
+            "tbddate": false,
+            "probability": null,
+            "holdreason": "",
+            "failreason": "",
+            "hashtag": null,
+            "launch_service_provider": {
+                "id": 141,
+                "url": "https://ll.thespacedevs.com/2.2.0/agencies/141.json",
+                "name": "Blue Origin",
+                "type": "Commercial"
+            },
+            "rocket": {
+                "id": 2998,
+                "configuration": {
+                    "id": 137,
+                    "launch_library_id": 9999,
+                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/137.json",
+                    "name": "New Shepard",
+                    "family": "Blue Origin",
+                    "full_name": "New Shepard",
+                    "variant": ""
+                }
+            },
+            "mission": {
+                "id": 1423,
+                "launch_library_id": null,
+                "name": "NS-17",
+                "description": "Seventeenth flight of New Shepard. It will carry a second NASA lunar landing technology demonstration on the exterior of the booster, 18 commercial payloads inside the crew capsule, and an art installation on the exterior of the capsule.",
+                "launch_designator": null,
+                "type": "Suborbital",
+                "orbit": {
+                    "id": 15,
+                    "name": "Suborbital",
+                    "abbrev": "Sub"
+                }
+            },
+            "pad": {
+                "id": 90,
+                "url": "https://ll.thespacedevs.com/2.2.0/pad/90.json",
+                "agency_id": 141,
+                "name": "West Texas Suborbital Launch Site/ Corn Ranch",
+                "info_url": "http://www.blueorigin.com",
+                "wiki_url": "https://en.wikipedia.org/wiki/Corn_Ranch",
+                "map_url": "https://www.google.com/maps/place/31%C2%B025'22.4%22N+104%C2%B045'25.6%22W",
+                "latitude": "31.422878000000000",
+                "longitude": "-104.757121000000000",
+                "location": {
+                    "id": 29,
+                    "url": "https://ll.thespacedevs.com/2.2.0/location/29.json",
+                    "name": "Corn Ranch, USA",
+                    "country_code": "USA",
+                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_29_20200803142436.jpg",
+                    "total_launch_count": 16,
+                    "total_landing_count": 0
+                },
+                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_90_20200803143233.jpg",
+                "total_launch_count": 16
+            },
+            "webcast_live": false,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
             "infographic": null,
             "program": []
         },
