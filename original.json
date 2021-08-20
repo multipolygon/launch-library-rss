@@ -247,8 +247,8 @@
    "content_text": "A batch of 34 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/c185a08e-9d82-4590-a13f-213c84c865e0.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085931.jpeg",
-   "date_published": "2021-08-19T22:23:00Z",
-   "date_modified": "2021-08-19T22:23:00Z",
+   "date_published": "2021-08-20T22:18:20Z",
+   "date_modified": "2021-08-20T22:18:20Z",
    "tags": [
     "launch",
     "arianespace",
@@ -277,6 +277,39 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
    }
+  },
+  {
+   "id": "~space-schedule~event~eva~321",
+   "title": "CSS EVA-2",
+   "content_text": "Nie Haisheng and Liu Boming have been installing a new pump set and deployed an external camera platform outside the station.",
+   "url": "https://www.youtube.com/watch?v=5j1GelrQPN4",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png",
+   "date_published": "2021-08-20T00:38:00Z",
+   "date_modified": "2021-08-20T00:38:00Z",
+   "tags": [
+    "event",
+    "eva"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/png",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "EVA | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "321",
+    "global": "~space-schedule~event~eva~321"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
+   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -287,7 +320,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 8,
+  "itemCount": 9,
   "pageNumber": 1,
   "pageCount": 1
  }

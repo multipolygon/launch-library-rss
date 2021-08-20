@@ -104,8 +104,18 @@ Dragon will be filled with supplies and payloads, including critical materials t
       <category>communications</category>
       <category>31_6</category>
       <guid isPermaLink="false">~space-schedule~launch~arianespace~c185a08e-9d82-4590-a13f-213c84c865e0</guid>
-      <pubDate>Thu, 19 Aug 2021 22:23:00 GMT</pubDate>
+      <pubDate>Fri, 20 Aug 2021 22:18:20 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085931.jpeg"/>
+    </item>
+    <item>
+      <title>CSS EVA-2</title>
+      <link>https://www.youtube.com/watch?v=5j1GelrQPN4</link>
+      <description>Nie Haisheng and Liu Boming have been installing a new pump set and deployed an external camera platform outside the station.</description>
+      <category>event</category>
+      <category>eva</category>
+      <guid isPermaLink="false">~space-schedule~event~eva~321</guid>
+      <pubDate>Fri, 20 Aug 2021 00:38:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png"/>
     </item>
   </channel>
 </rss>
