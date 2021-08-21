@@ -25,10 +25,18 @@
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fblue_origin%2Foriginal.json"/>
   </entry>
   <entry>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json</id>
+    <title>China Aerospace Science and Technology Corporation | Launch | Space Schedule</title>
+    <updated>2021-08-24T15:30:00Z</updated>
+    <published>2021-08-24T15:30:00Z</published>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_technology_corporation%2Foriginal.json"/>
+  </entry>
+  <entry>
     <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json</id>
     <title>Arianespace | Launch | Space Schedule</title>
-    <updated>2021-08-20T22:18:20Z</updated>
-    <published>2021-08-20T22:18:20Z</published>
+    <updated>2021-08-21T22:13:00Z</updated>
+    <published>2021-08-21T22:13:00Z</published>
     <content type="text">1 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Farianespace%2Foriginal.json"/>
   </entry>

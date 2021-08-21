@@ -60,15 +60,5 @@
       <pubDate>Tue, 24 Aug 2021 12:30:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg"/>
     </item>
-    <item>
-      <title>CSS EVA-2</title>
-      <link>https://www.youtube.com/watch?v=5j1GelrQPN4</link>
-      <description>Nie Haisheng and Liu Boming have been installing a new pump set and deployed an external camera platform outside the station.</description>
-      <category>event</category>
-      <category>eva</category>
-      <guid isPermaLink="false">~space-schedule~event~eva~321</guid>
-      <pubDate>Fri, 20 Aug 2021 00:38:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png"/>
-    </item>
   </channel>
 </rss>

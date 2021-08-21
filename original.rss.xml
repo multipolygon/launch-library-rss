@@ -83,6 +83,22 @@ Dragon will be filled with supplies and payloads, including critical materials t
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"/>
     </item>
     <item>
+      <title>Long March 3B | TJSW-7 (?)</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/67b4af9c-adf4-4ae7-922d-8f27e22b4b25.json</link>
+      <description>NOTE: Payload identity not confirmed.&#xD;
+&#xD;
+Alleged Chinese classified geosynchronous satellite. Payload identity uncertain.</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_technology_corporation</category>
+      <category>government</category>
+      <category>long_march_3</category>
+      <category>government_top_secret</category>
+      <category>launch_complex_3_lc_3_la_1</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~67b4af9c-adf4-4ae7-922d-8f27e22b4b25</guid>
+      <pubDate>Tue, 24 Aug 2021 15:30:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
+    </item>
+    <item>
       <title>US EVA-77</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>NASA astronaut Mark Vande Hei and JAXA astronaut Akihiko Hoshide will venture outside the orbiting outpost to perform maintenance tasks and activate the Bartolomeo platform on the exterior of the Columbus module.</description>
@@ -104,18 +120,8 @@ Dragon will be filled with supplies and payloads, including critical materials t
       <category>communications</category>
       <category>31_6</category>
       <guid isPermaLink="false">~space-schedule~launch~arianespace~c185a08e-9d82-4590-a13f-213c84c865e0</guid>
-      <pubDate>Fri, 20 Aug 2021 22:18:20 GMT</pubDate>
+      <pubDate>Sat, 21 Aug 2021 22:13:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085931.jpeg"/>
-    </item>
-    <item>
-      <title>CSS EVA-2</title>
-      <link>https://www.youtube.com/watch?v=5j1GelrQPN4</link>
-      <description>Nie Haisheng and Liu Boming have been installing a new pump set and deployed an external camera platform outside the station.</description>
-      <category>event</category>
-      <category>eva</category>
-      <guid isPermaLink="false">~space-schedule~event~eva~321</guid>
-      <pubDate>Fri, 20 Aug 2021 00:38:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png"/>
     </item>
   </channel>
 </rss>

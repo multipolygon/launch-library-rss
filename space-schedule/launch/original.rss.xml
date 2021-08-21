@@ -43,6 +43,22 @@ Dragon will be filled with supplies and payloads, including critical materials t
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"/>
     </item>
     <item>
+      <title>Long March 3B | TJSW-7 (?)</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/67b4af9c-adf4-4ae7-922d-8f27e22b4b25.json</link>
+      <description>NOTE: Payload identity not confirmed.&#xD;
+&#xD;
+Alleged Chinese classified geosynchronous satellite. Payload identity uncertain.</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_technology_corporation</category>
+      <category>government</category>
+      <category>long_march_3</category>
+      <category>government_top_secret</category>
+      <category>launch_complex_3_lc_3_la_1</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~67b4af9c-adf4-4ae7-922d-8f27e22b4b25</guid>
+      <pubDate>Tue, 24 Aug 2021 15:30:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
+    </item>
+    <item>
       <title>Soyuz 2.1b/Fregat-M | OneWeb 9</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/c185a08e-9d82-4590-a13f-213c84c865e0.json</link>
       <description>A batch of 34 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</description>
@@ -54,7 +70,7 @@ Dragon will be filled with supplies and payloads, including critical materials t
       <category>communications</category>
       <category>31_6</category>
       <guid isPermaLink="false">~space-schedule~launch~arianespace~c185a08e-9d82-4590-a13f-213c84c865e0</guid>
-      <pubDate>Fri, 20 Aug 2021 22:18:20 GMT</pubDate>
+      <pubDate>Sat, 21 Aug 2021 22:13:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085931.jpeg"/>
     </item>
   </channel>
