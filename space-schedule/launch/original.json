@@ -111,43 +111,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~arianespace~c185a08e-9d82-4590-a13f-213c84c865e0",
-   "title": "Soyuz 2.1b/Fregat-M | OneWeb 9",
-   "content_text": "A batch of 34 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/c185a08e-9d82-4590-a13f-213c84c865e0.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085931.jpeg",
-   "date_published": "2021-08-21T22:13:00Z",
-   "date_modified": "2021-08-21T22:13:00Z",
-   "tags": [
-    "launch",
-    "arianespace",
-    "commercial",
-    "soyuz",
-    "soyuz_2_1_b_fregat_m",
-    "communications",
-    "31_6"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085931.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Arianespace | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "c185a08e-9d82-4590-a13f-213c84c865e0",
-    "global": "~space-schedule~launch~arianespace~c185a08e-9d82-4590-a13f-213c84c865e0"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -158,7 +121,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 4,
+  "itemCount": 3,
   "pageNumber": 1,
   "pageCount": 1
  }
