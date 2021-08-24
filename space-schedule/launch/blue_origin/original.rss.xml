@@ -6,7 +6,7 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fblue_origin%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Wed, 25 Aug 2021 13:35:00 GMT</pubDate>
+    <pubDate>Thu, 26 Aug 2021 13:35:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
@@ -20,7 +20,7 @@
       <category>suborbital</category>
       <category>west_texas_suborbital_launch_site_corn_ranch</category>
       <guid isPermaLink="false">ff3ef28b-afd5-414f-aab4-040d5b74fdd6</guid>
-      <pubDate>Wed, 25 Aug 2021 13:35:00 GMT</pubDate>
+      <pubDate>Thu, 26 Aug 2021 13:35:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"/>
     </item>
   </channel>

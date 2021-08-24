@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blue Origin | Launch | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/blue_origin/original.atom.xml</id>
-  <updated>2021-08-25T13:35:00Z</updated>
+  <updated>2021-08-26T13:35:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/blue_origin/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/blue_origin/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fblue_origin%2Foriginal.json"/>
@@ -10,8 +10,8 @@
   <entry>
     <id>ff3ef28b-afd5-414f-aab4-040d5b74fdd6</id>
     <title>New Shepard | NS-17</title>
-    <updated>2021-08-25T13:35:00Z</updated>
-    <published>2021-08-25T13:35:00Z</published>
+    <updated>2021-08-26T13:35:00Z</updated>
+    <published>2021-08-26T13:35:00Z</published>
     <content type="text">Seventeenth flight of New Shepard. It will carry a second NASA lunar landing technology demonstration on the exterior of the booster, 18 commercial payloads inside the crew capsule, and an art installation on the exterior of the capsule.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/ff3ef28b-afd5-414f-aab4-040d5b74fdd6.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"/>
