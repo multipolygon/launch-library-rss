@@ -41,8 +41,8 @@
    "content_text": "Roscosmos cosmonauts Oleg Novitskiy and Pyotr Dubrov will exit the International Space Station through the Poisk airlock to continue establishing external cable connections between the new MLM Nauka module and the Zvezda module.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-50_image_20210805074910.jpeg",
-   "date_published": "2021-09-08T15:40:00Z",
-   "date_modified": "2021-09-08T15:40:00Z",
+   "date_published": "2021-09-09T15:40:00Z",
+   "date_modified": "2021-09-09T15:40:00Z",
    "tags": [
     "event",
     "eva"
@@ -74,8 +74,8 @@
    "content_text": "Roscosmos cosmonauts Oleg Novitskiy and Pyotr Dubrov will exit the International Space Station through the Poisk airlock to establish external cable connections between the new MLM Nauka module and the Zvezda module.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-48_image_20210805073004.jpeg",
-   "date_published": "2021-09-02T15:35:00Z",
-   "date_modified": "2021-09-02T15:35:00Z",
+   "date_published": "2021-09-03T15:35:00Z",
+   "date_modified": "2021-09-03T15:35:00Z",
    "tags": [
     "event",
     "eva"
@@ -96,6 +96,39 @@
    "_id": {
     "parent": "316",
     "global": "~space-schedule~event~eva~316"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~eva~307",
+   "title": "US EVA-77",
+   "content_text": "NASA astronaut Mark Vande Hei and JAXA astronaut Akihiko Hoshide will venture outside the orbiting outpost to perform maintenance tasks and activate the Bartolomeo platform on the exterior of the Columbus module.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg",
+   "date_published": "2021-08-31T12:30:00Z",
+   "date_modified": "2021-08-31T12:30:00Z",
+   "tags": [
+    "event",
+    "eva"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "EVA | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "307",
+    "global": "~space-schedule~event~eva~307"
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
@@ -178,8 +211,8 @@
    "content_text": "Seventeenth flight of New Shepard. It will carry a second NASA lunar landing technology demonstration on the exterior of the booster, 18 commercial payloads inside the crew capsule, and an art installation on the exterior of the capsule.",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/ff3ef28b-afd5-414f-aab4-040d5b74fdd6.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
-   "date_published": "2021-08-25T13:35:00Z",
-   "date_modified": "2021-08-25T13:35:00Z",
+   "date_published": "2021-08-26T13:35:00Z",
+   "date_modified": "2021-08-26T13:35:00Z",
    "tags": [
     "launch",
     "blue_origin",
@@ -207,75 +240,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/blue_origin/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~67b4af9c-adf4-4ae7-922d-8f27e22b4b25",
-   "title": "Long March 3B | TJSW-7 (?)",
-   "content_text": "NOTE: Payload identity not confirmed.\r\n\r\nAlleged Chinese classified geosynchronous satellite. Payload identity uncertain.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/67b4af9c-adf4-4ae7-922d-8f27e22b4b25.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-   "date_published": "2021-08-24T15:30:00Z",
-   "date_modified": "2021-08-24T15:30:00Z",
-   "tags": [
-    "launch",
-    "china_aerospace_science_and_technology_corporation",
-    "government",
-    "long_march_3",
-    "government_top_secret",
-    "launch_complex_3_lc_3_la_1"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "67b4af9c-adf4-4ae7-922d-8f27e22b4b25",
-    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~67b4af9c-adf4-4ae7-922d-8f27e22b4b25"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~eva~307",
-   "title": "US EVA-77",
-   "content_text": "NASA astronaut Mark Vande Hei and JAXA astronaut Akihiko Hoshide will venture outside the orbiting outpost to perform maintenance tasks and activate the Bartolomeo platform on the exterior of the Columbus module.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg",
-   "date_published": "2021-08-24T12:30:00Z",
-   "date_modified": "2021-08-24T12:30:00Z",
-   "tags": [
-    "event",
-    "eva"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "EVA | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "307",
-    "global": "~space-schedule~event~eva~307"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -286,7 +250,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 8,
+  "itemCount": 7,
   "pageNumber": 1,
   "pageCount": 1
  }

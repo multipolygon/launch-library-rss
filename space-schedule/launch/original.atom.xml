@@ -30,8 +30,8 @@ Dragon will be filled with supplies and payloads, including critical materials t
   <entry>
     <id>~space-schedule~launch~blue_origin~ff3ef28b-afd5-414f-aab4-040d5b74fdd6</id>
     <title>New Shepard | NS-17</title>
-    <updated>2021-08-25T13:35:00Z</updated>
-    <published>2021-08-25T13:35:00Z</published>
+    <updated>2021-08-26T13:35:00Z</updated>
+    <published>2021-08-26T13:35:00Z</published>
     <content type="text">Seventeenth flight of New Shepard. It will carry a second NASA lunar landing technology demonstration on the exterior of the booster, 18 commercial payloads inside the crew capsule, and an art installation on the exterior of the capsule.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/ff3ef28b-afd5-414f-aab4-040d5b74fdd6.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"/>
@@ -41,22 +41,5 @@ Dragon will be filled with supplies and payloads, including critical materials t
     <category term="new_shepard"/>
     <category term="suborbital"/>
     <category term="west_texas_suborbital_launch_site_corn_ranch"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~67b4af9c-adf4-4ae7-922d-8f27e22b4b25</id>
-    <title>Long March 3B | TJSW-7 (?)</title>
-    <updated>2021-08-24T15:30:00Z</updated>
-    <published>2021-08-24T15:30:00Z</published>
-    <content type="text">NOTE: Payload identity not confirmed.&#xD;
-&#xD;
-Alleged Chinese classified geosynchronous satellite. Payload identity uncertain.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/67b4af9c-adf4-4ae7-922d-8f27e22b4b25.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_science_and_technology_corporation"/>
-    <category term="government"/>
-    <category term="long_march_3"/>
-    <category term="government_top_secret"/>
-    <category term="launch_complex_3_lc_3_la_1"/>
   </entry>
 </feed>
