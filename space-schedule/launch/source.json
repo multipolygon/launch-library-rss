@@ -78,7 +78,7 @@
             },
             "webcast_live": false,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
-            "infographic": null,
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/new2520shepard_infographic_20210826030422.jpeg",
             "program": []
         },
         {
@@ -97,7 +97,7 @@
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,
-            "probability": null,
+            "probability": 60,
             "holdreason": "",
             "failreason": "",
             "hashtag": null,
@@ -156,7 +156,7 @@
             },
             "webcast_live": false,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg",
-            "infographic": null,
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210826033644.jpeg",
             "program": [
                 {
                     "id": 11,

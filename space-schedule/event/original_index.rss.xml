@@ -7,22 +7,22 @@
     <description>All feeds in Space Schedule &gt; Event.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Sun, 12 Sep 2021 00:00:00 GMT</pubDate>
+    <pubDate>Wed, 15 Sep 2021 12:30:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>EVA | Event | Space Schedule</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Feva%2Foriginal.json</link>
+      <description>3 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json</guid>
+      <pubDate>Wed, 15 Sep 2021 12:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Undocking | Event | Space Schedule</title>
       <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fundocking%2Foriginal.json</link>
       <description>1 items</description>
       <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/undocking/original.json</guid>
       <pubDate>Sun, 12 Sep 2021 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EVA | Event | Space Schedule</title>
-      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Feva%2Foriginal.json</link>
-      <description>3 items</description>
-      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json</guid>
-      <pubDate>Thu, 09 Sep 2021 15:40:00 GMT</pubDate>
     </item>
     <item>
       <title>Docking | Event | Space Schedule</title>
