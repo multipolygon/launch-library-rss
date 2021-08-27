@@ -2,26 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/blue_origin/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Blue Origin | Launch | Space Schedule</title>
+    <title>Blue Origin</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fblue_origin%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Thu, 26 Aug 2021 13:35:00 GMT</pubDate>
+    <pubDate>Fri, 27 Aug 2021 11:20:17 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <item>
-      <title>New Shepard | NS-17</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/ff3ef28b-afd5-414f-aab4-040d5b74fdd6.json</link>
-      <description>Seventeenth flight of New Shepard. It will carry a second NASA lunar landing technology demonstration on the exterior of the booster, 18 commercial payloads inside the crew capsule, and an art installation on the exterior of the capsule.</description>
-      <category>launch</category>
-      <category>blue_origin</category>
-      <category>commercial</category>
-      <category>new_shepard</category>
-      <category>suborbital</category>
-      <category>west_texas_suborbital_launch_site_corn_ranch</category>
-      <guid isPermaLink="false">ff3ef28b-afd5-414f-aab4-040d5b74fdd6</guid>
-      <pubDate>Thu, 26 Aug 2021 13:35:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"/>
-    </item>
   </channel>
 </rss>

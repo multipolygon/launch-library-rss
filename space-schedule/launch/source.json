@@ -4,18 +4,18 @@
     "previous": null,
     "results": [
         {
-            "id": "ff3ef28b-afd5-414f-aab4-040d5b74fdd6",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/ff3ef28b-afd5-414f-aab4-040d5b74fdd6.json",
+            "id": "5d461570-402b-46e6-bafc-3836d4dcd69d",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/5d461570-402b-46e6-bafc-3836d4dcd69d.json",
             "launch_library_id": null,
-            "slug": "new-shepard-ns-17",
-            "name": "New Shepard | NS-17",
+            "slug": "astra-rocket-3-stp-27ad1",
+            "name": "Astra Rocket 3 | STP-27AD1",
             "status": {
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-08-26T13:35:00Z",
-            "window_end": "2021-08-26T13:35:00Z",
-            "window_start": "2021-08-26T13:35:00Z",
+            "net": "2021-08-27T21:00:00Z",
+            "window_end": "2021-08-28T00:30:00Z",
+            "window_start": "2021-08-27T21:00:00Z",
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,
@@ -24,61 +24,61 @@
             "failreason": "",
             "hashtag": null,
             "launch_service_provider": {
-                "id": 141,
-                "url": "https://ll.thespacedevs.com/2.2.0/agencies/141.json",
-                "name": "Blue Origin",
-                "type": "Commercial"
+                "id": 285,
+                "url": "https://ll.thespacedevs.com/2.2.0/agencies/285.json",
+                "name": "Astra Space",
+                "type": null
             },
             "rocket": {
-                "id": 2998,
+                "id": 2980,
                 "configuration": {
-                    "id": 137,
-                    "launch_library_id": 9999,
-                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/137.json",
-                    "name": "New Shepard",
-                    "family": "Blue Origin",
-                    "full_name": "New Shepard",
-                    "variant": ""
+                    "id": 213,
+                    "launch_library_id": 243,
+                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/213.json",
+                    "name": "Astra Rocket 3.0",
+                    "family": "Astra Rocket",
+                    "full_name": "Astra Rocket 3.0",
+                    "variant": "3.0"
                 }
             },
             "mission": {
-                "id": 1423,
+                "id": 1405,
                 "launch_library_id": null,
-                "name": "NS-17",
-                "description": "Seventeenth flight of New Shepard. It will carry a second NASA lunar landing technology demonstration on the exterior of the booster, 18 commercial payloads inside the crew capsule, and an art installation on the exterior of the capsule.",
+                "name": "STP-27AD1",
+                "description": "Space Force test payload contracted through the Defense Innovation Unit’s Other Transaction Agreement with Astra Space.",
                 "launch_designator": null,
-                "type": "Suborbital",
+                "type": "Government/Top Secret",
                 "orbit": {
-                    "id": 15,
-                    "name": "Suborbital",
-                    "abbrev": "Sub"
+                    "id": 13,
+                    "name": "Polar Orbit",
+                    "abbrev": "PO"
                 }
             },
             "pad": {
-                "id": 90,
-                "url": "https://ll.thespacedevs.com/2.2.0/pad/90.json",
-                "agency_id": 141,
-                "name": "West Texas Suborbital Launch Site/ Corn Ranch",
-                "info_url": "http://www.blueorigin.com",
-                "wiki_url": "https://en.wikipedia.org/wiki/Corn_Ranch",
-                "map_url": "https://www.google.com/maps/place/31%C2%B025'22.4%22N+104%C2%B045'25.6%22W",
-                "latitude": "31.422878000000000",
-                "longitude": "-104.757121000000000",
+                "id": 114,
+                "url": "https://ll.thespacedevs.com/2.2.0/pad/114.json",
+                "agency_id": null,
+                "name": "LP-3B",
+                "info_url": null,
+                "wiki_url": "https://en.wikipedia.org/wiki/Pacific_Spaceport_Complex_%E2%80%93_Alaska",
+                "map_url": "https://www.google.ee/maps/search/57.4304299,-152.3586347",
+                "latitude": "57.4304299",
+                "longitude": "-152.3586347",
                 "location": {
-                    "id": 29,
-                    "url": "https://ll.thespacedevs.com/2.2.0/location/29.json",
-                    "name": "Corn Ranch, USA",
+                    "id": 25,
+                    "url": "https://ll.thespacedevs.com/2.2.0/location/25.json",
+                    "name": "Kodiak Launch Complex, Alaska, USA",
                     "country_code": "USA",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_29_20200803142436.jpg",
-                    "total_launch_count": 16,
+                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_25_20200803142500.jpg",
+                    "total_launch_count": 4,
                     "total_landing_count": 0
                 },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_90_20200803143233.jpg",
-                "total_launch_count": 16
+                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_114_20200803145248.jpg",
+                "total_launch_count": 2
             },
             "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/new2520shepard_infographic_20210826030422.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_image_20210805160125.jpg",
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_infographic_20210826031553.jpeg",
             "program": []
         },
         {
@@ -97,7 +97,7 @@
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,
-            "probability": 60,
+            "probability": 50,
             "holdreason": "",
             "failreason": "",
             "hashtag": null,

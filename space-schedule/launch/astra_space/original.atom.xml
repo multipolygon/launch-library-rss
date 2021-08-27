@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Astra Space</title>
+  <title>Astra Space | Launch | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/astra_space/original.atom.xml</id>
-  <updated>2021-08-26T11:20:03.528Z</updated>
+  <updated>2021-08-27T21:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/astra_space/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/astra_space/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fastra_space%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
+  <entry>
+    <id>5d461570-402b-46e6-bafc-3836d4dcd69d</id>
+    <title>Astra Rocket 3 | STP-27AD1</title>
+    <updated>2021-08-27T21:00:00Z</updated>
+    <published>2021-08-27T21:00:00Z</published>
+    <content type="text">Space Force test payload contracted through the Defense Innovation Unit’s Other Transaction Agreement with Astra Space.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/5d461570-402b-46e6-bafc-3836d4dcd69d.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_image_20210805160125.jpg"/>
+    <category term="launch"/>
+    <category term="astra_space"/>
+    <category term="astra_rocket"/>
+    <category term="astra_rocket_3_0"/>
+    <category term="government_top_secret"/>
+    <category term="lp_3_b"/>
+  </entry>
 </feed>
