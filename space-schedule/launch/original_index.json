@@ -3,13 +3,13 @@
  "description": "All feeds in Space Schedule > Launch.",
  "items": [
   {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json",
-   "title": "SpaceX | Launch | Space Schedule",
+   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/firefly_aerospace/original.json",
+   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Ffirefly_aerospace%2Foriginal.json",
+   "title": "Firefly Aerospace | Launch | Space Schedule",
    "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg",
-   "date_published": "2021-08-28T07:37:00Z",
-   "date_modified": "2021-08-28T07:37:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
+   "date_published": "2021-09-03T01:00:00Z",
+   "date_modified": "2021-09-03T01:00:00Z",
    "_geo": {},
    "_meta": {
     "itemCount": 1,
@@ -19,13 +19,13 @@
    }
   },
   {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/astra_space/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fastra_space%2Foriginal.json",
-   "title": "Astra Space | Launch | Space Schedule",
+   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json",
+   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json",
+   "title": "SpaceX | Launch | Space Schedule",
    "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_image_20210805160125.jpg",
-   "date_published": "2021-08-27T21:00:00Z",
-   "date_modified": "2021-08-27T21:00:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg",
+   "date_published": "2021-08-29T07:14:00Z",
+   "date_modified": "2021-08-29T07:14:00Z",
    "_geo": {},
    "_meta": {
     "itemCount": 1,

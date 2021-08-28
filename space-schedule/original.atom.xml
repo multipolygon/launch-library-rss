@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Space-schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/original.atom.xml</id>
-  <updated>2021-09-15T12:30:00Z</updated>
+  <updated>2021-09-12T12:30:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json"/>
@@ -11,8 +11,8 @@
   <entry>
     <id>~space-schedule~event~eva~307</id>
     <title>US EVA-77</title>
-    <updated>2021-09-15T12:30:00Z</updated>
-    <published>2021-09-15T12:30:00Z</published>
+    <updated>2021-09-12T12:30:00Z</updated>
+    <published>2021-09-12T12:30:00Z</published>
     <content type="text">NASA astronaut Mark Vande Hei and JAXA astronaut Akihiko Hoshide will venture outside the orbiting outpost to perform maintenance tasks and activate the Bartolomeo platform on the exterior of the Columbus module.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg"/>
@@ -33,8 +33,8 @@
   <entry>
     <id>~space-schedule~event~eva~317</id>
     <title>Russian EVA-50</title>
-    <updated>2021-09-09T15:40:00Z</updated>
-    <published>2021-09-09T15:40:00Z</published>
+    <updated>2021-09-09T15:00:00Z</updated>
+    <published>2021-09-09T15:00:00Z</published>
     <content type="text">Roscosmos cosmonauts Oleg Novitskiy and Pyotr Dubrov will exit the International Space Station through the Poisk airlock to continue establishing external cable connections between the new MLM Nauka module and the Zvezda module.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-50_image_20210805074910.jpeg"/>
@@ -44,8 +44,8 @@
   <entry>
     <id>~space-schedule~event~eva~316</id>
     <title>Russian EVA-49</title>
-    <updated>2021-09-03T15:35:00Z</updated>
-    <published>2021-09-03T15:35:00Z</published>
+    <updated>2021-09-03T14:35:00Z</updated>
+    <published>2021-09-03T14:35:00Z</published>
     <content type="text">Roscosmos cosmonauts Oleg Novitskiy and Pyotr Dubrov will exit the International Space Station through the Poisk airlock to establish external cable connections between the new MLM Nauka module and the Zvezda module.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-48_image_20210805073004.jpeg"/>
@@ -53,10 +53,25 @@
     <category term="eva"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~firefly_aerospace~bb2a5291-0aef-4c2a-8e29-93362d256fea</id>
+    <title>Firefly Alpha | Maiden Flight</title>
+    <updated>2021-09-03T01:00:00Z</updated>
+    <published>2021-09-03T01:00:00Z</published>
+    <content type="text">First flight of the new Firefly Alpha small sat launcher developed by Firefly Aerospace.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/bb2a5291-0aef-4c2a-8e29-93362d256fea.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg"/>
+    <category term="launch"/>
+    <category term="firefly_aerospace"/>
+    <category term="commercial"/>
+    <category term="firefly_alpha"/>
+    <category term="test_flight"/>
+    <category term="space_launch_complex_2_w"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~docking~275</id>
     <title>CRS-23 Dragon Docking</title>
-    <updated>2021-08-29T15:00:00Z</updated>
-    <published>2021-08-29T15:00:00Z</published>
+    <updated>2021-08-30T15:00:00Z</updated>
+    <published>2021-08-30T15:00:00Z</published>
     <content type="text">Following its launch atop a Falcon 9, the CRS-23 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_d_image_20210519074125.jpeg"/>
@@ -66,8 +81,8 @@
   <entry>
     <id>~space-schedule~launch~space_x~13386512-85bb-4c93-a9b0-f5eac05fbe4f</id>
     <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-23</title>
-    <updated>2021-08-28T07:37:00Z</updated>
-    <published>2021-08-28T07:37:00Z</published>
+    <updated>2021-08-29T07:14:00Z</updated>
+    <published>2021-08-29T07:14:00Z</published>
     <content type="text">SpaceX will launch the cargo variant of its Dragon 2 spacecraft on their 23rd commercial resupply services mission to the International Space Station. The flight will be conducted under the second Commercial Resupply Services contract with NASA.&#xD;
 &#xD;
 Dragon will be filled with supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.</content>
@@ -81,20 +96,5 @@ Dragon will be filled with supplies and payloads, including critical materials t
     <category term="resupply"/>
     <category term="launch_complex_39_a"/>
     <category term="commercial_resupply_services"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~astra_space~5d461570-402b-46e6-bafc-3836d4dcd69d</id>
-    <title>Astra Rocket 3 | STP-27AD1</title>
-    <updated>2021-08-27T21:00:00Z</updated>
-    <published>2021-08-27T21:00:00Z</published>
-    <content type="text">Space Force test payload contracted through the Defense Innovation Unit’s Other Transaction Agreement with Astra Space.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/5d461570-402b-46e6-bafc-3836d4dcd69d.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_image_20210805160125.jpg"/>
-    <category term="launch"/>
-    <category term="astra_space"/>
-    <category term="astra_rocket"/>
-    <category term="astra_rocket_3_0"/>
-    <category term="government_top_secret"/>
-    <category term="lp_3_b"/>
   </entry>
 </feed>

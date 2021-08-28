@@ -7,7 +7,7 @@
     <description>All items.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Wed, 15 Sep 2021 12:30:00 GMT</pubDate>
+    <pubDate>Sun, 12 Sep 2021 12:30:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
@@ -17,7 +17,7 @@
       <category>event</category>
       <category>eva</category>
       <guid isPermaLink="false">~space-schedule~event~eva~307</guid>
-      <pubDate>Wed, 15 Sep 2021 12:30:00 GMT</pubDate>
+      <pubDate>Sun, 12 Sep 2021 12:30:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg"/>
     </item>
     <item>
@@ -37,7 +37,7 @@
       <category>event</category>
       <category>eva</category>
       <guid isPermaLink="false">~space-schedule~event~eva~317</guid>
-      <pubDate>Thu, 09 Sep 2021 15:40:00 GMT</pubDate>
+      <pubDate>Thu, 09 Sep 2021 15:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-50_image_20210805074910.jpeg"/>
     </item>
     <item>
@@ -47,8 +47,22 @@
       <category>event</category>
       <category>eva</category>
       <guid isPermaLink="false">~space-schedule~event~eva~316</guid>
-      <pubDate>Fri, 03 Sep 2021 15:35:00 GMT</pubDate>
+      <pubDate>Fri, 03 Sep 2021 14:35:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-48_image_20210805073004.jpeg"/>
+    </item>
+    <item>
+      <title>Firefly Alpha | Maiden Flight</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/bb2a5291-0aef-4c2a-8e29-93362d256fea.json</link>
+      <description>First flight of the new Firefly Alpha small sat launcher developed by Firefly Aerospace.</description>
+      <category>launch</category>
+      <category>firefly_aerospace</category>
+      <category>commercial</category>
+      <category>firefly_alpha</category>
+      <category>test_flight</category>
+      <category>space_launch_complex_2_w</category>
+      <guid isPermaLink="false">~space-schedule~launch~firefly_aerospace~bb2a5291-0aef-4c2a-8e29-93362d256fea</guid>
+      <pubDate>Fri, 03 Sep 2021 01:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg"/>
     </item>
     <item>
       <title>CRS-23 Dragon Docking</title>
@@ -57,7 +71,7 @@
       <category>event</category>
       <category>docking</category>
       <guid isPermaLink="false">~space-schedule~event~docking~275</guid>
-      <pubDate>Sun, 29 Aug 2021 15:00:00 GMT</pubDate>
+      <pubDate>Mon, 30 Aug 2021 15:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_d_image_20210519074125.jpeg"/>
     </item>
     <item>
@@ -75,22 +89,8 @@ Dragon will be filled with supplies and payloads, including critical materials t
       <category>launch_complex_39_a</category>
       <category>commercial_resupply_services</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~13386512-85bb-4c93-a9b0-f5eac05fbe4f</guid>
-      <pubDate>Sat, 28 Aug 2021 07:37:00 GMT</pubDate>
+      <pubDate>Sun, 29 Aug 2021 07:14:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg"/>
-    </item>
-    <item>
-      <title>Astra Rocket 3 | STP-27AD1</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/5d461570-402b-46e6-bafc-3836d4dcd69d.json</link>
-      <description>Space Force test payload contracted through the Defense Innovation Unit’s Other Transaction Agreement with Astra Space.</description>
-      <category>launch</category>
-      <category>astra_space</category>
-      <category>astra_rocket</category>
-      <category>astra_rocket_3_0</category>
-      <category>government_top_secret</category>
-      <category>lp_3_b</category>
-      <guid isPermaLink="false">~space-schedule~launch~astra_space~5d461570-402b-46e6-bafc-3836d4dcd69d</guid>
-      <pubDate>Fri, 27 Aug 2021 21:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_image_20210805160125.jpg"/>
     </item>
   </channel>
 </rss>

@@ -7,22 +7,22 @@
     <description>All feeds in Space Schedule &gt; Launch.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Sat, 28 Aug 2021 07:37:00 GMT</pubDate>
+    <pubDate>Fri, 03 Sep 2021 01:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Firefly Aerospace | Launch | Space Schedule</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Ffirefly_aerospace%2Foriginal.json</link>
+      <description>1 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/firefly_aerospace/original.json</guid>
+      <pubDate>Fri, 03 Sep 2021 01:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX | Launch | Space Schedule</title>
       <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json</link>
       <description>1 items</description>
       <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json</guid>
-      <pubDate>Sat, 28 Aug 2021 07:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Astra Space | Launch | Space Schedule</title>
-      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fastra_space%2Foriginal.json</link>
-      <description>1 items</description>
-      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/astra_space/original.json</guid>
-      <pubDate>Fri, 27 Aug 2021 21:00:00 GMT</pubDate>
+      <pubDate>Sun, 29 Aug 2021 07:14:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

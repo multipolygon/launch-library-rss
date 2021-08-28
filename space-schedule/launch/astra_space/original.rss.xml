@@ -2,26 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/astra_space/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Astra Space | Launch | Space Schedule</title>
+    <title>Astra Space</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fastra_space%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Fri, 27 Aug 2021 21:00:00 GMT</pubDate>
+    <pubDate>Sat, 28 Aug 2021 11:19:54 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <item>
-      <title>Astra Rocket 3 | STP-27AD1</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/5d461570-402b-46e6-bafc-3836d4dcd69d.json</link>
-      <description>Space Force test payload contracted through the Defense Innovation Unit’s Other Transaction Agreement with Astra Space.</description>
-      <category>launch</category>
-      <category>astra_space</category>
-      <category>astra_rocket</category>
-      <category>astra_rocket_3_0</category>
-      <category>government_top_secret</category>
-      <category>lp_3_b</category>
-      <guid isPermaLink="false">5d461570-402b-46e6-bafc-3836d4dcd69d</guid>
-      <pubDate>Fri, 27 Aug 2021 21:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_image_20210805160125.jpg"/>
-    </item>
   </channel>
 </rss>

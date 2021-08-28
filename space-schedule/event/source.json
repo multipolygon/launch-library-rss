@@ -17,7 +17,7 @@
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_d_image_20210519074125.jpeg",
-            "date": "2021-08-29T15:00:00Z",
+            "date": "2021-08-30T15:00:00Z",
             "launches": [
                 {
                     "id": "13386512-85bb-4c93-a9b0-f5eac05fbe4f",
@@ -29,13 +29,13 @@
                         "id": 1,
                         "name": "Go"
                     },
-                    "net": "2021-08-28T07:37:00Z",
-                    "window_end": "2021-08-28T07:37:00Z",
-                    "window_start": "2021-08-28T07:37:00Z",
+                    "net": "2021-08-29T07:14:00Z",
+                    "window_end": "2021-08-29T07:14:00Z",
+                    "window_start": "2021-08-29T07:14:00Z",
                     "inhold": false,
                     "tbdtime": false,
                     "tbddate": false,
-                    "probability": 50,
+                    "probability": 60,
                     "holdreason": "",
                     "failreason": "",
                     "hashtag": null,
@@ -249,7 +249,7 @@
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-48_image_20210805073004.jpeg",
-            "date": "2021-09-03T15:35:00Z",
+            "date": "2021-09-03T14:35:00Z",
             "launches": [
                 {
                     "id": "27fd5d5a-6935-4697-98b4-b409f029e2f0",
@@ -425,7 +425,7 @@
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-50_image_20210805074910.jpeg",
-            "date": "2021-09-09T15:40:00Z",
+            "date": "2021-09-09T15:00:00Z",
             "launches": [
                 {
                     "id": "27fd5d5a-6935-4697-98b4-b409f029e2f0",
@@ -613,13 +613,13 @@
                         "id": 1,
                         "name": "Go"
                     },
-                    "net": "2021-08-28T07:37:00Z",
-                    "window_end": "2021-08-28T07:37:00Z",
-                    "window_start": "2021-08-28T07:37:00Z",
+                    "net": "2021-08-29T07:14:00Z",
+                    "window_end": "2021-08-29T07:14:00Z",
+                    "window_start": "2021-08-29T07:14:00Z",
                     "inhold": false,
                     "tbdtime": false,
                     "tbddate": false,
-                    "probability": 50,
+                    "probability": 60,
                     "holdreason": "",
                     "failreason": "",
                     "hashtag": null,
@@ -833,7 +833,7 @@
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg",
-            "date": "2021-09-15T12:30:00Z",
+            "date": "2021-09-12T12:30:00Z",
             "launches": [],
             "expeditions": [
                 {
