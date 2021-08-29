@@ -24,23 +24,5 @@
       <pubDate>Fri, 03 Sep 2021 01:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg"/>
     </item>
-    <item>
-      <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-23</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/13386512-85bb-4c93-a9b0-f5eac05fbe4f.json</link>
-      <description>SpaceX will launch the cargo variant of its Dragon 2 spacecraft on their 23rd commercial resupply services mission to the International Space Station. The flight will be conducted under the second Commercial Resupply Services contract with NASA.&#xD;
-&#xD;
-Dragon will be filled with supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.</description>
-      <category>launch</category>
-      <category>space_x</category>
-      <category>commercial</category>
-      <category>falcon</category>
-      <category>falcon_9</category>
-      <category>resupply</category>
-      <category>launch_complex_39_a</category>
-      <category>commercial_resupply_services</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~13386512-85bb-4c93-a9b0-f5eac05fbe4f</guid>
-      <pubDate>Sun, 29 Aug 2021 07:14:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg"/>
-    </item>
   </channel>
 </rss>

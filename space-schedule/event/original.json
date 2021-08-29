@@ -3,9 +3,42 @@
  "description": "All items in Space Schedule > Event.",
  "items": [
   {
+   "id": "~space-schedule~event~relocation~277",
+   "title": "Soyuz MS-18 Relocation",
+   "content_text": "The Soyuz MS-17 spacecraft will be relocated from the Rassvet module to the Nauka module.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_rel_image_20210519074417.jpeg",
+   "date_published": "2021-09-28T00:00:00Z",
+   "date_modified": "2021-09-28T00:00:00Z",
+   "tags": [
+    "event",
+    "relocation"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_rel_image_20210519074417.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Relocation | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "277",
+    "global": "~space-schedule~event~relocation~277"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/relocation/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~eva~307",
    "title": "US EVA-77",
-   "content_text": "NASA astronaut Mark Vande Hei and JAXA astronaut Akihiko Hoshide will venture outside the orbiting outpost to perform maintenance tasks and activate the Bartolomeo platform on the exterior of the Columbus module.",
+   "content_text": "JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet will venture outside the orbiting outpost to perform maintenance tasks and activate the Bartolomeo platform on the exterior of the Columbus module.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg",
    "date_published": "2021-09-12T12:30:00Z",
@@ -176,7 +209,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 5,
+  "itemCount": 6,
   "pageNumber": 1,
   "pageCount": 1
  }

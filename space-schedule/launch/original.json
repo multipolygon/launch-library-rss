@@ -37,44 +37,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/firefly_aerospace/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~space_x~13386512-85bb-4c93-a9b0-f5eac05fbe4f",
-   "title": "Falcon 9 Block 5 | Dragon CRS-2 SpX-23",
-   "content_text": "SpaceX will launch the cargo variant of its Dragon 2 spacecraft on their 23rd commercial resupply services mission to the International Space Station. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nDragon will be filled with supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/13386512-85bb-4c93-a9b0-f5eac05fbe4f.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg",
-   "date_published": "2021-08-29T07:14:00Z",
-   "date_modified": "2021-08-29T07:14:00Z",
-   "tags": [
-    "launch",
-    "space_x",
-    "commercial",
-    "falcon",
-    "falcon_9",
-    "resupply",
-    "launch_complex_39_a",
-    "commercial_resupply_services"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "SpaceX | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "13386512-85bb-4c93-a9b0-f5eac05fbe4f",
-    "global": "~space-schedule~launch~space_x~13386512-85bb-4c93-a9b0-f5eac05fbe4f"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -85,7 +47,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 2,
+  "itemCount": 1,
   "pageNumber": 1,
   "pageCount": 1
  }

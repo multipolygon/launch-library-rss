@@ -26,16 +26,16 @@
                     "slug": "falcon-9-block-5-dragon-crs-2-spx-23",
                     "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-23",
                     "status": {
-                        "id": 1,
-                        "name": "Go"
+                        "id": 3,
+                        "name": "Success"
                     },
-                    "net": "2021-08-29T07:14:00Z",
-                    "window_end": "2021-08-29T07:14:00Z",
-                    "window_start": "2021-08-29T07:14:00Z",
+                    "net": "2021-08-29T07:14:49Z",
+                    "window_end": "2021-08-29T07:14:49Z",
+                    "window_start": "2021-08-29T07:14:49Z",
                     "inhold": false,
                     "tbdtime": false,
                     "tbddate": false,
-                    "probability": 60,
+                    "probability": 80,
                     "holdreason": "",
                     "failreason": "",
                     "hashtag": null,
@@ -92,7 +92,7 @@
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_87_20200803143537.jpg",
                         "total_launch_count": 132
                     },
-                    "webcast_live": false,
+                    "webcast_live": true,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg",
                     "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210826033644.jpeg",
                     "program": [
@@ -610,16 +610,16 @@
                     "slug": "falcon-9-block-5-dragon-crs-2-spx-23",
                     "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-23",
                     "status": {
-                        "id": 1,
-                        "name": "Go"
+                        "id": 3,
+                        "name": "Success"
                     },
-                    "net": "2021-08-29T07:14:00Z",
-                    "window_end": "2021-08-29T07:14:00Z",
-                    "window_start": "2021-08-29T07:14:00Z",
+                    "net": "2021-08-29T07:14:49Z",
+                    "window_end": "2021-08-29T07:14:49Z",
+                    "window_start": "2021-08-29T07:14:49Z",
                     "inhold": false,
                     "tbdtime": false,
                     "tbddate": false,
-                    "probability": 60,
+                    "probability": 80,
                     "holdreason": "",
                     "failreason": "",
                     "hashtag": null,
@@ -676,7 +676,7 @@
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_87_20200803143537.jpg",
                         "total_launch_count": 132
                     },
-                    "webcast_live": false,
+                    "webcast_live": true,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg",
                     "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210826033644.jpeg",
                     "program": [
@@ -828,7 +828,7 @@
                 "id": 3,
                 "name": "EVA"
             },
-            "description": "NASA astronaut Mark Vande Hei and JAXA astronaut Akihiko Hoshide will venture outside the orbiting outpost to perform maintenance tasks and activate the Bartolomeo platform on the exterior of the Columbus module.",
+            "description": "JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet will venture outside the orbiting outpost to perform maintenance tasks and activate the Bartolomeo platform on the exterior of the Columbus module.",
             "location": "International Space Station",
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
