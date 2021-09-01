@@ -60,15 +60,5 @@
       <pubDate>Fri, 03 Sep 2021 14:35:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-48_image_20210805073004.jpeg"/>
     </item>
-    <item>
-      <title>CRS-23 Dragon Docking</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>Following its launch atop a Falcon 9, the CRS-23 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.</description>
-      <category>event</category>
-      <category>docking</category>
-      <guid isPermaLink="false">~space-schedule~event~docking~275</guid>
-      <pubDate>Mon, 30 Aug 2021 14:30:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_d_image_20210519074125.jpeg"/>
-    </item>
   </channel>
 </rss>
