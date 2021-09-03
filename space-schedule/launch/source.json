@@ -1,86 +1,8 @@
 {
-    "count": 2,
+    "count": 1,
     "next": null,
     "previous": null,
     "results": [
-        {
-            "id": "bb2a5291-0aef-4c2a-8e29-93362d256fea",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/bb2a5291-0aef-4c2a-8e29-93362d256fea.json",
-            "launch_library_id": 1684,
-            "slug": "firefly-alpha-maiden-flight",
-            "name": "Firefly Alpha | Maiden Flight",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-09-03T01:00:00Z",
-            "window_end": "2021-09-03T05:00:00Z",
-            "window_start": "2021-09-03T01:00:00Z",
-            "inhold": false,
-            "tbdtime": true,
-            "tbddate": true,
-            "probability": -1,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 265,
-                "url": "https://ll.thespacedevs.com/2.2.0/agencies/265.json",
-                "name": "Firefly Aerospace",
-                "type": "Commercial"
-            },
-            "rocket": {
-                "id": 2210,
-                "configuration": {
-                    "id": 179,
-                    "launch_library_id": 216,
-                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/179.json",
-                    "name": "Firefly Alpha",
-                    "family": "Firefly Alpha",
-                    "full_name": "Firefly Alpha",
-                    "variant": ""
-                }
-            },
-            "mission": {
-                "id": 966,
-                "launch_library_id": 1180,
-                "name": "Maiden Flight",
-                "description": "First flight of the new Firefly Alpha small sat launcher developed by Firefly Aerospace.",
-                "launch_designator": null,
-                "type": "Test Flight",
-                "orbit": {
-                    "id": 8,
-                    "name": "Low Earth Orbit",
-                    "abbrev": "LEO"
-                }
-            },
-            "pad": {
-                "id": 39,
-                "url": "https://ll.thespacedevs.com/2.2.0/pad/39.json",
-                "agency_id": null,
-                "name": "Space Launch Complex 2W",
-                "info_url": null,
-                "wiki_url": "",
-                "map_url": "http://maps.google.com/maps?q=34.7556+N,+120.6224+W",
-                "latitude": "34.7556",
-                "longitude": "-120.6224",
-                "location": {
-                    "id": 11,
-                    "url": "https://ll.thespacedevs.com/2.2.0/location/11.json",
-                    "name": "Vandenberg SFB, CA, USA",
-                    "country_code": "USA",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_11_20200803142416.jpg",
-                    "total_launch_count": 688,
-                    "total_landing_count": 3
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_39_20200803143542.jpg",
-                "total_launch_count": 92
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
-            "infographic": null,
-            "program": []
-        },
         {
             "id": "bc321d24-1c15-47e1-a966-497f1ca9dff2",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json",

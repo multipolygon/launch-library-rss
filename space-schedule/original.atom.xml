@@ -78,19 +78,4 @@
     <category term="event"/>
     <category term="eva"/>
   </entry>
-  <entry>
-    <id>~space-schedule~launch~firefly_aerospace~bb2a5291-0aef-4c2a-8e29-93362d256fea</id>
-    <title>Firefly Alpha | Maiden Flight</title>
-    <updated>2021-09-03T01:00:00Z</updated>
-    <published>2021-09-03T01:00:00Z</published>
-    <content type="text">First flight of the new Firefly Alpha small sat launcher developed by Firefly Aerospace.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/bb2a5291-0aef-4c2a-8e29-93362d256fea.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg"/>
-    <category term="launch"/>
-    <category term="firefly_aerospace"/>
-    <category term="commercial"/>
-    <category term="firefly_alpha"/>
-    <category term="test_flight"/>
-    <category term="space_launch_complex_2_w"/>
-  </entry>
 </feed>
