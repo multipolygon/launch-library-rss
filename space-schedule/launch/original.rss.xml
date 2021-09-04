@@ -24,5 +24,37 @@
       <pubDate>Fri, 01 Oct 2021 00:48:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg"/>
     </item>
+    <item>
+      <title>Falcon 9 Block 5 | Inspiration4</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/621d64e6-0513-45dc-8ffa-c9fd56518398.json</link>
+      <description>Inspiration4 is the world’s first all-commercial astronaut mission to orbit. Jared Isaacman, founder and CEO of Shift4 Payments, is donating the three seats alongside him aboard Dragon to individuals from the general public. The Inspiration4 crew will receive commercial astronaut training by SpaceX on the Falcon 9 launch vehicle and Dragon spacecraft, orbital mechanics, operating in microgravity, zero gravity, and other forms of stress testing. They will go through emergency preparedness training, spacesuit and spacecraft ingress and egress exercises, as well as partial and full mission simulations.&#xD;
+The Crew Dragon spacecraft will remain in a 540 km high orbit for three days before reentering Earth's atmosphere for a soft water landing off the coast of Florida.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon_9</category>
+      <category>human_exploration</category>
+      <category>launch_complex_39_a</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~621d64e6-0513-45dc-8ffa-c9fd56518398</guid>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075452.jpeg"/>
+    </item>
+    <item>
+      <title>Soyuz 2.1v | Razbeg #1</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/e1140531-122d-4062-a5a5-194042674121.json</link>
+      <description>The Russian Razbeg #1 is small military satellite optical reconnaissance satellite.&#xD;
+&#xD;
+It was built by NPP VNIIEM. It is likely the same satellite identified in earlier reports as Zvesda. The 250 kg satellite was reportedly inspired by the US American commercial Earth imaging satellites of the SkySat 1 series. It features a camera built by the Belarusian company OAO Peleng with a maximum ground resolution of 0.9 meters in panchromatic mode.</description>
+      <category>launch</category>
+      <category>ministry_of_defence_of_the_russian_federation</category>
+      <category>government</category>
+      <category>soyuz</category>
+      <category>government_top_secret</category>
+      <category>43_4_43_r</category>
+      <guid isPermaLink="false">~space-schedule~launch~ministry_of_defence_of_the_russian_federation~e1140531-122d-4062-a5a5-194042674121</guid>
+      <pubDate>Thu, 09 Sep 2021 19:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_image_20190222031122.jpeg"/>
+    </item>
   </channel>
 </rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/ministry_of_defence_of_the_russian_federation/original.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Ministry of Defence of the Russian Federation | Launch | Space Schedule</title>
+    <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fministry_of_defence_of_the_russian_federation%2Foriginal.json</link>
+    <language>en-us</language>
+    <copyright>© 2021 </copyright>
+    <pubDate>Thu, 09 Sep 2021 19:00:00 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Soyuz 2.1v | Razbeg #1</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/e1140531-122d-4062-a5a5-194042674121.json</link>
+      <description>The Russian Razbeg #1 is small military satellite optical reconnaissance satellite.&#xD;
+&#xD;
+It was built by NPP VNIIEM. It is likely the same satellite identified in earlier reports as Zvesda. The 250 kg satellite was reportedly inspired by the US American commercial Earth imaging satellites of the SkySat 1 series. It features a camera built by the Belarusian company OAO Peleng with a maximum ground resolution of 0.9 meters in panchromatic mode.</description>
+      <category>launch</category>
+      <category>ministry_of_defence_of_the_russian_federation</category>
+      <category>government</category>
+      <category>soyuz</category>
+      <category>government_top_secret</category>
+      <category>43_4_43_r</category>
+      <guid isPermaLink="false">e1140531-122d-4062-a5a5-194042674121</guid>
+      <pubDate>Thu, 09 Sep 2021 19:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_image_20190222031122.jpeg"/>
+    </item>
+  </channel>
+</rss>
