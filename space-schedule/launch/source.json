@@ -8,7 +8,7 @@
             "url": "https://ll.thespacedevs.com/2.2.0/launch/e1140531-122d-4062-a5a5-194042674121.json",
             "launch_library_id": null,
             "slug": "soyuz-21v-razbeg-1",
-            "name": "Soyuz 2.1v | Razbeg #1",
+            "name": "Soyuz 2.1v | Razbeg 1",
             "status": {
                 "id": 1,
                 "name": "Go"
@@ -44,8 +44,8 @@
             "mission": {
                 "id": 1400,
                 "launch_library_id": null,
-                "name": "Razbeg #1",
-                "description": "The Russian Razbeg #1 is small military satellite optical reconnaissance satellite.\r\n\r\nIt was built by NPP VNIIEM. It is likely the same satellite identified in earlier reports as Zvesda. The 250 kg satellite was reportedly inspired by the US American commercial Earth imaging satellites of the SkySat 1 series. It features a camera built by the Belarusian company OAO Peleng with a maximum ground resolution of 0.9 meters in panchromatic mode.",
+                "name": "Razbeg 1",
+                "description": "The Russian Razbeg 1 is small military satellite optical reconnaissance satellite.\r\n\r\nIt was built by NPP VNIIEM. It is likely the same satellite identified in earlier reports as Zvesda. The 250 kg satellite was reportedly inspired by the US American commercial Earth imaging satellites of the SkySat 1 series. It features a camera built by the Belarusian company OAO Peleng with a maximum ground resolution of 0.9 meters in panchromatic mode.",
                 "launch_designator": null,
                 "type": "Government/Top Secret",
                 "orbit": {

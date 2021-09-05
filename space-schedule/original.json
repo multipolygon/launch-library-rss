@@ -3,6 +3,39 @@
  "description": "All items in subcategories for category.",
  "items": [
   {
+   "id": "~space-schedule~event~docking~278",
+   "title": "Soyuz MS-19 Docking",
+   "content_text": "The Soyuz MS-19 spacecraft will dock to the International Space Station carrying ROSCOSMOS cosmonaut Anton Shkaplerov as Expeditions 65/66 crew member as well as film director Klim Shipenko and actress Yulia Peresild.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-19_doc_image_20210519074727.jpeg",
+   "date_published": "2021-10-05T00:00:00Z",
+   "date_modified": "2021-10-05T00:00:00Z",
+   "tags": [
+    "event",
+    "docking"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-19_doc_image_20210519074727.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Docking | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "278",
+    "global": "~space-schedule~event~docking~278"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2",
    "title": "Epsilon | RAISE-2 & Others",
    "content_text": "8 payloads will fly on this mission : \"RApid Innovative payload demonstration SatellitE-2\" (RAISE-2), DRUMS(Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).",
@@ -176,8 +209,8 @@
   },
   {
    "id": "~space-schedule~launch~ministry_of_defence_of_the_russian_federation~e1140531-122d-4062-a5a5-194042674121",
-   "title": "Soyuz 2.1v | Razbeg #1",
-   "content_text": "The Russian Razbeg #1 is small military satellite optical reconnaissance satellite.\r\n\r\nIt was built by NPP VNIIEM. It is likely the same satellite identified in earlier reports as Zvesda. The 250 kg satellite was reportedly inspired by the US American commercial Earth imaging satellites of the SkySat 1 series. It features a camera built by the Belarusian company OAO Peleng with a maximum ground resolution of 0.9 meters in panchromatic mode.",
+   "title": "Soyuz 2.1v | Razbeg 1",
+   "content_text": "The Russian Razbeg 1 is small military satellite optical reconnaissance satellite.\r\n\r\nIt was built by NPP VNIIEM. It is likely the same satellite identified in earlier reports as Zvesda. The 250 kg satellite was reportedly inspired by the US American commercial Earth imaging satellites of the SkySat 1 series. It features a camera built by the Belarusian company OAO Peleng with a maximum ground resolution of 0.9 meters in panchromatic mode.",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/e1140531-122d-4062-a5a5-194042674121.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_image_20190222031122.jpeg",
    "date_published": "2021-09-09T19:00:00Z",
@@ -238,39 +271,6 @@
    "_id": {
     "parent": "317",
     "global": "~space-schedule~event~eva~317"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~eva~316",
-   "title": "Russian EVA-49",
-   "content_text": "Roscosmos cosmonauts Oleg Novitskiy and Pyotr Dubrov will exit the International Space Station through the Poisk airlock to establish external cable connections between the new MLM Nauka module and the Zvezda module.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-48_image_20210805073004.jpeg",
-   "date_published": "2021-09-03T14:35:00Z",
-   "date_modified": "2021-09-03T14:35:00Z",
-   "tags": [
-    "event",
-    "eva"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-48_image_20210805073004.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "EVA | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "316",
-    "global": "~space-schedule~event~eva~316"
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"

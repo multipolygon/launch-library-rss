@@ -7,9 +7,19 @@
     <description>All items in Space Schedule &gt; Event.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Tue, 28 Sep 2021 00:00:00 GMT</pubDate>
+    <pubDate>Tue, 05 Oct 2021 00:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Soyuz MS-19 Docking</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The Soyuz MS-19 spacecraft will dock to the International Space Station carrying ROSCOSMOS cosmonaut Anton Shkaplerov as Expeditions 65/66 crew member as well as film director Klim Shipenko and actress Yulia Peresild.</description>
+      <category>event</category>
+      <category>docking</category>
+      <guid isPermaLink="false">~space-schedule~event~docking~278</guid>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-19_doc_image_20210519074727.jpeg"/>
+    </item>
     <item>
       <title>Soyuz MS-18 Relocation</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
@@ -49,16 +59,6 @@
       <guid isPermaLink="false">~space-schedule~event~eva~317</guid>
       <pubDate>Thu, 09 Sep 2021 15:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-50_image_20210805074910.jpeg"/>
-    </item>
-    <item>
-      <title>Russian EVA-49</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>Roscosmos cosmonauts Oleg Novitskiy and Pyotr Dubrov will exit the International Space Station through the Poisk airlock to establish external cable connections between the new MLM Nauka module and the Zvezda module.</description>
-      <category>event</category>
-      <category>eva</category>
-      <guid isPermaLink="false">~space-schedule~event~eva~316</guid>
-      <pubDate>Fri, 03 Sep 2021 14:35:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-48_image_20210805073004.jpeg"/>
     </item>
   </channel>
 </rss>

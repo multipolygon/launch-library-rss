@@ -10,9 +10,9 @@
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
-      <title>Soyuz 2.1v | Razbeg #1</title>
+      <title>Soyuz 2.1v | Razbeg 1</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/e1140531-122d-4062-a5a5-194042674121.json</link>
-      <description>The Russian Razbeg #1 is small military satellite optical reconnaissance satellite.&#xD;
+      <description>The Russian Razbeg 1 is small military satellite optical reconnaissance satellite.&#xD;
 &#xD;
 It was built by NPP VNIIEM. It is likely the same satellite identified in earlier reports as Zvesda. The 250 kg satellite was reportedly inspired by the US American commercial Earth imaging satellites of the SkySat 1 series. It features a camera built by the Belarusian company OAO Peleng with a maximum ground resolution of 0.9 meters in panchromatic mode.</description>
       <category>launch</category>
