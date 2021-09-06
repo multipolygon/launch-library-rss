@@ -56,5 +56,31 @@ It was built by NPP VNIIEM. It is likely the same satellite identified in earlie
       <pubDate>Thu, 09 Sep 2021 19:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_image_20190222031122.jpeg"/>
     </item>
+    <item>
+      <title>Long March 4C | Gaofen-5-02</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/343e4980-cefc-42ac-bb58-f9441f27d6d8.json</link>
+      <description>Gaofen (GF) is a series of Chinese civilian remote sensing satellites for the state-sponsored program China High-definition Earth Observation System (CHEOS).&#xD;
+&#xD;
+GF 5 is configured with six types of payloads, including visible and short-wave infra hyper-spectral camera, spectral imager, greenhouse gas detector, atmospheric environment infrared detector at very high spectral resolution, differential absorption spectrometer for atmospheric trace gas, and multi-angle polarization detector, with designed lifespan of 8 years. The satellite is based on the SAST-5000B bus.&#xD;
+&#xD;
+The instruments are:&#xD;
+&#xD;
+* Advanced Hyperspectral Imager (AHSI)&#xD;
+* Visual and Infrared Multispectral Sensor (VIMS)&#xD;
+* Greenhouse-gases Monitoring Instrument (GMI)&#xD;
+* Atmospheric Infrared Ultraspectral (AIUS)&#xD;
+* Environment Monitoring Instrument (EMI)&#xD;
+* Directional Polarization Camera (DPC)</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_technology_corporation</category>
+      <category>government</category>
+      <category>long_march_4</category>
+      <category>long_march_4_c</category>
+      <category>earth_science</category>
+      <category>launch_complex_9</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~343e4980-cefc-42ac-bb58-f9441f27d6d8</guid>
+      <pubDate>Tue, 07 Sep 2021 02:35:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"/>
+    </item>
   </channel>
 </rss>

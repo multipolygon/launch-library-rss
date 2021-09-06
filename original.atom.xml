@@ -112,4 +112,31 @@ It was built by NPP VNIIEM. It is likely the same satellite identified in earlie
     <category term="event"/>
     <category term="eva"/>
   </entry>
+  <entry>
+    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~343e4980-cefc-42ac-bb58-f9441f27d6d8</id>
+    <title>Long March 4C | Gaofen-5-02</title>
+    <updated>2021-09-07T02:35:00Z</updated>
+    <published>2021-09-07T02:35:00Z</published>
+    <content type="text">Gaofen (GF) is a series of Chinese civilian remote sensing satellites for the state-sponsored program China High-definition Earth Observation System (CHEOS).&#xD;
+&#xD;
+GF 5 is configured with six types of payloads, including visible and short-wave infra hyper-spectral camera, spectral imager, greenhouse gas detector, atmospheric environment infrared detector at very high spectral resolution, differential absorption spectrometer for atmospheric trace gas, and multi-angle polarization detector, with designed lifespan of 8 years. The satellite is based on the SAST-5000B bus.&#xD;
+&#xD;
+The instruments are:&#xD;
+&#xD;
+* Advanced Hyperspectral Imager (AHSI)&#xD;
+* Visual and Infrared Multispectral Sensor (VIMS)&#xD;
+* Greenhouse-gases Monitoring Instrument (GMI)&#xD;
+* Atmospheric Infrared Ultraspectral (AIUS)&#xD;
+* Environment Monitoring Instrument (EMI)&#xD;
+* Directional Polarization Camera (DPC)</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/343e4980-cefc-42ac-bb58-f9441f27d6d8.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"/>
+    <category term="launch"/>
+    <category term="china_aerospace_science_and_technology_corporation"/>
+    <category term="government"/>
+    <category term="long_march_4"/>
+    <category term="long_march_4_c"/>
+    <category term="earth_science"/>
+    <category term="launch_complex_9"/>
+  </entry>
 </feed>

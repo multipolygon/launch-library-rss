@@ -275,6 +275,43 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
    }
+  },
+  {
+   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~343e4980-cefc-42ac-bb58-f9441f27d6d8",
+   "title": "Long March 4C | Gaofen-5-02",
+   "content_text": "Gaofen (GF) is a series of Chinese civilian remote sensing satellites for the state-sponsored program China High-definition Earth Observation System (CHEOS).\r\n\r\nGF 5 is configured with six types of payloads, including visible and short-wave infra hyper-spectral camera, spectral imager, greenhouse gas detector, atmospheric environment infrared detector at very high spectral resolution, differential absorption spectrometer for atmospheric trace gas, and multi-angle polarization detector, with designed lifespan of 8 years. The satellite is based on the SAST-5000B bus.\r\n\r\nThe instruments are:\r\n\r\n* Advanced Hyperspectral Imager (AHSI)\r\n* Visual and Infrared Multispectral Sensor (VIMS)\r\n* Greenhouse-gases Monitoring Instrument (GMI)\r\n* Atmospheric Infrared Ultraspectral (AIUS)\r\n* Environment Monitoring Instrument (EMI)\r\n* Directional Polarization Camera (DPC)",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/343e4980-cefc-42ac-bb58-f9441f27d6d8.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
+   "date_published": "2021-09-07T02:35:00Z",
+   "date_modified": "2021-09-07T02:35:00Z",
+   "tags": [
+    "launch",
+    "china_aerospace_science_and_technology_corporation",
+    "government",
+    "long_march_4",
+    "long_march_4_c",
+    "earth_science",
+    "launch_complex_9"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "343e4980-cefc-42ac-bb58-f9441f27d6d8",
+    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~343e4980-cefc-42ac-bb58-f9441f27d6d8"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
+   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -285,7 +322,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 8,
+  "itemCount": 9,
   "pageNumber": 1,
   "pageCount": 1
  }
