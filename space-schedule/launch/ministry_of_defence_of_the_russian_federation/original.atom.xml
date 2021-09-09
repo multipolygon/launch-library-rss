@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Ministry Of Defence Of The Russian Federation</title>
+  <title>Ministry of Defence of the Russian Federation | Launch | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/ministry_of_defence_of_the_russian_federation/original.atom.xml</id>
-  <updated>2021-09-08T11:20:18.346Z</updated>
+  <updated>2021-09-09T19:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/ministry_of_defence_of_the_russian_federation/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/ministry_of_defence_of_the_russian_federation/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fministry_of_defence_of_the_russian_federation%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
+  <entry>
+    <id>e1140531-122d-4062-a5a5-194042674121</id>
+    <title>Soyuz 2.1v | Razbeg 1</title>
+    <updated>2021-09-09T19:00:00Z</updated>
+    <published>2021-09-09T19:00:00Z</published>
+    <content type="text">The Russian Razbeg 1 is small military satellite optical reconnaissance satellite.&#xD;
+&#xD;
+It was built by NPP VNIIEM. It is likely the same satellite identified in earlier reports as Zvesda. The 250 kg satellite was reportedly inspired by the US American commercial Earth imaging satellites of the SkySat 1 series. It features a camera built by the Belarusian company OAO Peleng with a maximum ground resolution of 0.9 meters in panchromatic mode.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/e1140531-122d-4062-a5a5-194042674121.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_image_20190222031122.jpeg"/>
+    <category term="launch"/>
+    <category term="ministry_of_defence_of_the_russian_federation"/>
+    <category term="government"/>
+    <category term="soyuz"/>
+    <category term="government_top_secret"/>
+    <category term="43_4_43_r"/>
+  </entry>
 </feed>

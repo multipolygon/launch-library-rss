@@ -41,6 +41,22 @@ The Crew Dragon spacecraft will remain in a 540 km high orbit for three days bef
     <category term="launch_complex_39_a"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~360fe91d-17ae-45b1-a636-340a27c1e6f8</id>
+    <title>Long March 2C / YZ-1S | Yaogan-32-02</title>
+    <updated>2021-09-13T07:36:00Z</updated>
+    <published>2021-09-13T07:36:00Z</published>
+    <content type="text">Yaogan is a series of Chinese reconnaissance satellites.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/360fe91d-17ae-45b1-a636-340a27c1e6f8.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg"/>
+    <category term="launch"/>
+    <category term="china_aerospace_science_and_technology_corporation"/>
+    <category term="government"/>
+    <category term="long_march_2"/>
+    <category term="long_march_2_c_yz_1_s"/>
+    <category term="government_top_secret"/>
+    <category term="launch_area_4_sls_2_603"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~ministry_of_defence_of_the_russian_federation~e1140531-122d-4062-a5a5-194042674121</id>
     <title>Soyuz 2.1v | Razbeg 1</title>
     <updated>2021-09-09T19:00:00Z</updated>
@@ -56,5 +72,22 @@ It was built by NPP VNIIEM. It is likely the same satellite identified in earlie
     <category term="soyuz"/>
     <category term="government_top_secret"/>
     <category term="43_4_43_r"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~91f83c5a-f370-451e-8767-3bbc2144c516</id>
+    <title>Long March 3B | ChinaSat 9B</title>
+    <updated>2021-09-09T11:39:00Z</updated>
+    <published>2021-09-09T11:39:00Z</published>
+    <content type="text">Zhongxing-9B (ChinaSat 9B) is a Chinese communications satellite, that will replace the Zhongxing-9A satellite in orbit. The latter was launched in 2017, but the CZ-3B launch vehicle suffered a partial failure, and the satellite had to burn a large amount of fuel to reach its nominal orbit.&#xD;
+&#xD;
+ZX-9B will be used to retransmit television to the Chinese, as well as to provide television communications with Chinese islands, and ships sailing near the coast. The satellite will also be used to broadcast the 2022 Beijing Winter Olympics in 8K.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/91f83c5a-f370-451e-8767-3bbc2144c516.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
+    <category term="launch"/>
+    <category term="china_aerospace_science_and_technology_corporation"/>
+    <category term="government"/>
+    <category term="long_march_3"/>
+    <category term="communications"/>
+    <category term="launch_complex_2_lc_2"/>
   </entry>
 </feed>

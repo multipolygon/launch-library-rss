@@ -192,9 +192,9 @@
                     "launch_library_id": 192,
                     "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/156.json",
                     "name": "Long March 2C / YZ-1S",
-                    "family": "",
+                    "family": "Long March 2",
                     "full_name": "Long March 2C / YZ-1S",
-                    "variant": ""
+                    "variant": "C / YZ-1S"
                 }
             },
             "mission": {
@@ -233,7 +233,7 @@
                 "total_launch_count": 72
             },
             "webcast_live": false,
-            "image": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg",
             "infographic": null,
             "program": []
         },
