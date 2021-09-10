@@ -20,6 +20,17 @@
     <category term="docking"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~undocking~276</id>
+    <title>CRS-23 Dragon Undocking</title>
+    <updated>2021-09-30T00:00:00Z</updated>
+    <published>2021-09-30T00:00:00Z</published>
+    <content type="text">The SpaceX CRS-23 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg"/>
+    <category term="event"/>
+    <category term="undocking"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~relocation~277</id>
     <title>Soyuz MS-18 Relocation</title>
     <updated>2021-09-28T00:00:00Z</updated>
@@ -42,15 +53,15 @@
     <category term="eva"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~undocking~276</id>
-    <title>CRS-23 Dragon Undocking</title>
-    <updated>2021-09-12T00:00:00Z</updated>
-    <published>2021-09-12T00:00:00Z</published>
-    <content type="text">The SpaceX CRS-23 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg"/>
+    <id>~space-schedule~event~press_event~322</id>
+    <title>Briefing on Successful Sample Collection of Martian Rock</title>
+    <updated>2021-09-10T16:00:00Z</updated>
+    <published>2021-09-10T16:00:00Z</published>
+    <content type="text">NASA is to provide an update on Perseverance rover and its recent successful collection of Martian rock samples.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=IMyuOBexwE0"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/briefing_on_suc_image_20210910055403.jpg"/>
     <category term="event"/>
-    <category term="undocking"/>
+    <category term="press_event"/>
   </entry>
   <entry>
     <id>~space-schedule~event~eva~317</id>

@@ -35,6 +35,17 @@
     <category term="m_v_pad"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~undocking~276</id>
+    <title>CRS-23 Dragon Undocking</title>
+    <updated>2021-09-30T00:00:00Z</updated>
+    <published>2021-09-30T00:00:00Z</published>
+    <content type="text">The SpaceX CRS-23 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg"/>
+    <category term="event"/>
+    <category term="undocking"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~relocation~277</id>
     <title>Soyuz MS-18 Relocation</title>
     <updated>2021-09-28T00:00:00Z</updated>
@@ -64,7 +75,7 @@ The Crew Dragon spacecraft will remain in a 540 km high orbit for three days bef
   </entry>
   <entry>
     <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~360fe91d-17ae-45b1-a636-340a27c1e6f8</id>
-    <title>Long March 2C / YZ-1S | Yaogan-32-02</title>
+    <title>Long March 2C/YZ-1S | Yaogan-32-02</title>
     <updated>2021-09-13T07:36:00Z</updated>
     <published>2021-09-13T07:36:00Z</published>
     <content type="text">Yaogan is a series of Chinese reconnaissance satellites.</content>
@@ -90,32 +101,15 @@ The Crew Dragon spacecraft will remain in a 540 km high orbit for three days bef
     <category term="eva"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~undocking~276</id>
-    <title>CRS-23 Dragon Undocking</title>
-    <updated>2021-09-12T00:00:00Z</updated>
-    <published>2021-09-12T00:00:00Z</published>
-    <content type="text">The SpaceX CRS-23 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg"/>
+    <id>~space-schedule~event~press_event~322</id>
+    <title>Briefing on Successful Sample Collection of Martian Rock</title>
+    <updated>2021-09-10T16:00:00Z</updated>
+    <published>2021-09-10T16:00:00Z</published>
+    <content type="text">NASA is to provide an update on Perseverance rover and its recent successful collection of Martian rock samples.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=IMyuOBexwE0"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/briefing_on_suc_image_20210910055403.jpg"/>
     <category term="event"/>
-    <category term="undocking"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~ministry_of_defence_of_the_russian_federation~e1140531-122d-4062-a5a5-194042674121</id>
-    <title>Soyuz 2.1v | Razbeg 1</title>
-    <updated>2021-09-09T19:00:00Z</updated>
-    <published>2021-09-09T19:00:00Z</published>
-    <content type="text">The Russian Razbeg 1 is small military satellite optical reconnaissance satellite.&#xD;
-&#xD;
-It was built by NPP VNIIEM. It is likely the same satellite identified in earlier reports as Zvesda. The 250 kg satellite was reportedly inspired by the US American commercial Earth imaging satellites of the SkySat 1 series. It features a camera built by the Belarusian company OAO Peleng with a maximum ground resolution of 0.9 meters in panchromatic mode.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/e1140531-122d-4062-a5a5-194042674121.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_image_20190222031122.jpeg"/>
-    <category term="launch"/>
-    <category term="ministry_of_defence_of_the_russian_federation"/>
-    <category term="government"/>
-    <category term="soyuz"/>
-    <category term="government_top_secret"/>
-    <category term="43_4_43_r"/>
+    <category term="press_event"/>
   </entry>
   <entry>
     <id>~space-schedule~event~eva~317</id>
@@ -127,22 +121,5 @@ It was built by NPP VNIIEM. It is likely the same satellite identified in earlie
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-50_image_20210805074910.jpeg"/>
     <category term="event"/>
     <category term="eva"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~91f83c5a-f370-451e-8767-3bbc2144c516</id>
-    <title>Long March 3B | ChinaSat 9B</title>
-    <updated>2021-09-09T11:39:00Z</updated>
-    <published>2021-09-09T11:39:00Z</published>
-    <content type="text">Zhongxing-9B (ChinaSat 9B) is a Chinese communications satellite, that will replace the Zhongxing-9A satellite in orbit. The latter was launched in 2017, but the CZ-3B launch vehicle suffered a partial failure, and the satellite had to burn a large amount of fuel to reach its nominal orbit.&#xD;
-&#xD;
-ZX-9B will be used to retransmit television to the Chinese, as well as to provide television communications with Chinese islands, and ships sailing near the coast. The satellite will also be used to broadcast the 2022 Beijing Winter Olympics in 8K.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/91f83c5a-f370-451e-8767-3bbc2144c516.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_science_and_technology_corporation"/>
-    <category term="government"/>
-    <category term="long_march_3"/>
-    <category term="communications"/>
-    <category term="launch_complex_2_lc_2"/>
   </entry>
 </feed>

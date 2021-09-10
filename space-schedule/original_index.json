@@ -6,13 +6,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/original_index.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Foriginal_index.json",
    "title": "Event",
-   "content_text": "4 items",
+   "content_text": "5 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-19_doc_image_20210519074727.jpeg",
    "date_published": "2021-10-05T00:00:00Z",
    "date_modified": "2021-10-05T00:00:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 4,
+    "itemCount": 5,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0
@@ -22,13 +22,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/original_index.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Foriginal_index.json",
    "title": "Launch",
-   "content_text": "4 items",
+   "content_text": "3 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg",
    "date_published": "2021-10-01T00:48:00Z",
    "date_modified": "2021-10-01T00:48:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 4,
+    "itemCount": 3,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0

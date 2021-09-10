@@ -36,6 +36,39 @@
    }
   },
   {
+   "id": "~space-schedule~event~undocking~276",
+   "title": "CRS-23 Dragon Undocking",
+   "content_text": "The SpaceX CRS-23 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg",
+   "date_published": "2021-09-30T00:00:00Z",
+   "date_modified": "2021-09-30T00:00:00Z",
+   "tags": [
+    "event",
+    "undocking"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Undocking | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "276",
+    "global": "~space-schedule~event~undocking~276"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/undocking/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~relocation~277",
    "title": "Soyuz MS-18 Relocation",
    "content_text": "The Soyuz MS-17 spacecraft will be relocated from the Rassvet module to the Nauka module.",
@@ -102,21 +135,21 @@
    }
   },
   {
-   "id": "~space-schedule~event~undocking~276",
-   "title": "CRS-23 Dragon Undocking",
-   "content_text": "The SpaceX CRS-23 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg",
-   "date_published": "2021-09-12T00:00:00Z",
-   "date_modified": "2021-09-12T00:00:00Z",
+   "id": "~space-schedule~event~press_event~322",
+   "title": "Briefing on Successful Sample Collection of Martian Rock",
+   "content_text": "NASA is to provide an update on Perseverance rover and its recent successful collection of Martian rock samples.",
+   "url": "https://www.youtube.com/watch?v=IMyuOBexwE0",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/briefing_on_suc_image_20210910055403.jpg",
+   "date_published": "2021-09-10T16:00:00Z",
+   "date_modified": "2021-09-10T16:00:00Z",
    "tags": [
     "event",
-    "undocking"
+    "press_event"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/briefing_on_suc_image_20210910055403.jpg"
     }
    ],
    "_meta": {
@@ -124,14 +157,14 @@
     "videoCount": 0,
     "imageCount": 1,
     "youtubeCount": 1,
-    "subtitle": "Undocking | Event | Space Schedule"
+    "subtitle": "Press Event | Event | Space Schedule"
    },
    "_id": {
-    "parent": "276",
-    "global": "~space-schedule~event~undocking~276"
+    "parent": "322",
+    "global": "~space-schedule~event~press_event~322"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/undocking/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
    }
   },
   {
@@ -176,7 +209,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 5,
+  "itemCount": 6,
   "pageNumber": 1,
   "pageCount": 1
  }

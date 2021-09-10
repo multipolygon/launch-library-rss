@@ -72,6 +72,39 @@
    }
   },
   {
+   "id": "~space-schedule~event~undocking~276",
+   "title": "CRS-23 Dragon Undocking",
+   "content_text": "The SpaceX CRS-23 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg",
+   "date_published": "2021-09-30T00:00:00Z",
+   "date_modified": "2021-09-30T00:00:00Z",
+   "tags": [
+    "event",
+    "undocking"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Undocking | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "276",
+    "global": "~space-schedule~event~undocking~276"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/undocking/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~relocation~277",
    "title": "Soyuz MS-18 Relocation",
    "content_text": "The Soyuz MS-17 spacecraft will be relocated from the Rassvet module to the Nauka module.",
@@ -143,7 +176,7 @@
   },
   {
    "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~360fe91d-17ae-45b1-a636-340a27c1e6f8",
-   "title": "Long March 2C / YZ-1S | Yaogan-32-02",
+   "title": "Long March 2C/YZ-1S | Yaogan-32-02",
    "content_text": "Yaogan is a series of Chinese reconnaissance satellites.",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/360fe91d-17ae-45b1-a636-340a27c1e6f8.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg",
@@ -212,21 +245,21 @@
    }
   },
   {
-   "id": "~space-schedule~event~undocking~276",
-   "title": "CRS-23 Dragon Undocking",
-   "content_text": "The SpaceX CRS-23 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg",
-   "date_published": "2021-09-12T00:00:00Z",
-   "date_modified": "2021-09-12T00:00:00Z",
+   "id": "~space-schedule~event~press_event~322",
+   "title": "Briefing on Successful Sample Collection of Martian Rock",
+   "content_text": "NASA is to provide an update on Perseverance rover and its recent successful collection of Martian rock samples.",
+   "url": "https://www.youtube.com/watch?v=IMyuOBexwE0",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/briefing_on_suc_image_20210910055403.jpg",
+   "date_published": "2021-09-10T16:00:00Z",
+   "date_modified": "2021-09-10T16:00:00Z",
    "tags": [
     "event",
-    "undocking"
+    "press_event"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/briefing_on_suc_image_20210910055403.jpg"
     }
    ],
    "_meta": {
@@ -234,50 +267,14 @@
     "videoCount": 0,
     "imageCount": 1,
     "youtubeCount": 1,
-    "subtitle": "Undocking | Event | Space Schedule"
+    "subtitle": "Press Event | Event | Space Schedule"
    },
    "_id": {
-    "parent": "276",
-    "global": "~space-schedule~event~undocking~276"
+    "parent": "322",
+    "global": "~space-schedule~event~press_event~322"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/undocking/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~launch~ministry_of_defence_of_the_russian_federation~e1140531-122d-4062-a5a5-194042674121",
-   "title": "Soyuz 2.1v | Razbeg 1",
-   "content_text": "The Russian Razbeg 1 is small military satellite optical reconnaissance satellite.\r\n\r\nIt was built by NPP VNIIEM. It is likely the same satellite identified in earlier reports as Zvesda. The 250 kg satellite was reportedly inspired by the US American commercial Earth imaging satellites of the SkySat 1 series. It features a camera built by the Belarusian company OAO Peleng with a maximum ground resolution of 0.9 meters in panchromatic mode.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/e1140531-122d-4062-a5a5-194042674121.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_image_20190222031122.jpeg",
-   "date_published": "2021-09-09T19:00:00Z",
-   "date_modified": "2021-09-09T19:00:00Z",
-   "tags": [
-    "launch",
-    "ministry_of_defence_of_the_russian_federation",
-    "government",
-    "soyuz",
-    "government_top_secret",
-    "43_4_43_r"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_image_20190222031122.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Ministry of Defence of the Russian Federation | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "e1140531-122d-4062-a5a5-194042674121",
-    "global": "~space-schedule~launch~ministry_of_defence_of_the_russian_federation~e1140531-122d-4062-a5a5-194042674121"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/ministry_of_defence_of_the_russian_federation/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
    }
   },
   {
@@ -312,42 +309,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~91f83c5a-f370-451e-8767-3bbc2144c516",
-   "title": "Long March 3B | ChinaSat 9B",
-   "content_text": "Zhongxing-9B (ChinaSat 9B) is a Chinese communications satellite, that will replace the Zhongxing-9A satellite in orbit. The latter was launched in 2017, but the CZ-3B launch vehicle suffered a partial failure, and the satellite had to burn a large amount of fuel to reach its nominal orbit.\r\n\r\nZX-9B will be used to retransmit television to the Chinese, as well as to provide television communications with Chinese islands, and ships sailing near the coast. The satellite will also be used to broadcast the 2022 Beijing Winter Olympics in 8K.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/91f83c5a-f370-451e-8767-3bbc2144c516.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-   "date_published": "2021-09-09T11:39:00Z",
-   "date_modified": "2021-09-09T11:39:00Z",
-   "tags": [
-    "launch",
-    "china_aerospace_science_and_technology_corporation",
-    "government",
-    "long_march_3",
-    "communications",
-    "launch_complex_2_lc_2"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "91f83c5a-f370-451e-8767-3bbc2144c516",
-    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~91f83c5a-f370-451e-8767-3bbc2144c516"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -358,7 +319,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 10,
+  "itemCount": 9,
   "pageNumber": 1,
   "pageCount": 1
  }

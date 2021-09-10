@@ -1,45 +1,16 @@
 {
- "title": "Ministry of Defence of the Russian Federation | Launch | Space Schedule",
- "items": [
-  {
-   "id": "e1140531-122d-4062-a5a5-194042674121",
-   "title": "Soyuz 2.1v | Razbeg 1",
-   "content_text": "The Russian Razbeg 1 is small military satellite optical reconnaissance satellite.\r\n\r\nIt was built by NPP VNIIEM. It is likely the same satellite identified in earlier reports as Zvesda. The 250 kg satellite was reportedly inspired by the US American commercial Earth imaging satellites of the SkySat 1 series. It features a camera built by the Belarusian company OAO Peleng with a maximum ground resolution of 0.9 meters in panchromatic mode.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/e1140531-122d-4062-a5a5-194042674121.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_image_20190222031122.jpeg",
-   "date_published": "2021-09-09T19:00:00Z",
-   "date_modified": "2021-09-09T19:00:00Z",
-   "tags": [
-    "launch",
-    "ministry_of_defence_of_the_russian_federation",
-    "government",
-    "soyuz",
-    "government_top_secret",
-    "43_4_43_r"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_image_20190222031122.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1
-   }
-  }
- ],
  "version": "https://jsonfeed.org/version/1",
  "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/launch/ministry_of_defence_of_the_russian_federation/original.json",
+ "title": "Ministry Of Defence Of The Russian Federation",
+ "items": [],
  "_feed_url": {
   "rss": "https://launch-library-rss.multipolygon.net/space-schedule/launch/ministry_of_defence_of_the_russian_federation/original.rss.xml",
   "atom": "https://launch-library-rss.multipolygon.net/space-schedule/launch/ministry_of_defence_of_the_russian_federation/original.atom.xml"
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fministry_of_defence_of_the_russian_federation%2Foriginal.json",
  "_meta": {
-  "itemCount": 1,
+  "itemCount": 0,
   "pageNumber": 1,
-  "pageCount": 1
+  "pageCount": 0
  }
 }

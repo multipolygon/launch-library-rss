@@ -1,170 +1,14 @@
 {
-    "count": 5,
+    "count": 4,
     "next": null,
     "previous": null,
     "results": [
         {
-            "id": "91f83c5a-f370-451e-8767-3bbc2144c516",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/91f83c5a-f370-451e-8767-3bbc2144c516.json",
-            "launch_library_id": null,
-            "slug": "long-march-3b-chinasat-9b",
-            "name": "Long March 3B | ChinaSat 9B",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-09-09T11:50:00Z",
-            "window_end": "2021-09-09T12:09:00Z",
-            "window_start": "2021-09-09T11:39:00Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": null,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 88,
-                "url": "https://ll.thespacedevs.com/2.2.0/agencies/88.json",
-                "name": "China Aerospace Science and Technology Corporation",
-                "type": "Government"
-            },
-            "rocket": {
-                "id": 7445,
-                "configuration": {
-                    "id": 50,
-                    "launch_library_id": 69,
-                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/50.json",
-                    "name": "Long March 3",
-                    "family": "Long March 3",
-                    "full_name": "Long March 3B/E",
-                    "variant": "B/E"
-                }
-            },
-            "mission": {
-                "id": 5838,
-                "launch_library_id": null,
-                "name": "ChinaSat 9B",
-                "description": "Zhongxing-9B (ChinaSat 9B) is a Chinese communications satellite, that will replace the Zhongxing-9A satellite in orbit. The latter was launched in 2017, but the CZ-3B launch vehicle suffered a partial failure, and the satellite had to burn a large amount of fuel to reach its nominal orbit.\r\n\r\nZX-9B will be used to retransmit television to the Chinese, as well as to provide television communications with Chinese islands, and ships sailing near the coast. The satellite will also be used to broadcast the 2022 Beijing Winter Olympics in 8K.",
-                "launch_designator": null,
-                "type": "Communications",
-                "orbit": {
-                    "id": 2,
-                    "name": "Geostationary Transfer Orbit",
-                    "abbrev": "GTO"
-                }
-            },
-            "pad": {
-                "id": 45,
-                "url": "https://ll.thespacedevs.com/2.2.0/pad/45.json",
-                "agency_id": null,
-                "name": "Launch Complex 2 (LC-2)",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center",
-                "map_url": "https://www.google.com/maps/?q=28.246017,102.026556",
-                "latitude": "28.246017",
-                "longitude": "102.026556",
-                "location": {
-                    "id": 16,
-                    "url": "https://ll.thespacedevs.com/2.2.0/location/16.json",
-                    "name": "Xichang Satellite Launch Center, People's Republic of China",
-                    "country_code": "CHN",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg",
-                    "total_launch_count": 160,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_45_20200803143520.jpg",
-                "total_launch_count": 84
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-            "infographic": null,
-            "program": []
-        },
-        {
-            "id": "e1140531-122d-4062-a5a5-194042674121",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/e1140531-122d-4062-a5a5-194042674121.json",
-            "launch_library_id": null,
-            "slug": "soyuz-21v-razbeg-1",
-            "name": "Soyuz 2.1v | Razbeg 1",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-09-09T19:00:00Z",
-            "window_end": "2021-09-09T21:00:00Z",
-            "window_start": "2021-09-09T19:00:00Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": null,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 175,
-                "url": "https://ll.thespacedevs.com/2.2.0/agencies/175.json",
-                "name": "Ministry of Defence of the Russian Federation",
-                "type": "Government"
-            },
-            "rocket": {
-                "id": 2972,
-                "configuration": {
-                    "id": 153,
-                    "launch_library_id": 172,
-                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/153.json",
-                    "name": "Soyuz",
-                    "family": "Soyuz",
-                    "full_name": "Soyuz 2-1v",
-                    "variant": "2-1v"
-                }
-            },
-            "mission": {
-                "id": 1400,
-                "launch_library_id": null,
-                "name": "Razbeg 1",
-                "description": "The Russian Razbeg 1 is small military satellite optical reconnaissance satellite.\r\n\r\nIt was built by NPP VNIIEM. It is likely the same satellite identified in earlier reports as Zvesda. The 250 kg satellite was reportedly inspired by the US American commercial Earth imaging satellites of the SkySat 1 series. It features a camera built by the Belarusian company OAO Peleng with a maximum ground resolution of 0.9 meters in panchromatic mode.",
-                "launch_designator": null,
-                "type": "Government/Top Secret",
-                "orbit": {
-                    "id": 17,
-                    "name": "Sun-Synchronous Orbit",
-                    "abbrev": "SSO"
-                }
-            },
-            "pad": {
-                "id": 85,
-                "url": "https://ll.thespacedevs.com/2.2.0/pad/85.json",
-                "agency_id": 163,
-                "name": "43/4 (43R)",
-                "info_url": null,
-                "wiki_url": "",
-                "map_url": "http://maps.google.com/maps?q=62.929+N,+40.457+E",
-                "latitude": "62.92883",
-                "longitude": "40.457098",
-                "location": {
-                    "id": 6,
-                    "url": "https://ll.thespacedevs.com/2.2.0/location/6.json",
-                    "name": "Plesetsk Cosmodrome, Russian Federation",
-                    "country_code": "RUS",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_6_20200803142434.jpg",
-                    "total_launch_count": 1643,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_85_20200803143554.jpg",
-                "total_launch_count": 302
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_image_20190222031122.jpeg",
-            "infographic": null,
-            "program": []
-        },
-        {
             "id": "360fe91d-17ae-45b1-a636-340a27c1e6f8",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/360fe91d-17ae-45b1-a636-340a27c1e6f8.json",
             "launch_library_id": null,
-            "slug": "long-march-2c-yz-1s-yaogan-32-02",
-            "name": "Long March 2C / YZ-1S | Yaogan-32-02",
+            "slug": "long-march-2cyz-1s-yaogan-32-02",
+            "name": "Long March 2C/YZ-1S | Yaogan-32-02",
             "status": {
                 "id": 1,
                 "name": "Go"
@@ -191,10 +35,10 @@
                     "id": 156,
                     "launch_library_id": 192,
                     "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/156.json",
-                    "name": "Long March 2C / YZ-1S",
+                    "name": "Long March 2C/YZ-1S",
                     "family": "Long March 2",
-                    "full_name": "Long March 2C / YZ-1S",
-                    "variant": "C / YZ-1S"
+                    "full_name": "Long March 2C/YZ-1S",
+                    "variant": "C/YZ-1S"
                 }
             },
             "mission": {
@@ -390,6 +234,84 @@
             },
             "webcast_live": false,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg",
+            "infographic": null,
+            "program": []
+        },
+        {
+            "id": "56e548c8-ff60-4cf5-bc60-d50a546a6a79",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/56e548c8-ff60-4cf5-bc60-d50a546a6a79.json",
+            "launch_library_id": null,
+            "slug": "h-iia-202-qzs-1r",
+            "name": "H-IIA 202 | QZS-1R",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-10-25T02:00:00Z",
+            "window_end": "2021-10-25T03:00:00Z",
+            "window_start": "2021-10-25T02:00:00Z",
+            "inhold": false,
+            "tbdtime": false,
+            "tbddate": false,
+            "probability": null,
+            "holdreason": "",
+            "failreason": "",
+            "hashtag": null,
+            "launch_service_provider": {
+                "id": 98,
+                "url": "https://ll.thespacedevs.com/2.2.0/agencies/98.json",
+                "name": "Mitsubishi Heavy Industries",
+                "type": "Commercial"
+            },
+            "rocket": {
+                "id": 7448,
+                "configuration": {
+                    "id": 32,
+                    "launch_library_id": 53,
+                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/32.json",
+                    "name": "H-IIA 202",
+                    "family": "H-II",
+                    "full_name": "H-IIA 202",
+                    "variant": "202"
+                }
+            },
+            "mission": {
+                "id": 5840,
+                "launch_library_id": null,
+                "name": "QZS-1R",
+                "description": "The Quasi-Zenith Satellite System (QZSS) is a three-satellite regional time transfer system and the satellite-based augmentation system for the GPS that would be receivable within Japan. The primary purpose of QZSS is to increase the availability of GPS in Japan's numerous urban canyons, where only satellites at very high elevation can be seen. A secondary function is performance enhancement, increasing the accuracy and reliability of GPS derived navigation solutions.\r\nQZS-1R is a replacement satellite for QZS-1 which was launched in 2010.",
+                "launch_designator": null,
+                "type": "Navigation",
+                "orbit": {
+                    "id": 3,
+                    "name": "Geosynchronous Orbit",
+                    "abbrev": "GSO"
+                }
+            },
+            "pad": {
+                "id": 41,
+                "url": "https://ll.thespacedevs.com/2.2.0/pad/41.json",
+                "agency_id": 37,
+                "name": "Yoshinobu Launch Complex",
+                "info_url": null,
+                "wiki_url": "https://en.wikipedia.org/wiki/Yoshinobu_Launch_Complex",
+                "map_url": "https://www.google.com/maps/place/30Â°24'08.0\"N+130Â°58'30.0\"E/",
+                "latitude": "30.402222",
+                "longitude": "130.975",
+                "location": {
+                    "id": 26,
+                    "url": "https://ll.thespacedevs.com/2.2.0/location/26.json",
+                    "name": "Tanegashima, Japan",
+                    "country_code": "JPN",
+                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_26_20200803142507.jpg",
+                    "total_launch_count": 82,
+                    "total_landing_count": 0
+                },
+                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_41_20200803143551.jpg",
+                "total_launch_count": 37
+            },
+            "webcast_live": false,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-iia2520202_image_20190222031201.jpeg",
             "infographic": null,
             "program": []
         }
