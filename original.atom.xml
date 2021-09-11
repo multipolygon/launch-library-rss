@@ -59,8 +59,8 @@
   <entry>
     <id>~space-schedule~launch~space_x~621d64e6-0513-45dc-8ffa-c9fd56518398</id>
     <title>Falcon 9 Block 5 | Inspiration4</title>
-    <updated>2021-09-15T00:00:00Z</updated>
-    <published>2021-09-15T00:00:00Z</published>
+    <updated>2021-09-16T00:01:00Z</updated>
+    <published>2021-09-16T00:01:00Z</published>
     <content type="text">Inspiration4 is the world’s first all-commercial astronaut mission to orbit. Jared Isaacman, founder and CEO of Shift4 Payments, is donating the three seats alongside him aboard Dragon to individuals from the general public. The Inspiration4 crew will receive commercial astronaut training by SpaceX on the Falcon 9 launch vehicle and Dragon spacecraft, orbital mechanics, operating in microgravity, zero gravity, and other forms of stress testing. They will go through emergency preparedness training, spacesuit and spacecraft ingress and egress exercises, as well as partial and full mission simulations.&#xD;
 The Crew Dragon spacecraft will remain in a 540 km high orbit for three days before reentering Earth's atmosphere for a soft water landing off the coast of Florida.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/621d64e6-0513-45dc-8ffa-c9fd56518398.json"/>
@@ -72,6 +72,22 @@ The Crew Dragon spacecraft will remain in a 540 km high orbit for three days bef
     <category term="falcon_9"/>
     <category term="human_exploration"/>
     <category term="launch_complex_39_a"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~space_x~6b9f9fe6-7f94-498b-a664-7c9e42dbe76d</id>
+    <title>Falcon 9 Block 5 | Starlink Group 2-1</title>
+    <updated>2021-09-14T03:55:00Z</updated>
+    <published>2021-09-14T03:55:00Z</published>
+    <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/6b9f9fe6-7f94-498b-a664-7c9e42dbe76d.json"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160237.png"/>
+    <category term="launch"/>
+    <category term="space_x"/>
+    <category term="commercial"/>
+    <category term="falcon"/>
+    <category term="falcon_9"/>
+    <category term="communications"/>
+    <category term="space_launch_complex_4_e"/>
   </entry>
   <entry>
     <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~360fe91d-17ae-45b1-a636-340a27c1e6f8</id>
@@ -110,16 +126,5 @@ The Crew Dragon spacecraft will remain in a 540 km high orbit for three days bef
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/briefing_on_suc_image_20210910055403.jpg"/>
     <category term="event"/>
     <category term="press_event"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~eva~317</id>
-    <title>Russian EVA-50</title>
-    <updated>2021-09-09T15:00:00Z</updated>
-    <published>2021-09-09T15:00:00Z</published>
-    <content type="text">Roscosmos cosmonauts Oleg Novitskiy and Pyotr Dubrov will exit the International Space Station through the Poisk airlock to continue establishing external cable connections between the new MLM Nauka module and the Zvezda module.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-50_image_20210805074910.jpeg"/>
-    <category term="event"/>
-    <category term="eva"/>
   </entry>
 </feed>

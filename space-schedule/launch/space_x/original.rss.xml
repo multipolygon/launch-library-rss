@@ -6,7 +6,7 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Wed, 15 Sep 2021 00:00:00 GMT</pubDate>
+    <pubDate>Thu, 16 Sep 2021 00:01:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
@@ -22,8 +22,23 @@ The Crew Dragon spacecraft will remain in a 540 km high orbit for three days bef
       <category>human_exploration</category>
       <category>launch_complex_39_a</category>
       <guid isPermaLink="false">621d64e6-0513-45dc-8ffa-c9fd56518398</guid>
-      <pubDate>Wed, 15 Sep 2021 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 16 Sep 2021 00:01:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075452.jpeg"/>
+    </item>
+    <item>
+      <title>Falcon 9 Block 5 | Starlink Group 2-1</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/6b9f9fe6-7f94-498b-a664-7c9e42dbe76d.json</link>
+      <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon_9</category>
+      <category>communications</category>
+      <category>space_launch_complex_4_e</category>
+      <guid isPermaLink="false">6b9f9fe6-7f94-498b-a664-7c9e42dbe76d</guid>
+      <pubDate>Tue, 14 Sep 2021 03:55:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160237.png"/>
     </item>
   </channel>
 </rss>

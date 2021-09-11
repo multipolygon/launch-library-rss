@@ -18,15 +18,4 @@
     <category term="event"/>
     <category term="eva"/>
   </entry>
-  <entry>
-    <id>317</id>
-    <title>Russian EVA-50</title>
-    <updated>2021-09-09T15:00:00Z</updated>
-    <published>2021-09-09T15:00:00Z</published>
-    <content type="text">Roscosmos cosmonauts Oleg Novitskiy and Pyotr Dubrov will exit the International Space Station through the Poisk airlock to continue establishing external cable connections between the new MLM Nauka module and the Zvezda module.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-50_image_20210805074910.jpeg"/>
-    <category term="event"/>
-    <category term="eva"/>
-  </entry>
 </feed>

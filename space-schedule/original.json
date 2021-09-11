@@ -143,8 +143,8 @@
    "content_text": "Inspiration4 is the world’s first all-commercial astronaut mission to orbit. Jared Isaacman, founder and CEO of Shift4 Payments, is donating the three seats alongside him aboard Dragon to individuals from the general public. The Inspiration4 crew will receive commercial astronaut training by SpaceX on the Falcon 9 launch vehicle and Dragon spacecraft, orbital mechanics, operating in microgravity, zero gravity, and other forms of stress testing. They will go through emergency preparedness training, spacesuit and spacecraft ingress and egress exercises, as well as partial and full mission simulations.\r\nThe Crew Dragon spacecraft will remain in a 540 km high orbit for three days before reentering Earth's atmosphere for a soft water landing off the coast of Florida.",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/621d64e6-0513-45dc-8ffa-c9fd56518398.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075452.jpeg",
-   "date_published": "2021-09-15T00:00:00Z",
-   "date_modified": "2021-09-15T00:00:00Z",
+   "date_published": "2021-09-16T00:01:00Z",
+   "date_modified": "2021-09-16T00:01:00Z",
    "tags": [
     "launch",
     "space_x",
@@ -169,6 +169,43 @@
    "_id": {
     "parent": "621d64e6-0513-45dc-8ffa-c9fd56518398",
     "global": "~space-schedule~launch~space_x~621d64e6-0513-45dc-8ffa-c9fd56518398"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~launch~space_x~6b9f9fe6-7f94-498b-a664-7c9e42dbe76d",
+   "title": "Falcon 9 Block 5 | Starlink Group 2-1",
+   "content_text": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/6b9f9fe6-7f94-498b-a664-7c9e42dbe76d.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160237.png",
+   "date_published": "2021-09-14T03:55:00Z",
+   "date_modified": "2021-09-14T03:55:00Z",
+   "tags": [
+    "launch",
+    "space_x",
+    "commercial",
+    "falcon",
+    "falcon_9",
+    "communications",
+    "space_launch_complex_4_e"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/png",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160237.png"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "SpaceX | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "6b9f9fe6-7f94-498b-a664-7c9e42dbe76d",
+    "global": "~space-schedule~launch~space_x~6b9f9fe6-7f94-498b-a664-7c9e42dbe76d"
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
@@ -275,39 +312,6 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~eva~317",
-   "title": "Russian EVA-50",
-   "content_text": "Roscosmos cosmonauts Oleg Novitskiy and Pyotr Dubrov will exit the International Space Station through the Poisk airlock to continue establishing external cable connections between the new MLM Nauka module and the Zvezda module.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-50_image_20210805074910.jpeg",
-   "date_published": "2021-09-09T15:00:00Z",
-   "date_modified": "2021-09-09T15:00:00Z",
-   "tags": [
-    "event",
-    "eva"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/russian_eva-50_image_20210805074910.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "EVA | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "317",
-    "global": "~space-schedule~event~eva~317"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
    }
   }
  ],
