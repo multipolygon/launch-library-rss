@@ -252,7 +252,7 @@
    "id": "~space-schedule~event~eva~307",
    "title": "US EVA-77",
    "content_text": "JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet will venture outside the orbiting outpost to perform maintenance tasks and activate the Bartolomeo platform on the exterior of the Columbus module.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "url": "https://www.youtube.com/watch?v=vvsMOSAfHG0",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg",
    "date_published": "2021-09-12T12:30:00Z",
    "date_modified": "2021-09-12T12:30:00Z",
@@ -280,39 +280,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~press_event~322",
-   "title": "Briefing on Successful Sample Collection of Martian Rock",
-   "content_text": "NASA is to provide an update on Perseverance rover and its recent successful collection of Martian rock samples.",
-   "url": "https://www.youtube.com/watch?v=IMyuOBexwE0",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/briefing_on_suc_image_20210910055403.jpg",
-   "date_published": "2021-09-10T16:00:00Z",
-   "date_modified": "2021-09-10T16:00:00Z",
-   "tags": [
-    "event",
-    "press_event"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/briefing_on_suc_image_20210910055403.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Press Event | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "322",
-    "global": "~space-schedule~event~press_event~322"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -323,7 +290,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 9,
+  "itemCount": 8,
   "pageNumber": 1,
   "pageCount": 1
  }

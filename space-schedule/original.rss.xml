@@ -102,23 +102,13 @@ The Crew Dragon spacecraft will remain in a 540 km high orbit for three days bef
     </item>
     <item>
       <title>US EVA-77</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <link>https://www.youtube.com/watch?v=vvsMOSAfHG0</link>
       <description>JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet will venture outside the orbiting outpost to perform maintenance tasks and activate the Bartolomeo platform on the exterior of the Columbus module.</description>
       <category>event</category>
       <category>eva</category>
       <guid isPermaLink="false">~space-schedule~event~eva~307</guid>
       <pubDate>Sun, 12 Sep 2021 12:30:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg"/>
-    </item>
-    <item>
-      <title>Briefing on Successful Sample Collection of Martian Rock</title>
-      <link>https://www.youtube.com/watch?v=IMyuOBexwE0</link>
-      <description>NASA is to provide an update on Perseverance rover and its recent successful collection of Martian rock samples.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~322</guid>
-      <pubDate>Fri, 10 Sep 2021 16:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/briefing_on_suc_image_20210910055403.jpg"/>
     </item>
   </channel>
 </rss>
