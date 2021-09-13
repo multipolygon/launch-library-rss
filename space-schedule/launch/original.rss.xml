@@ -37,7 +37,7 @@ The Crew Dragon spacecraft will remain in a 540 km high orbit for three days bef
       <category>human_exploration</category>
       <category>launch_complex_39_a</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~621d64e6-0513-45dc-8ffa-c9fd56518398</guid>
-      <pubDate>Thu, 16 Sep 2021 00:01:00 GMT</pubDate>
+      <pubDate>Thu, 16 Sep 2021 00:02:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075452.jpeg"/>
     </item>
     <item>
@@ -54,21 +54,6 @@ The Crew Dragon spacecraft will remain in a 540 km high orbit for three days bef
       <guid isPermaLink="false">~space-schedule~launch~space_x~6b9f9fe6-7f94-498b-a664-7c9e42dbe76d</guid>
       <pubDate>Tue, 14 Sep 2021 03:55:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160237.png"/>
-    </item>
-    <item>
-      <title>Long March 2C/YZ-1S | Yaogan-32-02</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/360fe91d-17ae-45b1-a636-340a27c1e6f8.json</link>
-      <description>Yaogan is a series of Chinese reconnaissance satellites.</description>
-      <category>launch</category>
-      <category>china_aerospace_science_and_technology_corporation</category>
-      <category>government</category>
-      <category>long_march_2</category>
-      <category>long_march_2_c_yz_1_s</category>
-      <category>government_top_secret</category>
-      <category>launch_area_4_sls_2_603</category>
-      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~360fe91d-17ae-45b1-a636-340a27c1e6f8</guid>
-      <pubDate>Mon, 13 Sep 2021 07:36:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg"/>
     </item>
   </channel>
 </rss>
