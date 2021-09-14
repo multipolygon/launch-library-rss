@@ -71,29 +71,19 @@ The Crew Dragon spacecraft will remain in a 540 km high orbit for three days bef
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075452.jpeg"/>
     </item>
     <item>
-      <title>Falcon 9 Block 5 | Starlink Group 2-1</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/6b9f9fe6-7f94-498b-a664-7c9e42dbe76d.json</link>
-      <description>A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
+      <title>Soyuz 2.1b/Fregat-M | OneWeb 10</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/0834f42e-8b04-4026-a3e1-df7a0d570bba.json</link>
+      <description>A batch of 34 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</description>
       <category>launch</category>
-      <category>space_x</category>
+      <category>arianespace</category>
       <category>commercial</category>
-      <category>falcon</category>
-      <category>falcon_9</category>
+      <category>soyuz</category>
+      <category>soyuz_2_1_b_fregat_m</category>
       <category>communications</category>
-      <category>space_launch_complex_4_e</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~6b9f9fe6-7f94-498b-a664-7c9e42dbe76d</guid>
-      <pubDate>Tue, 14 Sep 2021 03:55:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160237.png"/>
-    </item>
-    <item>
-      <title>US EVA-77</title>
-      <link>https://www.youtube.com/watch?v=vvsMOSAfHG0</link>
-      <description>JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet will venture outside the orbiting outpost to perform maintenance tasks and activate the Bartolomeo platform on the exterior of the Columbus module.</description>
-      <category>event</category>
-      <category>eva</category>
-      <guid isPermaLink="false">~space-schedule~event~eva~307</guid>
-      <pubDate>Sun, 12 Sep 2021 12:30:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg"/>
+      <category>31_6</category>
+      <guid isPermaLink="false">~space-schedule~launch~arianespace~0834f42e-8b04-4026-a3e1-df7a0d570bba</guid>
+      <pubDate>Tue, 14 Sep 2021 18:07:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085936.jpeg"/>
     </item>
   </channel>
 </rss>

@@ -175,73 +175,40 @@
    }
   },
   {
-   "id": "~space-schedule~launch~space_x~6b9f9fe6-7f94-498b-a664-7c9e42dbe76d",
-   "title": "Falcon 9 Block 5 | Starlink Group 2-1",
-   "content_text": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/6b9f9fe6-7f94-498b-a664-7c9e42dbe76d.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160237.png",
-   "date_published": "2021-09-14T03:55:00Z",
-   "date_modified": "2021-09-14T03:55:00Z",
+   "id": "~space-schedule~launch~arianespace~0834f42e-8b04-4026-a3e1-df7a0d570bba",
+   "title": "Soyuz 2.1b/Fregat-M | OneWeb 10",
+   "content_text": "A batch of 34 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/0834f42e-8b04-4026-a3e1-df7a0d570bba.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085936.jpeg",
+   "date_published": "2021-09-14T18:07:00Z",
+   "date_modified": "2021-09-14T18:07:00Z",
    "tags": [
     "launch",
-    "space_x",
+    "arianespace",
     "commercial",
-    "falcon",
-    "falcon_9",
+    "soyuz",
+    "soyuz_2_1_b_fregat_m",
     "communications",
-    "space_launch_complex_4_e"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160237.png"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "SpaceX | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "6b9f9fe6-7f94-498b-a664-7c9e42dbe76d",
-    "global": "~space-schedule~launch~space_x~6b9f9fe6-7f94-498b-a664-7c9e42dbe76d"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~eva~307",
-   "title": "US EVA-77",
-   "content_text": "JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet will venture outside the orbiting outpost to perform maintenance tasks and activate the Bartolomeo platform on the exterior of the Columbus module.",
-   "url": "https://www.youtube.com/watch?v=vvsMOSAfHG0",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg",
-   "date_published": "2021-09-12T12:30:00Z",
-   "date_modified": "2021-09-12T12:30:00Z",
-   "tags": [
-    "event",
-    "eva"
+    "31_6"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-77_image_20210702110258.jpg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085936.jpeg"
     }
    ],
    "_meta": {
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "EVA | Event | Space Schedule"
+    "subtitle": "Arianespace | Launch | Space Schedule"
    },
    "_id": {
-    "parent": "307",
-    "global": "~space-schedule~event~eva~307"
+    "parent": "0834f42e-8b04-4026-a3e1-df7a0d570bba",
+    "global": "~space-schedule~launch~arianespace~0834f42e-8b04-4026-a3e1-df7a0d570bba"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
    }
   }
  ],
@@ -253,7 +220,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 7,
+  "itemCount": 6,
   "pageNumber": 1,
   "pageCount": 1
  }

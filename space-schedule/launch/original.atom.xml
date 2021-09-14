@@ -41,19 +41,19 @@ The Crew Dragon spacecraft will remain in a 540 km high orbit for three days bef
     <category term="launch_complex_39_a"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~space_x~6b9f9fe6-7f94-498b-a664-7c9e42dbe76d</id>
-    <title>Falcon 9 Block 5 | Starlink Group 2-1</title>
-    <updated>2021-09-14T03:55:00Z</updated>
-    <published>2021-09-14T03:55:00Z</published>
-    <content type="text">A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/6b9f9fe6-7f94-498b-a664-7c9e42dbe76d.json"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160237.png"/>
+    <id>~space-schedule~launch~arianespace~0834f42e-8b04-4026-a3e1-df7a0d570bba</id>
+    <title>Soyuz 2.1b/Fregat-M | OneWeb 10</title>
+    <updated>2021-09-14T18:07:00Z</updated>
+    <published>2021-09-14T18:07:00Z</published>
+    <content type="text">A batch of 34 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/0834f42e-8b04-4026-a3e1-df7a0d570bba.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085936.jpeg"/>
     <category term="launch"/>
-    <category term="space_x"/>
+    <category term="arianespace"/>
     <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon_9"/>
+    <category term="soyuz"/>
+    <category term="soyuz_2_1_b_fregat_m"/>
     <category term="communications"/>
-    <category term="space_launch_complex_4_e"/>
+    <category term="31_6"/>
   </entry>
 </feed>
