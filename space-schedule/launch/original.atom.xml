@@ -31,7 +31,7 @@
     <content type="text">Inspiration4 is the world’s first all-commercial astronaut mission to orbit. Jared Isaacman, founder and CEO of Shift4 Payments, is donating the three seats alongside him aboard Dragon to individuals from the general public. The Inspiration4 crew will receive commercial astronaut training by SpaceX on the Falcon 9 launch vehicle and Dragon spacecraft, orbital mechanics, operating in microgravity, zero gravity, and other forms of stress testing. They will go through emergency preparedness training, spacesuit and spacecraft ingress and egress exercises, as well as partial and full mission simulations.&#xD;
 The Crew Dragon spacecraft will remain in a 540 km high orbit for three days before reentering Earth's atmosphere for a soft water landing off the coast of Florida.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/621d64e6-0513-45dc-8ffa-c9fd56518398.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075452.jpeg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210914155606.jpeg"/>
     <category term="launch"/>
     <category term="space_x"/>
     <category term="commercial"/>
@@ -39,21 +39,5 @@ The Crew Dragon spacecraft will remain in a 540 km high orbit for three days bef
     <category term="falcon_9"/>
     <category term="human_exploration"/>
     <category term="launch_complex_39_a"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~arianespace~0834f42e-8b04-4026-a3e1-df7a0d570bba</id>
-    <title>Soyuz 2.1b/Fregat-M | OneWeb 10</title>
-    <updated>2021-09-14T18:07:00Z</updated>
-    <published>2021-09-14T18:07:00Z</published>
-    <content type="text">A batch of 34 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/0834f42e-8b04-4026-a3e1-df7a0d570bba.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085936.jpeg"/>
-    <category term="launch"/>
-    <category term="arianespace"/>
-    <category term="commercial"/>
-    <category term="soyuz"/>
-    <category term="soyuz_2_1_b_fregat_m"/>
-    <category term="communications"/>
-    <category term="31_6"/>
   </entry>
 </feed>

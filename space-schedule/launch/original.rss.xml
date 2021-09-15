@@ -38,22 +38,7 @@ The Crew Dragon spacecraft will remain in a 540 km high orbit for three days bef
       <category>launch_complex_39_a</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~621d64e6-0513-45dc-8ffa-c9fd56518398</guid>
       <pubDate>Thu, 16 Sep 2021 00:02:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075452.jpeg"/>
-    </item>
-    <item>
-      <title>Soyuz 2.1b/Fregat-M | OneWeb 10</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/0834f42e-8b04-4026-a3e1-df7a0d570bba.json</link>
-      <description>A batch of 34 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</description>
-      <category>launch</category>
-      <category>arianespace</category>
-      <category>commercial</category>
-      <category>soyuz</category>
-      <category>soyuz_2_1_b_fregat_m</category>
-      <category>communications</category>
-      <category>31_6</category>
-      <guid isPermaLink="false">~space-schedule~launch~arianespace~0834f42e-8b04-4026-a3e1-df7a0d570bba</guid>
-      <pubDate>Tue, 14 Sep 2021 18:07:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085936.jpeg"/>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210914155606.jpeg"/>
     </item>
   </channel>
 </rss>
