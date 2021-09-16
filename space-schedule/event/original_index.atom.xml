@@ -19,16 +19,16 @@
   <entry>
     <id>https://launch-library-rss.multipolygon.net/space-schedule/event/undocking/original.json</id>
     <title>Undocking | Event | Space Schedule</title>
-    <updated>2021-09-30T00:00:00Z</updated>
-    <published>2021-09-30T00:00:00Z</published>
+    <updated>2021-09-30T13:00:00Z</updated>
+    <published>2021-09-30T13:00:00Z</published>
     <content type="text">1 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fundocking%2Foriginal.json"/>
   </entry>
   <entry>
     <id>https://launch-library-rss.multipolygon.net/space-schedule/event/relocation/original.json</id>
     <title>Relocation | Event | Space Schedule</title>
-    <updated>2021-09-28T00:00:00Z</updated>
-    <published>2021-09-28T00:00:00Z</published>
+    <updated>2021-09-28T12:21:00Z</updated>
+    <published>2021-09-28T12:21:00Z</published>
     <content type="text">1 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Frelocation%2Foriginal.json"/>
   </entry>
@@ -39,13 +39,5 @@
     <published>2021-09-18T23:00:00Z</published>
     <content type="text">2 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Flanding%2Foriginal.json"/>
-  </entry>
-  <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json</id>
-    <title>Press Event | Event | Space Schedule</title>
-    <updated>2021-09-14T20:40:00Z</updated>
-    <published>2021-09-14T20:40:00Z</published>
-    <content type="text">1 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json"/>
   </entry>
 </feed>

@@ -37,8 +37,8 @@
   <entry>
     <id>~space-schedule~event~undocking~276</id>
     <title>CRS-23 Dragon Undocking</title>
-    <updated>2021-09-30T00:00:00Z</updated>
-    <published>2021-09-30T00:00:00Z</published>
+    <updated>2021-09-30T13:00:00Z</updated>
+    <published>2021-09-30T13:00:00Z</published>
     <content type="text">The SpaceX CRS-23 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg"/>
@@ -48,9 +48,9 @@
   <entry>
     <id>~space-schedule~event~relocation~277</id>
     <title>Soyuz MS-18 Relocation</title>
-    <updated>2021-09-28T00:00:00Z</updated>
-    <published>2021-09-28T00:00:00Z</published>
-    <content type="text">The Soyuz MS-17 spacecraft will be relocated from the Rassvet module to the Nauka module.</content>
+    <updated>2021-09-28T12:21:00Z</updated>
+    <published>2021-09-28T12:21:00Z</published>
+    <content type="text">The Soyuz MS-18 spacecraft will be relocated from the Rassvet module to the Nauka module.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_rel_image_20210519074417.jpeg"/>
     <category term="event"/>
@@ -62,7 +62,7 @@
     <updated>2021-09-18T23:00:00Z</updated>
     <published>2021-09-18T23:00:00Z</published>
     <content type="text">The "Resilience" Crew Dragon will splashdown in the Gulf of Mexico, bringing Jared Isaacman, Sian Proctor, Chris Sembroski and Hayley Arceneaux back to Earth after spending three days in orbit as part of the Inspiration4 mission.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/event/324/"/>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/event/324.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/inspiration4_2_image_20210914170507.jpg"/>
     <category term="event"/>
     <category term="landing"/>
@@ -73,37 +73,9 @@
     <updated>2021-09-17T05:30:00Z</updated>
     <published>2021-09-17T05:30:00Z</published>
     <content type="text">The Shenzhou 12 Descent Capsule will land in the desert near Jiuquan Satellite Launch Center, China, bringing Nie Haisheng, Liu Boming, and Tang Hongbo back to Earth after spending three months in orbit as part of the first mission to the Chinese Space Station.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/event/327/"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png"/>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/event/327.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/shenzhou_12_lan_image_20210915224539.jpg"/>
     <category term="event"/>
     <category term="landing"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~space_x~621d64e6-0513-45dc-8ffa-c9fd56518398</id>
-    <title>Falcon 9 Block 5 | Inspiration4</title>
-    <updated>2021-09-16T00:02:00Z</updated>
-    <published>2021-09-16T00:02:00Z</published>
-    <content type="text">Inspiration4 is the world’s first all-commercial astronaut mission to orbit. Jared Isaacman, founder and CEO of Shift4 Payments, is donating the three seats alongside him aboard Dragon to individuals from the general public. The Inspiration4 crew will receive commercial astronaut training by SpaceX on the Falcon 9 launch vehicle and Dragon spacecraft, orbital mechanics, operating in microgravity, zero gravity, and other forms of stress testing. They will go through emergency preparedness training, spacesuit and spacecraft ingress and egress exercises, as well as partial and full mission simulations.&#xD;
-The Crew Dragon spacecraft will remain in a 540 km high orbit for three days before reentering Earth's atmosphere for a soft water landing off the coast of Florida.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/621d64e6-0513-45dc-8ffa-c9fd56518398.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210914155606.jpeg"/>
-    <category term="launch"/>
-    <category term="space_x"/>
-    <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon_9"/>
-    <category term="human_exploration"/>
-    <category term="launch_complex_39_a"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~press_event~323</id>
-    <title>Inspiration4 Crew Q&amp;A</title>
-    <updated>2021-09-14T20:40:00Z</updated>
-    <published>2021-09-14T20:40:00Z</published>
-    <content type="text">SpaceX will hold a Q&amp;A session with the Inspiration4 crew from LC39A at NASA's Kennedy Space Center.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Q-oQWbuPAvg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/inspiration4_cr_image_20210914165902.jpeg"/>
-    <category term="event"/>
-    <category term="press_event"/>
   </entry>
 </feed>

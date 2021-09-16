@@ -11,7 +11,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
       <title>Inspiration4 "Resilience" Crew Dragon Splashdown</title>
-      <link>https://ll.thespacedevs.com/2.2.0/event/324/</link>
+      <link>https://ll.thespacedevs.com/2.2.0/event/324.json</link>
       <description>The "Resilience" Crew Dragon will splashdown in the Gulf of Mexico, bringing Jared Isaacman, Sian Proctor, Chris Sembroski and Hayley Arceneaux back to Earth after spending three days in orbit as part of the Inspiration4 mission.</description>
       <category>event</category>
       <category>landing</category>
@@ -21,13 +21,13 @@
     </item>
     <item>
       <title>Shenzhou 12 Landing</title>
-      <link>https://ll.thespacedevs.com/2.2.0/event/327/</link>
+      <link>https://ll.thespacedevs.com/2.2.0/event/327.json</link>
       <description>The Shenzhou 12 Descent Capsule will land in the desert near Jiuquan Satellite Launch Center, China, bringing Nie Haisheng, Liu Boming, and Tang Hongbo back to Earth after spending three months in orbit as part of the first mission to the Chinese Space Station.</description>
       <category>event</category>
       <category>landing</category>
       <guid isPermaLink="false">327</guid>
       <pubDate>Fri, 17 Sep 2021 05:30:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png"/>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/shenzhou_12_lan_image_20210915224539.jpg"/>
     </item>
   </channel>
 </rss>

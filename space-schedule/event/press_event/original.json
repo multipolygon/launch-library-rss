@@ -1,42 +1,16 @@
 {
  "version": "https://jsonfeed.org/version/1",
  "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json",
- "title": "Press Event | Event | Space Schedule",
- "items": [
-  {
-   "id": "323",
-   "title": "Inspiration4 Crew Q&A",
-   "content_text": "SpaceX will hold a Q&A session with the Inspiration4 crew from LC39A at NASA's Kennedy Space Center.",
-   "url": "https://www.youtube.com/watch?v=Q-oQWbuPAvg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/inspiration4_cr_image_20210914165902.jpeg",
-   "date_published": "2021-09-14T20:40:00Z",
-   "date_modified": "2021-09-14T20:40:00Z",
-   "tags": [
-    "event",
-    "press_event"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/inspiration4_cr_image_20210914165902.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1
-   }
-  }
- ],
+ "title": "Press Event",
+ "items": [],
  "_feed_url": {
   "rss": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.rss.xml",
   "atom": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.atom.xml"
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json",
  "_meta": {
-  "itemCount": 1,
+  "itemCount": 0,
   "pageNumber": 1,
-  "pageCount": 1
+  "pageCount": 0
  }
 }

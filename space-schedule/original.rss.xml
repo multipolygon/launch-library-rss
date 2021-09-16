@@ -41,22 +41,22 @@
       <category>event</category>
       <category>undocking</category>
       <guid isPermaLink="false">~space-schedule~event~undocking~276</guid>
-      <pubDate>Thu, 30 Sep 2021 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 30 Sep 2021 13:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg"/>
     </item>
     <item>
       <title>Soyuz MS-18 Relocation</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The Soyuz MS-17 spacecraft will be relocated from the Rassvet module to the Nauka module.</description>
+      <description>The Soyuz MS-18 spacecraft will be relocated from the Rassvet module to the Nauka module.</description>
       <category>event</category>
       <category>relocation</category>
       <guid isPermaLink="false">~space-schedule~event~relocation~277</guid>
-      <pubDate>Tue, 28 Sep 2021 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 28 Sep 2021 12:21:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_rel_image_20210519074417.jpeg"/>
     </item>
     <item>
       <title>Inspiration4 "Resilience" Crew Dragon Splashdown</title>
-      <link>https://ll.thespacedevs.com/2.2.0/event/324/</link>
+      <link>https://ll.thespacedevs.com/2.2.0/event/324.json</link>
       <description>The "Resilience" Crew Dragon will splashdown in the Gulf of Mexico, bringing Jared Isaacman, Sian Proctor, Chris Sembroski and Hayley Arceneaux back to Earth after spending three days in orbit as part of the Inspiration4 mission.</description>
       <category>event</category>
       <category>landing</category>
@@ -66,39 +66,13 @@
     </item>
     <item>
       <title>Shenzhou 12 Landing</title>
-      <link>https://ll.thespacedevs.com/2.2.0/event/327/</link>
+      <link>https://ll.thespacedevs.com/2.2.0/event/327.json</link>
       <description>The Shenzhou 12 Descent Capsule will land in the desert near Jiuquan Satellite Launch Center, China, bringing Nie Haisheng, Liu Boming, and Tang Hongbo back to Earth after spending three months in orbit as part of the first mission to the Chinese Space Station.</description>
       <category>event</category>
       <category>landing</category>
       <guid isPermaLink="false">~space-schedule~event~landing~327</guid>
       <pubDate>Fri, 17 Sep 2021 05:30:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png"/>
-    </item>
-    <item>
-      <title>Falcon 9 Block 5 | Inspiration4</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/621d64e6-0513-45dc-8ffa-c9fd56518398.json</link>
-      <description>Inspiration4 is the world’s first all-commercial astronaut mission to orbit. Jared Isaacman, founder and CEO of Shift4 Payments, is donating the three seats alongside him aboard Dragon to individuals from the general public. The Inspiration4 crew will receive commercial astronaut training by SpaceX on the Falcon 9 launch vehicle and Dragon spacecraft, orbital mechanics, operating in microgravity, zero gravity, and other forms of stress testing. They will go through emergency preparedness training, spacesuit and spacecraft ingress and egress exercises, as well as partial and full mission simulations.&#xD;
-The Crew Dragon spacecraft will remain in a 540 km high orbit for three days before reentering Earth's atmosphere for a soft water landing off the coast of Florida.</description>
-      <category>launch</category>
-      <category>space_x</category>
-      <category>commercial</category>
-      <category>falcon</category>
-      <category>falcon_9</category>
-      <category>human_exploration</category>
-      <category>launch_complex_39_a</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~621d64e6-0513-45dc-8ffa-c9fd56518398</guid>
-      <pubDate>Thu, 16 Sep 2021 00:02:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210914155606.jpeg"/>
-    </item>
-    <item>
-      <title>Inspiration4 Crew Q&amp;A</title>
-      <link>https://www.youtube.com/watch?v=Q-oQWbuPAvg</link>
-      <description>SpaceX will hold a Q&amp;A session with the Inspiration4 crew from LC39A at NASA's Kennedy Space Center.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~323</guid>
-      <pubDate>Tue, 14 Sep 2021 20:40:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/inspiration4_cr_image_20210914165902.jpeg"/>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/shenzhou_12_lan_image_20210915224539.jpg"/>
     </item>
   </channel>
 </rss>
