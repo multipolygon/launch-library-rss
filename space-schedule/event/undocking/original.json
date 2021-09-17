@@ -4,6 +4,31 @@
  "title": "Undocking | Event | Space Schedule",
  "items": [
   {
+   "id": "279",
+   "title": "Soyuz MS-18 Undocking",
+   "content_text": "The Soyuz MS-18 spacecraft will undock from the International Space Station carrying Expedition 65 crew member ROSCOSMOS cosmonaut Oleg Novitskiy as well as film director Klim Shipenko and actress Yulia Peresild.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_und_image_20210519074939.jpeg",
+   "date_published": "2021-10-17T00:00:00Z",
+   "date_modified": "2021-10-17T00:00:00Z",
+   "tags": [
+    "event",
+    "undocking"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_und_image_20210519074939.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1
+   }
+  },
+  {
    "id": "276",
    "title": "CRS-23 Dragon Undocking",
    "content_text": "The SpaceX CRS-23 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.",
@@ -35,7 +60,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fundocking%2Foriginal.json",
  "_meta": {
-  "itemCount": 1,
+  "itemCount": 2,
   "pageNumber": 1,
   "pageCount": 1
  }

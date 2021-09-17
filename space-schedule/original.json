@@ -3,6 +3,72 @@
  "description": "All items in subcategories for category.",
  "items": [
   {
+   "id": "~space-schedule~event~landing~292",
+   "title": "Soyuz MS-18 Landing",
+   "content_text": "The Soyuz MS-18 spacecraft carrying ROSCOSMOS cosmonaut Oleg Novitskiy as well as film director Klim Shipenko and actress Yulia Peresild will land back on Earth near Dzhezkazgan, Kazakhstan.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_lan_image_20210519132618.jpg",
+   "date_published": "2021-10-17T03:00:00Z",
+   "date_modified": "2021-10-17T03:00:00Z",
+   "tags": [
+    "event",
+    "landing"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_lan_image_20210519132618.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Landing | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "292",
+    "global": "~space-schedule~event~landing~292"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~undocking~279",
+   "title": "Soyuz MS-18 Undocking",
+   "content_text": "The Soyuz MS-18 spacecraft will undock from the International Space Station carrying Expedition 65 crew member ROSCOSMOS cosmonaut Oleg Novitskiy as well as film director Klim Shipenko and actress Yulia Peresild.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_und_image_20210519074939.jpeg",
+   "date_published": "2021-10-17T00:00:00Z",
+   "date_modified": "2021-10-17T00:00:00Z",
+   "tags": [
+    "event",
+    "undocking"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_und_image_20210519074939.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Undocking | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "279",
+    "global": "~space-schedule~event~undocking~279"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/undocking/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~docking~278",
    "title": "Soyuz MS-19 Docking",
    "content_text": "The Soyuz MS-19 spacecraft will dock to the International Space Station carrying ROSCOSMOS cosmonaut Anton Shkaplerov as Expeditions 65/66 crew member as well as film director Klim Shipenko and actress Yulia Peresild.",
@@ -138,6 +204,43 @@
    }
   },
   {
+   "id": "~space-schedule~launch~united_launch_alliance~f8a96988-9ba4-4480-84c4-496492e67e23",
+   "title": "Atlas V 401 | Landsat 9",
+   "content_text": "Landsat 9 is a partnership between NASA and the U.S. Geological Survey to continue the Landsat programâ€™s critical role in monitoring, understanding and managing the land resources needed to sustain human life. Landsat 9, like Landsat 8, will have a higher imaging capacity than past Landsats, allowing more valuable data to be added to the Landsatâ€™s global land archive. Satellite will operaite in sun-synchronous orbit at an altitude of 705 km and has a mission lifetime of 5 years.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/f8a96988-9ba4-4480-84c4-496492e67e23.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg",
+   "date_published": "2021-09-27T18:11:00Z",
+   "date_modified": "2021-09-27T18:11:00Z",
+   "tags": [
+    "launch",
+    "united_launch_alliance",
+    "commercial",
+    "atlas",
+    "atlas_v_401",
+    "earth_science",
+    "space_launch_complex_3_e"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "United Launch Alliance | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "f8a96988-9ba4-4480-84c4-496492e67e23",
+    "global": "~space-schedule~launch~united_launch_alliance~f8a96988-9ba4-4480-84c4-496492e67e23"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/united_launch_alliance/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~landing~324",
    "title": "Inspiration4 \"Resilience\" Crew Dragon Splashdown",
    "content_text": "The \"Resilience\" Crew Dragon will splashdown in the Gulf of Mexico, bringing Jared Isaacman, Sian Proctor, Chris Sembroski and Hayley Arceneaux back to Earth after spending three days in orbit as part of the Inspiration4 mission.",
@@ -173,7 +276,7 @@
    "id": "~space-schedule~event~landing~327",
    "title": "Shenzhou 12 Landing",
    "content_text": "The Shenzhou 12 Descent Capsule will land in the desert near Jiuquan Satellite Launch Center, China, bringing Nie Haisheng, Liu Boming, and Tang Hongbo back to Earth after spending three months in orbit as part of the first mission to the Chinese Space Station.",
-   "url": "https://ll.thespacedevs.com/2.2.0/event/327.json",
+   "url": "https://www.youtube.com/watch?v=I0p3P3vErDQ",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/shenzhou_12_lan_image_20210915224539.jpg",
    "date_published": "2021-09-17T05:30:00Z",
    "date_modified": "2021-09-17T05:30:00Z",
@@ -191,6 +294,7 @@
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
+    "youtubeCount": 1,
     "subtitle": "Landing | Event | Space Schedule"
    },
    "_id": {
@@ -210,7 +314,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 6,
+  "itemCount": 9,
   "pageNumber": 1,
   "pageCount": 1
  }

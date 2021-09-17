@@ -7,9 +7,29 @@
     <description>All items in subcategories for category.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Tue, 05 Oct 2021 00:00:00 GMT</pubDate>
+    <pubDate>Sun, 17 Oct 2021 03:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Soyuz MS-18 Landing</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The Soyuz MS-18 spacecraft carrying ROSCOSMOS cosmonaut Oleg Novitskiy as well as film director Klim Shipenko and actress Yulia Peresild will land back on Earth near Dzhezkazgan, Kazakhstan.</description>
+      <category>event</category>
+      <category>landing</category>
+      <guid isPermaLink="false">~space-schedule~event~landing~292</guid>
+      <pubDate>Sun, 17 Oct 2021 03:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_lan_image_20210519132618.jpg"/>
+    </item>
+    <item>
+      <title>Soyuz MS-18 Undocking</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The Soyuz MS-18 spacecraft will undock from the International Space Station carrying Expedition 65 crew member ROSCOSMOS cosmonaut Oleg Novitskiy as well as film director Klim Shipenko and actress Yulia Peresild.</description>
+      <category>event</category>
+      <category>undocking</category>
+      <guid isPermaLink="false">~space-schedule~event~undocking~279</guid>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_und_image_20210519074939.jpeg"/>
+    </item>
     <item>
       <title>Soyuz MS-19 Docking</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
@@ -55,6 +75,21 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_rel_image_20210519074417.jpeg"/>
     </item>
     <item>
+      <title>Atlas V 401 | Landsat 9</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/f8a96988-9ba4-4480-84c4-496492e67e23.json</link>
+      <description>Landsat 9 is a partnership between NASA and the U.S. Geological Survey to continue the Landsat programâ€™s critical role in monitoring, understanding and managing the land resources needed to sustain human life. Landsat 9, like Landsat 8, will have a higher imaging capacity than past Landsats, allowing more valuable data to be added to the Landsatâ€™s global land archive. Satellite will operaite in sun-synchronous orbit at an altitude of 705 km and has a mission lifetime of 5 years.</description>
+      <category>launch</category>
+      <category>united_launch_alliance</category>
+      <category>commercial</category>
+      <category>atlas</category>
+      <category>atlas_v_401</category>
+      <category>earth_science</category>
+      <category>space_launch_complex_3_e</category>
+      <guid isPermaLink="false">~space-schedule~launch~united_launch_alliance~f8a96988-9ba4-4480-84c4-496492e67e23</guid>
+      <pubDate>Mon, 27 Sep 2021 18:11:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg"/>
+    </item>
+    <item>
       <title>Inspiration4 "Resilience" Crew Dragon Splashdown</title>
       <link>https://ll.thespacedevs.com/2.2.0/event/324.json</link>
       <description>The "Resilience" Crew Dragon will splashdown in the Gulf of Mexico, bringing Jared Isaacman, Sian Proctor, Chris Sembroski and Hayley Arceneaux back to Earth after spending three days in orbit as part of the Inspiration4 mission.</description>
@@ -66,7 +101,7 @@
     </item>
     <item>
       <title>Shenzhou 12 Landing</title>
-      <link>https://ll.thespacedevs.com/2.2.0/event/327.json</link>
+      <link>https://www.youtube.com/watch?v=I0p3P3vErDQ</link>
       <description>The Shenzhou 12 Descent Capsule will land in the desert near Jiuquan Satellite Launch Center, China, bringing Nie Haisheng, Liu Boming, and Tang Hongbo back to Earth after spending three months in orbit as part of the first mission to the Chinese Space Station.</description>
       <category>event</category>
       <category>landing</category>

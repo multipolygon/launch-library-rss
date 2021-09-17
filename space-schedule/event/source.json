@@ -15,7 +15,7 @@
             "description": "The Shenzhou 12 Descent Capsule will land in the desert near Jiuquan Satellite Launch Center, China, bringing Nie Haisheng, Liu Boming, and Tang Hongbo back to Earth after spending three months in orbit as part of the first mission to the Chinese Space Station.",
             "location": "Near Jiuquan Satellite Launch Center, China",
             "news_url": null,
-            "video_url": null,
+            "video_url": "https://www.youtube.com/watch?v=I0p3P3vErDQ",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/shenzhou_12_lan_image_20210915224539.jpg",
             "date": "2021-09-17T05:30:00Z",
             "launches": [
@@ -143,7 +143,7 @@
                     "url": "https://ll.thespacedevs.com/2.2.0/expedition/145.json",
                     "name": "Shenzhou 12",
                     "start": "2021-06-17T07:54:00Z",
-                    "end": null,
+                    "end": "2021-09-17T05:34:00Z",
                     "spacestation": {
                         "id": 18,
                         "url": "https://ll.thespacedevs.com/2.2.0/spacestation/18.json",
@@ -296,11 +296,11 @@
                             "name": "Kennedy Space Center, FL, USA",
                             "country_code": "USA",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg",
-                            "total_launch_count": 190,
+                            "total_launch_count": 191,
                             "total_landing_count": 0
                         },
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_87_20200803143537.jpg",
-                        "total_launch_count": 133
+                        "total_launch_count": 134
                     },
                     "webcast_live": true,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210914155606.jpeg",
@@ -665,11 +665,11 @@
                             "name": "Kennedy Space Center, FL, USA",
                             "country_code": "USA",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg",
-                            "total_launch_count": 190,
+                            "total_launch_count": 191,
                             "total_landing_count": 0
                         },
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_87_20200803143537.jpg",
-                        "total_launch_count": 133
+                        "total_launch_count": 134
                     },
                     "webcast_live": true,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg",
