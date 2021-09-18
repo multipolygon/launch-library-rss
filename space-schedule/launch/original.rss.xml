@@ -39,5 +39,20 @@
       <pubDate>Mon, 27 Sep 2021 18:11:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg"/>
     </item>
+    <item>
+      <title>Long March 7  | Tianzhou-3</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/cf0a0e4c-ce72-4b50-af07-016326cbceff.json</link>
+      <description>Second cargo delivery mission to the Chinese large modular space station.</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_technology_corporation</category>
+      <category>government</category>
+      <category>long_march_7</category>
+      <category>resupply</category>
+      <category>wenchang</category>
+      <category>tiangong_space_station</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~cf0a0e4c-ce72-4b50-af07-016326cbceff</guid>
+      <pubDate>Mon, 20 Sep 2021 07:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_7_image_20210513083007.jpeg"/>
+    </item>
   </channel>
 </rss>

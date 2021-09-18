@@ -171,10 +171,10 @@
    "id": "~space-schedule~event~landing~324",
    "title": "Inspiration4 \"Resilience\" Crew Dragon Splashdown",
    "content_text": "The \"Resilience\" Crew Dragon will splashdown in the Gulf of Mexico, bringing Jared Isaacman, Sian Proctor, Chris Sembroski and Hayley Arceneaux back to Earth after spending three days in orbit as part of the Inspiration4 mission.",
-   "url": "https://ll.thespacedevs.com/2.2.0/event/324.json",
+   "url": "https://www.youtube.com/watch?v=dpFKNNl47AM",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/inspiration4_2_image_20210914170507.jpg",
-   "date_published": "2021-09-18T23:00:00Z",
-   "date_modified": "2021-09-18T23:00:00Z",
+   "date_published": "2021-09-18T23:06:00Z",
+   "date_modified": "2021-09-18T23:06:00Z",
    "tags": [
     "event",
     "landing"
@@ -189,6 +189,7 @@
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
+    "youtubeCount": 1,
     "subtitle": "Landing | Event | Space Schedule"
    },
    "_id": {
@@ -200,21 +201,21 @@
    }
   },
   {
-   "id": "~space-schedule~event~landing~327",
-   "title": "Shenzhou 12 Landing",
-   "content_text": "The Shenzhou 12 Descent Capsule will land in the desert near Jiuquan Satellite Launch Center, China, bringing Nie Haisheng, Liu Boming, and Tang Hongbo back to Earth after spending three months in orbit as part of the first mission to the Chinese Space Station.",
-   "url": "https://www.youtube.com/watch?v=I0p3P3vErDQ",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/shenzhou_12_lan_image_20210915224539.jpg",
-   "date_published": "2021-09-17T05:30:00Z",
-   "date_modified": "2021-09-17T05:30:00Z",
+   "id": "~space-schedule~event~press_event~328",
+   "title": "Inspiration4 Live Update",
+   "content_text": "The Inspiration4 crew will share a live on-orbit update about their multi-day journey aboard the Dragon spacecraft.",
+   "url": "https://www.youtube.com/watch?v=E71ffwc13y4",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/inspiration_4_l_image_20210917173734.jpeg",
+   "date_published": "2021-09-17T21:00:00Z",
+   "date_modified": "2021-09-17T21:00:00Z",
    "tags": [
     "event",
-    "landing"
+    "press_event"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/shenzhou_12_lan_image_20210915224539.jpg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/inspiration_4_l_image_20210917173734.jpeg"
     }
    ],
    "_meta": {
@@ -222,14 +223,14 @@
     "videoCount": 0,
     "imageCount": 1,
     "youtubeCount": 1,
-    "subtitle": "Landing | Event | Space Schedule"
+    "subtitle": "Press Event | Event | Space Schedule"
    },
    "_id": {
-    "parent": "327",
-    "global": "~space-schedule~event~landing~327"
+    "parent": "328",
+    "global": "~space-schedule~event~press_event~328"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
    }
   }
  ],

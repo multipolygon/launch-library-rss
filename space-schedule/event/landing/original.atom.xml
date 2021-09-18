@@ -21,22 +21,11 @@
   <entry>
     <id>324</id>
     <title>Inspiration4 "Resilience" Crew Dragon Splashdown</title>
-    <updated>2021-09-18T23:00:00Z</updated>
-    <published>2021-09-18T23:00:00Z</published>
+    <updated>2021-09-18T23:06:00Z</updated>
+    <published>2021-09-18T23:06:00Z</published>
     <content type="text">The "Resilience" Crew Dragon will splashdown in the Gulf of Mexico, bringing Jared Isaacman, Sian Proctor, Chris Sembroski and Hayley Arceneaux back to Earth after spending three days in orbit as part of the Inspiration4 mission.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/event/324.json"/>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=dpFKNNl47AM"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/inspiration4_2_image_20210914170507.jpg"/>
-    <category term="event"/>
-    <category term="landing"/>
-  </entry>
-  <entry>
-    <id>327</id>
-    <title>Shenzhou 12 Landing</title>
-    <updated>2021-09-17T05:30:00Z</updated>
-    <published>2021-09-17T05:30:00Z</published>
-    <content type="text">The Shenzhou 12 Descent Capsule will land in the desert near Jiuquan Satellite Launch Center, China, bringing Nie Haisheng, Liu Boming, and Tang Hongbo back to Earth after spending three months in orbit as part of the first mission to the Chinese Space Station.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=I0p3P3vErDQ"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/shenzhou_12_lan_image_20210915224539.jpg"/>
     <category term="event"/>
     <category term="landing"/>
   </entry>
