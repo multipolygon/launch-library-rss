@@ -74,15 +74,4 @@
     <category term="event"/>
     <category term="landing"/>
   </entry>
-  <entry>
-    <id>~space-schedule~event~press_event~328</id>
-    <title>Inspiration4 Live Update</title>
-    <updated>2021-09-17T21:00:00Z</updated>
-    <published>2021-09-17T21:00:00Z</published>
-    <content type="text">The Inspiration4 crew will share a live on-orbit update about their multi-day journey aboard the Dragon spacecraft.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=E71ffwc13y4"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/inspiration_4_l_image_20210917173734.jpeg"/>
-    <category term="event"/>
-    <category term="press_event"/>
-  </entry>
 </feed>

@@ -199,39 +199,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~press_event~328",
-   "title": "Inspiration4 Live Update",
-   "content_text": "The Inspiration4 crew will share a live on-orbit update about their multi-day journey aboard the Dragon spacecraft.",
-   "url": "https://www.youtube.com/watch?v=E71ffwc13y4",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/inspiration_4_l_image_20210917173734.jpeg",
-   "date_published": "2021-09-17T21:00:00Z",
-   "date_modified": "2021-09-17T21:00:00Z",
-   "tags": [
-    "event",
-    "press_event"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/inspiration_4_l_image_20210917173734.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Press Event | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "328",
-    "global": "~space-schedule~event~press_event~328"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -242,7 +209,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 7,
+  "itemCount": 6,
   "pageNumber": 1,
   "pageCount": 1
  }

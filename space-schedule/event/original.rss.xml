@@ -70,15 +70,5 @@
       <pubDate>Sat, 18 Sep 2021 23:06:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/inspiration4_2_image_20210914170507.jpg"/>
     </item>
-    <item>
-      <title>Inspiration4 Live Update</title>
-      <link>https://www.youtube.com/watch?v=E71ffwc13y4</link>
-      <description>The Inspiration4 crew will share a live on-orbit update about their multi-day journey aboard the Dragon spacecraft.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~328</guid>
-      <pubDate>Fri, 17 Sep 2021 21:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/inspiration_4_l_image_20210917173734.jpeg"/>
-    </item>
   </channel>
 </rss>
