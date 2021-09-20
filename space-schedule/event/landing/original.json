@@ -27,31 +27,6 @@
     "imageCount": 1,
     "youtubeCount": 1
    }
-  },
-  {
-   "id": "324",
-   "title": "Inspiration4 \"Resilience\" Crew Dragon Splashdown",
-   "content_text": "The \"Resilience\" Crew Dragon will splashdown in the Gulf of Mexico, bringing Jared Isaacman, Sian Proctor, Chris Sembroski and Hayley Arceneaux back to Earth after spending three days in orbit as part of the Inspiration4 mission.",
-   "url": "https://www.youtube.com/watch?v=dpFKNNl47AM",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/inspiration4_2_image_20210914170507.jpg",
-   "date_published": "2021-09-18T23:06:00Z",
-   "date_modified": "2021-09-18T23:06:00Z",
-   "tags": [
-    "event",
-    "landing"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/inspiration4_2_image_20210914170507.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1
-   }
   }
  ],
  "_feed_url": {
@@ -60,7 +35,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Flanding%2Foriginal.json",
  "_meta": {
-  "itemCount": 2,
+  "itemCount": 1,
   "pageNumber": 1,
   "pageCount": 1
  }

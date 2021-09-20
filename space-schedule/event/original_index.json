@@ -6,13 +6,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Flanding%2Foriginal.json",
    "title": "Landing | Event | Space Schedule",
-   "content_text": "2 items",
+   "content_text": "1 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_lan_image_20210519132618.jpg",
    "date_published": "2021-10-17T03:00:00Z",
    "date_modified": "2021-10-17T03:00:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 2,
+    "itemCount": 1,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0
@@ -38,13 +38,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fdocking%2Foriginal.json",
    "title": "Docking | Event | Space Schedule",
-   "content_text": "1 items",
+   "content_text": "2 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-19_doc_image_20210519074727.jpeg",
    "date_published": "2021-10-05T00:00:00Z",
    "date_modified": "2021-10-05T00:00:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 1,
+    "itemCount": 2,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0

@@ -95,30 +95,14 @@
     <category term="space_launch_complex_3_e"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~cf0a0e4c-ce72-4b50-af07-016326cbceff</id>
-    <title>Long March 7  | Tianzhou-3</title>
-    <updated>2021-09-20T07:00:00Z</updated>
-    <published>2021-09-20T07:00:00Z</published>
-    <content type="text">Second cargo delivery mission to the Chinese large modular space station.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/cf0a0e4c-ce72-4b50-af07-016326cbceff.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_7_image_20210513083007.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_science_and_technology_corporation"/>
-    <category term="government"/>
-    <category term="long_march_7"/>
-    <category term="resupply"/>
-    <category term="wenchang"/>
-    <category term="tiangong_space_station"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~landing~324</id>
-    <title>Inspiration4 "Resilience" Crew Dragon Splashdown</title>
-    <updated>2021-09-18T23:06:00Z</updated>
-    <published>2021-09-18T23:06:00Z</published>
-    <content type="text">The "Resilience" Crew Dragon will splashdown in the Gulf of Mexico, bringing Jared Isaacman, Sian Proctor, Chris Sembroski and Hayley Arceneaux back to Earth after spending three days in orbit as part of the Inspiration4 mission.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=dpFKNNl47AM"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/inspiration4_2_image_20210914170507.jpg"/>
+    <id>~space-schedule~event~docking~329</id>
+    <title>Tianzhou 3 Docking</title>
+    <updated>2021-09-20T14:16:00Z</updated>
+    <published>2021-09-20T14:16:00Z</published>
+    <content type="text">Tianzhou 3 will dock to the rear docking port of the CSS Tianhe Core Module to bring supplies and equipment to the Chinese Space Station (CSS) for its next crew.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/event/329.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianzhou_3_dock_image_20210920080200.jpg"/>
     <category term="event"/>
-    <category term="landing"/>
+    <category term="docking"/>
   </entry>
 </feed>

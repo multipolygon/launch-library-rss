@@ -61,14 +61,14 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_rel_image_20210519074417.jpeg"/>
     </item>
     <item>
-      <title>Inspiration4 "Resilience" Crew Dragon Splashdown</title>
-      <link>https://www.youtube.com/watch?v=dpFKNNl47AM</link>
-      <description>The "Resilience" Crew Dragon will splashdown in the Gulf of Mexico, bringing Jared Isaacman, Sian Proctor, Chris Sembroski and Hayley Arceneaux back to Earth after spending three days in orbit as part of the Inspiration4 mission.</description>
+      <title>Tianzhou 3 Docking</title>
+      <link>https://ll.thespacedevs.com/2.2.0/event/329.json</link>
+      <description>Tianzhou 3 will dock to the rear docking port of the CSS Tianhe Core Module to bring supplies and equipment to the Chinese Space Station (CSS) for its next crew.</description>
       <category>event</category>
-      <category>landing</category>
-      <guid isPermaLink="false">~space-schedule~event~landing~324</guid>
-      <pubDate>Sat, 18 Sep 2021 23:06:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/inspiration4_2_image_20210914170507.jpg"/>
+      <category>docking</category>
+      <guid isPermaLink="false">~space-schedule~event~docking~329</guid>
+      <pubDate>Mon, 20 Sep 2021 14:16:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianzhou_3_dock_image_20210920080200.jpg"/>
     </item>
   </channel>
 </rss>

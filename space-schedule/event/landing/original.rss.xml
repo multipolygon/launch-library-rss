@@ -19,15 +19,5 @@
       <pubDate>Sun, 17 Oct 2021 03:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_lan_image_20210519132618.jpg"/>
     </item>
-    <item>
-      <title>Inspiration4 "Resilience" Crew Dragon Splashdown</title>
-      <link>https://www.youtube.com/watch?v=dpFKNNl47AM</link>
-      <description>The "Resilience" Crew Dragon will splashdown in the Gulf of Mexico, bringing Jared Isaacman, Sian Proctor, Chris Sembroski and Hayley Arceneaux back to Earth after spending three days in orbit as part of the Inspiration4 mission.</description>
-      <category>event</category>
-      <category>landing</category>
-      <guid isPermaLink="false">324</guid>
-      <pubDate>Sat, 18 Sep 2021 23:06:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/inspiration4_2_image_20210914170507.jpg"/>
-    </item>
   </channel>
 </rss>
