@@ -90,8 +90,8 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg"/>
     </item>
     <item>
-      <title>Tianzhou 3 Docking</title>
-      <link>https://ll.thespacedevs.com/2.2.0/event/329.json</link>
+      <title>Tianzhou-3 Docking</title>
+      <link>https://ll.thespacedevs.com/2.2.0/event/329/</link>
       <description>Tianzhou 3 will dock to the rear docking port of the CSS Tianhe Core Module to bring supplies and equipment to the Chinese Space Station (CSS) for its next crew.</description>
       <category>event</category>
       <category>docking</category>
