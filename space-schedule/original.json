@@ -3,13 +3,46 @@
  "description": "All items in subcategories for category.",
  "items": [
   {
+   "id": "~space-schedule~event~relocation~280",
+   "title": "Progress MS-17 Relocation",
+   "content_text": "The Progress MS-17 spacecraft will be relocated from the Poisk module to the Nauka module.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519111149.jpeg",
+   "date_published": "2021-10-21T00:00:00Z",
+   "date_modified": "2021-10-21T00:00:00Z",
+   "tags": [
+    "event",
+    "relocation"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519111149.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Relocation | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "280",
+    "global": "~space-schedule~event~relocation~280"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/relocation/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~landing~292",
    "title": "Soyuz MS-18 Landing",
    "content_text": "The Soyuz MS-18 spacecraft carrying ROSCOSMOS cosmonaut Oleg Novitskiy as well as film director Klim Shipenko and actress Yulia Peresild will land back on Earth near Dzhezkazgan, Kazakhstan.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_lan_image_20210519132618.jpg",
-   "date_published": "2021-10-17T03:00:00Z",
-   "date_modified": "2021-10-17T03:00:00Z",
+   "date_published": "2021-10-17T04:36:44Z",
+   "date_modified": "2021-10-17T04:36:44Z",
    "tags": [
     "event",
     "landing"
@@ -41,8 +74,8 @@
    "content_text": "The Soyuz MS-18 spacecraft will undock from the International Space Station carrying Expedition 65 crew member ROSCOSMOS cosmonaut Oleg Novitskiy as well as film director Klim Shipenko and actress Yulia Peresild.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_und_image_20210519074939.jpeg",
-   "date_published": "2021-10-17T00:00:00Z",
-   "date_modified": "2021-10-17T00:00:00Z",
+   "date_published": "2021-10-17T01:11:30Z",
+   "date_modified": "2021-10-17T01:11:30Z",
    "tags": [
     "event",
     "undocking"
@@ -74,8 +107,8 @@
    "content_text": "The Soyuz MS-19 spacecraft will dock to the International Space Station carrying ROSCOSMOS cosmonaut Anton Shkaplerov as Expeditions 65/66 crew member as well as film director Klim Shipenko and actress Yulia Peresild.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-19_doc_image_20210519074727.jpeg",
-   "date_published": "2021-10-05T00:00:00Z",
-   "date_modified": "2021-10-05T00:00:00Z",
+   "date_published": "2021-10-05T12:12:00Z",
+   "date_modified": "2021-10-05T12:12:00Z",
    "tags": [
     "event",
     "docking"
@@ -99,6 +132,39 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~change_of_command~330",
+   "title": "ISS Expedition 65 Change of Command Ceremony",
+   "content_text": "JAXA astronaut Hakihiko Hoshide, second Expedition 65 commander, will hand over the International Space Station command to ESA astronaut Thomas Pesquet.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20210921171653.jpeg",
+   "date_published": "2021-10-04T18:35:00Z",
+   "date_modified": "2021-10-04T18:35:00Z",
+   "tags": [
+    "event",
+    "change_of_command"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20210921171653.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Change of Command | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "330",
+    "global": "~space-schedule~event~change_of_command~330"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/change_of_command/original.json"
    }
   },
   {
@@ -239,38 +305,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/united_launch_alliance/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~docking~329",
-   "title": "Tianzhou-3 Docking",
-   "content_text": "Tianzhou 3 will dock to the rear docking port of the CSS Tianhe Core Module to bring supplies and equipment to the Chinese Space Station (CSS) for its next crew.",
-   "url": "https://ll.thespacedevs.com/2.2.0/event/329/",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianzhou_3_dock_image_20210920080200.jpg",
-   "date_published": "2021-09-20T14:16:00Z",
-   "date_modified": "2021-09-20T14:16:00Z",
-   "tags": [
-    "event",
-    "docking"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/tianzhou_3_dock_image_20210920080200.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Docking | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "329",
-    "global": "~space-schedule~event~docking~329"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -281,7 +315,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 8,
+  "itemCount": 9,
   "pageNumber": 1,
   "pageCount": 1
  }
