@@ -57,7 +57,7 @@
       <category>event</category>
       <category>change_of_command</category>
       <guid isPermaLink="false">~space-schedule~event~change_of_command~330</guid>
-      <pubDate>Mon, 04 Oct 2021 18:35:00 GMT</pubDate>
+      <pubDate>Mon, 04 Oct 2021 18:25:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20210921171653.jpeg"/>
     </item>
     <item>
@@ -108,6 +108,33 @@
       <guid isPermaLink="false">~space-schedule~launch~united_launch_alliance~f8a96988-9ba4-4480-84c4-496492e67e23</guid>
       <pubDate>Mon, 27 Sep 2021 18:11:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg"/>
+    </item>
+    <item>
+      <title>Long March 3B/E | Unknown</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/b48423e2-ba38-46d4-88bb-45cdbb6d74a5.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_technology_corporation</category>
+      <category>government</category>
+      <category>long_march_3</category>
+      <category>launch_complex_3_lc_3_la_1</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~b48423e2-ba38-46d4-88bb-45cdbb6d74a5</guid>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
+    </item>
+    <item>
+      <title>Kuaizhou-1A | Jilin-1-02D</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/30412a48-cb4d-43d6-a304-6ae5f062504f.json</link>
+      <description>Jilin-1 is a series of Chinese commercial remote sensing satellites.</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_industry_corporation</category>
+      <category>government</category>
+      <category>kuaizhou</category>
+      <category>earth_science</category>
+      <category>unknown_pad</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_industry_corporation~30412a48-cb4d-43d6-a304-6ae5f062504f</guid>
+      <pubDate>Sun, 26 Sep 2021 22:10:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg"/>
     </item>
   </channel>
 </rss>

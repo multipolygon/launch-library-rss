@@ -1,5 +1,5 @@
 {
-    "count": 31,
+    "count": 75,
     "next": "https://ll.thespacedevs.com/2.0.0/event/upcoming.json?limit=10&offset=10",
     "previous": null,
     "results": [
@@ -562,7 +562,7 @@
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20210921171653.jpeg",
-            "date": "2021-10-04T18:35:00Z",
+            "date": "2021-10-04T18:25:00Z",
             "launches": [],
             "expeditions": [
                 {
@@ -703,7 +703,7 @@
                         "id": 1253,
                         "launch_library_id": null,
                         "name": "Soyuz MS-19",
-                        "description": "Soyuz MS-19 will carry Roscosmos cosmonaut Anton Shkaplerov as well as Klim Shipenko, a film producer and an actress to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan.",
+                        "description": "Soyuz mission launching from the Baikonur Cosmodrome in Kazakhstan and carrying Roscosmos cosmonaut Anton Shkaplerov as well as the Challenge movie crew (Russian film producer Klim Shipenko and actress Yulia Peresild) to the International Space Station.",
                         "launch_designator": null,
                         "type": "Human Exploration",
                         "orbit": {

@@ -55,8 +55,8 @@
   <entry>
     <id>~space-schedule~event~change_of_command~330</id>
     <title>ISS Expedition 65 Change of Command Ceremony</title>
-    <updated>2021-10-04T18:35:00Z</updated>
-    <published>2021-10-04T18:35:00Z</published>
+    <updated>2021-10-04T18:25:00Z</updated>
+    <published>2021-10-04T18:25:00Z</published>
     <content type="text">JAXA astronaut Hakihiko Hoshide, second Expedition 65 commander, will hand over the International Space Station command to ESA astronaut Thomas Pesquet.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20210921171653.jpeg"/>
@@ -115,5 +115,34 @@
     <category term="atlas_v_401"/>
     <category term="earth_science"/>
     <category term="space_launch_complex_3_e"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~b48423e2-ba38-46d4-88bb-45cdbb6d74a5</id>
+    <title>Long March 3B/E | Unknown</title>
+    <updated>2021-09-27T00:00:00Z</updated>
+    <published>2021-09-27T00:00:00Z</published>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/b48423e2-ba38-46d4-88bb-45cdbb6d74a5.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
+    <category term="launch"/>
+    <category term="china_aerospace_science_and_technology_corporation"/>
+    <category term="government"/>
+    <category term="long_march_3"/>
+    <category term="launch_complex_3_lc_3_la_1"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~china_aerospace_science_and_industry_corporation~30412a48-cb4d-43d6-a304-6ae5f062504f</id>
+    <title>Kuaizhou-1A | Jilin-1-02D</title>
+    <updated>2021-09-26T22:10:00Z</updated>
+    <published>2021-09-26T22:10:00Z</published>
+    <content type="text">Jilin-1 is a series of Chinese commercial remote sensing satellites.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/30412a48-cb4d-43d6-a304-6ae5f062504f.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg"/>
+    <category term="launch"/>
+    <category term="china_aerospace_science_and_industry_corporation"/>
+    <category term="government"/>
+    <category term="kuaizhou"/>
+    <category term="earth_science"/>
+    <category term="unknown_pad"/>
   </entry>
 </feed>

@@ -74,6 +74,77 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/united_launch_alliance/original.json"
    }
+  },
+  {
+   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~b48423e2-ba38-46d4-88bb-45cdbb6d74a5",
+   "title": "Long March 3B/E | Unknown",
+   "content_text": "-",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/b48423e2-ba38-46d4-88bb-45cdbb6d74a5.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
+   "date_published": "2021-09-27T00:00:00Z",
+   "date_modified": "2021-09-27T00:00:00Z",
+   "tags": [
+    "launch",
+    "china_aerospace_science_and_technology_corporation",
+    "government",
+    "long_march_3",
+    "launch_complex_3_lc_3_la_1"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "b48423e2-ba38-46d4-88bb-45cdbb6d74a5",
+    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~b48423e2-ba38-46d4-88bb-45cdbb6d74a5"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~launch~china_aerospace_science_and_industry_corporation~30412a48-cb4d-43d6-a304-6ae5f062504f",
+   "title": "Kuaizhou-1A | Jilin-1-02D",
+   "content_text": "Jilin-1 is a series of Chinese commercial remote sensing satellites.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/30412a48-cb4d-43d6-a304-6ae5f062504f.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
+   "date_published": "2021-09-26T22:10:00Z",
+   "date_modified": "2021-09-26T22:10:00Z",
+   "tags": [
+    "launch",
+    "china_aerospace_science_and_industry_corporation",
+    "government",
+    "kuaizhou",
+    "earth_science",
+    "unknown_pad"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "China Aerospace Science and Industry Corporation | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "30412a48-cb4d-43d6-a304-6ae5f062504f",
+    "global": "~space-schedule~launch~china_aerospace_science_and_industry_corporation~30412a48-cb4d-43d6-a304-6ae5f062504f"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_industry_corporation/original.json"
+   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -84,7 +155,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 2,
+  "itemCount": 4,
   "pageNumber": 1,
   "pageCount": 1
  }
