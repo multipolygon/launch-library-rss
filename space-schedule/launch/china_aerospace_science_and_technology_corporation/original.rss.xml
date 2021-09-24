@@ -6,7 +6,7 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_technology_corporation%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Mon, 27 Sep 2021 00:00:00 GMT</pubDate>
+    <pubDate>Mon, 27 Sep 2021 08:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
@@ -19,7 +19,7 @@
       <category>long_march_3</category>
       <category>launch_complex_3_lc_3_la_1</category>
       <guid isPermaLink="false">b48423e2-ba38-46d4-88bb-45cdbb6d74a5</guid>
-      <pubDate>Mon, 27 Sep 2021 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 27 Sep 2021 08:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
     </item>
   </channel>

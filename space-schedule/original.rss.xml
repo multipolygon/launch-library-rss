@@ -57,7 +57,7 @@
       <category>event</category>
       <category>change_of_command</category>
       <guid isPermaLink="false">~space-schedule~event~change_of_command~330</guid>
-      <pubDate>Mon, 04 Oct 2021 18:25:00 GMT</pubDate>
+      <pubDate>Mon, 04 Oct 2021 19:20:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20210921171653.jpeg"/>
     </item>
     <item>
@@ -119,7 +119,7 @@
       <category>long_march_3</category>
       <category>launch_complex_3_lc_3_la_1</category>
       <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~b48423e2-ba38-46d4-88bb-45cdbb6d74a5</guid>
-      <pubDate>Mon, 27 Sep 2021 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 27 Sep 2021 08:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
     </item>
     <item>
@@ -133,7 +133,7 @@
       <category>earth_science</category>
       <category>unknown_pad</category>
       <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_industry_corporation~30412a48-cb4d-43d6-a304-6ae5f062504f</guid>
-      <pubDate>Sun, 26 Sep 2021 22:10:00 GMT</pubDate>
+      <pubDate>Mon, 27 Sep 2021 06:10:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg"/>
     </item>
   </channel>
