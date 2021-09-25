@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Launch</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/favourite.atom.xml</id>
-  <updated>2021-09-24T11:20:27.254Z</updated>
+  <updated>2021-09-25T11:19:51.407Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/favourite.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/favourite.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Ffavourite.json"/>
