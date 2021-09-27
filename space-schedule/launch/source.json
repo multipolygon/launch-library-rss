@@ -1,148 +1,8 @@
 {
-    "count": 5,
+    "count": 3,
     "next": null,
     "previous": null,
     "results": [
-        {
-            "id": "30412a48-cb4d-43d6-a304-6ae5f062504f",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/30412a48-cb4d-43d6-a304-6ae5f062504f.json",
-            "launch_library_id": 2098,
-            "slug": "kuaizhou-1a-jilin-1-02d",
-            "name": "Kuaizhou-1A | Jilin-1-02D",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-09-27T06:20:00Z",
-            "window_end": "2021-09-27T06:31:00Z",
-            "window_start": "2021-09-27T06:10:00Z",
-            "inhold": false,
-            "tbdtime": true,
-            "tbddate": true,
-            "probability": -1,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 184,
-                "url": "https://ll.thespacedevs.com/2.2.0/agencies/184.json",
-                "name": "China Aerospace Science and Industry Corporation",
-                "type": "Government"
-            },
-            "rocket": {
-                "id": 2758,
-                "configuration": {
-                    "id": 135,
-                    "launch_library_id": 155,
-                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/135.json",
-                    "name": "Kuaizhou",
-                    "family": "Kuaizhou",
-                    "full_name": "Kuaizhou-1A",
-                    "variant": "1A"
-                }
-            },
-            "mission": {
-                "id": 1156,
-                "launch_library_id": 1346,
-                "name": "Jilin-1-02D",
-                "description": "Jilin-1 is a series of Chinese commercial remote sensing satellites.",
-                "launch_designator": null,
-                "type": "Earth Science",
-                "orbit": null
-            },
-            "pad": {
-                "id": 71,
-                "url": "https://ll.thespacedevs.com/2.2.0/pad/71.json",
-                "agency_id": null,
-                "name": "Unknown Pad",
-                "info_url": null,
-                "wiki_url": "",
-                "map_url": "",
-                "latitude": "40.958",
-                "longitude": "100.291",
-                "location": {
-                    "id": 17,
-                    "url": "https://ll.thespacedevs.com/2.2.0/location/17.json",
-                    "name": "Jiuquan, People's Republic of China",
-                    "country_code": "CHN",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg",
-                    "total_launch_count": 146,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_71_20200803143610.jpg",
-                "total_launch_count": 26
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
-            "infographic": null,
-            "program": []
-        },
-        {
-            "id": "b48423e2-ba38-46d4-88bb-45cdbb6d74a5",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/b48423e2-ba38-46d4-88bb-45cdbb6d74a5.json",
-            "launch_library_id": null,
-            "slug": "long-march-3be-unknown",
-            "name": "Long March 3B/E | Unknown",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-09-27T08:15:00Z",
-            "window_end": "2021-09-27T08:30:00Z",
-            "window_start": "2021-09-27T08:00:00Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": null,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 88,
-                "url": "https://ll.thespacedevs.com/2.2.0/agencies/88.json",
-                "name": "China Aerospace Science and Technology Corporation",
-                "type": "Government"
-            },
-            "rocket": {
-                "id": 7467,
-                "configuration": {
-                    "id": 50,
-                    "launch_library_id": 69,
-                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/50.json",
-                    "name": "Long March 3",
-                    "family": "Long March 3",
-                    "full_name": "Long March 3B/E",
-                    "variant": "B/E"
-                }
-            },
-            "mission": null,
-            "pad": {
-                "id": 66,
-                "url": "https://ll.thespacedevs.com/2.2.0/pad/66.json",
-                "agency_id": 17,
-                "name": "Launch Complex 3 ( LC-3 ) ( LA-1 )",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center",
-                "map_url": "https://www.google.com/maps/?q=28.246017,102.026556",
-                "latitude": "28.246017",
-                "longitude": "102.026556",
-                "location": {
-                    "id": 16,
-                    "url": "https://ll.thespacedevs.com/2.2.0/location/16.json",
-                    "name": "Xichang Satellite Launch Center, People's Republic of China",
-                    "country_code": "CHN",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg",
-                    "total_launch_count": 161,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_66_20200803143611.jpg",
-                "total_launch_count": 56
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-            "infographic": null,
-            "program": []
-        },
         {
             "id": "f8a96988-9ba4-4480-84c4-496492e67e23",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/f8a96988-9ba4-4480-84c4-496492e67e23.json",
@@ -153,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-09-27T18:11:00Z",
-            "window_end": "2021-09-27T18:11:00Z",
-            "window_start": "2021-09-27T18:11:00Z",
+            "net": "2021-09-27T18:12:00Z",
+            "window_end": "2021-09-27T18:42:00Z",
+            "window_start": "2021-09-27T18:12:00Z",
             "inhold": false,
             "tbdtime": true,
             "tbddate": true,
@@ -185,7 +45,7 @@
                 "id": 464,
                 "launch_library_id": 620,
                 "name": "Landsat 9",
-                "description": "Landsat 9 is a partnership between NASA and the U.S. Geological Survey to continue the Landsat program's critical role in monitoring, understanding and managing the land resources needed to sustain human life. Landsat 9, like Landsat 8, will have a higher imaging capacity than past Landsats, allowing more valuable data to be added to the Landsatâ€™s global land archive. Satellite will operaite in sun-synchronous orbit at an altitude of 705 km and has a mission lifetime of 5 years.",
+                "description": "Landsat 9 is a partnership between NASA and the U.S. Geological Survey to continue the Landsat program's critical role in monitoring, understanding and managing the land resources needed to sustain human life. Landsat 9, like Landsat 8, has a higher imaging capacity than past Landsats, allowing more valuable data to be added to the Landsat global land archive. Its operational orbit is a sun-synchronous orbit at an altitude of 705 km for a mission lifetime of at least 5 years.",
                 "launch_designator": null,
                 "type": "Earth Science",
                 "orbit": {

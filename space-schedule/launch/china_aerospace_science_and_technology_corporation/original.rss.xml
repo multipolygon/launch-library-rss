@@ -2,25 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>China Aerospace Science and Technology Corporation | Launch | Space Schedule</title>
+    <title>China Aerospace Science And Technology Corporation</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_technology_corporation%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Mon, 27 Sep 2021 08:00:00 GMT</pubDate>
+    <pubDate>Mon, 27 Sep 2021 11:20:34 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <item>
-      <title>Long March 3B/E | Unknown</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/b48423e2-ba38-46d4-88bb-45cdbb6d74a5.json</link>
-      <description>-</description>
-      <category>launch</category>
-      <category>china_aerospace_science_and_technology_corporation</category>
-      <category>government</category>
-      <category>long_march_3</category>
-      <category>launch_complex_3_lc_3_la_1</category>
-      <guid isPermaLink="false">b48423e2-ba38-46d4-88bb-45cdbb6d74a5</guid>
-      <pubDate>Mon, 27 Sep 2021 08:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
-    </item>
   </channel>
 </rss>

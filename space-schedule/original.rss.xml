@@ -113,7 +113,7 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</descrip
     <item>
       <title>Atlas V 401 | Landsat 9</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/f8a96988-9ba4-4480-84c4-496492e67e23.json</link>
-      <description>Landsat 9 is a partnership between NASA and the U.S. Geological Survey to continue the Landsat program's critical role in monitoring, understanding and managing the land resources needed to sustain human life. Landsat 9, like Landsat 8, will have a higher imaging capacity than past Landsats, allowing more valuable data to be added to the Landsatâ€™s global land archive. Satellite will operaite in sun-synchronous orbit at an altitude of 705 km and has a mission lifetime of 5 years.</description>
+      <description>Landsat 9 is a partnership between NASA and the U.S. Geological Survey to continue the Landsat program's critical role in monitoring, understanding and managing the land resources needed to sustain human life. Landsat 9, like Landsat 8, has a higher imaging capacity than past Landsats, allowing more valuable data to be added to the Landsat global land archive. Its operational orbit is a sun-synchronous orbit at an altitude of 705 km for a mission lifetime of at least 5 years.</description>
       <category>launch</category>
       <category>united_launch_alliance</category>
       <category>commercial</category>
@@ -122,35 +122,8 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</descrip
       <category>earth_science</category>
       <category>space_launch_complex_3_e</category>
       <guid isPermaLink="false">~space-schedule~launch~united_launch_alliance~f8a96988-9ba4-4480-84c4-496492e67e23</guid>
-      <pubDate>Mon, 27 Sep 2021 18:11:00 GMT</pubDate>
+      <pubDate>Mon, 27 Sep 2021 18:12:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg"/>
-    </item>
-    <item>
-      <title>Long March 3B/E | Unknown</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/b48423e2-ba38-46d4-88bb-45cdbb6d74a5.json</link>
-      <description>-</description>
-      <category>launch</category>
-      <category>china_aerospace_science_and_technology_corporation</category>
-      <category>government</category>
-      <category>long_march_3</category>
-      <category>launch_complex_3_lc_3_la_1</category>
-      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~b48423e2-ba38-46d4-88bb-45cdbb6d74a5</guid>
-      <pubDate>Mon, 27 Sep 2021 08:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
-    </item>
-    <item>
-      <title>Kuaizhou-1A | Jilin-1-02D</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/30412a48-cb4d-43d6-a304-6ae5f062504f.json</link>
-      <description>Jilin-1 is a series of Chinese commercial remote sensing satellites.</description>
-      <category>launch</category>
-      <category>china_aerospace_science_and_industry_corporation</category>
-      <category>government</category>
-      <category>kuaizhou</category>
-      <category>earth_science</category>
-      <category>unknown_pad</category>
-      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_industry_corporation~30412a48-cb4d-43d6-a304-6ae5f062504f</guid>
-      <pubDate>Mon, 27 Sep 2021 06:10:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg"/>
     </item>
   </channel>
 </rss>

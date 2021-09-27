@@ -309,11 +309,11 @@
   {
    "id": "~space-schedule~launch~united_launch_alliance~f8a96988-9ba4-4480-84c4-496492e67e23",
    "title": "Atlas V 401 | Landsat 9",
-   "content_text": "Landsat 9 is a partnership between NASA and the U.S. Geological Survey to continue the Landsat program's critical role in monitoring, understanding and managing the land resources needed to sustain human life. Landsat 9, like Landsat 8, will have a higher imaging capacity than past Landsats, allowing more valuable data to be added to the Landsatâ€™s global land archive. Satellite will operaite in sun-synchronous orbit at an altitude of 705 km and has a mission lifetime of 5 years.",
+   "content_text": "Landsat 9 is a partnership between NASA and the U.S. Geological Survey to continue the Landsat program's critical role in monitoring, understanding and managing the land resources needed to sustain human life. Landsat 9, like Landsat 8, has a higher imaging capacity than past Landsats, allowing more valuable data to be added to the Landsat global land archive. Its operational orbit is a sun-synchronous orbit at an altitude of 705 km for a mission lifetime of at least 5 years.",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/f8a96988-9ba4-4480-84c4-496492e67e23.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg",
-   "date_published": "2021-09-27T18:11:00Z",
-   "date_modified": "2021-09-27T18:11:00Z",
+   "date_published": "2021-09-27T18:12:00Z",
+   "date_modified": "2021-09-27T18:12:00Z",
    "tags": [
     "launch",
     "united_launch_alliance",
@@ -342,77 +342,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/united_launch_alliance/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~b48423e2-ba38-46d4-88bb-45cdbb6d74a5",
-   "title": "Long March 3B/E | Unknown",
-   "content_text": "-",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/b48423e2-ba38-46d4-88bb-45cdbb6d74a5.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-   "date_published": "2021-09-27T08:00:00Z",
-   "date_modified": "2021-09-27T08:00:00Z",
-   "tags": [
-    "launch",
-    "china_aerospace_science_and_technology_corporation",
-    "government",
-    "long_march_3",
-    "launch_complex_3_lc_3_la_1"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "b48423e2-ba38-46d4-88bb-45cdbb6d74a5",
-    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~b48423e2-ba38-46d4-88bb-45cdbb6d74a5"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~launch~china_aerospace_science_and_industry_corporation~30412a48-cb4d-43d6-a304-6ae5f062504f",
-   "title": "Kuaizhou-1A | Jilin-1-02D",
-   "content_text": "Jilin-1 is a series of Chinese commercial remote sensing satellites.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/30412a48-cb4d-43d6-a304-6ae5f062504f.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
-   "date_published": "2021-09-27T06:10:00Z",
-   "date_modified": "2021-09-27T06:10:00Z",
-   "tags": [
-    "launch",
-    "china_aerospace_science_and_industry_corporation",
-    "government",
-    "kuaizhou",
-    "earth_science",
-    "unknown_pad"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "China Aerospace Science and Industry Corporation | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "30412a48-cb4d-43d6-a304-6ae5f062504f",
-    "global": "~space-schedule~launch~china_aerospace_science_and_industry_corporation~30412a48-cb4d-43d6-a304-6ae5f062504f"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_industry_corporation/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -423,7 +352,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 12,
+  "itemCount": 10,
   "pageNumber": 1,
   "pageCount": 1
  }

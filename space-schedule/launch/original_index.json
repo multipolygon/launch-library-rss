@@ -40,40 +40,8 @@
    "title": "United Launch Alliance | Launch | Space Schedule",
    "content_text": "1 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg",
-   "date_published": "2021-09-27T18:11:00Z",
-   "date_modified": "2021-09-27T18:11:00Z",
-   "_geo": {},
-   "_meta": {
-    "itemCount": 1,
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 0
-   }
-  },
-  {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_technology_corporation%2Foriginal.json",
-   "title": "China Aerospace Science and Technology Corporation | Launch | Space Schedule",
-   "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-   "date_published": "2021-09-27T08:00:00Z",
-   "date_modified": "2021-09-27T08:00:00Z",
-   "_geo": {},
-   "_meta": {
-    "itemCount": 1,
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 0
-   }
-  },
-  {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_industry_corporation/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_industry_corporation%2Foriginal.json",
-   "title": "China Aerospace Science and Industry Corporation | Launch | Space Schedule",
-   "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
-   "date_published": "2021-09-27T06:10:00Z",
-   "date_modified": "2021-09-27T06:10:00Z",
+   "date_published": "2021-09-27T18:12:00Z",
+   "date_modified": "2021-09-27T18:12:00Z",
    "_geo": {},
    "_meta": {
     "itemCount": 1,
@@ -91,7 +59,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal_index.json",
  "_meta": {
-  "itemCount": 5,
+  "itemCount": 3,
   "pageNumber": 1,
   "pageCount": 1
  }
