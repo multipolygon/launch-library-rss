@@ -1,86 +1,8 @@
 {
-    "count": 3,
+    "count": 2,
     "next": null,
     "previous": null,
     "results": [
-        {
-            "id": "f8a96988-9ba4-4480-84c4-496492e67e23",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/f8a96988-9ba4-4480-84c4-496492e67e23.json",
-            "launch_library_id": 1404,
-            "slug": "atlas-v-401-landsat-9",
-            "name": "Atlas V 401 | Landsat 9",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-09-27T18:12:00Z",
-            "window_end": "2021-09-27T18:42:00Z",
-            "window_start": "2021-09-27T18:12:00Z",
-            "inhold": false,
-            "tbdtime": true,
-            "tbddate": true,
-            "probability": 90,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 124,
-                "url": "https://ll.thespacedevs.com/2.2.0/agencies/124.json",
-                "name": "United Launch Alliance",
-                "type": "Commercial"
-            },
-            "rocket": {
-                "id": 166,
-                "configuration": {
-                    "id": 16,
-                    "launch_library_id": 26,
-                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/16.json",
-                    "name": "Atlas V 401",
-                    "family": "Atlas",
-                    "full_name": "Atlas V 401",
-                    "variant": "401"
-                }
-            },
-            "mission": {
-                "id": 464,
-                "launch_library_id": 620,
-                "name": "Landsat 9",
-                "description": "Landsat 9 is a partnership between NASA and the U.S. Geological Survey to continue the Landsat program's critical role in monitoring, understanding and managing the land resources needed to sustain human life. Landsat 9, like Landsat 8, has a higher imaging capacity than past Landsats, allowing more valuable data to be added to the Landsat global land archive. Its operational orbit is a sun-synchronous orbit at an altitude of 705 km for a mission lifetime of at least 5 years.",
-                "launch_designator": null,
-                "type": "Earth Science",
-                "orbit": {
-                    "id": 17,
-                    "name": "Sun-Synchronous Orbit",
-                    "abbrev": "SSO"
-                }
-            },
-            "pad": {
-                "id": 24,
-                "url": "https://ll.thespacedevs.com/2.2.0/pad/24.json",
-                "agency_id": 161,
-                "name": "Space Launch Complex 3E",
-                "info_url": null,
-                "wiki_url": "",
-                "map_url": "http://maps.google.com/maps?q=34.640+N,+120.5895+W",
-                "latitude": "34.64",
-                "longitude": "-120.5895",
-                "location": {
-                    "id": 11,
-                    "url": "https://ll.thespacedevs.com/2.2.0/location/11.json",
-                    "name": "Vandenberg SFB, CA, USA",
-                    "country_code": "USA",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_11_20200803142416.jpg",
-                    "total_launch_count": 690,
-                    "total_landing_count": 3
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_24_20200803143552.jpg",
-                "total_launch_count": 46
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg",
-            "infographic": null,
-            "program": []
-        },
         {
             "id": "bc321d24-1c15-47e1-a966-497f1ca9dff2",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json",

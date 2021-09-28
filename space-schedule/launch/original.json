@@ -74,43 +74,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/japan_aerospace_exploration_agency/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~united_launch_alliance~f8a96988-9ba4-4480-84c4-496492e67e23",
-   "title": "Atlas V 401 | Landsat 9",
-   "content_text": "Landsat 9 is a partnership between NASA and the U.S. Geological Survey to continue the Landsat program's critical role in monitoring, understanding and managing the land resources needed to sustain human life. Landsat 9, like Landsat 8, has a higher imaging capacity than past Landsats, allowing more valuable data to be added to the Landsat global land archive. Its operational orbit is a sun-synchronous orbit at an altitude of 705 km for a mission lifetime of at least 5 years.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/f8a96988-9ba4-4480-84c4-496492e67e23.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg",
-   "date_published": "2021-09-27T18:12:00Z",
-   "date_modified": "2021-09-27T18:12:00Z",
-   "tags": [
-    "launch",
-    "united_launch_alliance",
-    "commercial",
-    "atlas",
-    "atlas_v_401",
-    "earth_science",
-    "space_launch_complex_3_e"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "United Launch Alliance | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "f8a96988-9ba4-4480-84c4-496492e67e23",
-    "global": "~space-schedule~launch~united_launch_alliance~f8a96988-9ba4-4480-84c4-496492e67e23"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/united_launch_alliance/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -121,7 +84,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 3,
+  "itemCount": 2,
   "pageNumber": 1,
   "pageCount": 1
  }

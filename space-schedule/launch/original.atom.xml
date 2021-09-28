@@ -40,20 +40,4 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
     <category term="test_flight"/>
     <category term="m_v_pad"/>
   </entry>
-  <entry>
-    <id>~space-schedule~launch~united_launch_alliance~f8a96988-9ba4-4480-84c4-496492e67e23</id>
-    <title>Atlas V 401 | Landsat 9</title>
-    <updated>2021-09-27T18:12:00Z</updated>
-    <published>2021-09-27T18:12:00Z</published>
-    <content type="text">Landsat 9 is a partnership between NASA and the U.S. Geological Survey to continue the Landsat program's critical role in monitoring, understanding and managing the land resources needed to sustain human life. Landsat 9, like Landsat 8, has a higher imaging capacity than past Landsats, allowing more valuable data to be added to the Landsat global land archive. Its operational orbit is a sun-synchronous orbit at an altitude of 705 km for a mission lifetime of at least 5 years.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/f8a96988-9ba4-4480-84c4-496492e67e23.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg"/>
-    <category term="launch"/>
-    <category term="united_launch_alliance"/>
-    <category term="commercial"/>
-    <category term="atlas"/>
-    <category term="atlas_v_401"/>
-    <category term="earth_science"/>
-    <category term="space_launch_complex_3_e"/>
-  </entry>
 </feed>
