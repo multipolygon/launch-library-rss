@@ -3,6 +3,22 @@
  "description": "All subcategories in category.",
  "items": [
   {
+   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/original_index.json",
+   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Foriginal_index.json",
+   "title": "Event",
+   "content_text": "6 items",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-18__image_20210519113259.jpg",
+   "date_published": "2021-10-30T00:00:00Z",
+   "date_modified": "2021-10-30T00:00:00Z",
+   "_geo": {},
+   "_meta": {
+    "itemCount": 6,
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 0
+   }
+  },
+  {
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/original_index.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Foriginal_index.json",
    "title": "Launch",
@@ -13,22 +29,6 @@
    "_geo": {},
    "_meta": {
     "itemCount": 2,
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 0
-   }
-  },
-  {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/original_index.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Foriginal_index.json",
-   "title": "Event",
-   "content_text": "5 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519111149.jpeg",
-   "date_published": "2021-10-21T00:00:00Z",
-   "date_modified": "2021-10-21T00:00:00Z",
-   "_geo": {},
-   "_meta": {
-    "itemCount": 5,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0

@@ -2,12 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Space-schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/original.atom.xml</id>
-  <updated>2021-10-25T02:00:00Z</updated>
+  <updated>2021-10-30T00:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items in subcategories for category.</subtitle>
+  <entry>
+    <id>~space-schedule~event~docking~281</id>
+    <title>Progress MS-18 Docking</title>
+    <updated>2021-10-30T00:00:00Z</updated>
+    <published>2021-10-30T00:00:00Z</published>
+    <content type="text">The Progress MS-18 spacecraft is scheduled to autonomously dock to the Zvezda module of the ISS.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-18__image_20210519113259.jpg"/>
+    <category term="event"/>
+    <category term="docking"/>
+  </entry>
   <entry>
     <id>~space-schedule~launch~mitsubishi_heavy_industries~56e548c8-ff60-4cf5-bc60-d50a546a6a79</id>
     <title>H-IIA 202 | QZS-1R</title>
@@ -81,11 +92,22 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
     <category term="change_of_command"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~flyby~379</id>
+    <title>BepiColombo Mercury Flyby</title>
+    <updated>2021-10-01T23:34:00Z</updated>
+    <published>2021-10-01T23:34:00Z</published>
+    <content type="text">The ESA/JAXA BepiColombo mission to Mercury will make the first of six flybys of its destination planet on 1 October before entering orbit in 2025.</content>
+    <link rel="alternate" href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Mercury_ahead%21"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/bepicolombo_mer_image_20210930071713.jpg"/>
+    <category term="event"/>
+    <category term="flyby"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2</id>
     <title>Epsilon | RAISE-2 &amp; Others</title>
     <updated>2021-10-01T00:51:21Z</updated>
     <published>2021-10-01T00:51:21Z</published>
-    <content type="text">8 payloads will fly on this mission : "RApid Innovative payload demonstration SatellitE-2" (RAISE-2), DRUMS(Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).</content>
+    <content type="text">8 payloads will fly on this mission : "RApid Innovative payload demonstration SatellitE-2" (RAISE-2), DRUMS (Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg"/>
     <category term="launch"/>
@@ -98,23 +120,12 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
   <entry>
     <id>~space-schedule~event~undocking~276</id>
     <title>CRS-23 Dragon Undocking</title>
-    <updated>2021-09-30T13:00:00Z</updated>
-    <published>2021-09-30T13:00:00Z</published>
+    <updated>2021-09-30T13:05:00Z</updated>
+    <published>2021-09-30T13:05:00Z</published>
     <content type="text">The SpaceX CRS-23 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg"/>
     <category term="event"/>
     <category term="undocking"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~relocation~277</id>
-    <title>Soyuz MS-18 Relocation</title>
-    <updated>2021-09-28T12:21:30Z</updated>
-    <published>2021-09-28T12:21:30Z</published>
-    <content type="text">The Soyuz MS-18 spacecraft will be relocated from the Rassvet module to the Nauka module.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_rel_image_20210519074417.jpeg"/>
-    <category term="event"/>
-    <category term="relocation"/>
   </entry>
 </feed>

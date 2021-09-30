@@ -19,15 +19,5 @@
       <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519111149.jpeg"/>
     </item>
-    <item>
-      <title>Soyuz MS-18 Relocation</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The Soyuz MS-18 spacecraft will be relocated from the Rassvet module to the Nauka module.</description>
-      <category>event</category>
-      <category>relocation</category>
-      <guid isPermaLink="false">277</guid>
-      <pubDate>Tue, 28 Sep 2021 12:21:30 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_rel_image_20210519074417.jpeg"/>
-    </item>
   </channel>
 </rss>
