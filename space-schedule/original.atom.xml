@@ -2,12 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Space-schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/original.atom.xml</id>
-  <updated>2021-10-30T00:00:00Z</updated>
+  <updated>2021-10-30T06:34:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items in subcategories for category.</subtitle>
+  <entry>
+    <id>~space-schedule~launch~space_x~0d779392-1a36-4c1e-b0b8-ec11e3031ee6</id>
+    <title>Falcon 9 Block 5 | SpX USCV-3 (NASA Crew Flight 3)</title>
+    <updated>2021-10-30T06:34:00Z</updated>
+    <published>2021-10-30T06:34:00Z</published>
+    <content type="text">Third crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/0d779392-1a36-4c1e-b0b8-ec11e3031ee6.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075417.jpeg"/>
+    <category term="launch"/>
+    <category term="space_x"/>
+    <category term="commercial"/>
+    <category term="falcon"/>
+    <category term="falcon_9"/>
+    <category term="human_exploration"/>
+    <category term="launch_complex_39_a"/>
+    <category term="commercial_crew_program"/>
+    <category term="international_space_station"/>
+  </entry>
   <entry>
     <id>~space-schedule~event~docking~281</id>
     <title>Progress MS-18 Docking</title>
@@ -81,6 +99,23 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
     <category term="docking"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~russian_federal_space_agency_roscosmos~3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56</id>
+    <title>Soyuz 2.1a | Soyuz MS-19</title>
+    <updated>2021-10-05T08:55:02Z</updated>
+    <published>2021-10-05T08:55:02Z</published>
+    <content type="text">Soyuz mission launching from the Baikonur Cosmodrome in Kazakhstan and carrying Roscosmos cosmonaut Anton Shkaplerov as well as the Challenge movie crew (Russian film producer Klim Shipenko and actress Yulia Peresild) to the International Space Station.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
+    <category term="launch"/>
+    <category term="russian_federal_space_agency_roscosmos"/>
+    <category term="government"/>
+    <category term="soyuz"/>
+    <category term="soyuz_2_1_a"/>
+    <category term="human_exploration"/>
+    <category term="31_6"/>
+    <category term="international_space_station"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~change_of_command~330</id>
     <title>ISS Expedition 65 Change of Command Ceremony</title>
     <updated>2021-10-04T19:20:00Z</updated>
@@ -103,25 +138,21 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
     <category term="flyby"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2</id>
-    <title>Epsilon | RAISE-2 &amp; Others</title>
-    <updated>2021-10-01T00:51:21Z</updated>
-    <published>2021-10-01T00:51:21Z</published>
-    <content type="text">8 payloads will fly on this mission : "RApid Innovative payload demonstration SatellitE-2" (RAISE-2), DRUMS (Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg"/>
-    <category term="launch"/>
-    <category term="japan_aerospace_exploration_agency"/>
-    <category term="government"/>
-    <category term="epsilon"/>
-    <category term="test_flight"/>
-    <category term="m_v_pad"/>
+    <id>~space-schedule~event~static_fire~404</id>
+    <title>RS-25 Engine Test</title>
+    <updated>2021-09-30T19:20:00Z</updated>
+    <published>2021-09-30T19:20:00Z</published>
+    <content type="text">NASA will conduct an RS-25 engine test on the A-1 Test Stand 19:20 UTC at the Stennis Space Center near Bay St. Louis, Mississippi.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=OHub3uHmJYE"/>
+    <link rel="enclosure" type="application/octet-stream" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rs-25_engine_te_image_20210930160339.jfif"/>
+    <category term="event"/>
+    <category term="static_fire"/>
   </entry>
   <entry>
     <id>~space-schedule~event~undocking~276</id>
     <title>CRS-23 Dragon Undocking</title>
-    <updated>2021-09-30T13:05:00Z</updated>
-    <published>2021-09-30T13:05:00Z</published>
+    <updated>2021-09-30T13:12:00Z</updated>
+    <published>2021-09-30T13:12:00Z</published>
     <content type="text">The SpaceX CRS-23 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg"/>

@@ -233,13 +233,46 @@
    }
   },
   {
+   "id": "~space-schedule~event~static_fire~404",
+   "title": "RS-25 Engine Test",
+   "content_text": "NASA will conduct an RS-25 engine test on the A-1 Test Stand 19:20 UTC at the Stennis Space Center near Bay St. Louis, Mississippi.",
+   "url": "https://www.youtube.com/watch?v=OHub3uHmJYE",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rs-25_engine_te_image_20210930160339.jfif",
+   "date_published": "2021-09-30T19:20:00Z",
+   "date_modified": "2021-09-30T19:20:00Z",
+   "tags": [
+    "event",
+    "static_fire"
+   ],
+   "attachments": [
+    {
+     "mime_type": "application/octet-stream",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rs-25_engine_te_image_20210930160339.jfif"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 0,
+    "youtubeCount": 1,
+    "subtitle": "Static Fire | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "404",
+    "global": "~space-schedule~event~static_fire~404"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~undocking~276",
    "title": "CRS-23 Dragon Undocking",
    "content_text": "The SpaceX CRS-23 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg",
-   "date_published": "2021-09-30T13:05:00Z",
-   "date_modified": "2021-09-30T13:05:00Z",
+   "date_published": "2021-09-30T13:12:00Z",
+   "date_modified": "2021-09-30T13:12:00Z",
    "tags": [
     "event",
     "undocking"
@@ -274,7 +307,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 8,
+  "itemCount": 9,
   "pageNumber": 1,
   "pageCount": 1
  }

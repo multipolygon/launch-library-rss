@@ -56,4 +56,12 @@
     <content type="text">1 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fflyby%2Foriginal.json"/>
   </entry>
+  <entry>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json</id>
+    <title>Static Fire | Event | Space Schedule</title>
+    <updated>2021-09-30T19:20:00Z</updated>
+    <published>2021-09-30T19:20:00Z</published>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json"/>
+  </entry>
 </feed>

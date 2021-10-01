@@ -81,13 +81,23 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/bepicolombo_mer_image_20210930071713.jpg"/>
     </item>
     <item>
+      <title>RS-25 Engine Test</title>
+      <link>https://www.youtube.com/watch?v=OHub3uHmJYE</link>
+      <description>NASA will conduct an RS-25 engine test on the A-1 Test Stand 19:20 UTC at the Stennis Space Center near Bay St. Louis, Mississippi.</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~404</guid>
+      <pubDate>Thu, 30 Sep 2021 19:20:00 GMT</pubDate>
+      <enclosure type="application/octet-stream" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rs-25_engine_te_image_20210930160339.jfif"/>
+    </item>
+    <item>
       <title>CRS-23 Dragon Undocking</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The SpaceX CRS-23 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.</description>
       <category>event</category>
       <category>undocking</category>
       <guid isPermaLink="false">~space-schedule~event~undocking~276</guid>
-      <pubDate>Thu, 30 Sep 2021 13:05:00 GMT</pubDate>
+      <pubDate>Thu, 30 Sep 2021 13:12:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg"/>
     </item>
   </channel>

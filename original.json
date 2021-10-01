@@ -3,6 +3,45 @@
  "description": "All items.",
  "items": [
   {
+   "id": "~space-schedule~launch~space_x~0d779392-1a36-4c1e-b0b8-ec11e3031ee6",
+   "title": "Falcon 9 Block 5 | SpX USCV-3 (NASA Crew Flight 3)",
+   "content_text": "Third crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/0d779392-1a36-4c1e-b0b8-ec11e3031ee6.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075417.jpeg",
+   "date_published": "2021-10-30T06:34:00Z",
+   "date_modified": "2021-10-30T06:34:00Z",
+   "tags": [
+    "launch",
+    "space_x",
+    "commercial",
+    "falcon",
+    "falcon_9",
+    "human_exploration",
+    "launch_complex_39_a",
+    "commercial_crew_program",
+    "international_space_station"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075417.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "SpaceX | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "0d779392-1a36-4c1e-b0b8-ec11e3031ee6",
+    "global": "~space-schedule~launch~space_x~0d779392-1a36-4c1e-b0b8-ec11e3031ee6"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~docking~281",
    "title": "Progress MS-18 Docking",
    "content_text": "The Progress MS-18 spacecraft is scheduled to autonomously dock to the Zvezda module of the ISS.",
@@ -205,6 +244,44 @@
    }
   },
   {
+   "id": "~space-schedule~launch~russian_federal_space_agency_roscosmos~3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56",
+   "title": "Soyuz 2.1a | Soyuz MS-19",
+   "content_text": "Soyuz mission launching from the Baikonur Cosmodrome in Kazakhstan and carrying Roscosmos cosmonaut Anton Shkaplerov as well as the Challenge movie crew (Russian film producer Klim Shipenko and actress Yulia Peresild) to the International Space Station.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
+   "date_published": "2021-10-05T08:55:02Z",
+   "date_modified": "2021-10-05T08:55:02Z",
+   "tags": [
+    "launch",
+    "russian_federal_space_agency_roscosmos",
+    "government",
+    "soyuz",
+    "soyuz_2_1_a",
+    "human_exploration",
+    "31_6",
+    "international_space_station"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56",
+    "global": "~space-schedule~launch~russian_federal_space_agency_roscosmos~3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~change_of_command~330",
    "title": "ISS Expedition 65 Change of Command Ceremony",
    "content_text": "JAXA astronaut Hakihiko Hoshide, second Expedition 65 commander, will hand over the International Space Station command to ESA astronaut Thomas Pesquet.",
@@ -270,39 +347,36 @@
    }
   },
   {
-   "id": "~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2",
-   "title": "Epsilon | RAISE-2 & Others",
-   "content_text": "8 payloads will fly on this mission : \"RApid Innovative payload demonstration SatellitE-2\" (RAISE-2), DRUMS (Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg",
-   "date_published": "2021-10-01T00:51:21Z",
-   "date_modified": "2021-10-01T00:51:21Z",
+   "id": "~space-schedule~event~static_fire~404",
+   "title": "RS-25 Engine Test",
+   "content_text": "NASA will conduct an RS-25 engine test on the A-1 Test Stand 19:20 UTC at the Stennis Space Center near Bay St. Louis, Mississippi.",
+   "url": "https://www.youtube.com/watch?v=OHub3uHmJYE",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rs-25_engine_te_image_20210930160339.jfif",
+   "date_published": "2021-09-30T19:20:00Z",
+   "date_modified": "2021-09-30T19:20:00Z",
    "tags": [
-    "launch",
-    "japan_aerospace_exploration_agency",
-    "government",
-    "epsilon",
-    "test_flight",
-    "m_v_pad"
+    "event",
+    "static_fire"
    ],
    "attachments": [
     {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg"
+     "mime_type": "application/octet-stream",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rs-25_engine_te_image_20210930160339.jfif"
     }
    ],
    "_meta": {
     "audioCount": 0,
     "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Japan Aerospace Exploration Agency | Launch | Space Schedule"
+    "imageCount": 0,
+    "youtubeCount": 1,
+    "subtitle": "Static Fire | Event | Space Schedule"
    },
    "_id": {
-    "parent": "bc321d24-1c15-47e1-a966-497f1ca9dff2",
-    "global": "~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2"
+    "parent": "404",
+    "global": "~space-schedule~event~static_fire~404"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/japan_aerospace_exploration_agency/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
    }
   },
   {
@@ -311,8 +385,8 @@
    "content_text": "The SpaceX CRS-23 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg",
-   "date_published": "2021-09-30T13:05:00Z",
-   "date_modified": "2021-09-30T13:05:00Z",
+   "date_published": "2021-09-30T13:12:00Z",
+   "date_modified": "2021-09-30T13:12:00Z",
    "tags": [
     "event",
     "undocking"
@@ -347,7 +421,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 10,
+  "itemCount": 12,
   "pageNumber": 1,
   "pageCount": 1
  }

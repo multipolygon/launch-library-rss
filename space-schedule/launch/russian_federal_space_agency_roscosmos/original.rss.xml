@@ -2,12 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Russian Federal Space Agency Roscosmos</title>
+    <title>Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Frussian_federal_space_agency_roscosmos%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Thu, 30 Sep 2021 11:20:24 GMT</pubDate>
+    <pubDate>Tue, 05 Oct 2021 08:55:02 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Soyuz 2.1a | Soyuz MS-19</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56.json</link>
+      <description>Soyuz mission launching from the Baikonur Cosmodrome in Kazakhstan and carrying Roscosmos cosmonaut Anton Shkaplerov as well as the Challenge movie crew (Russian film producer Klim Shipenko and actress Yulia Peresild) to the International Space Station.</description>
+      <category>launch</category>
+      <category>russian_federal_space_agency_roscosmos</category>
+      <category>government</category>
+      <category>soyuz</category>
+      <category>soyuz_2_1_a</category>
+      <category>human_exploration</category>
+      <category>31_6</category>
+      <category>international_space_station</category>
+      <guid isPermaLink="false">3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56</guid>
+      <pubDate>Tue, 05 Oct 2021 08:55:02 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
+    </item>
   </channel>
 </rss>

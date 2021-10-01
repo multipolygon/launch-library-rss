@@ -7,9 +7,26 @@
     <description>All items in Space Schedule &gt; Launch.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Mon, 25 Oct 2021 02:00:00 GMT</pubDate>
+    <pubDate>Sat, 30 Oct 2021 06:34:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Falcon 9 Block 5 | SpX USCV-3 (NASA Crew Flight 3)</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/0d779392-1a36-4c1e-b0b8-ec11e3031ee6.json</link>
+      <description>Third crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon_9</category>
+      <category>human_exploration</category>
+      <category>launch_complex_39_a</category>
+      <category>commercial_crew_program</category>
+      <category>international_space_station</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~0d779392-1a36-4c1e-b0b8-ec11e3031ee6</guid>
+      <pubDate>Sat, 30 Oct 2021 06:34:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075417.jpeg"/>
+    </item>
     <item>
       <title>H-IIA 202 | QZS-1R</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/56e548c8-ff60-4cf5-bc60-d50a546a6a79.json</link>
@@ -27,18 +44,20 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</descrip
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-iia2520202_image_20190222031201.jpeg"/>
     </item>
     <item>
-      <title>Epsilon | RAISE-2 &amp; Others</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json</link>
-      <description>8 payloads will fly on this mission : "RApid Innovative payload demonstration SatellitE-2" (RAISE-2), DRUMS (Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).</description>
+      <title>Soyuz 2.1a | Soyuz MS-19</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56.json</link>
+      <description>Soyuz mission launching from the Baikonur Cosmodrome in Kazakhstan and carrying Roscosmos cosmonaut Anton Shkaplerov as well as the Challenge movie crew (Russian film producer Klim Shipenko and actress Yulia Peresild) to the International Space Station.</description>
       <category>launch</category>
-      <category>japan_aerospace_exploration_agency</category>
+      <category>russian_federal_space_agency_roscosmos</category>
       <category>government</category>
-      <category>epsilon</category>
-      <category>test_flight</category>
-      <category>m_v_pad</category>
-      <guid isPermaLink="false">~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2</guid>
-      <pubDate>Fri, 01 Oct 2021 00:51:21 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg"/>
+      <category>soyuz</category>
+      <category>soyuz_2_1_a</category>
+      <category>human_exploration</category>
+      <category>31_6</category>
+      <category>international_space_station</category>
+      <guid isPermaLink="false">~space-schedule~launch~russian_federal_space_agency_roscosmos~3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56</guid>
+      <pubDate>Tue, 05 Oct 2021 08:55:02 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
     </item>
   </channel>
 </rss>
