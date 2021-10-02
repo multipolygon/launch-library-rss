@@ -2,12 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Event</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/original.atom.xml</id>
-  <updated>2021-10-30T00:00:00Z</updated>
+  <updated>2021-11-01T00:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items in Space Schedule &gt; Event.</subtitle>
+  <entry>
+    <id>~space-schedule~event~docking~274</id>
+    <title>SpaceX Crew-3 Crew Dragon Docking</title>
+    <updated>2021-11-01T00:00:00Z</updated>
+    <published>2021-11-01T00:00:00Z</published>
+    <content type="text">The Crew-3 Crew Dragon will dock autonomously to the International Space Station, carrying NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer to the International Space Station as crew members of Expedition 66.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>
+    <category term="event"/>
+    <category term="docking"/>
+  </entry>
   <entry>
     <id>~space-schedule~event~docking~281</id>
     <title>Progress MS-18 Docking</title>
@@ -53,6 +64,28 @@
     <category term="undocking"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~press_event~409</id>
+    <title>SpaceX Crew-3 Crew News Conference</title>
+    <updated>2021-10-07T18:00:00Z</updated>
+    <published>2021-10-07T18:00:00Z</published>
+    <content type="text">NASA astronauts Raja Chari, Tom Marshburn, and Kayla Barron as well as ESA astronaut Matthias Maurer will answer press questions about their upcoming flight to International Space Station.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20211001183757.jpeg"/>
+    <category term="event"/>
+    <category term="press_event"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~press_event~408</id>
+    <title>SpaceX Crew-3 Mission Overview Press Conference</title>
+    <updated>2021-10-06T17:00:00Z</updated>
+    <published>2021-10-06T17:00:00Z</published>
+    <content type="text">NASA will present an overview of SpaceX Crew-3 mission and discuss an upcoming crew rotation.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_m_image_20211001183755.jpeg"/>
+    <category term="event"/>
+    <category term="press_event"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~docking~278</id>
     <title>Soyuz MS-19 Docking</title>
     <updated>2021-10-05T12:12:00Z</updated>
@@ -80,31 +113,9 @@
     <updated>2021-10-01T23:34:00Z</updated>
     <published>2021-10-01T23:34:00Z</published>
     <content type="text">The ESA/JAXA BepiColombo mission to Mercury will make the first of six flybys of its destination planet on 1 October before entering orbit in 2025.</content>
-    <link rel="alternate" href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Mercury_ahead%21"/>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=-cf3qFtz86U"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/bepicolombo_mer_image_20210930071713.jpg"/>
     <category term="event"/>
     <category term="flyby"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~404</id>
-    <title>RS-25 Engine Test</title>
-    <updated>2021-09-30T19:20:00Z</updated>
-    <published>2021-09-30T19:20:00Z</published>
-    <content type="text">NASA will conduct an RS-25 engine test on the A-1 Test Stand 19:20 UTC at the Stennis Space Center near Bay St. Louis, Mississippi.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=OHub3uHmJYE"/>
-    <link rel="enclosure" type="application/octet-stream" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rs-25_engine_te_image_20210930160339.jfif"/>
-    <category term="event"/>
-    <category term="static_fire"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~undocking~276</id>
-    <title>CRS-23 Dragon Undocking</title>
-    <updated>2021-09-30T13:12:00Z</updated>
-    <published>2021-09-30T13:12:00Z</published>
-    <content type="text">The SpaceX CRS-23 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg"/>
-    <category term="event"/>
-    <category term="undocking"/>
   </entry>
 </feed>

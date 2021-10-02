@@ -18,15 +18,4 @@
     <category term="event"/>
     <category term="undocking"/>
   </entry>
-  <entry>
-    <id>276</id>
-    <title>CRS-23 Dragon Undocking</title>
-    <updated>2021-09-30T13:12:00Z</updated>
-    <published>2021-09-30T13:12:00Z</published>
-    <content type="text">The SpaceX CRS-23 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-23_dragon_u_image_20210519074227.jpeg"/>
-    <category term="event"/>
-    <category term="undocking"/>
-  </entry>
 </feed>

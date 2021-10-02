@@ -7,7 +7,7 @@
    "id": "379",
    "title": "BepiColombo Mercury Flyby",
    "content_text": "The ESA/JAXA BepiColombo mission to Mercury will make the first of six flybys of its destination planet on 1 October before entering orbit in 2025.",
-   "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Mercury_ahead%21",
+   "url": "https://www.youtube.com/watch?v=-cf3qFtz86U",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/bepicolombo_mer_image_20210930071713.jpg",
    "date_published": "2021-10-01T23:34:00Z",
    "date_modified": "2021-10-01T23:34:00Z",
@@ -24,7 +24,8 @@
    "_meta": {
     "audioCount": 0,
     "videoCount": 0,
-    "imageCount": 1
+    "imageCount": 1,
+    "youtubeCount": 1
    }
   }
  ],

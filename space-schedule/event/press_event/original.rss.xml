@@ -2,12 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Press Event</title>
+    <title>Press Event | Event | Space Schedule</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Fri, 01 Oct 2021 11:20:38 GMT</pubDate>
+    <pubDate>Thu, 07 Oct 2021 18:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>SpaceX Crew-3 Crew News Conference</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA astronauts Raja Chari, Tom Marshburn, and Kayla Barron as well as ESA astronaut Matthias Maurer will answer press questions about their upcoming flight to International Space Station.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">409</guid>
+      <pubDate>Thu, 07 Oct 2021 18:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20211001183757.jpeg"/>
+    </item>
+    <item>
+      <title>SpaceX Crew-3 Mission Overview Press Conference</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA will present an overview of SpaceX Crew-3 mission and discuss an upcoming crew rotation.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">408</guid>
+      <pubDate>Wed, 06 Oct 2021 17:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_m_image_20211001183755.jpeg"/>
+    </item>
   </channel>
 </rss>
