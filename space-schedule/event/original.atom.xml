@@ -107,15 +107,4 @@
     <category term="event"/>
     <category term="change_of_command"/>
   </entry>
-  <entry>
-    <id>~space-schedule~event~flyby~379</id>
-    <title>BepiColombo Mercury Flyby</title>
-    <updated>2021-10-01T23:34:00Z</updated>
-    <published>2021-10-01T23:34:00Z</published>
-    <content type="text">The ESA/JAXA BepiColombo mission to Mercury will make the first of six flybys of its destination planet on 1 October before entering orbit in 2025.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=-cf3qFtz86U"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/bepicolombo_mer_image_20210930071713.jpg"/>
-    <category term="event"/>
-    <category term="flyby"/>
-  </entry>
 </feed>
