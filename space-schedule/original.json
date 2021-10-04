@@ -8,8 +8,8 @@
    "content_text": "The Crew-3 Crew Dragon will dock autonomously to the International Space Station, carrying NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer to the International Space Station as crew members of Expedition 66.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg",
-   "date_published": "2021-11-01T00:00:00Z",
-   "date_modified": "2021-11-01T00:00:00Z",
+   "date_published": "2021-10-31T04:45:00Z",
+   "date_modified": "2021-10-31T04:45:00Z",
    "tags": [
     "event",
     "docking"
@@ -216,8 +216,8 @@
    "content_text": "The Soyuz MS-18 spacecraft will undock from the International Space Station carrying Expedition 65 crew member ROSCOSMOS cosmonaut Oleg Novitskiy as well as film director Klim Shipenko and actress Yulia Peresild.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_und_image_20210519074939.jpeg",
-   "date_published": "2021-10-17T01:11:30Z",
-   "date_modified": "2021-10-17T01:11:30Z",
+   "date_published": "2021-10-17T01:13:00Z",
+   "date_modified": "2021-10-17T01:13:00Z",
    "tags": [
     "event",
     "undocking"
@@ -274,6 +274,42 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2",
+   "title": "Epsilon | RAISE-2 & Others",
+   "content_text": "8 payloads will fly on this mission : \"RApid Innovative payload demonstration SatellitE-2\" (RAISE-2), DRUMS (Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg",
+   "date_published": "2021-10-07T00:51:21Z",
+   "date_modified": "2021-10-07T00:51:21Z",
+   "tags": [
+    "launch",
+    "japan_aerospace_exploration_agency",
+    "government",
+    "epsilon",
+    "test_flight",
+    "m_v_pad"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Japan Aerospace Exploration Agency | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "bc321d24-1c15-47e1-a966-497f1ca9dff2",
+    "global": "~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/japan_aerospace_exploration_agency/original.json"
    }
   },
   {
@@ -422,7 +458,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 12,
+  "itemCount": 13,
   "pageNumber": 1,
   "pageCount": 1
  }

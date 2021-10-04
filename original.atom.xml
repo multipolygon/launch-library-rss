@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>All Items</title>
   <id>https://launch-library-rss.multipolygon.net/original.atom.xml</id>
-  <updated>2021-11-01T00:00:00Z</updated>
+  <updated>2021-10-31T04:45:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json"/>
@@ -11,8 +11,8 @@
   <entry>
     <id>~space-schedule~event~docking~274</id>
     <title>SpaceX Crew-3 Crew Dragon Docking</title>
-    <updated>2021-11-01T00:00:00Z</updated>
-    <published>2021-11-01T00:00:00Z</published>
+    <updated>2021-10-31T04:45:00Z</updated>
+    <published>2021-10-31T04:45:00Z</published>
     <content type="text">The Crew-3 Crew Dragon will dock autonomously to the International Space Station, carrying NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer to the International Space Station as crew members of Expedition 66.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>
@@ -90,8 +90,8 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
   <entry>
     <id>~space-schedule~event~undocking~279</id>
     <title>Soyuz MS-18 Undocking</title>
-    <updated>2021-10-17T01:11:30Z</updated>
-    <published>2021-10-17T01:11:30Z</published>
+    <updated>2021-10-17T01:13:00Z</updated>
+    <published>2021-10-17T01:13:00Z</published>
     <content type="text">The Soyuz MS-18 spacecraft will undock from the International Space Station carrying Expedition 65 crew member ROSCOSMOS cosmonaut Oleg Novitskiy as well as film director Klim Shipenko and actress Yulia Peresild.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_und_image_20210519074939.jpeg"/>
@@ -108,6 +108,21 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20211001183757.jpeg"/>
     <category term="event"/>
     <category term="press_event"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2</id>
+    <title>Epsilon | RAISE-2 &amp; Others</title>
+    <updated>2021-10-07T00:51:21Z</updated>
+    <published>2021-10-07T00:51:21Z</published>
+    <content type="text">8 payloads will fly on this mission : "RApid Innovative payload demonstration SatellitE-2" (RAISE-2), DRUMS (Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg"/>
+    <category term="launch"/>
+    <category term="japan_aerospace_exploration_agency"/>
+    <category term="government"/>
+    <category term="epsilon"/>
+    <category term="test_flight"/>
+    <category term="m_v_pad"/>
   </entry>
   <entry>
     <id>~space-schedule~event~press_event~408</id>

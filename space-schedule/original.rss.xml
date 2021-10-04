@@ -7,7 +7,7 @@
     <description>All items in subcategories for category.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
+    <pubDate>Sun, 31 Oct 2021 04:45:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
@@ -17,7 +17,7 @@
       <category>event</category>
       <category>docking</category>
       <guid isPermaLink="false">~space-schedule~event~docking~274</guid>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 31 Oct 2021 04:45:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>
     </item>
     <item>
@@ -90,7 +90,7 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</descrip
       <category>event</category>
       <category>undocking</category>
       <guid isPermaLink="false">~space-schedule~event~undocking~279</guid>
-      <pubDate>Sun, 17 Oct 2021 01:11:30 GMT</pubDate>
+      <pubDate>Sun, 17 Oct 2021 01:13:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_und_image_20210519074939.jpeg"/>
     </item>
     <item>
@@ -102,6 +102,20 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</descrip
       <guid isPermaLink="false">~space-schedule~event~press_event~409</guid>
       <pubDate>Thu, 07 Oct 2021 18:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20211001183757.jpeg"/>
+    </item>
+    <item>
+      <title>Epsilon | RAISE-2 &amp; Others</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json</link>
+      <description>8 payloads will fly on this mission : "RApid Innovative payload demonstration SatellitE-2" (RAISE-2), DRUMS (Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).</description>
+      <category>launch</category>
+      <category>japan_aerospace_exploration_agency</category>
+      <category>government</category>
+      <category>epsilon</category>
+      <category>test_flight</category>
+      <category>m_v_pad</category>
+      <guid isPermaLink="false">~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2</guid>
+      <pubDate>Thu, 07 Oct 2021 00:51:21 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg"/>
     </item>
     <item>
       <title>SpaceX Crew-3 Mission Overview Press Conference</title>

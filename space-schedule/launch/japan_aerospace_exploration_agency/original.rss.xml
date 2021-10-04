@@ -2,12 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/japan_aerospace_exploration_agency/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Japan Aerospace Exploration Agency</title>
+    <title>Japan Aerospace Exploration Agency | Launch | Space Schedule</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fjapan_aerospace_exploration_agency%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Sun, 03 Oct 2021 11:19:50 GMT</pubDate>
+    <pubDate>Thu, 07 Oct 2021 00:51:21 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Epsilon | RAISE-2 &amp; Others</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json</link>
+      <description>8 payloads will fly on this mission : "RApid Innovative payload demonstration SatellitE-2" (RAISE-2), DRUMS (Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).</description>
+      <category>launch</category>
+      <category>japan_aerospace_exploration_agency</category>
+      <category>government</category>
+      <category>epsilon</category>
+      <category>test_flight</category>
+      <category>m_v_pad</category>
+      <guid isPermaLink="false">bc321d24-1c15-47e1-a966-497f1ca9dff2</guid>
+      <pubDate>Thu, 07 Oct 2021 00:51:21 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg"/>
+    </item>
   </channel>
 </rss>
