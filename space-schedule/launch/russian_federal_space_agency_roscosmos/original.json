@@ -1,47 +1,16 @@
 {
- "title": "Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule",
- "items": [
-  {
-   "id": "3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56",
-   "title": "Soyuz 2.1a | Soyuz MS-19",
-   "content_text": "Soyuz mission launching from the Baikonur Cosmodrome in Kazakhstan and carrying Roscosmos cosmonaut Anton Shkaplerov as well as the Challenge movie crew (Russian film producer Klim Shipenko and actress Yulia Peresild) to the International Space Station.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
-   "date_published": "2021-10-05T08:55:02Z",
-   "date_modified": "2021-10-05T08:55:02Z",
-   "tags": [
-    "launch",
-    "russian_federal_space_agency_roscosmos",
-    "government",
-    "soyuz",
-    "soyuz_2_1_a",
-    "human_exploration",
-    "31_6",
-    "international_space_station"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1
-   }
-  }
- ],
  "version": "https://jsonfeed.org/version/1",
  "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.json",
+ "title": "Russian Federal Space Agency Roscosmos",
+ "items": [],
  "_feed_url": {
   "rss": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.rss.xml",
   "atom": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.atom.xml"
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Frussian_federal_space_agency_roscosmos%2Foriginal.json",
  "_meta": {
-  "itemCount": 1,
+  "itemCount": 0,
   "pageNumber": 1,
-  "pageCount": 1
+  "pageCount": 0
  }
 }

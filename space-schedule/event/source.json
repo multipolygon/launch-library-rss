@@ -25,7 +25,7 @@
                     "url": "https://ll.thespacedevs.com/2.2.0/expedition/141.json",
                     "name": "Expedition 65",
                     "start": "2021-04-17T19:45:00Z",
-                    "end": "2021-10-13T00:00:00Z",
+                    "end": "2021-10-17T01:13:00Z",
                     "spacestation": {
                         "id": 4,
                         "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4.json",
@@ -123,8 +123,8 @@
                     "slug": "soyuz-21a-soyuz-ms-19",
                     "name": "Soyuz 2.1a | Soyuz MS-19",
                     "status": {
-                        "id": 1,
-                        "name": "Go"
+                        "id": 3,
+                        "name": "Success"
                     },
                     "net": "2021-10-05T08:55:02Z",
                     "window_end": "2021-10-05T08:55:02Z",
@@ -189,7 +189,7 @@
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_20_20200803143516.jpg",
                         "total_launch_count": 394
                     },
-                    "webcast_live": false,
+                    "webcast_live": true,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
                     "infographic": null,
                     "program": [
@@ -270,7 +270,7 @@
                     "url": "https://ll.thespacedevs.com/2.2.0/expedition/141.json",
                     "name": "Expedition 65",
                     "start": "2021-04-17T19:45:00Z",
-                    "end": "2021-10-13T00:00:00Z",
+                    "end": "2021-10-17T01:13:00Z",
                     "spacestation": {
                         "id": 4,
                         "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4.json",
@@ -1056,7 +1056,7 @@
                     "url": "https://ll.thespacedevs.com/2.2.0/expedition/141.json",
                     "name": "Expedition 65",
                     "start": "2021-04-17T19:45:00Z",
-                    "end": "2021-10-13T00:00:00Z",
+                    "end": "2021-10-17T01:13:00Z",
                     "spacestation": {
                         "id": 4,
                         "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4.json",
@@ -1344,7 +1344,7 @@
                     "url": "https://ll.thespacedevs.com/2.2.0/expedition/141.json",
                     "name": "Expedition 65",
                     "start": "2021-04-17T19:45:00Z",
-                    "end": "2021-10-13T00:00:00Z",
+                    "end": "2021-10-17T01:13:00Z",
                     "spacestation": {
                         "id": 4,
                         "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4.json",
@@ -2322,7 +2322,7 @@
                     "url": "https://ll.thespacedevs.com/2.2.0/expedition/141.json",
                     "name": "Expedition 65",
                     "start": "2021-04-17T19:45:00Z",
-                    "end": "2021-10-13T00:00:00Z",
+                    "end": "2021-10-17T01:13:00Z",
                     "spacestation": {
                         "id": 4,
                         "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4.json",

@@ -244,6 +244,42 @@
    }
   },
   {
+   "id": "~space-schedule~launch~blue_origin~ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8",
+   "title": "New Shepard | NS-18",
+   "content_text": "NS-18 is the second crewed New Shepard flight, carrying 4 paying customers.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
+   "date_published": "2021-10-12T13:30:00Z",
+   "date_modified": "2021-10-12T13:30:00Z",
+   "tags": [
+    "launch",
+    "blue_origin",
+    "commercial",
+    "new_shepard",
+    "tourism",
+    "west_texas_suborbital_launch_site_corn_ranch"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Blue Origin | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8",
+    "global": "~space-schedule~launch~blue_origin~ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/blue_origin/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~press_event~409",
    "title": "SpaceX Crew-3 Crew News Conference",
    "content_text": "NASA astronauts Raja Chari, Tom Marshburn, and Kayla Barron as well as ESA astronaut Matthias Maurer will answer press questions about their upcoming flight to International Space Station.",
@@ -376,44 +412,6 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~launch~russian_federal_space_agency_roscosmos~3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56",
-   "title": "Soyuz 2.1a | Soyuz MS-19",
-   "content_text": "Soyuz mission launching from the Baikonur Cosmodrome in Kazakhstan and carrying Roscosmos cosmonaut Anton Shkaplerov as well as the Challenge movie crew (Russian film producer Klim Shipenko and actress Yulia Peresild) to the International Space Station.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
-   "date_published": "2021-10-05T08:55:02Z",
-   "date_modified": "2021-10-05T08:55:02Z",
-   "tags": [
-    "launch",
-    "russian_federal_space_agency_roscosmos",
-    "government",
-    "soyuz",
-    "soyuz_2_1_a",
-    "human_exploration",
-    "31_6",
-    "international_space_station"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56",
-    "global": "~space-schedule~launch~russian_federal_space_agency_roscosmos~3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.json"
    }
   },
   {

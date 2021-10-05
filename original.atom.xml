@@ -99,6 +99,21 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
     <category term="undocking"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~blue_origin~ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8</id>
+    <title>New Shepard | NS-18</title>
+    <updated>2021-10-12T13:30:00Z</updated>
+    <published>2021-10-12T13:30:00Z</published>
+    <content type="text">NS-18 is the second crewed New Shepard flight, carrying 4 paying customers.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"/>
+    <category term="launch"/>
+    <category term="blue_origin"/>
+    <category term="commercial"/>
+    <category term="new_shepard"/>
+    <category term="tourism"/>
+    <category term="west_texas_suborbital_launch_site_corn_ranch"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~press_event~409</id>
     <title>SpaceX Crew-3 Crew News Conference</title>
     <updated>2021-10-07T18:00:00Z</updated>
@@ -145,23 +160,6 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-19_doc_image_20210519074727.jpeg"/>
     <category term="event"/>
     <category term="docking"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~russian_federal_space_agency_roscosmos~3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56</id>
-    <title>Soyuz 2.1a | Soyuz MS-19</title>
-    <updated>2021-10-05T08:55:02Z</updated>
-    <published>2021-10-05T08:55:02Z</published>
-    <content type="text">Soyuz mission launching from the Baikonur Cosmodrome in Kazakhstan and carrying Roscosmos cosmonaut Anton Shkaplerov as well as the Challenge movie crew (Russian film producer Klim Shipenko and actress Yulia Peresild) to the International Space Station.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
-    <category term="launch"/>
-    <category term="russian_federal_space_agency_roscosmos"/>
-    <category term="government"/>
-    <category term="soyuz"/>
-    <category term="soyuz_2_1_a"/>
-    <category term="human_exploration"/>
-    <category term="31_6"/>
-    <category term="international_space_station"/>
   </entry>
   <entry>
     <id>~space-schedule~event~change_of_command~330</id>
