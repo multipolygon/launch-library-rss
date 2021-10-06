@@ -148,18 +148,8 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</descrip
       <category>event</category>
       <category>docking</category>
       <guid isPermaLink="false">~space-schedule~event~docking~278</guid>
-      <pubDate>Tue, 05 Oct 2021 12:12:00 GMT</pubDate>
+      <pubDate>Tue, 05 Oct 2021 12:22:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-19_doc_image_20210519074727.jpeg"/>
-    </item>
-    <item>
-      <title>ISS Expedition 65 Change of Command Ceremony</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>JAXA astronaut Hakihiko Hoshide, second Expedition 65 commander, will hand over the International Space Station command to ESA astronaut Thomas Pesquet.</description>
-      <category>event</category>
-      <category>change_of_command</category>
-      <guid isPermaLink="false">~space-schedule~event~change_of_command~330</guid>
-      <pubDate>Mon, 04 Oct 2021 19:20:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20210921171653.jpeg"/>
     </item>
   </channel>
 </rss>

@@ -239,8 +239,8 @@
    "content_text": "The Soyuz MS-19 spacecraft will dock to the International Space Station carrying ROSCOSMOS cosmonaut Anton Shkaplerov as Expeditions 65/66 crew member as well as film director Klim Shipenko and actress Yulia Peresild.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-19_doc_image_20210519074727.jpeg",
-   "date_published": "2021-10-05T12:12:00Z",
-   "date_modified": "2021-10-05T12:12:00Z",
+   "date_published": "2021-10-05T12:22:00Z",
+   "date_modified": "2021-10-05T12:22:00Z",
    "tags": [
     "event",
     "docking"
@@ -265,39 +265,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~change_of_command~330",
-   "title": "ISS Expedition 65 Change of Command Ceremony",
-   "content_text": "JAXA astronaut Hakihiko Hoshide, second Expedition 65 commander, will hand over the International Space Station command to ESA astronaut Thomas Pesquet.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20210921171653.jpeg",
-   "date_published": "2021-10-04T19:20:00Z",
-   "date_modified": "2021-10-04T19:20:00Z",
-   "tags": [
-    "event",
-    "change_of_command"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20210921171653.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Change of Command | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "330",
-    "global": "~space-schedule~event~change_of_command~330"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/change_of_command/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -308,7 +275,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 9,
+  "itemCount": 8,
   "pageNumber": 1,
   "pageCount": 1
  }

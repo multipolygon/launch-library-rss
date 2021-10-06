@@ -153,23 +153,12 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
   <entry>
     <id>~space-schedule~event~docking~278</id>
     <title>Soyuz MS-19 Docking</title>
-    <updated>2021-10-05T12:12:00Z</updated>
-    <published>2021-10-05T12:12:00Z</published>
+    <updated>2021-10-05T12:22:00Z</updated>
+    <published>2021-10-05T12:22:00Z</published>
     <content type="text">The Soyuz MS-19 spacecraft will dock to the International Space Station carrying ROSCOSMOS cosmonaut Anton Shkaplerov as Expeditions 65/66 crew member as well as film director Klim Shipenko and actress Yulia Peresild.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-19_doc_image_20210519074727.jpeg"/>
     <category term="event"/>
     <category term="docking"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~change_of_command~330</id>
-    <title>ISS Expedition 65 Change of Command Ceremony</title>
-    <updated>2021-10-04T19:20:00Z</updated>
-    <published>2021-10-04T19:20:00Z</published>
-    <content type="text">JAXA astronaut Hakihiko Hoshide, second Expedition 65 commander, will hand over the International Space Station command to ESA astronaut Thomas Pesquet.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20210921171653.jpeg"/>
-    <category term="event"/>
-    <category term="change_of_command"/>
   </entry>
 </feed>

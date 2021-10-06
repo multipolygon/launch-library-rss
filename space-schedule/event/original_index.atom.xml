@@ -48,12 +48,4 @@
     <content type="text">2 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json"/>
   </entry>
-  <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/change_of_command/original.json</id>
-    <title>Change of Command | Event | Space Schedule</title>
-    <updated>2021-10-04T19:20:00Z</updated>
-    <published>2021-10-04T19:20:00Z</published>
-    <content type="text">1 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fchange_of_command%2Foriginal.json"/>
-  </entry>
 </feed>
