@@ -58,19 +58,4 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
     <category term="tourism"/>
     <category term="west_texas_suborbital_launch_site_corn_ranch"/>
   </entry>
-  <entry>
-    <id>~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2</id>
-    <title>Epsilon | RAISE-2 &amp; Others</title>
-    <updated>2021-10-07T00:51:21Z</updated>
-    <published>2021-10-07T00:51:21Z</published>
-    <content type="text">8 payloads will fly on this mission : "RApid Innovative payload demonstration SatellitE-2" (RAISE-2), DRUMS (Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg"/>
-    <category term="launch"/>
-    <category term="japan_aerospace_exploration_agency"/>
-    <category term="government"/>
-    <category term="epsilon"/>
-    <category term="test_flight"/>
-    <category term="m_v_pad"/>
-  </entry>
 </feed>

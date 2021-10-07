@@ -125,21 +125,6 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
     <category term="press_event"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2</id>
-    <title>Epsilon | RAISE-2 &amp; Others</title>
-    <updated>2021-10-07T00:51:21Z</updated>
-    <published>2021-10-07T00:51:21Z</published>
-    <content type="text">8 payloads will fly on this mission : "RApid Innovative payload demonstration SatellitE-2" (RAISE-2), DRUMS (Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg"/>
-    <category term="launch"/>
-    <category term="japan_aerospace_exploration_agency"/>
-    <category term="government"/>
-    <category term="epsilon"/>
-    <category term="test_flight"/>
-    <category term="m_v_pad"/>
-  </entry>
-  <entry>
     <id>~space-schedule~event~press_event~408</id>
     <title>SpaceX Crew-3 Mission Overview Press Conference</title>
     <updated>2021-10-06T17:00:00Z</updated>
@@ -149,16 +134,5 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_m_image_20211001183755.jpeg"/>
     <category term="event"/>
     <category term="press_event"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~docking~278</id>
-    <title>Soyuz MS-19 Docking</title>
-    <updated>2021-10-05T12:22:00Z</updated>
-    <published>2021-10-05T12:22:00Z</published>
-    <content type="text">The Soyuz MS-19 spacecraft will dock to the International Space Station carrying ROSCOSMOS cosmonaut Anton Shkaplerov as Expeditions 65/66 crew member as well as film director Klim Shipenko and actress Yulia Peresild.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-19_doc_image_20210519074727.jpeg"/>
-    <category term="event"/>
-    <category term="docking"/>
   </entry>
 </feed>

@@ -29,15 +29,5 @@
       <pubDate>Sat, 30 Oct 2021 00:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-18__image_20210519113259.jpg"/>
     </item>
-    <item>
-      <title>Soyuz MS-19 Docking</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The Soyuz MS-19 spacecraft will dock to the International Space Station carrying ROSCOSMOS cosmonaut Anton Shkaplerov as Expeditions 65/66 crew member as well as film director Klim Shipenko and actress Yulia Peresild.</description>
-      <category>event</category>
-      <category>docking</category>
-      <guid isPermaLink="false">278</guid>
-      <pubDate>Tue, 05 Oct 2021 12:22:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-19_doc_image_20210519074727.jpeg"/>
-    </item>
   </channel>
 </rss>
