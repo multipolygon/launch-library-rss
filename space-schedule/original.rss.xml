@@ -94,6 +94,16 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</descrip
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_und_image_20210519074939.jpeg"/>
     </item>
     <item>
+      <title>NASA Lucy Pre-Launch News Conference</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA will host a media briefing about the upcoming launch of the Lucy mission. Lucy will explore multiple asteroids over the course of 12 years.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~410</guid>
+      <pubDate>Wed, 13 Oct 2021 17:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_lucy_pre-l_image_20211007191553.jpg"/>
+    </item>
+    <item>
       <title>New Shepard | NS-18</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8.json</link>
       <description>NS-18 is the second crewed New Shepard flight, carrying 4 paying customers.</description>
@@ -116,16 +126,6 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</descrip
       <guid isPermaLink="false">~space-schedule~event~press_event~409</guid>
       <pubDate>Thu, 07 Oct 2021 18:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20211001183757.jpeg"/>
-    </item>
-    <item>
-      <title>SpaceX Crew-3 Mission Overview Press Conference</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>NASA will present an overview of SpaceX Crew-3 mission and discuss an upcoming crew rotation.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~408</guid>
-      <pubDate>Wed, 06 Oct 2021 17:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_m_image_20211001183755.jpeg"/>
     </item>
   </channel>
 </rss>

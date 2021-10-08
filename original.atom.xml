@@ -99,6 +99,17 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
     <category term="undocking"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~press_event~410</id>
+    <title>NASA Lucy Pre-Launch News Conference</title>
+    <updated>2021-10-13T17:00:00Z</updated>
+    <published>2021-10-13T17:00:00Z</published>
+    <content type="text">NASA will host a media briefing about the upcoming launch of the Lucy mission. Lucy will explore multiple asteroids over the course of 12 years.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_lucy_pre-l_image_20211007191553.jpg"/>
+    <category term="event"/>
+    <category term="press_event"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~blue_origin~ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8</id>
     <title>New Shepard | NS-18</title>
     <updated>2021-10-12T13:30:00Z</updated>
@@ -121,17 +132,6 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
     <content type="text">NASA astronauts Raja Chari, Tom Marshburn, and Kayla Barron as well as ESA astronaut Matthias Maurer will answer press questions about their upcoming flight to International Space Station.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20211001183757.jpeg"/>
-    <category term="event"/>
-    <category term="press_event"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~press_event~408</id>
-    <title>SpaceX Crew-3 Mission Overview Press Conference</title>
-    <updated>2021-10-06T17:00:00Z</updated>
-    <published>2021-10-06T17:00:00Z</published>
-    <content type="text">NASA will present an overview of SpaceX Crew-3 mission and discuss an upcoming crew rotation.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_m_image_20211001183755.jpeg"/>
     <category term="event"/>
     <category term="press_event"/>
   </entry>

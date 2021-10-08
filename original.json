@@ -244,6 +244,39 @@
    }
   },
   {
+   "id": "~space-schedule~event~press_event~410",
+   "title": "NASA Lucy Pre-Launch News Conference",
+   "content_text": "NASA will host a media briefing about the upcoming launch of the Lucy mission. Lucy will explore multiple asteroids over the course of 12 years.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_lucy_pre-l_image_20211007191553.jpg",
+   "date_published": "2021-10-13T17:00:00Z",
+   "date_modified": "2021-10-13T17:00:00Z",
+   "tags": [
+    "event",
+    "press_event"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_lucy_pre-l_image_20211007191553.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Press Event | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "410",
+    "global": "~space-schedule~event~press_event~410"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~launch~blue_origin~ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8",
    "title": "New Shepard | NS-18",
    "content_text": "NS-18 is the second crewed New Shepard flight, carrying 4 paying customers.",
@@ -307,39 +340,6 @@
    "_id": {
     "parent": "409",
     "global": "~space-schedule~event~press_event~409"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~press_event~408",
-   "title": "SpaceX Crew-3 Mission Overview Press Conference",
-   "content_text": "NASA will present an overview of SpaceX Crew-3 mission and discuss an upcoming crew rotation.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_m_image_20211001183755.jpeg",
-   "date_published": "2021-10-06T17:00:00Z",
-   "date_modified": "2021-10-06T17:00:00Z",
-   "tags": [
-    "event",
-    "press_event"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_m_image_20211001183755.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Press Event | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "408",
-    "global": "~space-schedule~event~press_event~408"
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
