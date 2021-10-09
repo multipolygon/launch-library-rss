@@ -7,9 +7,29 @@
     <description>All items.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Sun, 31 Oct 2021 04:45:00 GMT</pubDate>
+    <pubDate>Mon, 08 Nov 2021 01:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>SpaceX Crew-2 "Endeavour" Crew Dragon Splashdown</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The "Endeavour" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.</description>
+      <category>event</category>
+      <category>landing</category>
+      <guid isPermaLink="false">~space-schedule~event~landing~283</guid>
+      <pubDate>Mon, 08 Nov 2021 01:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg"/>
+    </item>
+    <item>
+      <title>SpaceX Crew-2 "Endeavour" Crew Dragon Undocking</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The "Endeavour" Crew Dragon will undock from the International Space Station, carrying NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet. It will then reenter the Earth's atmosphere and splashdown in the Atlantic Ocean.</description>
+      <category>event</category>
+      <category>undocking</category>
+      <guid isPermaLink="false">~space-schedule~event~undocking~282</guid>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg"/>
+    </item>
     <item>
       <title>SpaceX Crew-3 Crew Dragon Docking</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
@@ -116,16 +136,6 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</descrip
       <guid isPermaLink="false">~space-schedule~launch~blue_origin~ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8</guid>
       <pubDate>Tue, 12 Oct 2021 13:30:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"/>
-    </item>
-    <item>
-      <title>SpaceX Crew-3 Crew News Conference</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>NASA astronauts Raja Chari, Tom Marshburn, and Kayla Barron as well as ESA astronaut Matthias Maurer will answer press questions about their upcoming flight to International Space Station.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~409</guid>
-      <pubDate>Thu, 07 Oct 2021 18:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20211001183757.jpeg"/>
     </item>
   </channel>
 </rss>

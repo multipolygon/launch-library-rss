@@ -6,9 +6,19 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fundocking%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Sun, 17 Oct 2021 01:13:00 GMT</pubDate>
+    <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>SpaceX Crew-2 "Endeavour" Crew Dragon Undocking</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The "Endeavour" Crew Dragon will undock from the International Space Station, carrying NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet. It will then reenter the Earth's atmosphere and splashdown in the Atlantic Ocean.</description>
+      <category>event</category>
+      <category>undocking</category>
+      <guid isPermaLink="false">282</guid>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg"/>
+    </item>
     <item>
       <title>Soyuz MS-18 Undocking</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>

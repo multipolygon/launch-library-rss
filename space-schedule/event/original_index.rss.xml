@@ -7,9 +7,23 @@
     <description>All feeds in Space Schedule &gt; Event.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Sun, 31 Oct 2021 04:45:00 GMT</pubDate>
+    <pubDate>Mon, 08 Nov 2021 01:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Landing | Event | Space Schedule</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Flanding%2Foriginal.json</link>
+      <description>2 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.json</guid>
+      <pubDate>Mon, 08 Nov 2021 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Undocking | Event | Space Schedule</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fundocking%2Foriginal.json</link>
+      <description>2 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/undocking/original.json</guid>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Docking | Event | Space Schedule</title>
       <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fdocking%2Foriginal.json</link>
@@ -25,23 +39,9 @@
       <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Landing | Event | Space Schedule</title>
-      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Flanding%2Foriginal.json</link>
-      <description>1 items</description>
-      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.json</guid>
-      <pubDate>Sun, 17 Oct 2021 04:36:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Undocking | Event | Space Schedule</title>
-      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fundocking%2Foriginal.json</link>
-      <description>1 items</description>
-      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/undocking/original.json</guid>
-      <pubDate>Sun, 17 Oct 2021 01:13:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Press Event | Event | Space Schedule</title>
       <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json</link>
-      <description>2 items</description>
+      <description>1 items</description>
       <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json</guid>
       <pubDate>Wed, 13 Oct 2021 17:00:00 GMT</pubDate>
     </item>

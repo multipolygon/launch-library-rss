@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Landing | Event | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.atom.xml</id>
-  <updated>2021-10-17T04:36:44Z</updated>
+  <updated>2021-11-08T01:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Flanding%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
+  <entry>
+    <id>283</id>
+    <title>SpaceX Crew-2 "Endeavour" Crew Dragon Splashdown</title>
+    <updated>2021-11-08T01:00:00Z</updated>
+    <published>2021-11-08T01:00:00Z</published>
+    <content type="text">The "Endeavour" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg"/>
+    <category term="event"/>
+    <category term="landing"/>
+  </entry>
   <entry>
     <id>292</id>
     <title>Soyuz MS-18 Landing</title>
