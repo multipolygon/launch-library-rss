@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blue Origin | Launch | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/blue_origin/original.atom.xml</id>
-  <updated>2021-10-12T13:30:00Z</updated>
+  <updated>2021-10-13T13:30:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/blue_origin/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/blue_origin/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fblue_origin%2Foriginal.json"/>
@@ -10,8 +10,8 @@
   <entry>
     <id>ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8</id>
     <title>New Shepard | NS-18</title>
-    <updated>2021-10-12T13:30:00Z</updated>
-    <published>2021-10-12T13:30:00Z</published>
+    <updated>2021-10-13T13:30:00Z</updated>
+    <published>2021-10-13T13:30:00Z</published>
     <content type="text">NS-18 is the second crewed New Shepard flight, carrying 4 paying customers.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"/>

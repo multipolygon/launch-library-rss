@@ -902,8 +902,8 @@
                     "slug": "soyuz-21a-progress-ms-18-79p",
                     "name": "Soyuz 2.1a | Progress MS-18 (79P)",
                     "status": {
-                        "id": 2,
-                        "name": "TBD"
+                        "id": 1,
+                        "name": "Go"
                     },
                     "net": "2021-10-28T00:00:00Z",
                     "window_end": "2021-10-28T00:00:00Z",

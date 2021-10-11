@@ -28,6 +28,22 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075417.jpeg"/>
     </item>
     <item>
+      <title>Soyuz 2.1a | Progress MS-18 (79P)</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/5175abf5-6cac-4b57-ae16-edabc138966a.json</link>
+      <description>The Progress MS-18 spacecraft will resupply the International Space Station.</description>
+      <category>launch</category>
+      <category>russian_federal_space_agency_roscosmos</category>
+      <category>government</category>
+      <category>soyuz</category>
+      <category>soyuz_2_1_a</category>
+      <category>resupply</category>
+      <category>31_6</category>
+      <category>international_space_station</category>
+      <guid isPermaLink="false">~space-schedule~launch~russian_federal_space_agency_roscosmos~5175abf5-6cac-4b57-ae16-edabc138966a</guid>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
+    </item>
+    <item>
       <title>H-IIA 202 | QZS-1R</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/56e548c8-ff60-4cf5-bc60-d50a546a6a79.json</link>
       <description>The Quasi-Zenith Satellite System (QZSS) is a three-satellite regional time transfer system and the satellite-based augmentation system for the GPS that would be receivable within Japan. The primary purpose of QZSS is to increase the availability of GPS in Japan's numerous urban canyons, where only satellites at very high elevation can be seen. A secondary function is performance enhancement, increasing the accuracy and reliability of GPS derived navigation solutions.&#xD;
@@ -54,7 +70,7 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</descrip
       <category>tourism</category>
       <category>west_texas_suborbital_launch_site_corn_ranch</category>
       <guid isPermaLink="false">~space-schedule~launch~blue_origin~ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8</guid>
-      <pubDate>Tue, 12 Oct 2021 13:30:00 GMT</pubDate>
+      <pubDate>Wed, 13 Oct 2021 13:30:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"/>
     </item>
   </channel>
