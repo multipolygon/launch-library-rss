@@ -26,8 +26,8 @@
                     "slug": "atlas-v-401-lucy",
                     "name": "Atlas V 401 | Lucy",
                     "status": {
-                        "id": 2,
-                        "name": "TBD"
+                        "id": 1,
+                        "name": "Go"
                     },
                     "net": "2021-10-16T09:34:00Z",
                     "window_end": "2021-10-16T10:49:00Z",
@@ -692,7 +692,7 @@
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519111149.jpeg",
-            "date": "2021-10-21T00:00:00Z",
+            "date": "2021-10-21T16:24:00Z",
             "launches": [
                 {
                     "id": "a330c94f-5191-42a2-9401-59a6268f590a",
@@ -893,7 +893,7 @@
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-18__image_20210519113259.jpg",
-            "date": "2021-10-30T00:00:00Z",
+            "date": "2021-10-30T01:34:00Z",
             "launches": [
                 {
                     "id": "5175abf5-6cac-4b57-ae16-edabc138966a",

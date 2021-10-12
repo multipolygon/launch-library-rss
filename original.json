@@ -3,6 +3,39 @@
  "description": "All items.",
  "items": [
   {
+   "id": "~space-schedule~event~release~284",
+   "title": "NG-16 Cygnus Release & Reentry",
+   "content_text": "The Northrop Grumman NG-16 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg",
+   "date_published": "2021-11-11T00:00:00Z",
+   "date_modified": "2021-11-11T00:00:00Z",
+   "tags": [
+    "event",
+    "release"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Release | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "284",
+    "global": "~space-schedule~event~release~284"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/release/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~landing~283",
    "title": "SpaceX Crew-2 \"Endeavour\" Crew Dragon Splashdown",
    "content_text": "The \"Endeavour\" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.",
@@ -146,8 +179,8 @@
    "content_text": "The Progress MS-18 spacecraft is scheduled to autonomously dock to the Zvezda module of the ISS.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-18__image_20210519113259.jpg",
-   "date_published": "2021-10-30T00:00:00Z",
-   "date_modified": "2021-10-30T00:00:00Z",
+   "date_published": "2021-10-30T01:34:00Z",
+   "date_modified": "2021-10-30T01:34:00Z",
    "tags": [
     "event",
     "docking"
@@ -249,13 +282,50 @@
    }
   },
   {
+   "id": "~space-schedule~launch~arianespace~7b412779-a9cd-442d-b067-1889a8f6b930",
+   "title": "Ariane 5 ECA | SES-17 & Syracuse 4A",
+   "content_text": "SES-17 is a Ka-band high-throughput geostationary communications satellite built by Thales Alenia Space designed to provide mobile internet services to airline passengers over the Americas and the Atlantic Ocean. Syracuse 4A is a French military communications satellite built by Thales Alenia Space.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/7b412779-a9cd-442d-b067-1889a8f6b930.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane252052520eca_image_20190224012333.jpeg",
+   "date_published": "2021-10-23T01:01:00Z",
+   "date_modified": "2021-10-23T01:01:00Z",
+   "tags": [
+    "launch",
+    "arianespace",
+    "commercial",
+    "ariane_5",
+    "ariane_5_eca",
+    "communications",
+    "ariane_launch_area_3"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane252052520eca_image_20190224012333.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Arianespace | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "7b412779-a9cd-442d-b067-1889a8f6b930",
+    "global": "~space-schedule~launch~arianespace~7b412779-a9cd-442d-b067-1889a8f6b930"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~relocation~280",
    "title": "Progress MS-17 Relocation",
    "content_text": "The Progress MS-17 spacecraft will be relocated from the Poisk module to the Nauka module.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519111149.jpeg",
-   "date_published": "2021-10-21T00:00:00Z",
-   "date_modified": "2021-10-21T00:00:00Z",
+   "date_published": "2021-10-21T16:24:00Z",
+   "date_modified": "2021-10-21T16:24:00Z",
    "tags": [
     "event",
     "relocation"
@@ -348,6 +418,155 @@
    }
   },
   {
+   "id": "~space-schedule~launch~united_launch_alliance~7e2d0fe7-6156-442d-be4e-cbac85f259e5",
+   "title": "Atlas V 401 | Lucy",
+   "content_text": "Lucy is the first mission to explore and study Trojan asteroids. The Trojans are a type of asteroids that orbit the Sun in two groups, in front of and behind Jupiter in its orbit around our star. Since these asteroids have been in such stable orbits for billions of years, they are of great interest as remnants of early Solar System.\r\nLucy is a NASA mission led by NASA Goddard and Southwest Research Institute in Boulder, Colorado. Over the course of 12 years, Lucy will fly by seven different Trojan asteroids and also one main belt asteroid. The complex trajectory to visit all targets will include several Earth gravity assists.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/7e2d0fe7-6156-442d-be4e-cbac85f259e5.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg",
+   "date_published": "2021-10-16T09:34:00Z",
+   "date_modified": "2021-10-16T09:34:00Z",
+   "tags": [
+    "launch",
+    "united_launch_alliance",
+    "commercial",
+    "atlas",
+    "atlas_v_401",
+    "robotic_exploration",
+    "space_launch_complex_41"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "United Launch Alliance | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "7e2d0fe7-6156-442d-be4e-cbac85f259e5",
+    "global": "~space-schedule~launch~united_launch_alliance~7e2d0fe7-6156-442d-be4e-cbac85f259e5"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/united_launch_alliance/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~53d3f5c4-58ce-4aab-9f38-5d3dfa434194",
+   "title": "Long March 2F/G | Shenzhou 13",
+   "content_text": "Second crewed flight to the Chinese large modular space station.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/53d3f5c4-58ce-4aab-9f38-5d3dfa434194.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2_image_20210908195835.jpeg",
+   "date_published": "2021-10-15T16:13:00Z",
+   "date_modified": "2021-10-15T16:13:00Z",
+   "tags": [
+    "launch",
+    "china_aerospace_science_and_technology_corporation",
+    "government",
+    "long_march_2",
+    "human_exploration",
+    "launch_area_4_sls_1_921",
+    "shenzhou",
+    "tiangong_space_station"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2_image_20210908195835.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "53d3f5c4-58ce-4aab-9f38-5d3dfa434194",
+    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~53d3f5c4-58ce-4aab-9f38-5d3dfa434194"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~00190507-4918-491a-aa73-0e151775fada",
+   "title": "Long March 2D | CHASE (Chinese Hα Solar Explorer)",
+   "content_text": "NOTE: Rocket and payload identity unconfirmed and may well be incorrect.\r\n\r\nThe Chinese Hα Solar Explorer (CHASE) is designed to test a newly developed satellite platform and conduct solar observations. The scientific payload of the satellite is an Hα imaging spectrograph (HIS), which can, for the first time, acquire full-disk spectroscopic solar observations in the Hα waveband. It will complement the observations by on-orbit solar spacecraft (such as SDO, IRIS, STEREO and PSP), as well as future solar missions of the Solar Orbiter and the Chinese Advanced Space-based Solar Observatory (ASO-S).",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/00190507-4918-491a-aa73-0e151775fada.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
+   "date_published": "2021-10-14T10:44:00Z",
+   "date_modified": "2021-10-14T10:44:00Z",
+   "tags": [
+    "launch",
+    "china_aerospace_science_and_technology_corporation",
+    "government",
+    "long_march",
+    "long_march_2_d",
+    "heliophysics",
+    "launch_complex_9"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "00190507-4918-491a-aa73-0e151775fada",
+    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~00190507-4918-491a-aa73-0e151775fada"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~launch~arianespace~665d4c52-a441-416f-b634-3e9ae9f1d3ab",
+   "title": "Soyuz 2.1b/Fregat-M | OneWeb 11",
+   "content_text": "A batch of 34 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/665d4c52-a441-416f-b634-3e9ae9f1d3ab.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085941.jpeg",
+   "date_published": "2021-10-14T09:40:00Z",
+   "date_modified": "2021-10-14T09:40:00Z",
+   "tags": [
+    "launch",
+    "arianespace",
+    "commercial",
+    "soyuz",
+    "soyuz_2_1_b",
+    "communications",
+    "cosmodrome_site_1_s"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085941.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Arianespace | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "665d4c52-a441-416f-b634-3e9ae9f1d3ab",
+    "global": "~space-schedule~launch~arianespace~665d4c52-a441-416f-b634-3e9ae9f1d3ab"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~press_event~410",
    "title": "NASA Lucy Pre-Launch News Conference",
    "content_text": "NASA will host a media briefing about the upcoming launch of the Lucy mission. Lucy will explore multiple asteroids over the course of 12 years.",
@@ -425,7 +644,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 12,
+  "itemCount": 18,
   "pageNumber": 1,
   "pageCount": 1
  }

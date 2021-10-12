@@ -7,9 +7,19 @@
     <description>All items in Space Schedule &gt; Event.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Mon, 08 Nov 2021 01:00:00 GMT</pubDate>
+    <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>NG-16 Cygnus Release &amp; Reentry</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The Northrop Grumman NG-16 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</description>
+      <category>event</category>
+      <category>release</category>
+      <guid isPermaLink="false">~space-schedule~event~release~284</guid>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"/>
+    </item>
     <item>
       <title>SpaceX Crew-2 "Endeavour" Crew Dragon Splashdown</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
@@ -47,7 +57,7 @@
       <category>event</category>
       <category>docking</category>
       <guid isPermaLink="false">~space-schedule~event~docking~281</guid>
-      <pubDate>Sat, 30 Oct 2021 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 30 Oct 2021 01:34:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-18__image_20210519113259.jpg"/>
     </item>
     <item>
@@ -57,7 +67,7 @@
       <category>event</category>
       <category>relocation</category>
       <guid isPermaLink="false">~space-schedule~event~relocation~280</guid>
-      <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 21 Oct 2021 16:24:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519111149.jpeg"/>
     </item>
     <item>

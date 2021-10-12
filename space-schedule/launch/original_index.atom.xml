@@ -33,6 +33,30 @@
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fmitsubishi_heavy_industries%2Foriginal.json"/>
   </entry>
   <entry>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json</id>
+    <title>Arianespace | Launch | Space Schedule</title>
+    <updated>2021-10-23T01:01:00Z</updated>
+    <published>2021-10-23T01:01:00Z</published>
+    <content type="text">2 items</content>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Farianespace%2Foriginal.json"/>
+  </entry>
+  <entry>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/united_launch_alliance/original.json</id>
+    <title>United Launch Alliance | Launch | Space Schedule</title>
+    <updated>2021-10-16T09:34:00Z</updated>
+    <published>2021-10-16T09:34:00Z</published>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Funited_launch_alliance%2Foriginal.json"/>
+  </entry>
+  <entry>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json</id>
+    <title>China Aerospace Science and Technology Corporation | Launch | Space Schedule</title>
+    <updated>2021-10-15T16:13:00Z</updated>
+    <published>2021-10-15T16:13:00Z</published>
+    <content type="text">2 items</content>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_technology_corporation%2Foriginal.json"/>
+  </entry>
+  <entry>
     <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/blue_origin/original.json</id>
     <title>Blue Origin | Launch | Space Schedule</title>
     <updated>2021-10-13T13:30:00Z</updated>

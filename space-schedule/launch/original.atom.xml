@@ -61,6 +61,90 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
     <category term="yoshinobu_launch_complex"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~arianespace~7b412779-a9cd-442d-b067-1889a8f6b930</id>
+    <title>Ariane 5 ECA | SES-17 &amp; Syracuse 4A</title>
+    <updated>2021-10-23T01:01:00Z</updated>
+    <published>2021-10-23T01:01:00Z</published>
+    <content type="text">SES-17 is a Ka-band high-throughput geostationary communications satellite built by Thales Alenia Space designed to provide mobile internet services to airline passengers over the Americas and the Atlantic Ocean. Syracuse 4A is a French military communications satellite built by Thales Alenia Space.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/7b412779-a9cd-442d-b067-1889a8f6b930.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane252052520eca_image_20190224012333.jpeg"/>
+    <category term="launch"/>
+    <category term="arianespace"/>
+    <category term="commercial"/>
+    <category term="ariane_5"/>
+    <category term="ariane_5_eca"/>
+    <category term="communications"/>
+    <category term="ariane_launch_area_3"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~united_launch_alliance~7e2d0fe7-6156-442d-be4e-cbac85f259e5</id>
+    <title>Atlas V 401 | Lucy</title>
+    <updated>2021-10-16T09:34:00Z</updated>
+    <published>2021-10-16T09:34:00Z</published>
+    <content type="text">Lucy is the first mission to explore and study Trojan asteroids. The Trojans are a type of asteroids that orbit the Sun in two groups, in front of and behind Jupiter in its orbit around our star. Since these asteroids have been in such stable orbits for billions of years, they are of great interest as remnants of early Solar System.&#xD;
+Lucy is a NASA mission led by NASA Goddard and Southwest Research Institute in Boulder, Colorado. Over the course of 12 years, Lucy will fly by seven different Trojan asteroids and also one main belt asteroid. The complex trajectory to visit all targets will include several Earth gravity assists.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/7e2d0fe7-6156-442d-be4e-cbac85f259e5.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg"/>
+    <category term="launch"/>
+    <category term="united_launch_alliance"/>
+    <category term="commercial"/>
+    <category term="atlas"/>
+    <category term="atlas_v_401"/>
+    <category term="robotic_exploration"/>
+    <category term="space_launch_complex_41"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~53d3f5c4-58ce-4aab-9f38-5d3dfa434194</id>
+    <title>Long March 2F/G | Shenzhou 13</title>
+    <updated>2021-10-15T16:13:00Z</updated>
+    <published>2021-10-15T16:13:00Z</published>
+    <content type="text">Second crewed flight to the Chinese large modular space station.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/53d3f5c4-58ce-4aab-9f38-5d3dfa434194.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2_image_20210908195835.jpeg"/>
+    <category term="launch"/>
+    <category term="china_aerospace_science_and_technology_corporation"/>
+    <category term="government"/>
+    <category term="long_march_2"/>
+    <category term="human_exploration"/>
+    <category term="launch_area_4_sls_1_921"/>
+    <category term="shenzhou"/>
+    <category term="tiangong_space_station"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~00190507-4918-491a-aa73-0e151775fada</id>
+    <title>Long March 2D | CHASE (Chinese Hα Solar Explorer)</title>
+    <updated>2021-10-14T10:44:00Z</updated>
+    <published>2021-10-14T10:44:00Z</published>
+    <content type="text">NOTE: Rocket and payload identity unconfirmed and may well be incorrect.&#xD;
+&#xD;
+The Chinese Hα Solar Explorer (CHASE) is designed to test a newly developed satellite platform and conduct solar observations. The scientific payload of the satellite is an Hα imaging spectrograph (HIS), which can, for the first time, acquire full-disk spectroscopic solar observations in the Hα waveband. It will complement the observations by on-orbit solar spacecraft (such as SDO, IRIS, STEREO and PSP), as well as future solar missions of the Solar Orbiter and the Chinese Advanced Space-based Solar Observatory (ASO-S).</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/00190507-4918-491a-aa73-0e151775fada.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg"/>
+    <category term="launch"/>
+    <category term="china_aerospace_science_and_technology_corporation"/>
+    <category term="government"/>
+    <category term="long_march"/>
+    <category term="long_march_2_d"/>
+    <category term="heliophysics"/>
+    <category term="launch_complex_9"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~arianespace~665d4c52-a441-416f-b634-3e9ae9f1d3ab</id>
+    <title>Soyuz 2.1b/Fregat-M | OneWeb 11</title>
+    <updated>2021-10-14T09:40:00Z</updated>
+    <published>2021-10-14T09:40:00Z</published>
+    <content type="text">A batch of 34 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/665d4c52-a441-416f-b634-3e9ae9f1d3ab.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085941.jpeg"/>
+    <category term="launch"/>
+    <category term="arianespace"/>
+    <category term="commercial"/>
+    <category term="soyuz"/>
+    <category term="soyuz_2_1_b"/>
+    <category term="communications"/>
+    <category term="cosmodrome_site_1_s"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~blue_origin~ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8</id>
     <title>New Shepard | NS-18</title>
     <updated>2021-10-13T13:30:00Z</updated>

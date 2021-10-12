@@ -3,6 +3,39 @@
  "description": "All items in Space Schedule > Event.",
  "items": [
   {
+   "id": "~space-schedule~event~release~284",
+   "title": "NG-16 Cygnus Release & Reentry",
+   "content_text": "The Northrop Grumman NG-16 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg",
+   "date_published": "2021-11-11T00:00:00Z",
+   "date_modified": "2021-11-11T00:00:00Z",
+   "tags": [
+    "event",
+    "release"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Release | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "284",
+    "global": "~space-schedule~event~release~284"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/release/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~landing~283",
    "title": "SpaceX Crew-2 \"Endeavour\" Crew Dragon Splashdown",
    "content_text": "The \"Endeavour\" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.",
@@ -107,8 +140,8 @@
    "content_text": "The Progress MS-18 spacecraft is scheduled to autonomously dock to the Zvezda module of the ISS.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-18__image_20210519113259.jpg",
-   "date_published": "2021-10-30T00:00:00Z",
-   "date_modified": "2021-10-30T00:00:00Z",
+   "date_published": "2021-10-30T01:34:00Z",
+   "date_modified": "2021-10-30T01:34:00Z",
    "tags": [
     "event",
     "docking"
@@ -140,8 +173,8 @@
    "content_text": "The Progress MS-17 spacecraft will be relocated from the Poisk module to the Nauka module.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519111149.jpeg",
-   "date_published": "2021-10-21T00:00:00Z",
-   "date_modified": "2021-10-21T00:00:00Z",
+   "date_published": "2021-10-21T16:24:00Z",
+   "date_modified": "2021-10-21T16:24:00Z",
    "tags": [
     "event",
     "relocation"
@@ -275,7 +308,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 8,
+  "itemCount": 9,
   "pageNumber": 1,
   "pageCount": 1
  }
