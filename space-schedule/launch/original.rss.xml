@@ -109,9 +109,7 @@ Lucy is a NASA mission led by NASA Goddard and Southwest Research Institute in B
     <item>
       <title>Long March 2D | CHASE (Chinese Hα Solar Explorer)</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/00190507-4918-491a-aa73-0e151775fada.json</link>
-      <description>NOTE: Rocket and payload identity unconfirmed and may well be incorrect.&#xD;
-&#xD;
-The Chinese Hα Solar Explorer (CHASE) is designed to test a newly developed satellite platform and conduct solar observations. The scientific payload of the satellite is an Hα imaging spectrograph (HIS), which can, for the first time, acquire full-disk spectroscopic solar observations in the Hα waveband. It will complement the observations by on-orbit solar spacecraft (such as SDO, IRIS, STEREO and PSP), as well as future solar missions of the Solar Orbiter and the Chinese Advanced Space-based Solar Observatory (ASO-S).</description>
+      <description>The Chinese Hα Solar Explorer (CHASE) is designed to test a newly developed satellite platform and conduct solar observations. The scientific payload of the satellite is an Hα imaging spectrograph (HIS), which can, for the first time, acquire full-disk spectroscopic solar observations in the Hα waveband. It will complement the observations by on-orbit solar spacecraft (such as SDO, IRIS, STEREO and PSP), as well as future solar missions of the Solar Orbiter and the Chinese Advanced Space-based Solar Observatory (ASO-S).</description>
       <category>launch</category>
       <category>china_aerospace_science_and_technology_corporation</category>
       <category>government</category>
@@ -126,7 +124,7 @@ The Chinese Hα Solar Explorer (CHASE) is designed to test a newly developed sat
     <item>
       <title>Soyuz 2.1b/Fregat-M | OneWeb 11</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/665d4c52-a441-416f-b634-3e9ae9f1d3ab.json</link>
-      <description>A batch of 34 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</description>
+      <description>A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</description>
       <category>launch</category>
       <category>arianespace</category>
       <category>commercial</category>
@@ -135,7 +133,7 @@ The Chinese Hα Solar Explorer (CHASE) is designed to test a newly developed sat
       <category>communications</category>
       <category>cosmodrome_site_1_s</category>
       <guid isPermaLink="false">~space-schedule~launch~arianespace~665d4c52-a441-416f-b634-3e9ae9f1d3ab</guid>
-      <pubDate>Thu, 14 Oct 2021 09:40:00 GMT</pubDate>
+      <pubDate>Thu, 14 Oct 2021 09:40:10 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085941.jpeg"/>
     </item>
     <item>
@@ -149,7 +147,7 @@ The Chinese Hα Solar Explorer (CHASE) is designed to test a newly developed sat
       <category>tourism</category>
       <category>west_texas_suborbital_launch_site_corn_ranch</category>
       <guid isPermaLink="false">~space-schedule~launch~blue_origin~ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8</guid>
-      <pubDate>Wed, 13 Oct 2021 13:30:00 GMT</pubDate>
+      <pubDate>Wed, 13 Oct 2021 14:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"/>
     </item>
   </channel>

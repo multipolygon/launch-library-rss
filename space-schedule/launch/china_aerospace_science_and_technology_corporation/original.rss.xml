@@ -28,9 +28,7 @@
     <item>
       <title>Long March 2D | CHASE (Chinese Hα Solar Explorer)</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/00190507-4918-491a-aa73-0e151775fada.json</link>
-      <description>NOTE: Rocket and payload identity unconfirmed and may well be incorrect.&#xD;
-&#xD;
-The Chinese Hα Solar Explorer (CHASE) is designed to test a newly developed satellite platform and conduct solar observations. The scientific payload of the satellite is an Hα imaging spectrograph (HIS), which can, for the first time, acquire full-disk spectroscopic solar observations in the Hα waveband. It will complement the observations by on-orbit solar spacecraft (such as SDO, IRIS, STEREO and PSP), as well as future solar missions of the Solar Orbiter and the Chinese Advanced Space-based Solar Observatory (ASO-S).</description>
+      <description>The Chinese Hα Solar Explorer (CHASE) is designed to test a newly developed satellite platform and conduct solar observations. The scientific payload of the satellite is an Hα imaging spectrograph (HIS), which can, for the first time, acquire full-disk spectroscopic solar observations in the Hα waveband. It will complement the observations by on-orbit solar spacecraft (such as SDO, IRIS, STEREO and PSP), as well as future solar missions of the Solar Orbiter and the Chinese Advanced Space-based Solar Observatory (ASO-S).</description>
       <category>launch</category>
       <category>china_aerospace_science_and_technology_corporation</category>
       <category>government</category>

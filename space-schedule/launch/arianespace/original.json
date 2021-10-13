@@ -33,11 +33,11 @@
   {
    "id": "665d4c52-a441-416f-b634-3e9ae9f1d3ab",
    "title": "Soyuz 2.1b/Fregat-M | OneWeb 11",
-   "content_text": "A batch of 34 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.",
+   "content_text": "A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/665d4c52-a441-416f-b634-3e9ae9f1d3ab.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085941.jpeg",
-   "date_published": "2021-10-14T09:40:00Z",
-   "date_modified": "2021-10-14T09:40:00Z",
+   "date_published": "2021-10-14T09:40:10Z",
+   "date_modified": "2021-10-14T09:40:10Z",
    "tags": [
     "launch",
     "arianespace",

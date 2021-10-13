@@ -495,7 +495,7 @@
   {
    "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~00190507-4918-491a-aa73-0e151775fada",
    "title": "Long March 2D | CHASE (Chinese Hα Solar Explorer)",
-   "content_text": "NOTE: Rocket and payload identity unconfirmed and may well be incorrect.\r\n\r\nThe Chinese Hα Solar Explorer (CHASE) is designed to test a newly developed satellite platform and conduct solar observations. The scientific payload of the satellite is an Hα imaging spectrograph (HIS), which can, for the first time, acquire full-disk spectroscopic solar observations in the Hα waveband. It will complement the observations by on-orbit solar spacecraft (such as SDO, IRIS, STEREO and PSP), as well as future solar missions of the Solar Orbiter and the Chinese Advanced Space-based Solar Observatory (ASO-S).",
+   "content_text": "The Chinese Hα Solar Explorer (CHASE) is designed to test a newly developed satellite platform and conduct solar observations. The scientific payload of the satellite is an Hα imaging spectrograph (HIS), which can, for the first time, acquire full-disk spectroscopic solar observations in the Hα waveband. It will complement the observations by on-orbit solar spacecraft (such as SDO, IRIS, STEREO and PSP), as well as future solar missions of the Solar Orbiter and the Chinese Advanced Space-based Solar Observatory (ASO-S).",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/00190507-4918-491a-aa73-0e151775fada.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
    "date_published": "2021-10-14T10:44:00Z",
@@ -532,11 +532,11 @@
   {
    "id": "~space-schedule~launch~arianespace~665d4c52-a441-416f-b634-3e9ae9f1d3ab",
    "title": "Soyuz 2.1b/Fregat-M | OneWeb 11",
-   "content_text": "A batch of 34 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.",
+   "content_text": "A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/665d4c52-a441-416f-b634-3e9ae9f1d3ab.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085941.jpeg",
-   "date_published": "2021-10-14T09:40:00Z",
-   "date_modified": "2021-10-14T09:40:00Z",
+   "date_published": "2021-10-14T09:40:10Z",
+   "date_modified": "2021-10-14T09:40:10Z",
    "tags": [
     "launch",
     "arianespace",
@@ -605,8 +605,8 @@
    "content_text": "NS-18 is the second crewed New Shepard flight, carrying 4 paying customers.",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
-   "date_published": "2021-10-13T13:30:00Z",
-   "date_modified": "2021-10-13T13:30:00Z",
+   "date_published": "2021-10-13T14:00:00Z",
+   "date_modified": "2021-10-13T14:00:00Z",
    "tags": [
     "launch",
     "blue_origin",
