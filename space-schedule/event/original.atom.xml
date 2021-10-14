@@ -97,6 +97,17 @@
     <category term="undocking"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~static_fire~416</id>
+    <title>Starship S20 Static Fire</title>
+    <updated>2021-10-15T05:00:00Z</updated>
+    <published>2021-10-15T05:00:00Z</published>
+    <content type="text">SpaceX will perform a static fire of the Starship S20 vehicle between 22:00 and 5:00 UTC (5pm-midnight CDT).</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=5HpgJJ1FwTc"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211013154253.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~press_event~410</id>
     <title>NASA Lucy Pre-Launch News Conference</title>
     <updated>2021-10-13T17:00:00Z</updated>

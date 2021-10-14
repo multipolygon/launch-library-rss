@@ -54,13 +54,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Farianespace%2Foriginal.json",
    "title": "Arianespace | Launch | Space Schedule",
-   "content_text": "2 items",
+   "content_text": "1 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane252052520eca_image_20190224012333.jpeg",
    "date_published": "2021-10-23T01:01:00Z",
    "date_modified": "2021-10-23T01:01:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 2,
+    "itemCount": 1,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0
@@ -86,26 +86,10 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_technology_corporation%2Foriginal.json",
    "title": "China Aerospace Science and Technology Corporation | Launch | Space Schedule",
-   "content_text": "2 items",
+   "content_text": "1 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2_image_20210908195835.jpeg",
    "date_published": "2021-10-15T16:13:00Z",
    "date_modified": "2021-10-15T16:13:00Z",
-   "_geo": {},
-   "_meta": {
-    "itemCount": 2,
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 0
-   }
-  },
-  {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/blue_origin/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fblue_origin%2Foriginal.json",
-   "title": "Blue Origin | Launch | Space Schedule",
-   "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
-   "date_published": "2021-10-13T14:00:00Z",
-   "date_modified": "2021-10-13T14:00:00Z",
    "_geo": {},
    "_meta": {
     "itemCount": 1,
@@ -123,7 +107,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal_index.json",
  "_meta": {
-  "itemCount": 7,
+  "itemCount": 6,
   "pageNumber": 1,
   "pageCount": 1
  }

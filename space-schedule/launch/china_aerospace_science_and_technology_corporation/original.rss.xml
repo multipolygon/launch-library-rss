@@ -12,7 +12,7 @@
     <item>
       <title>Long March 2F/G | Shenzhou 13</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/53d3f5c4-58ce-4aab-9f38-5d3dfa434194.json</link>
-      <description>Second crewed flight to the Chinese large modular space station.</description>
+      <description>Second crewed flight to the Chinese Tiangong space station carrying Zhai Zhigang, commander, Wang Yaping and Ye Guagfu, operators, on their second, second and first spaceflight respectively. Their mission duration onboard the TSS is 6 months, the longest so far in Chinese spaceflight.</description>
       <category>launch</category>
       <category>china_aerospace_science_and_technology_corporation</category>
       <category>government</category>
@@ -24,21 +24,6 @@
       <guid isPermaLink="false">53d3f5c4-58ce-4aab-9f38-5d3dfa434194</guid>
       <pubDate>Fri, 15 Oct 2021 16:13:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2_image_20210908195835.jpeg"/>
-    </item>
-    <item>
-      <title>Long March 2D | CHASE (Chinese Hα Solar Explorer)</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/00190507-4918-491a-aa73-0e151775fada.json</link>
-      <description>The Chinese Hα Solar Explorer (CHASE) is designed to test a newly developed satellite platform and conduct solar observations. The scientific payload of the satellite is an Hα imaging spectrograph (HIS), which can, for the first time, acquire full-disk spectroscopic solar observations in the Hα waveband. It will complement the observations by on-orbit solar spacecraft (such as SDO, IRIS, STEREO and PSP), as well as future solar missions of the Solar Orbiter and the Chinese Advanced Space-based Solar Observatory (ASO-S).</description>
-      <category>launch</category>
-      <category>china_aerospace_science_and_technology_corporation</category>
-      <category>government</category>
-      <category>long_march</category>
-      <category>long_march_2_d</category>
-      <category>heliophysics</category>
-      <category>launch_complex_9</category>
-      <guid isPermaLink="false">00190507-4918-491a-aa73-0e151775fada</guid>
-      <pubDate>Thu, 14 Oct 2021 10:44:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg"/>
     </item>
   </channel>
 </rss>

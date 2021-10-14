@@ -457,7 +457,7 @@
   {
    "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~53d3f5c4-58ce-4aab-9f38-5d3dfa434194",
    "title": "Long March 2F/G | Shenzhou 13",
-   "content_text": "Second crewed flight to the Chinese large modular space station.",
+   "content_text": "Second crewed flight to the Chinese Tiangong space station carrying Zhai Zhigang, commander, Wang Yaping and Ye Guagfu, operators, on their second, second and first spaceflight respectively. Their mission duration onboard the TSS is 6 months, the longest so far in Chinese spaceflight.",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/53d3f5c4-58ce-4aab-9f38-5d3dfa434194.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2_image_20210908195835.jpeg",
    "date_published": "2021-10-15T16:13:00Z",
@@ -493,77 +493,36 @@
    }
   },
   {
-   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~00190507-4918-491a-aa73-0e151775fada",
-   "title": "Long March 2D | CHASE (Chinese Hα Solar Explorer)",
-   "content_text": "The Chinese Hα Solar Explorer (CHASE) is designed to test a newly developed satellite platform and conduct solar observations. The scientific payload of the satellite is an Hα imaging spectrograph (HIS), which can, for the first time, acquire full-disk spectroscopic solar observations in the Hα waveband. It will complement the observations by on-orbit solar spacecraft (such as SDO, IRIS, STEREO and PSP), as well as future solar missions of the Solar Orbiter and the Chinese Advanced Space-based Solar Observatory (ASO-S).",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/00190507-4918-491a-aa73-0e151775fada.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
-   "date_published": "2021-10-14T10:44:00Z",
-   "date_modified": "2021-10-14T10:44:00Z",
+   "id": "~space-schedule~event~static_fire~416",
+   "title": "Starship S20 Static Fire",
+   "content_text": "SpaceX will perform a static fire of the Starship S20 vehicle between 22:00 and 5:00 UTC (5pm-midnight CDT).",
+   "url": "https://www.youtube.com/watch?v=5HpgJJ1FwTc",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211013154253.jpeg",
+   "date_published": "2021-10-15T05:00:00Z",
+   "date_modified": "2021-10-15T05:00:00Z",
    "tags": [
-    "launch",
-    "china_aerospace_science_and_technology_corporation",
-    "government",
-    "long_march",
-    "long_march_2_d",
-    "heliophysics",
-    "launch_complex_9"
+    "event",
+    "static_fire"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211013154253.jpeg"
     }
    ],
    "_meta": {
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
+    "youtubeCount": 1,
+    "subtitle": "Static Fire | Event | Space Schedule"
    },
    "_id": {
-    "parent": "00190507-4918-491a-aa73-0e151775fada",
-    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~00190507-4918-491a-aa73-0e151775fada"
+    "parent": "416",
+    "global": "~space-schedule~event~static_fire~416"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~launch~arianespace~665d4c52-a441-416f-b634-3e9ae9f1d3ab",
-   "title": "Soyuz 2.1b/Fregat-M | OneWeb 11",
-   "content_text": "A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/665d4c52-a441-416f-b634-3e9ae9f1d3ab.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085941.jpeg",
-   "date_published": "2021-10-14T09:40:10Z",
-   "date_modified": "2021-10-14T09:40:10Z",
-   "tags": [
-    "launch",
-    "arianespace",
-    "commercial",
-    "soyuz",
-    "soyuz_2_1_b",
-    "communications",
-    "cosmodrome_site_1_s"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085941.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Arianespace | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "665d4c52-a441-416f-b634-3e9ae9f1d3ab",
-    "global": "~space-schedule~launch~arianespace~665d4c52-a441-416f-b634-3e9ae9f1d3ab"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
    }
   },
   {
@@ -598,42 +557,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~blue_origin~ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8",
-   "title": "New Shepard | NS-18",
-   "content_text": "NS-18 is the second crewed New Shepard flight, carrying 4 paying customers.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
-   "date_published": "2021-10-13T14:00:00Z",
-   "date_modified": "2021-10-13T14:00:00Z",
-   "tags": [
-    "launch",
-    "blue_origin",
-    "commercial",
-    "new_shepard",
-    "tourism",
-    "west_texas_suborbital_launch_site_corn_ranch"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Blue Origin | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8",
-    "global": "~space-schedule~launch~blue_origin~ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/blue_origin/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -644,7 +567,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 18,
+  "itemCount": 16,
   "pageNumber": 1,
   "pageCount": 1
  }
