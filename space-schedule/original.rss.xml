@@ -135,6 +135,16 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</descrip
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519111149.jpeg"/>
     </item>
     <item>
+      <title>Starship S20 Static Fire</title>
+      <link>https://www.youtube.com/watch?v=5HpgJJ1FwTc</link>
+      <description>SpaceX will perform a static fire of the Starship S20 vehicle between 22:00 and 5:00 UTC (5pm-midnight CDT).</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~416</guid>
+      <pubDate>Tue, 19 Oct 2021 05:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211013154253.jpeg"/>
+    </item>
+    <item>
       <title>Soyuz MS-18 Landing</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The Soyuz MS-18 spacecraft carrying ROSCOSMOS cosmonaut Oleg Novitskiy as well as film director Klim Shipenko and actress Yulia Peresild will land back on Earth near Dzhezkazgan, Kazakhstan.</description>
@@ -151,7 +161,7 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</descrip
       <category>event</category>
       <category>undocking</category>
       <guid isPermaLink="false">~space-schedule~event~undocking~279</guid>
-      <pubDate>Sun, 17 Oct 2021 01:13:00 GMT</pubDate>
+      <pubDate>Sun, 17 Oct 2021 01:14:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_und_image_20210519074939.jpeg"/>
     </item>
     <item>
@@ -185,26 +195,6 @@ Lucy is a NASA mission led by NASA Goddard and Southwest Research Institute in B
       <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~53d3f5c4-58ce-4aab-9f38-5d3dfa434194</guid>
       <pubDate>Fri, 15 Oct 2021 16:13:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2_image_20210908195835.jpeg"/>
-    </item>
-    <item>
-      <title>Starship S20 Static Fire</title>
-      <link>https://www.youtube.com/watch?v=5HpgJJ1FwTc</link>
-      <description>SpaceX will perform a static fire of the Starship S20 vehicle between 22:00 and 5:00 UTC (5pm-midnight CDT).</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~416</guid>
-      <pubDate>Fri, 15 Oct 2021 05:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211013154253.jpeg"/>
-    </item>
-    <item>
-      <title>NASA Lucy Pre-Launch News Conference</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>NASA will host a media briefing about the upcoming launch of the Lucy mission. Lucy will explore multiple asteroids over the course of 12 years.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~410</guid>
-      <pubDate>Wed, 13 Oct 2021 17:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_lucy_pre-l_image_20211007191553.jpg"/>
     </item>
   </channel>
 </rss>

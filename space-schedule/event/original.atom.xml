@@ -75,6 +75,17 @@
     <category term="relocation"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~static_fire~416</id>
+    <title>Starship S20 Static Fire</title>
+    <updated>2021-10-19T05:00:00Z</updated>
+    <published>2021-10-19T05:00:00Z</published>
+    <content type="text">SpaceX will perform a static fire of the Starship S20 vehicle between 22:00 and 5:00 UTC (5pm-midnight CDT).</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=5HpgJJ1FwTc"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211013154253.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~landing~292</id>
     <title>Soyuz MS-18 Landing</title>
     <updated>2021-10-17T04:36:44Z</updated>
@@ -88,34 +99,12 @@
   <entry>
     <id>~space-schedule~event~undocking~279</id>
     <title>Soyuz MS-18 Undocking</title>
-    <updated>2021-10-17T01:13:00Z</updated>
-    <published>2021-10-17T01:13:00Z</published>
+    <updated>2021-10-17T01:14:00Z</updated>
+    <published>2021-10-17T01:14:00Z</published>
     <content type="text">The Soyuz MS-18 spacecraft will undock from the International Space Station carrying Expedition 65 crew member ROSCOSMOS cosmonaut Oleg Novitskiy as well as film director Klim Shipenko and actress Yulia Peresild.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_und_image_20210519074939.jpeg"/>
     <category term="event"/>
     <category term="undocking"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~416</id>
-    <title>Starship S20 Static Fire</title>
-    <updated>2021-10-15T05:00:00Z</updated>
-    <published>2021-10-15T05:00:00Z</published>
-    <content type="text">SpaceX will perform a static fire of the Starship S20 vehicle between 22:00 and 5:00 UTC (5pm-midnight CDT).</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=5HpgJJ1FwTc"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211013154253.jpeg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~press_event~410</id>
-    <title>NASA Lucy Pre-Launch News Conference</title>
-    <updated>2021-10-13T17:00:00Z</updated>
-    <published>2021-10-13T17:00:00Z</published>
-    <content type="text">NASA will host a media briefing about the upcoming launch of the Lucy mission. Lucy will explore multiple asteroids over the course of 12 years.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_lucy_pre-l_image_20211007191553.jpg"/>
-    <category term="event"/>
-    <category term="press_event"/>
   </entry>
 </feed>
