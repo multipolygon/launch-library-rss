@@ -67,7 +67,7 @@
       <category>event</category>
       <category>relocation</category>
       <guid isPermaLink="false">~space-schedule~event~relocation~280</guid>
-      <pubDate>Thu, 21 Oct 2021 16:24:00 GMT</pubDate>
+      <pubDate>Fri, 22 Oct 2021 03:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519111149.jpeg"/>
     </item>
     <item>
@@ -99,6 +99,16 @@
       <guid isPermaLink="false">~space-schedule~event~undocking~279</guid>
       <pubDate>Sun, 17 Oct 2021 01:14:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_und_image_20210519074939.jpeg"/>
+    </item>
+    <item>
+      <title>Shenzhou 13 Docking</title>
+      <link>https://ll.thespacedevs.com/2.2.0/event/417.json</link>
+      <description>The Shenzhou 13 spacecraft will dock autonomously to the Chinese Space Station, carrying CNSA astronauts Zhai Zhigang, Wang Yaping and Ye Guangfu to the Chinese Space Station.</description>
+      <category>event</category>
+      <category>docking</category>
+      <guid isPermaLink="false">~space-schedule~event~docking~417</guid>
+      <pubDate>Fri, 15 Oct 2021 22:49:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/shenzhou_13_doc_image_20211015173134.jpeg"/>
     </item>
   </channel>
 </rss>

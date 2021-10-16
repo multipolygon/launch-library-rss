@@ -29,4 +29,15 @@
     <category term="event"/>
     <category term="docking"/>
   </entry>
+  <entry>
+    <id>417</id>
+    <title>Shenzhou 13 Docking</title>
+    <updated>2021-10-15T22:49:00Z</updated>
+    <published>2021-10-15T22:49:00Z</published>
+    <content type="text">The Shenzhou 13 spacecraft will dock autonomously to the Chinese Space Station, carrying CNSA astronauts Zhai Zhigang, Wang Yaping and Ye Guangfu to the Chinese Space Station.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/event/417.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/shenzhou_13_doc_image_20211015173134.jpeg"/>
+    <category term="event"/>
+    <category term="docking"/>
+  </entry>
 </feed>

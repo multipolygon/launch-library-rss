@@ -66,8 +66,8 @@
   <entry>
     <id>~space-schedule~event~relocation~280</id>
     <title>Progress MS-17 Relocation</title>
-    <updated>2021-10-21T16:24:00Z</updated>
-    <published>2021-10-21T16:24:00Z</published>
+    <updated>2021-10-22T03:00:00Z</updated>
+    <published>2021-10-22T03:00:00Z</published>
     <content type="text">The Progress MS-17 spacecraft will be relocated from the Poisk module to the Nauka module.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519111149.jpeg"/>
@@ -106,5 +106,16 @@
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_und_image_20210519074939.jpeg"/>
     <category term="event"/>
     <category term="undocking"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~docking~417</id>
+    <title>Shenzhou 13 Docking</title>
+    <updated>2021-10-15T22:49:00Z</updated>
+    <published>2021-10-15T22:49:00Z</published>
+    <content type="text">The Shenzhou 13 spacecraft will dock autonomously to the Chinese Space Station, carrying CNSA astronauts Zhai Zhigang, Wang Yaping and Ye Guangfu to the Chinese Space Station.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/event/417.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/shenzhou_13_doc_image_20211015173134.jpeg"/>
+    <category term="event"/>
+    <category term="docking"/>
   </entry>
 </feed>
