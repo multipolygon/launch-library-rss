@@ -7,9 +7,19 @@
     <description>All items in Space Schedule &gt; Event.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+    <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Crew-3 Crew Dragon Relocation</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.</description>
+      <category>event</category>
+      <category>relocation</category>
+      <guid isPermaLink="false">~space-schedule~event~relocation~285</guid>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crew-3_crew_dra_image_20210519122555.jpeg"/>
+    </item>
     <item>
       <title>NG-16 Cygnus Release &amp; Reentry</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
@@ -99,16 +109,6 @@
       <guid isPermaLink="false">~space-schedule~event~undocking~279</guid>
       <pubDate>Sun, 17 Oct 2021 01:14:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_und_image_20210519074939.jpeg"/>
-    </item>
-    <item>
-      <title>Shenzhou 13 Docking</title>
-      <link>https://ll.thespacedevs.com/2.2.0/event/417.json</link>
-      <description>The Shenzhou 13 spacecraft will dock autonomously to the Chinese Space Station, carrying CNSA astronauts Zhai Zhigang, Wang Yaping and Ye Guangfu to the Chinese Space Station.</description>
-      <category>event</category>
-      <category>docking</category>
-      <guid isPermaLink="false">~space-schedule~event~docking~417</guid>
-      <pubDate>Fri, 15 Oct 2021 22:49:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/shenzhou_13_doc_image_20211015173134.jpeg"/>
     </item>
   </channel>
 </rss>
