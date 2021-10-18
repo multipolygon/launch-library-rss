@@ -145,6 +145,17 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</descrip
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519111149.jpeg"/>
     </item>
     <item>
+      <title>FAA SpaceX Starship at Boca Chica Virtual Public Hearing #2</title>
+      <link>https://www.eventbrite.com/e/spacex-starshipsuper-heavy-at-boca-chica-virtual-public-hearing-2-tickets-190603218357</link>
+      <description>Second of two virtual public hearings held by the FAA to discuss the Draft Environmental Assessment for the SpaceX Starship/Super Heavy program at the Boca Chica launch site in Cameron County, TX, USA.&#xD;
+A free registration is required to attend the hearing.</description>
+      <category>event</category>
+      <category>public_hearing</category>
+      <guid isPermaLink="false">~space-schedule~event~public_hearing~419</guid>
+      <pubDate>Wed, 20 Oct 2021 22:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/faa_spacex_star_image_20211017182252.jpeg"/>
+    </item>
+    <item>
       <title>Kuaizhou-1A | Jilin-1-02F</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50.json</link>
       <description>Jilin-1 is a series of Chinese commercial remote sensing satellites.</description>
@@ -169,24 +180,15 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</descrip
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211013154253.jpeg"/>
     </item>
     <item>
-      <title>Soyuz MS-18 Landing</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The Soyuz MS-18 spacecraft carrying ROSCOSMOS cosmonaut Oleg Novitskiy as well as film director Klim Shipenko and actress Yulia Peresild will land back on Earth near Dzhezkazgan, Kazakhstan.</description>
+      <title>FAA SpaceX Starship at Boca Chica Virtual Public Hearing #1</title>
+      <link>https://www.eventbrite.com/e/spacex-starshipsuper-heavy-at-boca-chica-virtual-public-hearing-1-tickets-190555615977</link>
+      <description>First of two virtual public hearings held by the FAA to discuss the Draft Environmental Assessment for the SpaceX Starship/Super Heavy program at the Boca Chica launch site in Cameron County, TX, USA.&#xD;
+A free registration is required to attend the hearing.</description>
       <category>event</category>
-      <category>landing</category>
-      <guid isPermaLink="false">~space-schedule~event~landing~292</guid>
-      <pubDate>Sun, 17 Oct 2021 04:36:44 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_lan_image_20210519132618.jpg"/>
-    </item>
-    <item>
-      <title>Soyuz MS-18 Undocking</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The Soyuz MS-18 spacecraft will undock from the International Space Station carrying Expedition 65 crew member ROSCOSMOS cosmonaut Oleg Novitskiy as well as film director Klim Shipenko and actress Yulia Peresild.</description>
-      <category>event</category>
-      <category>undocking</category>
-      <guid isPermaLink="false">~space-schedule~event~undocking~279</guid>
-      <pubDate>Sun, 17 Oct 2021 01:14:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_und_image_20210519074939.jpeg"/>
+      <category>public_hearing</category>
+      <guid isPermaLink="false">~space-schedule~event~public_hearing~418</guid>
+      <pubDate>Mon, 18 Oct 2021 22:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/faa_spacex_star_image_20211017182028.jpeg"/>
     </item>
   </channel>
 </rss>

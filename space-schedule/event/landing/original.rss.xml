@@ -19,15 +19,5 @@
       <pubDate>Mon, 08 Nov 2021 01:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg"/>
     </item>
-    <item>
-      <title>Soyuz MS-18 Landing</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The Soyuz MS-18 spacecraft carrying ROSCOSMOS cosmonaut Oleg Novitskiy as well as film director Klim Shipenko and actress Yulia Peresild will land back on Earth near Dzhezkazgan, Kazakhstan.</description>
-      <category>event</category>
-      <category>landing</category>
-      <guid isPermaLink="false">292</guid>
-      <pubDate>Sun, 17 Oct 2021 04:36:44 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_lan_image_20210519132618.jpg"/>
-    </item>
   </channel>
 </rss>

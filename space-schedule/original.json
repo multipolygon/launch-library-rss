@@ -385,6 +385,38 @@
    }
   },
   {
+   "id": "~space-schedule~event~public_hearing~419",
+   "title": "FAA SpaceX Starship at Boca Chica Virtual Public Hearing #2",
+   "content_text": "Second of two virtual public hearings held by the FAA to discuss the Draft Environmental Assessment for the SpaceX Starship/Super Heavy program at the Boca Chica launch site in Cameron County, TX, USA.\r\nA free registration is required to attend the hearing.",
+   "url": "https://www.eventbrite.com/e/spacex-starshipsuper-heavy-at-boca-chica-virtual-public-hearing-2-tickets-190603218357",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/faa_spacex_star_image_20211017182252.jpeg",
+   "date_published": "2021-10-20T22:00:00Z",
+   "date_modified": "2021-10-20T22:00:00Z",
+   "tags": [
+    "event",
+    "public_hearing"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/faa_spacex_star_image_20211017182252.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Public Hearing | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "419",
+    "global": "~space-schedule~event~public_hearing~419"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/public_hearing/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~launch~china_aerospace_science_and_industry_corporation~708c2b85-50d6-4baa-bd3e-fdfb0257ea50",
    "title": "Kuaizhou-1A | Jilin-1-02F",
    "content_text": "Jilin-1 is a series of Chinese commercial remote sensing satellites.",
@@ -454,69 +486,35 @@
    }
   },
   {
-   "id": "~space-schedule~event~landing~292",
-   "title": "Soyuz MS-18 Landing",
-   "content_text": "The Soyuz MS-18 spacecraft carrying ROSCOSMOS cosmonaut Oleg Novitskiy as well as film director Klim Shipenko and actress Yulia Peresild will land back on Earth near Dzhezkazgan, Kazakhstan.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_lan_image_20210519132618.jpg",
-   "date_published": "2021-10-17T04:36:44Z",
-   "date_modified": "2021-10-17T04:36:44Z",
+   "id": "~space-schedule~event~public_hearing~418",
+   "title": "FAA SpaceX Starship at Boca Chica Virtual Public Hearing #1",
+   "content_text": "First of two virtual public hearings held by the FAA to discuss the Draft Environmental Assessment for the SpaceX Starship/Super Heavy program at the Boca Chica launch site in Cameron County, TX, USA.\r\nA free registration is required to attend the hearing.",
+   "url": "https://www.eventbrite.com/e/spacex-starshipsuper-heavy-at-boca-chica-virtual-public-hearing-1-tickets-190555615977",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/faa_spacex_star_image_20211017182028.jpeg",
+   "date_published": "2021-10-18T22:00:00Z",
+   "date_modified": "2021-10-18T22:00:00Z",
    "tags": [
     "event",
-    "landing"
+    "public_hearing"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_lan_image_20210519132618.jpg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/faa_spacex_star_image_20211017182028.jpeg"
     }
    ],
    "_meta": {
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Landing | Event | Space Schedule"
+    "subtitle": "Public Hearing | Event | Space Schedule"
    },
    "_id": {
-    "parent": "292",
-    "global": "~space-schedule~event~landing~292"
+    "parent": "418",
+    "global": "~space-schedule~event~public_hearing~418"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/landing/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~undocking~279",
-   "title": "Soyuz MS-18 Undocking",
-   "content_text": "The Soyuz MS-18 spacecraft will undock from the International Space Station carrying Expedition 65 crew member ROSCOSMOS cosmonaut Oleg Novitskiy as well as film director Klim Shipenko and actress Yulia Peresild.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_und_image_20210519074939.jpeg",
-   "date_published": "2021-10-17T01:14:00Z",
-   "date_modified": "2021-10-17T01:14:00Z",
-   "tags": [
-    "event",
-    "undocking"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_und_image_20210519074939.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Undocking | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "279",
-    "global": "~space-schedule~event~undocking~279"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/undocking/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/public_hearing/original.json"
    }
   }
  ],

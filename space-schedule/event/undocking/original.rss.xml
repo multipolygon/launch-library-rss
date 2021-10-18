@@ -19,15 +19,5 @@
       <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg"/>
     </item>
-    <item>
-      <title>Soyuz MS-18 Undocking</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The Soyuz MS-18 spacecraft will undock from the International Space Station carrying Expedition 65 crew member ROSCOSMOS cosmonaut Oleg Novitskiy as well as film director Klim Shipenko and actress Yulia Peresild.</description>
-      <category>event</category>
-      <category>undocking</category>
-      <guid isPermaLink="false">279</guid>
-      <pubDate>Sun, 17 Oct 2021 01:14:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-18_und_image_20210519074939.jpeg"/>
-    </item>
   </channel>
 </rss>

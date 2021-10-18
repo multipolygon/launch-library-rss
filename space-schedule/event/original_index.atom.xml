@@ -29,7 +29,7 @@
     <title>Landing | Event | Space Schedule</title>
     <updated>2021-11-08T01:00:00Z</updated>
     <published>2021-11-08T01:00:00Z</published>
-    <content type="text">2 items</content>
+    <content type="text">1 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Flanding%2Foriginal.json"/>
   </entry>
   <entry>
@@ -37,7 +37,7 @@
     <title>Undocking | Event | Space Schedule</title>
     <updated>2021-11-08T00:00:00Z</updated>
     <published>2021-11-08T00:00:00Z</published>
-    <content type="text">2 items</content>
+    <content type="text">1 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fundocking%2Foriginal.json"/>
   </entry>
   <entry>
@@ -47,6 +47,14 @@
     <published>2021-10-31T04:45:00Z</published>
     <content type="text">2 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fdocking%2Foriginal.json"/>
+  </entry>
+  <entry>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/public_hearing/original.json</id>
+    <title>Public Hearing | Event | Space Schedule</title>
+    <updated>2021-10-20T22:00:00Z</updated>
+    <published>2021-10-20T22:00:00Z</published>
+    <content type="text">2 items</content>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fpublic_hearing%2Foriginal.json"/>
   </entry>
   <entry>
     <id>https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json</id>
