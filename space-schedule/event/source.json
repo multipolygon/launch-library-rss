@@ -46,18 +46,18 @@
         {
             "id": 416,
             "url": "https://ll.thespacedevs.com/2.2.0/event/416.json",
-            "slug": "starship-s20-static-fire",
-            "name": "Starship S20 Static Fire",
+            "slug": "starship-s20-pre-burner-test",
+            "name": "Starship S20 Pre-burner Test",
             "type": {
                 "id": 5,
                 "name": "Static Fire"
             },
-            "description": "SpaceX will perform a static fire of the Starship S20 vehicle between 22:00 and 5:00 UTC (5pm-midnight CDT).",
+            "description": "SpaceX performed what seemed like a pre-burner test of the Starship S20 vehicle.",
             "location": "Boca Chica, Texas",
             "news_url": null,
-            "video_url": "https://www.youtube.com/watch?v=5HpgJJ1FwTc",
+            "video_url": "https://www.youtube.com/watch?v=Q5M-033h9n4",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211013154253.jpeg",
-            "date": "2021-10-19T05:00:00Z",
+            "date": "2021-10-19T04:35:00Z",
             "launches": [],
             "expeditions": [],
             "spacestations": [],

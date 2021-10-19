@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-10-19T06:20:00Z",
-            "window_end": "2021-10-19T06:31:00Z",
-            "window_start": "2021-10-19T06:10:00Z",
+            "net": "2021-10-22T06:20:00Z",
+            "window_end": "2021-10-22T06:31:00Z",
+            "window_start": "2021-10-22T06:10:00Z",
             "inhold": false,
             "tbdtime": true,
             "tbddate": true,
@@ -88,7 +88,7 @@
                 "name": "Go"
             },
             "net": "2021-10-23T01:01:00Z",
-            "window_end": "2021-10-23T01:01:00Z",
+            "window_end": "2021-10-23T03:30:00Z",
             "window_start": "2021-10-23T01:01:00Z",
             "inhold": false,
             "tbdtime": false,

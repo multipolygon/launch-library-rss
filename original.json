@@ -352,6 +352,42 @@
    }
   },
   {
+   "id": "~space-schedule~launch~china_aerospace_science_and_industry_corporation~708c2b85-50d6-4baa-bd3e-fdfb0257ea50",
+   "title": "Kuaizhou-1A | Jilin-1-02F",
+   "content_text": "Jilin-1 is a series of Chinese commercial remote sensing satellites.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
+   "date_published": "2021-10-22T06:10:00Z",
+   "date_modified": "2021-10-22T06:10:00Z",
+   "tags": [
+    "launch",
+    "china_aerospace_science_and_industry_corporation",
+    "government",
+    "kuaizhou",
+    "earth_science",
+    "unknown_pad"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "China Aerospace Science and Industry Corporation | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "708c2b85-50d6-4baa-bd3e-fdfb0257ea50",
+    "global": "~space-schedule~launch~china_aerospace_science_and_industry_corporation~708c2b85-50d6-4baa-bd3e-fdfb0257ea50"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_industry_corporation/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~relocation~280",
    "title": "Progress MS-17 Relocation",
    "content_text": "The Progress MS-17 spacecraft will be relocated from the Poisk module to the Nauka module.",
@@ -417,49 +453,13 @@
    }
   },
   {
-   "id": "~space-schedule~launch~china_aerospace_science_and_industry_corporation~708c2b85-50d6-4baa-bd3e-fdfb0257ea50",
-   "title": "Kuaizhou-1A | Jilin-1-02F",
-   "content_text": "Jilin-1 is a series of Chinese commercial remote sensing satellites.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
-   "date_published": "2021-10-19T06:10:00Z",
-   "date_modified": "2021-10-19T06:10:00Z",
-   "tags": [
-    "launch",
-    "china_aerospace_science_and_industry_corporation",
-    "government",
-    "kuaizhou",
-    "earth_science",
-    "unknown_pad"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "China Aerospace Science and Industry Corporation | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "708c2b85-50d6-4baa-bd3e-fdfb0257ea50",
-    "global": "~space-schedule~launch~china_aerospace_science_and_industry_corporation~708c2b85-50d6-4baa-bd3e-fdfb0257ea50"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_industry_corporation/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~event~static_fire~416",
-   "title": "Starship S20 Static Fire",
-   "content_text": "SpaceX will perform a static fire of the Starship S20 vehicle between 22:00 and 5:00 UTC (5pm-midnight CDT).",
-   "url": "https://www.youtube.com/watch?v=5HpgJJ1FwTc",
+   "title": "Starship S20 Pre-burner Test",
+   "content_text": "SpaceX performed what seemed like a pre-burner test of the Starship S20 vehicle.",
+   "url": "https://www.youtube.com/watch?v=Q5M-033h9n4",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211013154253.jpeg",
-   "date_published": "2021-10-19T05:00:00Z",
-   "date_modified": "2021-10-19T05:00:00Z",
+   "date_published": "2021-10-19T04:35:00Z",
+   "date_modified": "2021-10-19T04:35:00Z",
    "tags": [
     "event",
     "static_fire"

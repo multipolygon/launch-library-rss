@@ -99,11 +99,11 @@ A free registration is required to attend the hearing.</content>
   </entry>
   <entry>
     <id>~space-schedule~event~static_fire~416</id>
-    <title>Starship S20 Static Fire</title>
-    <updated>2021-10-19T05:00:00Z</updated>
-    <published>2021-10-19T05:00:00Z</published>
-    <content type="text">SpaceX will perform a static fire of the Starship S20 vehicle between 22:00 and 5:00 UTC (5pm-midnight CDT).</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=5HpgJJ1FwTc"/>
+    <title>Starship S20 Pre-burner Test</title>
+    <updated>2021-10-19T04:35:00Z</updated>
+    <published>2021-10-19T04:35:00Z</published>
+    <content type="text">SpaceX performed what seemed like a pre-burner test of the Starship S20 vehicle.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Q5M-033h9n4"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211013154253.jpeg"/>
     <category term="event"/>
     <category term="static_fire"/>

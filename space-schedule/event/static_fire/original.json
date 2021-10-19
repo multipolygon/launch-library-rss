@@ -5,12 +5,12 @@
  "items": [
   {
    "id": "416",
-   "title": "Starship S20 Static Fire",
-   "content_text": "SpaceX will perform a static fire of the Starship S20 vehicle between 22:00 and 5:00 UTC (5pm-midnight CDT).",
-   "url": "https://www.youtube.com/watch?v=5HpgJJ1FwTc",
+   "title": "Starship S20 Pre-burner Test",
+   "content_text": "SpaceX performed what seemed like a pre-burner test of the Starship S20 vehicle.",
+   "url": "https://www.youtube.com/watch?v=Q5M-033h9n4",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211013154253.jpeg",
-   "date_published": "2021-10-19T05:00:00Z",
-   "date_modified": "2021-10-19T05:00:00Z",
+   "date_published": "2021-10-19T04:35:00Z",
+   "date_modified": "2021-10-19T04:35:00Z",
    "tags": [
     "event",
     "static_fire"

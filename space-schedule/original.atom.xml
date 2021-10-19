@@ -143,6 +143,21 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
     <category term="ariane_launch_area_3"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~china_aerospace_science_and_industry_corporation~708c2b85-50d6-4baa-bd3e-fdfb0257ea50</id>
+    <title>Kuaizhou-1A | Jilin-1-02F</title>
+    <updated>2021-10-22T06:10:00Z</updated>
+    <published>2021-10-22T06:10:00Z</published>
+    <content type="text">Jilin-1 is a series of Chinese commercial remote sensing satellites.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg"/>
+    <category term="launch"/>
+    <category term="china_aerospace_science_and_industry_corporation"/>
+    <category term="government"/>
+    <category term="kuaizhou"/>
+    <category term="earth_science"/>
+    <category term="unknown_pad"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~relocation~280</id>
     <title>Progress MS-17 Relocation</title>
     <updated>2021-10-22T03:00:00Z</updated>
@@ -166,27 +181,12 @@ A free registration is required to attend the hearing.</content>
     <category term="public_hearing"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~china_aerospace_science_and_industry_corporation~708c2b85-50d6-4baa-bd3e-fdfb0257ea50</id>
-    <title>Kuaizhou-1A | Jilin-1-02F</title>
-    <updated>2021-10-19T06:10:00Z</updated>
-    <published>2021-10-19T06:10:00Z</published>
-    <content type="text">Jilin-1 is a series of Chinese commercial remote sensing satellites.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_science_and_industry_corporation"/>
-    <category term="government"/>
-    <category term="kuaizhou"/>
-    <category term="earth_science"/>
-    <category term="unknown_pad"/>
-  </entry>
-  <entry>
     <id>~space-schedule~event~static_fire~416</id>
-    <title>Starship S20 Static Fire</title>
-    <updated>2021-10-19T05:00:00Z</updated>
-    <published>2021-10-19T05:00:00Z</published>
-    <content type="text">SpaceX will perform a static fire of the Starship S20 vehicle between 22:00 and 5:00 UTC (5pm-midnight CDT).</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=5HpgJJ1FwTc"/>
+    <title>Starship S20 Pre-burner Test</title>
+    <updated>2021-10-19T04:35:00Z</updated>
+    <published>2021-10-19T04:35:00Z</published>
+    <content type="text">SpaceX performed what seemed like a pre-burner test of the Starship S20 vehicle.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=Q5M-033h9n4"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211013154253.jpeg"/>
     <category term="event"/>
     <category term="static_fire"/>
