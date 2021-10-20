@@ -43,25 +43,33 @@
   <entry>
     <id>https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json</id>
     <title>Docking | Event | Space Schedule</title>
-    <updated>2021-10-31T04:45:00Z</updated>
-    <published>2021-10-31T04:45:00Z</published>
+    <updated>2021-11-01T04:45:00Z</updated>
+    <published>2021-11-01T04:45:00Z</published>
     <content type="text">2 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fdocking%2Foriginal.json"/>
+  </entry>
+  <entry>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json</id>
+    <title>Static Fire | Event | Space Schedule</title>
+    <updated>2021-10-21T05:00:00Z</updated>
+    <published>2021-10-21T05:00:00Z</published>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json"/>
   </entry>
   <entry>
     <id>https://launch-library-rss.multipolygon.net/space-schedule/event/public_hearing/original.json</id>
     <title>Public Hearing | Event | Space Schedule</title>
     <updated>2021-10-20T22:00:00Z</updated>
     <published>2021-10-20T22:00:00Z</published>
-    <content type="text">2 items</content>
+    <content type="text">1 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fpublic_hearing%2Foriginal.json"/>
   </entry>
   <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json</id>
-    <title>Static Fire | Event | Space Schedule</title>
-    <updated>2021-10-19T04:35:00Z</updated>
-    <published>2021-10-19T04:35:00Z</published>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json</id>
+    <title>Press Event | Event | Space Schedule</title>
+    <updated>2021-10-19T18:30:00Z</updated>
+    <published>2021-10-19T18:30:00Z</published>
     <content type="text">1 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json"/>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json"/>
   </entry>
 </feed>

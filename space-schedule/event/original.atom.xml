@@ -55,8 +55,8 @@
   <entry>
     <id>~space-schedule~event~docking~274</id>
     <title>SpaceX Crew-3 Crew Dragon Docking</title>
-    <updated>2021-10-31T04:45:00Z</updated>
-    <published>2021-10-31T04:45:00Z</published>
+    <updated>2021-11-01T04:45:00Z</updated>
+    <published>2021-11-01T04:45:00Z</published>
     <content type="text">The Crew-3 Crew Dragon will dock autonomously to the International Space Station, carrying NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer to the International Space Station as crew members of Expedition 66.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>
@@ -86,6 +86,17 @@
     <category term="relocation"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~static_fire~421</id>
+    <title>Starship S20 Static Fire</title>
+    <updated>2021-10-21T05:00:00Z</updated>
+    <published>2021-10-21T05:00:00Z</published>
+    <content type="text">SpaceX is expected to attempt a static fire of the Starship S20 vehicle between 22:00 and 05:00 UTC (5pm - midnight CDT).</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=mhJRzQsLZGg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211019175111.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~public_hearing~419</id>
     <title>FAA SpaceX Starship at Boca Chica Virtual Public Hearing #2</title>
     <updated>2021-10-20T22:00:00Z</updated>
@@ -98,26 +109,14 @@ A free registration is required to attend the hearing.</content>
     <category term="public_hearing"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~static_fire~416</id>
-    <title>Starship S20 Pre-burner Test</title>
-    <updated>2021-10-19T04:35:00Z</updated>
-    <published>2021-10-19T04:35:00Z</published>
-    <content type="text">SpaceX performed what seemed like a pre-burner test of the Starship S20 vehicle.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=Q5M-033h9n4"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211013154253.jpeg"/>
+    <id>~space-schedule~event~press_event~420</id>
+    <title>Boeing Starliner OFT-2 Update</title>
+    <updated>2021-10-19T18:30:00Z</updated>
+    <published>2021-10-19T18:30:00Z</published>
+    <content type="text">NASA and Boeing will hold a joint teleconference at 18:30 UTC to update media on the company’s CST-100 Starliner spacecraft. Teams will discuss work on the oxidizer isolation valve issue that was discovered ahead of the planned uncrewed Orbital Flight Test-2 (OFT-2) mission to the International Space Station in August.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=WnykXQZ6g_k"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20211019165819.jpg"/>
     <category term="event"/>
-    <category term="static_fire"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~public_hearing~418</id>
-    <title>FAA SpaceX Starship at Boca Chica Virtual Public Hearing #1</title>
-    <updated>2021-10-18T22:00:00Z</updated>
-    <published>2021-10-18T22:00:00Z</published>
-    <content type="text">First of two virtual public hearings held by the FAA to discuss the Draft Environmental Assessment for the SpaceX Starship/Super Heavy program at the Boca Chica launch site in Cameron County, TX, USA.&#xD;
-A free registration is required to attend the hearing.</content>
-    <link rel="alternate" href="https://www.eventbrite.com/e/spacex-starshipsuper-heavy-at-boca-chica-virtual-public-hearing-1-tickets-190555615977"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/faa_spacex_star_image_20211017182028.jpeg"/>
-    <category term="event"/>
-    <category term="public_hearing"/>
+    <category term="press_event"/>
   </entry>
 </feed>

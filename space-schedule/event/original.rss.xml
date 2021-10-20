@@ -57,7 +57,7 @@
       <category>event</category>
       <category>docking</category>
       <guid isPermaLink="false">~space-schedule~event~docking~274</guid>
-      <pubDate>Sun, 31 Oct 2021 04:45:00 GMT</pubDate>
+      <pubDate>Mon, 01 Nov 2021 04:45:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>
     </item>
     <item>
@@ -81,6 +81,16 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519111149.jpeg"/>
     </item>
     <item>
+      <title>Starship S20 Static Fire</title>
+      <link>https://www.youtube.com/watch?v=mhJRzQsLZGg</link>
+      <description>SpaceX is expected to attempt a static fire of the Starship S20 vehicle between 22:00 and 05:00 UTC (5pm - midnight CDT).</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~421</guid>
+      <pubDate>Thu, 21 Oct 2021 05:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211019175111.jpeg"/>
+    </item>
+    <item>
       <title>FAA SpaceX Starship at Boca Chica Virtual Public Hearing #2</title>
       <link>https://www.eventbrite.com/e/spacex-starshipsuper-heavy-at-boca-chica-virtual-public-hearing-2-tickets-190603218357</link>
       <description>Second of two virtual public hearings held by the FAA to discuss the Draft Environmental Assessment for the SpaceX Starship/Super Heavy program at the Boca Chica launch site in Cameron County, TX, USA.&#xD;
@@ -92,25 +102,14 @@ A free registration is required to attend the hearing.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/faa_spacex_star_image_20211017182252.jpeg"/>
     </item>
     <item>
-      <title>Starship S20 Pre-burner Test</title>
-      <link>https://www.youtube.com/watch?v=Q5M-033h9n4</link>
-      <description>SpaceX performed what seemed like a pre-burner test of the Starship S20 vehicle.</description>
+      <title>Boeing Starliner OFT-2 Update</title>
+      <link>https://www.youtube.com/watch?v=WnykXQZ6g_k</link>
+      <description>NASA and Boeing will hold a joint teleconference at 18:30 UTC to update media on the company’s CST-100 Starliner spacecraft. Teams will discuss work on the oxidizer isolation valve issue that was discovered ahead of the planned uncrewed Orbital Flight Test-2 (OFT-2) mission to the International Space Station in August.</description>
       <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~416</guid>
-      <pubDate>Tue, 19 Oct 2021 04:35:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211013154253.jpeg"/>
-    </item>
-    <item>
-      <title>FAA SpaceX Starship at Boca Chica Virtual Public Hearing #1</title>
-      <link>https://www.eventbrite.com/e/spacex-starshipsuper-heavy-at-boca-chica-virtual-public-hearing-1-tickets-190555615977</link>
-      <description>First of two virtual public hearings held by the FAA to discuss the Draft Environmental Assessment for the SpaceX Starship/Super Heavy program at the Boca Chica launch site in Cameron County, TX, USA.&#xD;
-A free registration is required to attend the hearing.</description>
-      <category>event</category>
-      <category>public_hearing</category>
-      <guid isPermaLink="false">~space-schedule~event~public_hearing~418</guid>
-      <pubDate>Mon, 18 Oct 2021 22:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/faa_spacex_star_image_20211017182028.jpeg"/>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~420</guid>
+      <pubDate>Tue, 19 Oct 2021 18:30:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20211019165819.jpg"/>
     </item>
   </channel>
 </rss>

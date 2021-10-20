@@ -6,7 +6,7 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Sat, 30 Oct 2021 06:43:00 GMT</pubDate>
+    <pubDate>Sun, 31 Oct 2021 06:21:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
@@ -23,7 +23,7 @@
       <category>commercial_crew_program</category>
       <category>international_space_station</category>
       <guid isPermaLink="false">0d779392-1a36-4c1e-b0b8-ec11e3031ee6</guid>
-      <pubDate>Sat, 30 Oct 2021 06:43:00 GMT</pubDate>
+      <pubDate>Sun, 31 Oct 2021 06:21:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075417.jpeg"/>
     </item>
   </channel>
