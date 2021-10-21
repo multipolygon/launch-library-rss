@@ -55,8 +55,8 @@
   <entry>
     <id>~space-schedule~event~docking~274</id>
     <title>SpaceX Crew-3 Crew Dragon Docking</title>
-    <updated>2021-11-01T04:45:00Z</updated>
-    <published>2021-11-01T04:45:00Z</published>
+    <updated>2021-11-01T04:30:00Z</updated>
+    <published>2021-11-01T04:30:00Z</published>
     <content type="text">The Crew-3 Crew Dragon will dock autonomously to the International Space Station, carrying NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer to the International Space Station as crew members of Expedition 66.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>
@@ -143,41 +143,26 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
     <category term="ariane_launch_area_3"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~china_aerospace_science_and_industry_corporation~708c2b85-50d6-4baa-bd3e-fdfb0257ea50</id>
-    <title>Kuaizhou-1A | Jilin-1-02F</title>
-    <updated>2021-10-22T06:10:00Z</updated>
-    <published>2021-10-22T06:10:00Z</published>
-    <content type="text">Jilin-1 is a series of Chinese commercial remote sensing satellites.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_science_and_industry_corporation"/>
-    <category term="government"/>
-    <category term="kuaizhou"/>
-    <category term="earth_science"/>
-    <category term="unknown_pad"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~relocation~280</id>
-    <title>Progress MS-17 Relocation</title>
-    <updated>2021-10-22T03:00:00Z</updated>
-    <published>2021-10-22T03:00:00Z</published>
-    <content type="text">The Progress MS-17 spacecraft will be relocated from the Poisk module to the Nauka module.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519111149.jpeg"/>
-    <category term="event"/>
-    <category term="relocation"/>
-  </entry>
-  <entry>
     <id>~space-schedule~event~static_fire~421</id>
     <title>Starship S20 Static Fire</title>
-    <updated>2021-10-21T05:00:00Z</updated>
-    <published>2021-10-21T05:00:00Z</published>
+    <updated>2021-10-22T05:00:00Z</updated>
+    <published>2021-10-22T05:00:00Z</published>
     <content type="text">SpaceX is expected to attempt a static fire of the Starship S20 vehicle between 22:00 and 05:00 UTC (5pm - midnight CDT).</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=mhJRzQsLZGg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211019175111.jpeg"/>
     <category term="event"/>
     <category term="static_fire"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~relocation~280</id>
+    <title>Progress MS-17 Relocation</title>
+    <updated>2021-10-20T23:42:30Z</updated>
+    <published>2021-10-20T23:42:30Z</published>
+    <content type="text">The Progress MS-17 spacecraft will be relocated from the Poisk module to the Nauka module.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519111149.jpeg"/>
+    <category term="event"/>
+    <category term="relocation"/>
   </entry>
   <entry>
     <id>~space-schedule~event~public_hearing~419</id>
@@ -190,16 +175,5 @@ A free registration is required to attend the hearing.</content>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/faa_spacex_star_image_20211017182252.jpeg"/>
     <category term="event"/>
     <category term="public_hearing"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~press_event~420</id>
-    <title>Boeing Starliner OFT-2 Update</title>
-    <updated>2021-10-19T18:30:00Z</updated>
-    <published>2021-10-19T18:30:00Z</published>
-    <content type="text">NASA and Boeing will hold a joint teleconference at 18:30 UTC to update media on the company’s CST-100 Starliner spacecraft. Teams will discuss work on the oxidizer isolation valve issue that was discovered ahead of the planned uncrewed Orbital Flight Test-2 (OFT-2) mission to the International Space Station in August.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=WnykXQZ6g_k"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/boeing_starline_image_20211019165819.jpg"/>
-    <category term="event"/>
-    <category term="press_event"/>
   </entry>
 </feed>
