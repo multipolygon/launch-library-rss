@@ -18,15 +18,4 @@
     <category term="event"/>
     <category term="relocation"/>
   </entry>
-  <entry>
-    <id>280</id>
-    <title>Progress MS-17 Relocation</title>
-    <updated>2021-10-20T23:42:30Z</updated>
-    <published>2021-10-20T23:42:30Z</published>
-    <content type="text">The Progress MS-17 spacecraft will be relocated from the Poisk module to the Nauka module.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519111149.jpeg"/>
-    <category term="event"/>
-    <category term="relocation"/>
-  </entry>
 </feed>

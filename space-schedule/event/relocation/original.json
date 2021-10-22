@@ -27,31 +27,6 @@
     "imageCount": 1,
     "youtubeCount": 1
    }
-  },
-  {
-   "id": "280",
-   "title": "Progress MS-17 Relocation",
-   "content_text": "The Progress MS-17 spacecraft will be relocated from the Poisk module to the Nauka module.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519111149.jpeg",
-   "date_published": "2021-10-20T23:42:30Z",
-   "date_modified": "2021-10-20T23:42:30Z",
-   "tags": [
-    "event",
-    "relocation"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519111149.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1
-   }
   }
  ],
  "_feed_url": {
@@ -60,7 +35,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Frelocation%2Foriginal.json",
  "_meta": {
-  "itemCount": 2,
+  "itemCount": 1,
   "pageNumber": 1,
   "pageCount": 1
  }

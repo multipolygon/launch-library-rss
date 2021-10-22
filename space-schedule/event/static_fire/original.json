@@ -5,12 +5,12 @@
  "items": [
   {
    "id": "421",
-   "title": "Starship S20 Static Fire",
-   "content_text": "SpaceX is expected to attempt a static fire of the Starship S20 vehicle between 22:00 and 05:00 UTC (5pm - midnight CDT).",
+   "title": "Starship S20 Static Fire #1 & #2",
+   "content_text": "SpaceX completed two static fires of the Starship S20 vehicle. The first engine fired was the first firing of a Raptor vacuum engine integrated onto starship.",
    "url": "https://www.youtube.com/watch?v=mhJRzQsLZGg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211019175111.jpeg",
-   "date_published": "2021-10-22T05:00:00Z",
-   "date_modified": "2021-10-22T05:00:00Z",
+   "date_published": "2021-10-22T00:16:16Z",
+   "date_modified": "2021-10-22T00:16:16Z",
    "tags": [
     "event",
     "static_fire"

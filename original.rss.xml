@@ -135,35 +135,14 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</descrip
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane252052520eca_image_20190224012333.jpeg"/>
     </item>
     <item>
-      <title>Starship S20 Static Fire</title>
+      <title>Starship S20 Static Fire #1 &amp; #2</title>
       <link>https://www.youtube.com/watch?v=mhJRzQsLZGg</link>
-      <description>SpaceX is expected to attempt a static fire of the Starship S20 vehicle between 22:00 and 05:00 UTC (5pm - midnight CDT).</description>
+      <description>SpaceX completed two static fires of the Starship S20 vehicle. The first engine fired was the first firing of a Raptor vacuum engine integrated onto starship.</description>
       <category>event</category>
       <category>static_fire</category>
       <guid isPermaLink="false">~space-schedule~event~static_fire~421</guid>
-      <pubDate>Fri, 22 Oct 2021 05:00:00 GMT</pubDate>
+      <pubDate>Fri, 22 Oct 2021 00:16:16 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211019175111.jpeg"/>
-    </item>
-    <item>
-      <title>Progress MS-17 Relocation</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The Progress MS-17 spacecraft will be relocated from the Poisk module to the Nauka module.</description>
-      <category>event</category>
-      <category>relocation</category>
-      <guid isPermaLink="false">~space-schedule~event~relocation~280</guid>
-      <pubDate>Wed, 20 Oct 2021 23:42:30 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519111149.jpeg"/>
-    </item>
-    <item>
-      <title>FAA SpaceX Starship at Boca Chica Virtual Public Hearing #2</title>
-      <link>https://www.eventbrite.com/e/spacex-starshipsuper-heavy-at-boca-chica-virtual-public-hearing-2-tickets-190603218357</link>
-      <description>Second of two virtual public hearings held by the FAA to discuss the Draft Environmental Assessment for the SpaceX Starship/Super Heavy program at the Boca Chica launch site in Cameron County, TX, USA.&#xD;
-A free registration is required to attend the hearing.</description>
-      <category>event</category>
-      <category>public_hearing</category>
-      <guid isPermaLink="false">~space-schedule~event~public_hearing~419</guid>
-      <pubDate>Wed, 20 Oct 2021 22:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/faa_spacex_star_image_20211017182252.jpeg"/>
     </item>
   </channel>
 </rss>
