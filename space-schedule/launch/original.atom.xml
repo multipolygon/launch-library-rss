@@ -46,8 +46,8 @@
   <entry>
     <id>~space-schedule~launch~mitsubishi_heavy_industries~56e548c8-ff60-4cf5-bc60-d50a546a6a79</id>
     <title>H-IIA 202 | QZS-1R</title>
-    <updated>2021-10-25T02:00:00Z</updated>
-    <published>2021-10-25T02:00:00Z</published>
+    <updated>2021-10-26T02:00:00Z</updated>
+    <published>2021-10-26T02:00:00Z</published>
     <content type="text">The Quasi-Zenith Satellite System (QZSS) is a three-satellite regional time transfer system and the satellite-based augmentation system for the GPS that would be receivable within Japan. The primary purpose of QZSS is to increase the availability of GPS in Japan's numerous urban canyons, where only satellites at very high elevation can be seen. A secondary function is performance enhancement, increasing the accuracy and reliability of GPS derived navigation solutions.&#xD;
 QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/56e548c8-ff60-4cf5-bc60-d50a546a6a79.json"/>
@@ -61,10 +61,40 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
     <category term="yoshinobu_launch_complex"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~china_aerospace_science_and_industry_corporation~708c2b85-50d6-4baa-bd3e-fdfb0257ea50</id>
+    <title>Kuaizhou-1A | Jilin-1-02F</title>
+    <updated>2021-10-25T06:10:00Z</updated>
+    <published>2021-10-25T06:10:00Z</published>
+    <content type="text">Jilin-1 is a series of Chinese commercial remote sensing satellites.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg"/>
+    <category term="launch"/>
+    <category term="china_aerospace_science_and_industry_corporation"/>
+    <category term="government"/>
+    <category term="kuaizhou"/>
+    <category term="earth_science"/>
+    <category term="unknown_pad"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~868fd262-e51f-472b-a991-da7996ff83f2</id>
+    <title>Long March 3B | Unknown</title>
+    <updated>2021-10-24T01:15:00Z</updated>
+    <published>2021-10-24T01:15:00Z</published>
+    <content type="text">Unknown Chinese payload launching on trajectory consistent with geostationary transfer target orbit, details TBD.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/868fd262-e51f-472b-a991-da7996ff83f2.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
+    <category term="launch"/>
+    <category term="china_aerospace_science_and_technology_corporation"/>
+    <category term="government"/>
+    <category term="long_march_3"/>
+    <category term="unknown"/>
+    <category term="launch_complex_2_lc_2"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~arianespace~7b412779-a9cd-442d-b067-1889a8f6b930</id>
     <title>Ariane 5 ECA | SES-17 &amp; Syracuse 4A</title>
-    <updated>2021-10-23T01:01:00Z</updated>
-    <published>2021-10-23T01:01:00Z</published>
+    <updated>2021-10-24T01:01:00Z</updated>
+    <published>2021-10-24T01:01:00Z</published>
     <content type="text">SES-17 is a Ka-band high-throughput geostationary communications satellite built by Thales Alenia Space designed to provide mobile internet services to airline passengers over the Americas and the Atlantic Ocean. Syracuse 4A is a French military communications satellite built by Thales Alenia Space.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/7b412779-a9cd-442d-b067-1889a8f6b930.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane252052520eca_image_20190224012333.jpeg"/>

@@ -57,7 +57,7 @@
       <category>event</category>
       <category>docking</category>
       <guid isPermaLink="false">~space-schedule~event~docking~274</guid>
-      <pubDate>Mon, 01 Nov 2021 04:30:00 GMT</pubDate>
+      <pubDate>Mon, 01 Nov 2021 04:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>
     </item>
     <item>
@@ -71,14 +71,24 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-18__image_20210519113259.jpg"/>
     </item>
     <item>
-      <title>Starship S20 Static Fire #1 &amp; #2</title>
-      <link>https://www.youtube.com/watch?v=mhJRzQsLZGg</link>
-      <description>SpaceX completed two static fires of the Starship S20 vehicle. The first engine fired was the first firing of a Raptor vacuum engine integrated onto starship.</description>
+      <title>NASA Mars 2020 Ingenuity 14th Flight</title>
+      <link>https://ll.thespacedevs.com/2.2.0/event/423.json</link>
+      <description>Ingenuity's 14th flight will perform a short hop to test out flying in lower atmospheric densities with a higher RPM rotor speed.</description>
       <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~421</guid>
-      <pubDate>Fri, 22 Oct 2021 00:16:16 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211019175111.jpeg"/>
+      <category>test_flight</category>
+      <guid isPermaLink="false">~space-schedule~event~test_flight~423</guid>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20211023101933.jpeg"/>
+    </item>
+    <item>
+      <title>NASA Artemis-1 Update</title>
+      <link>https://www.youtube.com/watch?v=ZdYKN19YWyA</link>
+      <description>NASA is holding a teleconference to update media on the Artemis-1 mission.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~422</guid>
+      <pubDate>Fri, 22 Oct 2021 17:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_artemis-1__image_20211022171040.jpg"/>
     </item>
   </channel>
 </rss>
