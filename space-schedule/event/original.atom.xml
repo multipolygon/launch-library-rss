@@ -74,26 +74,4 @@
     <category term="event"/>
     <category term="docking"/>
   </entry>
-  <entry>
-    <id>~space-schedule~event~test_flight~423</id>
-    <title>NASA Mars 2020 Ingenuity 14th Flight</title>
-    <updated>2021-10-23T00:00:00Z</updated>
-    <published>2021-10-23T00:00:00Z</published>
-    <content type="text">Ingenuity's 14th flight will perform a short hop to test out flying in lower atmospheric densities with a higher RPM rotor speed.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/event/423.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_mars_2020__image_20211023101933.jpeg"/>
-    <category term="event"/>
-    <category term="test_flight"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~press_event~422</id>
-    <title>NASA Artemis-1 Update</title>
-    <updated>2021-10-22T17:00:00Z</updated>
-    <published>2021-10-22T17:00:00Z</published>
-    <content type="text">NASA is holding a teleconference to update media on the Artemis-1 mission.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=ZdYKN19YWyA"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/nasa_artemis-1__image_20211022171040.jpg"/>
-    <category term="event"/>
-    <category term="press_event"/>
-  </entry>
 </feed>

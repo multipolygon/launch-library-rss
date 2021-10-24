@@ -1,164 +1,8 @@
 {
-    "count": 7,
+    "count": 5,
     "next": null,
     "previous": null,
     "results": [
-        {
-            "id": "7b412779-a9cd-442d-b067-1889a8f6b930",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/7b412779-a9cd-442d-b067-1889a8f6b930.json",
-            "launch_library_id": 1369,
-            "slug": "ariane-5-eca-ses-17-syracuse-4a",
-            "name": "Ariane 5 ECA | SES-17 & Syracuse 4A",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-10-24T01:01:00Z",
-            "window_end": "2021-10-24T03:30:00Z",
-            "window_start": "2021-10-24T01:01:00Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": -1,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 115,
-                "url": "https://ll.thespacedevs.com/2.2.0/agencies/115.json",
-                "name": "Arianespace",
-                "type": "Commercial"
-            },
-            "rocket": {
-                "id": 2686,
-                "configuration": {
-                    "id": 20,
-                    "launch_library_id": 27,
-                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/20.json",
-                    "name": "Ariane 5 ECA",
-                    "family": "Ariane 5",
-                    "full_name": "Ariane 5 ECA",
-                    "variant": "ECA"
-                }
-            },
-            "mission": {
-                "id": 1374,
-                "launch_library_id": null,
-                "name": "SES-17 & Syracuse 4A",
-                "description": "SES-17 is a Ka-band high-throughput geostationary communications satellite built by Thales Alenia Space designed to provide mobile internet services to airline passengers over the Americas and the Atlantic Ocean. Syracuse 4A is a French military communications satellite built by Thales Alenia Space.",
-                "launch_designator": null,
-                "type": "Communications",
-                "orbit": {
-                    "id": 2,
-                    "name": "Geostationary Transfer Orbit",
-                    "abbrev": "GTO"
-                }
-            },
-            "pad": {
-                "id": 77,
-                "url": "https://ll.thespacedevs.com/2.2.0/pad/77.json",
-                "agency_id": null,
-                "name": "Ariane Launch Area 3",
-                "info_url": null,
-                "wiki_url": "http://en.wikipedia.org/wiki/ELA-3",
-                "map_url": "https://www.google.com/maps/?q=5.239,-52.769",
-                "latitude": "5.239",
-                "longitude": "-52.768",
-                "location": {
-                    "id": 13,
-                    "url": "https://ll.thespacedevs.com/2.2.0/location/13.json",
-                    "name": "Kourou, French Guiana",
-                    "country_code": "GUF",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_13_20200803142412.jpg",
-                    "total_launch_count": 307,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_77_20200803143458.jpg",
-                "total_launch_count": 111
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane252052520eca_image_20190224012333.jpeg",
-            "infographic": null,
-            "program": []
-        },
-        {
-            "id": "868fd262-e51f-472b-a991-da7996ff83f2",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/868fd262-e51f-472b-a991-da7996ff83f2.json",
-            "launch_library_id": null,
-            "slug": "long-march-3b-unknown",
-            "name": "Long March 3B | Unknown",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-10-24T01:15:00Z",
-            "window_end": "2021-10-24T01:45:00Z",
-            "window_start": "2021-10-24T01:15:00Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": null,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 88,
-                "url": "https://ll.thespacedevs.com/2.2.0/agencies/88.json",
-                "name": "China Aerospace Science and Technology Corporation",
-                "type": "Government"
-            },
-            "rocket": {
-                "id": 7477,
-                "configuration": {
-                    "id": 50,
-                    "launch_library_id": 69,
-                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/50.json",
-                    "name": "Long March 3",
-                    "family": "Long March 3",
-                    "full_name": "Long March 3B/E",
-                    "variant": "B/E"
-                }
-            },
-            "mission": {
-                "id": 5877,
-                "launch_library_id": null,
-                "name": "Unknown",
-                "description": "Unknown Chinese payload launching on trajectory consistent with geostationary transfer target orbit, details TBD.",
-                "launch_designator": null,
-                "type": "Unknown",
-                "orbit": {
-                    "id": 2,
-                    "name": "Geostationary Transfer Orbit",
-                    "abbrev": "GTO"
-                }
-            },
-            "pad": {
-                "id": 45,
-                "url": "https://ll.thespacedevs.com/2.2.0/pad/45.json",
-                "agency_id": null,
-                "name": "Launch Complex 2 (LC-2)",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center",
-                "map_url": "https://www.google.com/maps/?q=28.246017,102.026556",
-                "latitude": "28.246017",
-                "longitude": "102.026556",
-                "location": {
-                    "id": 16,
-                    "url": "https://ll.thespacedevs.com/2.2.0/location/16.json",
-                    "name": "Xichang Satellite Launch Center, People's Republic of China",
-                    "country_code": "CHN",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg",
-                    "total_launch_count": 162,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_45_20200803143520.jpg",
-                "total_launch_count": 85
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-            "infographic": null,
-            "program": []
-        },
         {
             "id": "708c2b85-50d6-4baa-bd3e-fdfb0257ea50",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50.json",
@@ -243,9 +87,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-10-26T02:00:00Z",
-            "window_end": "2021-10-26T03:00:00Z",
-            "window_start": "2021-10-26T02:00:00Z",
+            "net": "2021-10-26T02:19:37Z",
+            "window_end": "2021-10-26T02:34:37Z",
+            "window_start": "2021-10-26T02:19:37Z",
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,

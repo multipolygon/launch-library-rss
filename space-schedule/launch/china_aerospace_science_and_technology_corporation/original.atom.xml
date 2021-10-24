@@ -1,25 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>China Aerospace Science and Technology Corporation | Launch | Space Schedule</title>
+  <title>China Aerospace Science And Technology Corporation</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.atom.xml</id>
-  <updated>2021-10-24T01:15:00Z</updated>
+  <updated>2021-10-24T11:23:52.332Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_technology_corporation%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
-  <entry>
-    <id>868fd262-e51f-472b-a991-da7996ff83f2</id>
-    <title>Long March 3B | Unknown</title>
-    <updated>2021-10-24T01:15:00Z</updated>
-    <published>2021-10-24T01:15:00Z</published>
-    <content type="text">Unknown Chinese payload launching on trajectory consistent with geostationary transfer target orbit, details TBD.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/868fd262-e51f-472b-a991-da7996ff83f2.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_science_and_technology_corporation"/>
-    <category term="government"/>
-    <category term="long_march_3"/>
-    <category term="unknown"/>
-    <category term="launch_complex_2_lc_2"/>
-  </entry>
 </feed>

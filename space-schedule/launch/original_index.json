@@ -40,8 +40,8 @@
    "title": "Mitsubishi Heavy Industries | Launch | Space Schedule",
    "content_text": "1 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-iia2520202_image_20190222031201.jpeg",
-   "date_published": "2021-10-26T02:00:00Z",
-   "date_modified": "2021-10-26T02:00:00Z",
+   "date_published": "2021-10-26T02:19:37Z",
+   "date_modified": "2021-10-26T02:19:37Z",
    "_geo": {},
    "_meta": {
     "itemCount": 1,
@@ -65,38 +65,6 @@
     "videoCount": 0,
     "imageCount": 0
    }
-  },
-  {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_technology_corporation%2Foriginal.json",
-   "title": "China Aerospace Science and Technology Corporation | Launch | Space Schedule",
-   "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-   "date_published": "2021-10-24T01:15:00Z",
-   "date_modified": "2021-10-24T01:15:00Z",
-   "_geo": {},
-   "_meta": {
-    "itemCount": 1,
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 0
-   }
-  },
-  {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Farianespace%2Foriginal.json",
-   "title": "Arianespace | Launch | Space Schedule",
-   "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane252052520eca_image_20190224012333.jpeg",
-   "date_published": "2021-10-24T01:01:00Z",
-   "date_modified": "2021-10-24T01:01:00Z",
-   "_geo": {},
-   "_meta": {
-    "itemCount": 1,
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 0
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -107,7 +75,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal_index.json",
  "_meta": {
-  "itemCount": 6,
+  "itemCount": 4,
   "pageNumber": 1,
   "pageCount": 1
  }
