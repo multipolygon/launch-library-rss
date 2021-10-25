@@ -7,9 +7,40 @@
     <description>All items.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
+    <pubDate>Wed, 24 Nov 2021 06:20:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Falcon 9 Block 5 | Double Asteroid Redirection Test (DART)</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/c4b2f90e-3385-4cbe-a89f-fc5f57da1bfb.json</link>
+      <description>Double Asteroid Redirection Test (DART) mission is the first-ever mission to demonstrate the capability to deflect an asteroid by colliding a spacecraft with it at high speed â€“ a technique known as a kinetic impactor.
+
+DART is a planetary defense-driven test of one of the technologies for preventing the Earth impact of a hazardous asteroid: the kinetic impactor.  DARTâ€™s primary objective is to demonstrate a kinetic impact on a small asteroid.  The binary near-Earth asteroid (65803) Didymos is the target for DART.   While Didymosâ€™ primary body is approximately 800 meters across, its secondary body (or â€œmoonletâ€) has a 150-meter size, which is more typical of the size of asteroids that could pose a more common hazard to Earth.
+
+The DART spacecraft will achieve the kinetic impact by deliberately crashing itself into the moonlet at a speed of approximately 6 km/s, with the aid of an onboard camera and sophisticated autonomous navigation software. The collision will change the speed of the moonlet in its orbit around the main body by a fraction of one percent, enough to be measured using telescopes on Earth.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon_9</category>
+      <category>robotic_exploration</category>
+      <category>space_launch_complex_4_e</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~c4b2f90e-3385-4cbe-a89f-fc5f57da1bfb</guid>
+      <pubDate>Wed, 24 Nov 2021 06:20:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg"/>
+    </item>
+    <item>
+      <title>Progress MS-17 Undocking</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The Progress MS-17 spacecraft will undock from the Nauka module of the International Space Station.&#xD;
+&#xD;
+It will then de-orbit and burn up in the atmosphere.</description>
+      <category>event</category>
+      <category>undocking</category>
+      <guid isPermaLink="false">~space-schedule~event~undocking~286</guid>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"/>
+    </item>
     <item>
       <title>Crew-3 Crew Dragon Relocation</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
@@ -118,20 +149,6 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</descrip
       <guid isPermaLink="false">~space-schedule~launch~mitsubishi_heavy_industries~56e548c8-ff60-4cf5-bc60-d50a546a6a79</guid>
       <pubDate>Tue, 26 Oct 2021 02:19:37 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-iia2520202_image_20190222031201.jpeg"/>
-    </item>
-    <item>
-      <title>Kuaizhou-1A | Jilin-1-02F</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50.json</link>
-      <description>Jilin-1 is a series of Chinese commercial remote sensing satellites.</description>
-      <category>launch</category>
-      <category>china_aerospace_science_and_industry_corporation</category>
-      <category>government</category>
-      <category>kuaizhou</category>
-      <category>earth_science</category>
-      <category>unknown_pad</category>
-      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_industry_corporation~708c2b85-50d6-4baa-bd3e-fdfb0257ea50</guid>
-      <pubDate>Mon, 25 Oct 2021 06:10:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg"/>
     </item>
   </channel>
 </rss>

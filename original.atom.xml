@@ -2,12 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>All Items</title>
   <id>https://launch-library-rss.multipolygon.net/original.atom.xml</id>
-  <updated>2021-11-15T00:00:00Z</updated>
+  <updated>2021-11-24T06:20:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items.</subtitle>
+  <entry>
+    <id>~space-schedule~launch~space_x~c4b2f90e-3385-4cbe-a89f-fc5f57da1bfb</id>
+    <title>Falcon 9 Block 5 | Double Asteroid Redirection Test (DART)</title>
+    <updated>2021-11-24T06:20:00Z</updated>
+    <published>2021-11-24T06:20:00Z</published>
+    <content type="text">Double Asteroid Redirection Test (DART) mission is the first-ever mission to demonstrate the capability to deflect an asteroid by colliding a spacecraft with it at high speed â€“ a technique known as a kinetic impactor.
+
+DART is a planetary defense-driven test of one of the technologies for preventing the Earth impact of a hazardous asteroid: the kinetic impactor.  DARTâ€™s primary objective is to demonstrate a kinetic impact on a small asteroid.  The binary near-Earth asteroid (65803) Didymos is the target for DART.   While Didymosâ€™ primary body is approximately 800 meters across, its secondary body (or â€œmoonletâ€) has a 150-meter size, which is more typical of the size of asteroids that could pose a more common hazard to Earth.
+
+The DART spacecraft will achieve the kinetic impact by deliberately crashing itself into the moonlet at a speed of approximately 6 km/s, with the aid of an onboard camera and sophisticated autonomous navigation software. The collision will change the speed of the moonlet in its orbit around the main body by a fraction of one percent, enough to be measured using telescopes on Earth.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/c4b2f90e-3385-4cbe-a89f-fc5f57da1bfb.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg"/>
+    <category term="launch"/>
+    <category term="space_x"/>
+    <category term="commercial"/>
+    <category term="falcon"/>
+    <category term="falcon_9"/>
+    <category term="robotic_exploration"/>
+    <category term="space_launch_complex_4_e"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~undocking~286</id>
+    <title>Progress MS-17 Undocking</title>
+    <updated>2021-11-24T00:00:00Z</updated>
+    <published>2021-11-24T00:00:00Z</published>
+    <content type="text">The Progress MS-17 spacecraft will undock from the Nauka module of the International Space Station.&#xD;
+&#xD;
+It will then de-orbit and burn up in the atmosphere.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"/>
+    <category term="event"/>
+    <category term="undocking"/>
+  </entry>
   <entry>
     <id>~space-schedule~event~relocation~285</id>
     <title>Crew-3 Crew Dragon Relocation</title>
@@ -125,20 +158,5 @@ QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content
     <category term="h_iia_202"/>
     <category term="navigation"/>
     <category term="yoshinobu_launch_complex"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~china_aerospace_science_and_industry_corporation~708c2b85-50d6-4baa-bd3e-fdfb0257ea50</id>
-    <title>Kuaizhou-1A | Jilin-1-02F</title>
-    <updated>2021-10-25T06:10:00Z</updated>
-    <published>2021-10-25T06:10:00Z</published>
-    <content type="text">Jilin-1 is a series of Chinese commercial remote sensing satellites.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_science_and_industry_corporation"/>
-    <category term="government"/>
-    <category term="kuaizhou"/>
-    <category term="earth_science"/>
-    <category term="unknown_pad"/>
   </entry>
 </feed>

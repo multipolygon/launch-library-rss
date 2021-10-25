@@ -3,6 +3,39 @@
  "description": "All items in Space Schedule > Event.",
  "items": [
   {
+   "id": "~space-schedule~event~undocking~286",
+   "title": "Progress MS-17 Undocking",
+   "content_text": "The Progress MS-17 spacecraft will undock from the Nauka module of the International Space Station.\r\n\r\nIt will then de-orbit and burn up in the atmosphere.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg",
+   "date_published": "2021-11-24T00:00:00Z",
+   "date_modified": "2021-11-24T00:00:00Z",
+   "tags": [
+    "event",
+    "undocking"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Undocking | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "286",
+    "global": "~space-schedule~event~undocking~286"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/undocking/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~relocation~285",
    "title": "Crew-3 Crew Dragon Relocation",
    "content_text": "NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.",
@@ -209,7 +242,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 6,
+  "itemCount": 7,
   "pageNumber": 1,
   "pageCount": 1
  }

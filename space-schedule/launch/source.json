@@ -1,82 +1,8 @@
 {
-    "count": 5,
+    "count": 4,
     "next": null,
     "previous": null,
     "results": [
-        {
-            "id": "708c2b85-50d6-4baa-bd3e-fdfb0257ea50",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50.json",
-            "launch_library_id": 2099,
-            "slug": "kuaizhou-1a-jilin-1-02f",
-            "name": "Kuaizhou-1A | Jilin-1-02F",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-10-25T06:10:00Z",
-            "window_end": "2021-10-25T06:31:00Z",
-            "window_start": "2021-10-25T06:10:00Z",
-            "inhold": false,
-            "tbdtime": true,
-            "tbddate": true,
-            "probability": -1,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 184,
-                "url": "https://ll.thespacedevs.com/2.2.0/agencies/184.json",
-                "name": "China Aerospace Science and Industry Corporation",
-                "type": "Government"
-            },
-            "rocket": {
-                "id": 2759,
-                "configuration": {
-                    "id": 135,
-                    "launch_library_id": 155,
-                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/135.json",
-                    "name": "Kuaizhou",
-                    "family": "Kuaizhou",
-                    "full_name": "Kuaizhou-1A",
-                    "variant": "1A"
-                }
-            },
-            "mission": {
-                "id": 1157,
-                "launch_library_id": 1347,
-                "name": "Jilin-1-02F",
-                "description": "Jilin-1 is a series of Chinese commercial remote sensing satellites.",
-                "launch_designator": null,
-                "type": "Earth Science",
-                "orbit": null
-            },
-            "pad": {
-                "id": 71,
-                "url": "https://ll.thespacedevs.com/2.2.0/pad/71.json",
-                "agency_id": null,
-                "name": "Unknown Pad",
-                "info_url": null,
-                "wiki_url": "",
-                "map_url": "",
-                "latitude": "40.958",
-                "longitude": "100.291",
-                "location": {
-                    "id": 17,
-                    "url": "https://ll.thespacedevs.com/2.2.0/location/17.json",
-                    "name": "Jiuquan, People's Republic of China",
-                    "country_code": "CHN",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg",
-                    "total_launch_count": 148,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_71_20200803143610.jpg",
-                "total_launch_count": 27
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
-            "infographic": null,
-            "program": []
-        },
         {
             "id": "56e548c8-ff60-4cf5-bc60-d50a546a6a79",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/56e548c8-ff60-4cf5-bc60-d50a546a6a79.json",
