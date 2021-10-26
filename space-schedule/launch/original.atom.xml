@@ -63,21 +63,4 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
     <category term="31_6"/>
     <category term="international_space_station"/>
   </entry>
-  <entry>
-    <id>~space-schedule~launch~mitsubishi_heavy_industries~56e548c8-ff60-4cf5-bc60-d50a546a6a79</id>
-    <title>H-IIA 202 | QZS-1R</title>
-    <updated>2021-10-26T02:19:37Z</updated>
-    <published>2021-10-26T02:19:37Z</published>
-    <content type="text">The Quasi-Zenith Satellite System (QZSS) is a three-satellite regional time transfer system and the satellite-based augmentation system for the GPS that would be receivable within Japan. The primary purpose of QZSS is to increase the availability of GPS in Japan's numerous urban canyons, where only satellites at very high elevation can be seen. A secondary function is performance enhancement, increasing the accuracy and reliability of GPS derived navigation solutions.&#xD;
-QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/56e548c8-ff60-4cf5-bc60-d50a546a6a79.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-iia2520202_image_20190222031201.jpeg"/>
-    <category term="launch"/>
-    <category term="mitsubishi_heavy_industries"/>
-    <category term="commercial"/>
-    <category term="h_ii"/>
-    <category term="h_iia_202"/>
-    <category term="navigation"/>
-    <category term="yoshinobu_launch_complex"/>
-  </entry>
 </feed>

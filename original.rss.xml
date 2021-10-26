@@ -42,6 +42,16 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"/>
     </item>
     <item>
+      <title>US EVA-78</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.</description>
+      <category>event</category>
+      <category>eva</category>
+      <guid isPermaLink="false">~space-schedule~event~eva~337</guid>
+      <pubDate>Wed, 17 Nov 2021 12:05:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"/>
+    </item>
+    <item>
       <title>Crew-3 Crew Dragon Relocation</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.</description>
@@ -109,6 +119,16 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075417.jpeg"/>
     </item>
     <item>
+      <title>SpaceX Crew-3 Pre-Launch News Conference</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>Representatives from NASA’s International Space Station Program, SpaceX, ESA, and the U.S. Air Force’s 45th Space Wing will host a press conference ahead of Crew-3 launch to the International Space Station.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~424</guid>
+      <pubDate>Sat, 30 Oct 2021 02:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_p_image_20211025164848.jpg"/>
+    </item>
+    <item>
       <title>Progress MS-18 Docking</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The Progress MS-18 spacecraft is scheduled to autonomously dock to the Zvezda module of the ISS.</description>
@@ -117,6 +137,16 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <guid isPermaLink="false">~space-schedule~event~docking~281</guid>
       <pubDate>Sat, 30 Oct 2021 01:34:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-18__image_20210519113259.jpg"/>
+    </item>
+    <item>
+      <title>Juno's New Findings Press Conference</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA will hold a virtual media briefing to discuss the latest results from the agency’s Juno spacecraft. The science team will reveal new findings that provide the first 3D look at how the planet’s roiling atmosphere operates underneath the top layers of clouds, and how these revelations offer insight into the atmospheres of giant planets elsewhere in the universe.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~425</guid>
+      <pubDate>Thu, 28 Oct 2021 19:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/juno2527s_new__image_20211026090437.jpeg"/>
     </item>
     <item>
       <title>Soyuz 2.1a | Progress MS-18 (79P)</title>
@@ -133,22 +163,6 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <guid isPermaLink="false">~space-schedule~launch~russian_federal_space_agency_roscosmos~5175abf5-6cac-4b57-ae16-edabc138966a</guid>
       <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
-    </item>
-    <item>
-      <title>H-IIA 202 | QZS-1R</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/56e548c8-ff60-4cf5-bc60-d50a546a6a79.json</link>
-      <description>The Quasi-Zenith Satellite System (QZSS) is a three-satellite regional time transfer system and the satellite-based augmentation system for the GPS that would be receivable within Japan. The primary purpose of QZSS is to increase the availability of GPS in Japan's numerous urban canyons, where only satellites at very high elevation can be seen. A secondary function is performance enhancement, increasing the accuracy and reliability of GPS derived navigation solutions.&#xD;
-QZS-1R is a replacement satellite for QZS-1 which was launched in 2010.</description>
-      <category>launch</category>
-      <category>mitsubishi_heavy_industries</category>
-      <category>commercial</category>
-      <category>h_ii</category>
-      <category>h_iia_202</category>
-      <category>navigation</category>
-      <category>yoshinobu_launch_complex</category>
-      <guid isPermaLink="false">~space-schedule~launch~mitsubishi_heavy_industries~56e548c8-ff60-4cf5-bc60-d50a546a6a79</guid>
-      <pubDate>Tue, 26 Oct 2021 02:19:37 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-iia2520202_image_20190222031201.jpeg"/>
     </item>
   </channel>
 </rss>

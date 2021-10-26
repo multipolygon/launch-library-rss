@@ -73,6 +73,39 @@
    }
   },
   {
+   "id": "~space-schedule~event~eva~337",
+   "title": "US EVA-78",
+   "content_text": "NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg",
+   "date_published": "2021-11-17T12:05:00Z",
+   "date_modified": "2021-11-17T12:05:00Z",
+   "tags": [
+    "event",
+    "eva"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "EVA | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "337",
+    "global": "~space-schedule~event~eva~337"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~relocation~285",
    "title": "Crew-3 Crew Dragon Relocation",
    "content_text": "NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.",
@@ -277,6 +310,39 @@
    }
   },
   {
+   "id": "~space-schedule~event~press_event~424",
+   "title": "SpaceX Crew-3 Pre-Launch News Conference",
+   "content_text": "Representatives from NASA’s International Space Station Program, SpaceX, ESA, and the U.S. Air Force’s 45th Space Wing will host a press conference ahead of Crew-3 launch to the International Space Station.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_p_image_20211025164848.jpg",
+   "date_published": "2021-10-30T02:00:00Z",
+   "date_modified": "2021-10-30T02:00:00Z",
+   "tags": [
+    "event",
+    "press_event"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_p_image_20211025164848.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Press Event | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "424",
+    "global": "~space-schedule~event~press_event~424"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~docking~281",
    "title": "Progress MS-18 Docking",
    "content_text": "The Progress MS-18 spacecraft is scheduled to autonomously dock to the Zvezda module of the ISS.",
@@ -307,6 +373,39 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~press_event~425",
+   "title": "Juno's New Findings Press Conference",
+   "content_text": "NASA will hold a virtual media briefing to discuss the latest results from the agency’s Juno spacecraft. The science team will reveal new findings that provide the first 3D look at how the planet’s roiling atmosphere operates underneath the top layers of clouds, and how these revelations offer insight into the atmospheres of giant planets elsewhere in the universe.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/juno2527s_new__image_20211026090437.jpeg",
+   "date_published": "2021-10-28T19:00:00Z",
+   "date_modified": "2021-10-28T19:00:00Z",
+   "tags": [
+    "event",
+    "press_event"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/juno2527s_new__image_20211026090437.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Press Event | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "425",
+    "global": "~space-schedule~event~press_event~425"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
    }
   },
   {
@@ -346,43 +445,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~mitsubishi_heavy_industries~56e548c8-ff60-4cf5-bc60-d50a546a6a79",
-   "title": "H-IIA 202 | QZS-1R",
-   "content_text": "The Quasi-Zenith Satellite System (QZSS) is a three-satellite regional time transfer system and the satellite-based augmentation system for the GPS that would be receivable within Japan. The primary purpose of QZSS is to increase the availability of GPS in Japan's numerous urban canyons, where only satellites at very high elevation can be seen. A secondary function is performance enhancement, increasing the accuracy and reliability of GPS derived navigation solutions.\r\nQZS-1R is a replacement satellite for QZS-1 which was launched in 2010.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/56e548c8-ff60-4cf5-bc60-d50a546a6a79.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-iia2520202_image_20190222031201.jpeg",
-   "date_published": "2021-10-26T02:19:37Z",
-   "date_modified": "2021-10-26T02:19:37Z",
-   "tags": [
-    "launch",
-    "mitsubishi_heavy_industries",
-    "commercial",
-    "h_ii",
-    "h_iia_202",
-    "navigation",
-    "yoshinobu_launch_complex"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-iia2520202_image_20190222031201.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Mitsubishi Heavy Industries | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "56e548c8-ff60-4cf5-bc60-d50a546a6a79",
-    "global": "~space-schedule~launch~mitsubishi_heavy_industries~56e548c8-ff60-4cf5-bc60-d50a546a6a79"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/mitsubishi_heavy_industries/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -393,7 +455,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 11,
+  "itemCount": 13,
   "pageNumber": 1,
   "pageCount": 1
  }

@@ -1,86 +1,8 @@
 {
-    "count": 4,
+    "count": 3,
     "next": null,
     "previous": null,
     "results": [
-        {
-            "id": "56e548c8-ff60-4cf5-bc60-d50a546a6a79",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/56e548c8-ff60-4cf5-bc60-d50a546a6a79.json",
-            "launch_library_id": null,
-            "slug": "h-iia-202-qzs-1r",
-            "name": "H-IIA 202 | QZS-1R",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-10-26T02:19:37Z",
-            "window_end": "2021-10-26T02:34:37Z",
-            "window_start": "2021-10-26T02:19:37Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": null,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 98,
-                "url": "https://ll.thespacedevs.com/2.2.0/agencies/98.json",
-                "name": "Mitsubishi Heavy Industries",
-                "type": "Commercial"
-            },
-            "rocket": {
-                "id": 7448,
-                "configuration": {
-                    "id": 32,
-                    "launch_library_id": 53,
-                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/32.json",
-                    "name": "H-IIA 202",
-                    "family": "H-II",
-                    "full_name": "H-IIA 202",
-                    "variant": "202"
-                }
-            },
-            "mission": {
-                "id": 5840,
-                "launch_library_id": null,
-                "name": "QZS-1R",
-                "description": "The Quasi-Zenith Satellite System (QZSS) is a three-satellite regional time transfer system and the satellite-based augmentation system for the GPS that would be receivable within Japan. The primary purpose of QZSS is to increase the availability of GPS in Japan's numerous urban canyons, where only satellites at very high elevation can be seen. A secondary function is performance enhancement, increasing the accuracy and reliability of GPS derived navigation solutions.\r\nQZS-1R is a replacement satellite for QZS-1 which was launched in 2010.",
-                "launch_designator": null,
-                "type": "Navigation",
-                "orbit": {
-                    "id": 3,
-                    "name": "Geosynchronous Orbit",
-                    "abbrev": "GSO"
-                }
-            },
-            "pad": {
-                "id": 41,
-                "url": "https://ll.thespacedevs.com/2.2.0/pad/41.json",
-                "agency_id": 37,
-                "name": "Yoshinobu Launch Complex",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Yoshinobu_Launch_Complex",
-                "map_url": "https://www.google.com/maps/place/30Â°24'08.0\"N+130Â°58'30.0\"E/",
-                "latitude": "30.402222",
-                "longitude": "130.975",
-                "location": {
-                    "id": 26,
-                    "url": "https://ll.thespacedevs.com/2.2.0/location/26.json",
-                    "name": "Tanegashima, Japan",
-                    "country_code": "JPN",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_26_20200803142507.jpg",
-                    "total_launch_count": 82,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_41_20200803143551.jpg",
-                "total_launch_count": 37
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-iia2520202_image_20190222031201.jpeg",
-            "infographic": null,
-            "program": []
-        },
         {
             "id": "5175abf5-6cac-4b57-ae16-edabc138966a",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/5175abf5-6cac-4b57-ae16-edabc138966a.json",

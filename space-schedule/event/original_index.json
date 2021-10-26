@@ -19,6 +19,22 @@
    }
   },
   {
+   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json",
+   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Feva%2Foriginal.json",
+   "title": "EVA | Event | Space Schedule",
+   "content_text": "1 items",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg",
+   "date_published": "2021-11-17T12:05:00Z",
+   "date_modified": "2021-11-17T12:05:00Z",
+   "_geo": {},
+   "_meta": {
+    "itemCount": 1,
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 0
+   }
+  },
+  {
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/relocation/original.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Frelocation%2Foriginal.json",
    "title": "Relocation | Event | Space Schedule",
@@ -81,6 +97,22 @@
     "videoCount": 0,
     "imageCount": 0
    }
+  },
+  {
+   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json",
+   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json",
+   "title": "Press Event | Event | Space Schedule",
+   "content_text": "2 items",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_p_image_20211025164848.jpg",
+   "date_published": "2021-10-30T02:00:00Z",
+   "date_modified": "2021-10-30T02:00:00Z",
+   "_geo": {},
+   "_meta": {
+    "itemCount": 2,
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 0
+   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -91,7 +123,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal_index.json",
  "_meta": {
-  "itemCount": 5,
+  "itemCount": 7,
   "pageNumber": 1,
   "pageCount": 1
  }

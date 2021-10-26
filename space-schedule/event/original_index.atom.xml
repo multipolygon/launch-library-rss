@@ -17,6 +17,14 @@
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fundocking%2Foriginal.json"/>
   </entry>
   <entry>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json</id>
+    <title>EVA | Event | Space Schedule</title>
+    <updated>2021-11-17T12:05:00Z</updated>
+    <published>2021-11-17T12:05:00Z</published>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Feva%2Foriginal.json"/>
+  </entry>
+  <entry>
     <id>https://launch-library-rss.multipolygon.net/space-schedule/event/relocation/original.json</id>
     <title>Relocation | Event | Space Schedule</title>
     <updated>2021-11-15T00:00:00Z</updated>
@@ -47,5 +55,13 @@
     <published>2021-11-01T04:00:00Z</published>
     <content type="text">2 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fdocking%2Foriginal.json"/>
+  </entry>
+  <entry>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json</id>
+    <title>Press Event | Event | Space Schedule</title>
+    <updated>2021-10-30T02:00:00Z</updated>
+    <published>2021-10-30T02:00:00Z</published>
+    <content type="text">2 items</content>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json"/>
   </entry>
 </feed>
