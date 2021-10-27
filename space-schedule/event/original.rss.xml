@@ -83,16 +83,6 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>
     </item>
     <item>
-      <title>SpaceX Crew-3 Pre-Launch News Conference</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>Representatives from NASA’s International Space Station Program, SpaceX, ESA, and the U.S. Air Force’s 45th Space Wing will host a press conference ahead of Crew-3 launch to the International Space Station.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~424</guid>
-      <pubDate>Sat, 30 Oct 2021 02:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_p_image_20211025164848.jpg"/>
-    </item>
-    <item>
       <title>Progress MS-18 Docking</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The Progress MS-18 spacecraft is scheduled to autonomously dock to the Zvezda module of the ISS.</description>
@@ -101,6 +91,16 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <guid isPermaLink="false">~space-schedule~event~docking~281</guid>
       <pubDate>Sat, 30 Oct 2021 01:34:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-18__image_20210519113259.jpg"/>
+    </item>
+    <item>
+      <title>SpaceX Crew-3 Pre-Launch News Conference</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>Representatives from NASA’s International Space Station Program, SpaceX, ESA, and the U.S. Air Force’s 45th Space Wing will host a press conference ahead of Crew-3 launch to the International Space Station.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~424</guid>
+      <pubDate>Fri, 29 Oct 2021 16:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_p_image_20211025164848.jpg"/>
     </item>
     <item>
       <title>Juno's New Findings Press Conference</title>

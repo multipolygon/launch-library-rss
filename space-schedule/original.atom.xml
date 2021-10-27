@@ -126,17 +126,6 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <category term="international_space_station"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~press_event~424</id>
-    <title>SpaceX Crew-3 Pre-Launch News Conference</title>
-    <updated>2021-10-30T02:00:00Z</updated>
-    <published>2021-10-30T02:00:00Z</published>
-    <content type="text">Representatives from NASA’s International Space Station Program, SpaceX, ESA, and the U.S. Air Force’s 45th Space Wing will host a press conference ahead of Crew-3 launch to the International Space Station.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_p_image_20211025164848.jpg"/>
-    <category term="event"/>
-    <category term="press_event"/>
-  </entry>
-  <entry>
     <id>~space-schedule~event~docking~281</id>
     <title>Progress MS-18 Docking</title>
     <updated>2021-10-30T01:34:00Z</updated>
@@ -146,6 +135,17 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-18__image_20210519113259.jpg"/>
     <category term="event"/>
     <category term="docking"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~press_event~424</id>
+    <title>SpaceX Crew-3 Pre-Launch News Conference</title>
+    <updated>2021-10-29T16:00:00Z</updated>
+    <published>2021-10-29T16:00:00Z</published>
+    <content type="text">Representatives from NASA’s International Space Station Program, SpaceX, ESA, and the U.S. Air Force’s 45th Space Wing will host a press conference ahead of Crew-3 launch to the International Space Station.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_p_image_20211025164848.jpg"/>
+    <category term="event"/>
+    <category term="press_event"/>
   </entry>
   <entry>
     <id>~space-schedule~event~press_event~425</id>
@@ -161,8 +161,8 @@ It will then de-orbit and burn up in the atmosphere.</content>
   <entry>
     <id>~space-schedule~launch~russian_federal_space_agency_roscosmos~5175abf5-6cac-4b57-ae16-edabc138966a</id>
     <title>Soyuz 2.1a | Progress MS-18 (79P)</title>
-    <updated>2021-10-28T00:00:00Z</updated>
-    <published>2021-10-28T00:00:00Z</published>
+    <updated>2021-10-28T00:00:32Z</updated>
+    <published>2021-10-28T00:00:32Z</published>
     <content type="text">The Progress MS-18 spacecraft will resupply the International Space Station.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/5175abf5-6cac-4b57-ae16-edabc138966a.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>

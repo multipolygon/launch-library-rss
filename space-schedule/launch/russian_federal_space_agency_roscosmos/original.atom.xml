@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.atom.xml</id>
-  <updated>2021-10-28T00:00:00Z</updated>
+  <updated>2021-10-28T00:00:32Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Frussian_federal_space_agency_roscosmos%2Foriginal.json"/>
@@ -10,8 +10,8 @@
   <entry>
     <id>5175abf5-6cac-4b57-ae16-edabc138966a</id>
     <title>Soyuz 2.1a | Progress MS-18 (79P)</title>
-    <updated>2021-10-28T00:00:00Z</updated>
-    <published>2021-10-28T00:00:00Z</published>
+    <updated>2021-10-28T00:00:32Z</updated>
+    <published>2021-10-28T00:00:32Z</published>
     <content type="text">The Progress MS-18 spacecraft will resupply the International Space Station.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/5175abf5-6cac-4b57-ae16-edabc138966a.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
