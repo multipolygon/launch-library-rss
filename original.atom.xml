@@ -29,7 +29,7 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
     <category term="space_launch_complex_4_e"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~undocking~286</id>
+    <id>~space-schedule~event~spacecraft_undocking~286</id>
     <title>Progress MS-17 Undocking</title>
     <updated>2021-11-24T00:00:00Z</updated>
     <published>2021-11-24T00:00:00Z</published>
@@ -39,7 +39,7 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"/>
     <category term="event"/>
-    <category term="undocking"/>
+    <category term="spacecraft_undocking"/>
   </entry>
   <entry>
     <id>~space-schedule~event~eva~337</id>
@@ -53,7 +53,7 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <category term="eva"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~relocation~285</id>
+    <id>~space-schedule~event~spacecraft_relocation~285</id>
     <title>Crew-3 Crew Dragon Relocation</title>
     <updated>2021-11-15T00:00:00Z</updated>
     <published>2021-11-15T00:00:00Z</published>
@@ -61,10 +61,10 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crew-3_crew_dra_image_20210519122555.jpeg"/>
     <category term="event"/>
-    <category term="relocation"/>
+    <category term="spacecraft_relocation"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~release~284</id>
+    <id>~space-schedule~event~spacecraft_release~284</id>
     <title>NG-16 Cygnus Release &amp; Reentry</title>
     <updated>2021-11-11T00:00:00Z</updated>
     <published>2021-11-11T00:00:00Z</published>
@@ -72,10 +72,10 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"/>
     <category term="event"/>
-    <category term="release"/>
+    <category term="spacecraft_release"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~landing~283</id>
+    <id>~space-schedule~event~spacecraft_landing~283</id>
     <title>SpaceX Crew-2 "Endeavour" Crew Dragon Splashdown</title>
     <updated>2021-11-08T01:00:00Z</updated>
     <published>2021-11-08T01:00:00Z</published>
@@ -83,10 +83,10 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg"/>
     <category term="event"/>
-    <category term="landing"/>
+    <category term="spacecraft_landing"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~undocking~282</id>
+    <id>~space-schedule~event~spacecraft_undocking~282</id>
     <title>SpaceX Crew-2 "Endeavour" Crew Dragon Undocking</title>
     <updated>2021-11-08T00:00:00Z</updated>
     <published>2021-11-08T00:00:00Z</published>
@@ -94,13 +94,13 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg"/>
     <category term="event"/>
-    <category term="undocking"/>
+    <category term="spacecraft_undocking"/>
   </entry>
   <entry>
     <id>~space-schedule~event~docking~274</id>
     <title>SpaceX Crew-3 Crew Dragon Docking</title>
-    <updated>2021-11-01T04:00:00Z</updated>
-    <published>2021-11-01T04:00:00Z</published>
+    <updated>2021-11-01T04:10:00Z</updated>
+    <published>2021-11-01T04:10:00Z</published>
     <content type="text">The Crew-3 Crew Dragon will dock autonomously to the International Space Station, carrying NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer to the International Space Station as crew members of Expedition 66.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>
@@ -110,11 +110,11 @@ It will then de-orbit and burn up in the atmosphere.</content>
   <entry>
     <id>~space-schedule~launch~space_x~0d779392-1a36-4c1e-b0b8-ec11e3031ee6</id>
     <title>Falcon 9 Block 5 | SpX USCV-3 (NASA Crew Flight 3)</title>
-    <updated>2021-10-31T06:21:00Z</updated>
-    <published>2021-10-31T06:21:00Z</published>
+    <updated>2021-10-31T06:21:10Z</updated>
+    <published>2021-10-31T06:21:10Z</published>
     <content type="text">Third crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/0d779392-1a36-4c1e-b0b8-ec11e3031ee6.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075417.jpeg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211027204441.jpg"/>
     <category term="launch"/>
     <category term="space_x"/>
     <category term="commercial"/>
@@ -128,8 +128,8 @@ It will then de-orbit and burn up in the atmosphere.</content>
   <entry>
     <id>~space-schedule~event~docking~281</id>
     <title>Progress MS-18 Docking</title>
-    <updated>2021-10-30T01:34:00Z</updated>
-    <published>2021-10-30T01:34:00Z</published>
+    <updated>2021-10-30T01:33:30Z</updated>
+    <published>2021-10-30T01:33:30Z</published>
     <content type="text">The Progress MS-18 spacecraft is scheduled to autonomously dock to the Zvezda module of the ISS.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-18__image_20210519113259.jpg"/>
@@ -153,26 +153,9 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <updated>2021-10-28T19:00:00Z</updated>
     <published>2021-10-28T19:00:00Z</published>
     <content type="text">NASA will hold a virtual media briefing to discuss the latest results from the agency’s Juno spacecraft. The science team will reveal new findings that provide the first 3D look at how the planet’s roiling atmosphere operates underneath the top layers of clouds, and how these revelations offer insight into the atmospheres of giant planets elsewhere in the universe.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=PeQ7JEkBxLE"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/juno2527s_new__image_20211026090437.jpeg"/>
     <category term="event"/>
     <category term="press_event"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~russian_federal_space_agency_roscosmos~5175abf5-6cac-4b57-ae16-edabc138966a</id>
-    <title>Soyuz 2.1a | Progress MS-18 (79P)</title>
-    <updated>2021-10-28T00:00:32Z</updated>
-    <published>2021-10-28T00:00:32Z</published>
-    <content type="text">The Progress MS-18 spacecraft will resupply the International Space Station.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/5175abf5-6cac-4b57-ae16-edabc138966a.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
-    <category term="launch"/>
-    <category term="russian_federal_space_agency_roscosmos"/>
-    <category term="government"/>
-    <category term="soyuz"/>
-    <category term="soyuz_2_1_a"/>
-    <category term="resupply"/>
-    <category term="31_6"/>
-    <category term="international_space_station"/>
   </entry>
 </feed>

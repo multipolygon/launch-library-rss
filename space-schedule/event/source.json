@@ -15,7 +15,7 @@
             "description": "NASA will hold a virtual media briefing to discuss the latest results from the agency’s Juno spacecraft. The science team will reveal new findings that provide the first 3D look at how the planet’s roiling atmosphere operates underneath the top layers of clouds, and how these revelations offer insight into the atmospheres of giant planets elsewhere in the universe.",
             "location": null,
             "news_url": "https://www.nasa.gov/press-release/nasa-to-host-briefing-to-reveal-new-findings-from-jupiter-s-atmosphere",
-            "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+            "video_url": "https://www.youtube.com/watch?v=PeQ7JEkBxLE",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/juno2527s_new__image_20211026090437.jpeg",
             "date": "2021-10-28T19:00:00Z",
             "launches": [
@@ -116,9 +116,9 @@
                         "id": 1,
                         "name": "Go"
                     },
-                    "net": "2021-10-31T06:21:00Z",
-                    "window_end": "2021-10-31T06:21:00Z",
-                    "window_start": "2021-10-31T06:21:00Z",
+                    "net": "2021-10-31T06:21:10Z",
+                    "window_end": "2021-10-31T06:21:10Z",
+                    "window_start": "2021-10-31T06:21:10Z",
                     "inhold": false,
                     "tbdtime": true,
                     "tbddate": true,
@@ -180,7 +180,7 @@
                         "total_launch_count": 134
                     },
                     "webcast_live": false,
-                    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075417.jpeg",
+                    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211027204441.jpg",
                     "infographic": null,
                     "program": [
                         {
@@ -353,7 +353,7 @@
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-18__image_20210519113259.jpg",
-            "date": "2021-10-30T01:34:00Z",
+            "date": "2021-10-30T01:33:30Z",
             "launches": [
                 {
                     "id": "5175abf5-6cac-4b57-ae16-edabc138966a",
@@ -362,8 +362,8 @@
                     "slug": "soyuz-21a-progress-ms-18-79p",
                     "name": "Soyuz 2.1a | Progress MS-18 (79P)",
                     "status": {
-                        "id": 1,
-                        "name": "Go"
+                        "id": 3,
+                        "name": "Success"
                     },
                     "net": "2021-10-28T00:00:32Z",
                     "window_end": "2021-10-28T00:00:32Z",
@@ -428,7 +428,7 @@
                         "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_20_20200803143516.jpg",
                         "total_launch_count": 395
                     },
-                    "webcast_live": false,
+                    "webcast_live": true,
                     "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
                     "infographic": null,
                     "program": [
@@ -554,7 +554,7 @@
             "news_url": null,
             "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg",
-            "date": "2021-11-01T04:00:00Z",
+            "date": "2021-11-01T04:10:00Z",
             "launches": [
                 {
                     "id": "0d779392-1a36-4c1e-b0b8-ec11e3031ee6",
@@ -566,9 +566,9 @@
                         "id": 1,
                         "name": "Go"
                     },
-                    "net": "2021-10-31T06:21:00Z",
-                    "window_end": "2021-10-31T06:21:00Z",
-                    "window_start": "2021-10-31T06:21:00Z",
+                    "net": "2021-10-31T06:21:10Z",
+                    "window_end": "2021-10-31T06:21:10Z",
+                    "window_start": "2021-10-31T06:21:10Z",
                     "inhold": false,
                     "tbdtime": true,
                     "tbddate": true,
@@ -630,7 +630,7 @@
                         "total_launch_count": 134
                     },
                     "webcast_live": false,
-                    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075417.jpeg",
+                    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211027204441.jpg",
                     "infographic": null,
                     "program": [
                         {
@@ -829,7 +829,7 @@
             "name": "SpaceX Crew-2 \"Endeavour\" Crew Dragon Undocking",
             "type": {
                 "id": 8,
-                "name": "Undocking"
+                "name": "Spacecraft Undocking"
             },
             "description": "The \"Endeavour\" Crew Dragon will undock from the International Space Station, carrying NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet. It will then reenter the Earth's atmosphere and splashdown in the Atlantic Ocean.",
             "location": "International Space Station",
@@ -1111,7 +1111,7 @@
             "name": "SpaceX Crew-2 \"Endeavour\" Crew Dragon Splashdown",
             "type": {
                 "id": 9,
-                "name": "Landing"
+                "name": "Spacecraft Landing"
             },
             "description": "The \"Endeavour\" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.",
             "location": "Gulf of Mexico, southwest of Pensacola, FL, USA",
@@ -1393,7 +1393,7 @@
             "name": "NG-16 Cygnus Release & Reentry",
             "type": {
                 "id": 13,
-                "name": "Release"
+                "name": "Spacecraft Release"
             },
             "description": "The Northrop Grumman NG-16 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.",
             "location": "International Space Station",
@@ -1668,7 +1668,7 @@
             "name": "Crew-3 Crew Dragon Relocation",
             "type": {
                 "id": 25,
-                "name": "Relocation"
+                "name": "Spacecraft Relocation"
             },
             "description": "NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.",
             "location": "International Space Station",
@@ -1687,9 +1687,9 @@
                         "id": 1,
                         "name": "Go"
                     },
-                    "net": "2021-10-31T06:21:00Z",
-                    "window_end": "2021-10-31T06:21:00Z",
-                    "window_start": "2021-10-31T06:21:00Z",
+                    "net": "2021-10-31T06:21:10Z",
+                    "window_end": "2021-10-31T06:21:10Z",
+                    "window_start": "2021-10-31T06:21:10Z",
                     "inhold": false,
                     "tbdtime": true,
                     "tbddate": true,
@@ -1751,7 +1751,7 @@
                         "total_launch_count": 134
                     },
                     "webcast_live": false,
-                    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075417.jpeg",
+                    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211027204441.jpg",
                     "infographic": null,
                     "program": [
                         {
@@ -2047,7 +2047,7 @@
             "name": "Progress MS-17 Undocking",
             "type": {
                 "id": 8,
-                "name": "Undocking"
+                "name": "Spacecraft Undocking"
             },
             "description": "The Progress MS-17 spacecraft will undock from the Nauka module of the International Space Station.\r\n\r\nIt will then de-orbit and burn up in the atmosphere.",
             "location": "International Space Station",

@@ -43,24 +43,8 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
       <category>commercial_crew_program</category>
       <category>international_space_station</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~0d779392-1a36-4c1e-b0b8-ec11e3031ee6</guid>
-      <pubDate>Sun, 31 Oct 2021 06:21:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075417.jpeg"/>
-    </item>
-    <item>
-      <title>Soyuz 2.1a | Progress MS-18 (79P)</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/5175abf5-6cac-4b57-ae16-edabc138966a.json</link>
-      <description>The Progress MS-18 spacecraft will resupply the International Space Station.</description>
-      <category>launch</category>
-      <category>russian_federal_space_agency_roscosmos</category>
-      <category>government</category>
-      <category>soyuz</category>
-      <category>soyuz_2_1_a</category>
-      <category>resupply</category>
-      <category>31_6</category>
-      <category>international_space_station</category>
-      <guid isPermaLink="false">~space-schedule~launch~russian_federal_space_agency_roscosmos~5175abf5-6cac-4b57-ae16-edabc138966a</guid>
-      <pubDate>Thu, 28 Oct 2021 00:00:32 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
+      <pubDate>Sun, 31 Oct 2021 06:21:10 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211027204441.jpg"/>
     </item>
   </channel>
 </rss>

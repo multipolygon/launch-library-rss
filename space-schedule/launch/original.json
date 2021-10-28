@@ -44,9 +44,9 @@
    "title": "Falcon 9 Block 5 | SpX USCV-3 (NASA Crew Flight 3)",
    "content_text": "Third crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/0d779392-1a36-4c1e-b0b8-ec11e3031ee6.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075417.jpeg",
-   "date_published": "2021-10-31T06:21:00Z",
-   "date_modified": "2021-10-31T06:21:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211027204441.jpg",
+   "date_published": "2021-10-31T06:21:10Z",
+   "date_modified": "2021-10-31T06:21:10Z",
    "tags": [
     "launch",
     "space_x",
@@ -61,7 +61,7 @@
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075417.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211027204441.jpg"
     }
    ],
    "_meta": {
@@ -77,44 +77,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~russian_federal_space_agency_roscosmos~5175abf5-6cac-4b57-ae16-edabc138966a",
-   "title": "Soyuz 2.1a | Progress MS-18 (79P)",
-   "content_text": "The Progress MS-18 spacecraft will resupply the International Space Station.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/5175abf5-6cac-4b57-ae16-edabc138966a.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
-   "date_published": "2021-10-28T00:00:32Z",
-   "date_modified": "2021-10-28T00:00:32Z",
-   "tags": [
-    "launch",
-    "russian_federal_space_agency_roscosmos",
-    "government",
-    "soyuz",
-    "soyuz_2_1_a",
-    "resupply",
-    "31_6",
-    "international_space_station"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "5175abf5-6cac-4b57-ae16-edabc138966a",
-    "global": "~space-schedule~launch~russian_federal_space_agency_roscosmos~5175abf5-6cac-4b57-ae16-edabc138966a"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -125,7 +87,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 3,
+  "itemCount": 2,
   "pageNumber": 1,
   "pageCount": 1
  }

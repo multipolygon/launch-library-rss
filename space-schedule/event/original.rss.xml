@@ -17,8 +17,8 @@
 &#xD;
 It will then de-orbit and burn up in the atmosphere.</description>
       <category>event</category>
-      <category>undocking</category>
-      <guid isPermaLink="false">~space-schedule~event~undocking~286</guid>
+      <category>spacecraft_undocking</category>
+      <guid isPermaLink="false">~space-schedule~event~spacecraft_undocking~286</guid>
       <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"/>
     </item>
@@ -37,8 +37,8 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.</description>
       <category>event</category>
-      <category>relocation</category>
-      <guid isPermaLink="false">~space-schedule~event~relocation~285</guid>
+      <category>spacecraft_relocation</category>
+      <guid isPermaLink="false">~space-schedule~event~spacecraft_relocation~285</guid>
       <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crew-3_crew_dra_image_20210519122555.jpeg"/>
     </item>
@@ -47,8 +47,8 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The Northrop Grumman NG-16 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</description>
       <category>event</category>
-      <category>release</category>
-      <guid isPermaLink="false">~space-schedule~event~release~284</guid>
+      <category>spacecraft_release</category>
+      <guid isPermaLink="false">~space-schedule~event~spacecraft_release~284</guid>
       <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"/>
     </item>
@@ -57,8 +57,8 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The "Endeavour" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.</description>
       <category>event</category>
-      <category>landing</category>
-      <guid isPermaLink="false">~space-schedule~event~landing~283</guid>
+      <category>spacecraft_landing</category>
+      <guid isPermaLink="false">~space-schedule~event~spacecraft_landing~283</guid>
       <pubDate>Mon, 08 Nov 2021 01:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg"/>
     </item>
@@ -67,8 +67,8 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The "Endeavour" Crew Dragon will undock from the International Space Station, carrying NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet. It will then reenter the Earth's atmosphere and splashdown in the Atlantic Ocean.</description>
       <category>event</category>
-      <category>undocking</category>
-      <guid isPermaLink="false">~space-schedule~event~undocking~282</guid>
+      <category>spacecraft_undocking</category>
+      <guid isPermaLink="false">~space-schedule~event~spacecraft_undocking~282</guid>
       <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg"/>
     </item>
@@ -79,7 +79,7 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <category>event</category>
       <category>docking</category>
       <guid isPermaLink="false">~space-schedule~event~docking~274</guid>
-      <pubDate>Mon, 01 Nov 2021 04:00:00 GMT</pubDate>
+      <pubDate>Mon, 01 Nov 2021 04:10:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>
     </item>
     <item>
@@ -89,7 +89,7 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <category>event</category>
       <category>docking</category>
       <guid isPermaLink="false">~space-schedule~event~docking~281</guid>
-      <pubDate>Sat, 30 Oct 2021 01:34:00 GMT</pubDate>
+      <pubDate>Sat, 30 Oct 2021 01:33:30 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-18__image_20210519113259.jpg"/>
     </item>
     <item>
@@ -104,7 +104,7 @@ It will then de-orbit and burn up in the atmosphere.</description>
     </item>
     <item>
       <title>Juno's New Findings Press Conference</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <link>https://www.youtube.com/watch?v=PeQ7JEkBxLE</link>
       <description>NASA will hold a virtual media briefing to discuss the latest results from the agency’s Juno spacecraft. The science team will reveal new findings that provide the first 3D look at how the planet’s roiling atmosphere operates underneath the top layers of clouds, and how these revelations offer insight into the atmospheres of giant planets elsewhere in the universe.</description>
       <category>event</category>
       <category>press_event</category>

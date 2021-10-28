@@ -6,13 +6,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/original_index.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Foriginal_index.json",
    "title": "Launch",
-   "content_text": "2 items",
+   "content_text": "1 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
    "date_published": "2021-11-24T06:20:00Z",
    "date_modified": "2021-11-24T06:20:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 2,
+    "itemCount": 1,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0
