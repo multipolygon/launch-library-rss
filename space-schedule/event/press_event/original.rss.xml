@@ -19,15 +19,5 @@
       <pubDate>Fri, 29 Oct 2021 16:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_p_image_20211025164848.jpg"/>
     </item>
-    <item>
-      <title>Juno's New Findings Press Conference</title>
-      <link>https://www.youtube.com/watch?v=PeQ7JEkBxLE</link>
-      <description>NASA will hold a virtual media briefing to discuss the latest results from the agency’s Juno spacecraft. The science team will reveal new findings that provide the first 3D look at how the planet’s roiling atmosphere operates underneath the top layers of clouds, and how these revelations offer insight into the atmospheres of giant planets elsewhere in the universe.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">425</guid>
-      <pubDate>Thu, 28 Oct 2021 19:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/juno2527s_new__image_20211026090437.jpeg"/>
-    </item>
   </channel>
 </rss>
