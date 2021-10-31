@@ -29,15 +29,5 @@
       <pubDate>Thu, 04 Nov 2021 03:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>
     </item>
-    <item>
-      <title>Progress MS-18 Docking</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The Progress MS-18 spacecraft is scheduled to autonomously dock to the Zvezda module of the ISS.</description>
-      <category>event</category>
-      <category>docking</category>
-      <guid isPermaLink="false">281</guid>
-      <pubDate>Sat, 30 Oct 2021 01:33:30 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-18__image_20210519113259.jpg"/>
-    </item>
   </channel>
 </rss>

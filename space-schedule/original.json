@@ -3,6 +3,71 @@
  "description": "All items in subcategories for category.",
  "items": [
   {
+   "id": "~space-schedule~event~spacecraft_undocking~288",
+   "title": "Progress-M-UM Undocking",
+   "content_text": "The modified Progress space tug called Progress-M-UM will undock from the Prichal node module before performing a de-orbit burn initiating its destructive re-entry in the atmosphere",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress-m-um_u_image_20210519125834.jpg",
+   "date_published": "2021-11-30T00:00:00Z",
+   "date_modified": "2021-11-30T00:00:00Z",
+   "tags": [
+    "event",
+    "spacecraft_undocking"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress-m-um_u_image_20210519125834.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Spacecraft Undocking | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "288",
+    "global": "~space-schedule~event~spacecraft_undocking~288"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_undocking/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~flyby~381",
+   "title": "Solar Orbiter Earth Flyby",
+   "content_text": "Solar Orbiter, a partnership between ESA and NASA, will perform a gravity assist maneuver with Earth on November 26. Throughout its mission it also makes repeated gravity assist flybys of Venus to get closer to the Sun, and to change its orbital inclination, boosting it out of the ecliptic plane, to get the best – and first – views of the Sun’s poles.",
+   "url": "https://www.esa.int/ESA_Multimedia/Images/2020/01/Solar_Orbiter_journey_around_the_Sun",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/solar_orbiter_e_image_20210930094846.png",
+   "date_published": "2021-11-26T00:00:00Z",
+   "date_modified": "2021-11-26T00:00:00Z",
+   "tags": [
+    "event",
+    "flyby"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/png",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/solar_orbiter_e_image_20210930094846.png"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Flyby | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "381",
+    "global": "~space-schedule~event~flyby~381"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/flyby/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~docking~287",
    "title": "Progress-M-UM & Prichal Docking",
    "content_text": "The modified Progress space tug called Progress-M-UM will dock the Prichal node module to the nadir port of the MLM Nauka module on the International Space Station. It will provide four ports to mount additional modules and one docking port for cargo and crew spacecrafts.",
@@ -106,39 +171,6 @@
    }
   },
   {
-   "id": "~space-schedule~event~eva~337",
-   "title": "US EVA-78",
-   "content_text": "NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg",
-   "date_published": "2021-11-17T12:05:00Z",
-   "date_modified": "2021-11-17T12:05:00Z",
-   "tags": [
-    "event",
-    "eva"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "EVA | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "337",
-    "global": "~space-schedule~event~eva~337"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~event~spacecraft_relocation~285",
    "title": "Crew-3 Crew Dragon Relocation",
    "content_text": "NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.",
@@ -210,8 +242,8 @@
    "content_text": "The \"Endeavour\" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg",
-   "date_published": "2021-11-08T01:00:00Z",
-   "date_modified": "2021-11-08T01:00:00Z",
+   "date_published": "2021-11-07T01:00:00Z",
+   "date_modified": "2021-11-07T01:00:00Z",
    "tags": [
     "event",
     "spacecraft_landing"
@@ -243,8 +275,8 @@
    "content_text": "The \"Endeavour\" Crew Dragon will undock from the International Space Station, carrying NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet. It will then reenter the Earth's atmosphere and splashdown in the Atlantic Ocean.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg",
-   "date_published": "2021-11-08T00:00:00Z",
-   "date_modified": "2021-11-08T00:00:00Z",
+   "date_published": "2021-11-07T00:00:00Z",
+   "date_modified": "2021-11-07T00:00:00Z",
    "tags": [
     "event",
     "spacecraft_undocking"
@@ -378,72 +410,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~docking~281",
-   "title": "Progress MS-18 Docking",
-   "content_text": "The Progress MS-18 spacecraft is scheduled to autonomously dock to the Zvezda module of the ISS.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-18__image_20210519113259.jpg",
-   "date_published": "2021-10-30T01:33:30Z",
-   "date_modified": "2021-10-30T01:33:30Z",
-   "tags": [
-    "event",
-    "docking"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-18__image_20210519113259.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Docking | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "281",
-    "global": "~space-schedule~event~docking~281"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~press_event~424",
-   "title": "SpaceX Crew-3 Pre-Launch News Conference",
-   "content_text": "Representatives from NASA’s International Space Station Program, SpaceX, ESA, and the U.S. Air Force’s 45th Space Wing will host a press conference ahead of Crew-3 launch to the International Space Station.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_p_image_20211025164848.jpg",
-   "date_published": "2021-10-29T16:00:00Z",
-   "date_modified": "2021-10-29T16:00:00Z",
-   "tags": [
-    "event",
-    "press_event"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_p_image_20211025164848.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Press Event | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "424",
-    "global": "~space-schedule~event~press_event~424"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -454,7 +420,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 13,
+  "itemCount": 12,
   "pageNumber": 1,
   "pageCount": 1
  }

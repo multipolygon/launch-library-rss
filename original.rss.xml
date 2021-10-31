@@ -7,9 +7,29 @@
     <description>All items.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
+    <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Progress-M-UM Undocking</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The modified Progress space tug called Progress-M-UM will undock from the Prichal node module before performing a de-orbit burn initiating its destructive re-entry in the atmosphere</description>
+      <category>event</category>
+      <category>spacecraft_undocking</category>
+      <guid isPermaLink="false">~space-schedule~event~spacecraft_undocking~288</guid>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress-m-um_u_image_20210519125834.jpg"/>
+    </item>
+    <item>
+      <title>Solar Orbiter Earth Flyby</title>
+      <link>https://www.esa.int/ESA_Multimedia/Images/2020/01/Solar_Orbiter_journey_around_the_Sun</link>
+      <description>Solar Orbiter, a partnership between ESA and NASA, will perform a gravity assist maneuver with Earth on November 26. Throughout its mission it also makes repeated gravity assist flybys of Venus to get closer to the Sun, and to change its orbital inclination, boosting it out of the ecliptic plane, to get the best – and first – views of the Sun’s poles.</description>
+      <category>event</category>
+      <category>flyby</category>
+      <guid isPermaLink="false">~space-schedule~event~flyby~381</guid>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/solar_orbiter_e_image_20210930094846.png"/>
+    </item>
     <item>
       <title>Progress-M-UM &amp; Prichal Docking</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
@@ -52,16 +72,6 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"/>
     </item>
     <item>
-      <title>US EVA-78</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.</description>
-      <category>event</category>
-      <category>eva</category>
-      <guid isPermaLink="false">~space-schedule~event~eva~337</guid>
-      <pubDate>Wed, 17 Nov 2021 12:05:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"/>
-    </item>
-    <item>
       <title>Crew-3 Crew Dragon Relocation</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.</description>
@@ -88,7 +98,7 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <category>event</category>
       <category>spacecraft_landing</category>
       <guid isPermaLink="false">~space-schedule~event~spacecraft_landing~283</guid>
-      <pubDate>Mon, 08 Nov 2021 01:00:00 GMT</pubDate>
+      <pubDate>Sun, 07 Nov 2021 01:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg"/>
     </item>
     <item>
@@ -98,7 +108,7 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <category>event</category>
       <category>spacecraft_undocking</category>
       <guid isPermaLink="false">~space-schedule~event~spacecraft_undocking~282</guid>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 07 Nov 2021 00:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg"/>
     </item>
     <item>
@@ -142,26 +152,6 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <guid isPermaLink="false">~space-schedule~launch~space_x~0d779392-1a36-4c1e-b0b8-ec11e3031ee6</guid>
       <pubDate>Wed, 03 Nov 2021 05:10:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211027204441.jpg"/>
-    </item>
-    <item>
-      <title>Progress MS-18 Docking</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The Progress MS-18 spacecraft is scheduled to autonomously dock to the Zvezda module of the ISS.</description>
-      <category>event</category>
-      <category>docking</category>
-      <guid isPermaLink="false">~space-schedule~event~docking~281</guid>
-      <pubDate>Sat, 30 Oct 2021 01:33:30 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-18__image_20210519113259.jpg"/>
-    </item>
-    <item>
-      <title>SpaceX Crew-3 Pre-Launch News Conference</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>Representatives from NASA’s International Space Station Program, SpaceX, ESA, and the U.S. Air Force’s 45th Space Wing will host a press conference ahead of Crew-3 launch to the International Space Station.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~424</guid>
-      <pubDate>Fri, 29 Oct 2021 16:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_p_image_20211025164848.jpg"/>
     </item>
   </channel>
 </rss>

@@ -6,9 +6,19 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fspacecraft_undocking%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+    <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Progress-M-UM Undocking</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The modified Progress space tug called Progress-M-UM will undock from the Prichal node module before performing a de-orbit burn initiating its destructive re-entry in the atmosphere</description>
+      <category>event</category>
+      <category>spacecraft_undocking</category>
+      <guid isPermaLink="false">288</guid>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress-m-um_u_image_20210519125834.jpg"/>
+    </item>
     <item>
       <title>Progress MS-17 Undocking</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
@@ -28,7 +38,7 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <category>event</category>
       <category>spacecraft_undocking</category>
       <guid isPermaLink="false">282</guid>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 07 Nov 2021 00:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg"/>
     </item>
   </channel>
