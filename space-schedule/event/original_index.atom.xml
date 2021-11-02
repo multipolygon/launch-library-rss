@@ -41,6 +41,14 @@
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fflyby%2Foriginal.json"/>
   </entry>
   <entry>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_landing/original.json</id>
+    <title>Spacecraft Landing | Event | Space Schedule</title>
+    <updated>2021-11-15T01:00:00Z</updated>
+    <published>2021-11-15T01:00:00Z</published>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fspacecraft_landing%2Foriginal.json"/>
+  </entry>
+  <entry>
     <id>https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_relocation/original.json</id>
     <title>Spacecraft Relocation | Event | Space Schedule</title>
     <updated>2021-11-15T00:00:00Z</updated>
@@ -55,13 +63,5 @@
     <published>2021-11-11T00:00:00Z</published>
     <content type="text">1 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fspacecraft_release%2Foriginal.json"/>
-  </entry>
-  <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_landing/original.json</id>
-    <title>Spacecraft Landing | Event | Space Schedule</title>
-    <updated>2021-11-07T01:00:00Z</updated>
-    <published>2021-11-07T01:00:00Z</published>
-    <content type="text">1 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fspacecraft_landing%2Foriginal.json"/>
   </entry>
 </feed>

@@ -63,6 +63,16 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"/>
     </item>
     <item>
+      <title>SpaceX Crew-2 "Endeavour" Crew Dragon Splashdown</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The "Endeavour" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.</description>
+      <category>event</category>
+      <category>spacecraft_landing</category>
+      <guid isPermaLink="false">~space-schedule~event~spacecraft_landing~283</guid>
+      <pubDate>Mon, 15 Nov 2021 01:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg"/>
+    </item>
+    <item>
       <title>Crew-3 Crew Dragon Relocation</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.</description>
@@ -71,6 +81,16 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <guid isPermaLink="false">~space-schedule~event~spacecraft_relocation~285</guid>
       <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crew-3_crew_dra_image_20210519122555.jpeg"/>
+    </item>
+    <item>
+      <title>SpaceX Crew-2 "Endeavour" Crew Dragon Undocking</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The "Endeavour" Crew Dragon will undock from the International Space Station, carrying NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet. It will then reenter the Earth's atmosphere and splashdown in the Atlantic Ocean.</description>
+      <category>event</category>
+      <category>spacecraft_undocking</category>
+      <guid isPermaLink="false">~space-schedule~event~spacecraft_undocking~282</guid>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg"/>
     </item>
     <item>
       <title>NG-16 Cygnus Release &amp; Reentry</title>
@@ -83,33 +103,13 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"/>
     </item>
     <item>
-      <title>SpaceX Crew-2 "Endeavour" Crew Dragon Splashdown</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The "Endeavour" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.</description>
-      <category>event</category>
-      <category>spacecraft_landing</category>
-      <guid isPermaLink="false">~space-schedule~event~spacecraft_landing~283</guid>
-      <pubDate>Sun, 07 Nov 2021 01:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg"/>
-    </item>
-    <item>
-      <title>SpaceX Crew-2 "Endeavour" Crew Dragon Undocking</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The "Endeavour" Crew Dragon will undock from the International Space Station, carrying NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet. It will then reenter the Earth's atmosphere and splashdown in the Atlantic Ocean.</description>
-      <category>event</category>
-      <category>spacecraft_undocking</category>
-      <guid isPermaLink="false">~space-schedule~event~spacecraft_undocking~282</guid>
-      <pubDate>Sun, 07 Nov 2021 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg"/>
-    </item>
-    <item>
       <title>SpaceX Crew-3 Crew Dragon Docking</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The Crew-3 Crew Dragon will dock autonomously to the International Space Station, carrying NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer to the International Space Station as crew members of Expedition 66.</description>
       <category>event</category>
       <category>docking</category>
       <guid isPermaLink="false">~space-schedule~event~docking~274</guid>
-      <pubDate>Thu, 04 Nov 2021 03:00:00 GMT</pubDate>
+      <pubDate>Mon, 08 Nov 2021 01:30:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>
     </item>
   </channel>

@@ -29,6 +29,24 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
     <category term="space_launch_complex_4_e"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~space_x~0d779392-1a36-4c1e-b0b8-ec11e3031ee6</id>
+    <title>Falcon 9 Block 5 | SpX USCV-3 (NASA Crew Flight 3)</title>
+    <updated>2021-11-07T03:36:00Z</updated>
+    <published>2021-11-07T03:36:00Z</published>
+    <content type="text">Third crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/0d779392-1a36-4c1e-b0b8-ec11e3031ee6.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211101043747.jpeg"/>
+    <category term="launch"/>
+    <category term="space_x"/>
+    <category term="commercial"/>
+    <category term="falcon"/>
+    <category term="falcon_9"/>
+    <category term="human_exploration"/>
+    <category term="launch_complex_39_a"/>
+    <category term="commercial_crew_program"/>
+    <category term="international_space_station"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~360fe91d-17ae-45b1-a636-340a27c1e6f8</id>
     <title>Long March 2C/YZ-1S | Yaogan-32-02</title>
     <updated>2021-11-03T07:36:00Z</updated>
@@ -43,23 +61,5 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
     <category term="long_march_2_c_yz_1_s"/>
     <category term="government_top_secret"/>
     <category term="launch_area_4_sls_2_603"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~space_x~0d779392-1a36-4c1e-b0b8-ec11e3031ee6</id>
-    <title>Falcon 9 Block 5 | SpX USCV-3 (NASA Crew Flight 3)</title>
-    <updated>2021-11-03T05:10:00Z</updated>
-    <published>2021-11-03T05:10:00Z</published>
-    <content type="text">Third crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/0d779392-1a36-4c1e-b0b8-ec11e3031ee6.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211101043747.jpeg"/>
-    <category term="launch"/>
-    <category term="space_x"/>
-    <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon_9"/>
-    <category term="human_exploration"/>
-    <category term="launch_complex_39_a"/>
-    <category term="commercial_crew_program"/>
-    <category term="international_space_station"/>
   </entry>
 </feed>
