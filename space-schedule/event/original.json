@@ -3,39 +3,6 @@
  "description": "All items in Space Schedule > Event.",
  "items": [
   {
-   "id": "~space-schedule~event~eva~337",
-   "title": "US EVA-78",
-   "content_text": "NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg",
-   "date_published": "2021-11-30T12:05:00Z",
-   "date_modified": "2021-11-30T12:05:00Z",
-   "tags": [
-    "event",
-    "eva"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "EVA | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "337",
-    "global": "~space-schedule~event~eva~337"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~event~spacecraft_undocking~288",
    "title": "Progress-M-UM Undocking",
    "content_text": "The modified Progress space tug called Progress-M-UM will undock from the Prichal node module before performing a de-orbit burn initiating its destructive re-entry in the atmosphere",
@@ -329,6 +296,39 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~press_event~426",
+   "title": "DART Launch Preview Briefing",
+   "content_text": "NASA will hold a media briefing about the upcoming launch of the agency’s first planetary defense test mission, the Double Asteroid Redirection Test (DART). Briefing participants include NASA's planetary defense officer Lindley Johnson and representatives from DART project.\r\n\r\nDART is currently scheduled to launch at the end of November.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/dart_launch_pre_image_20211102211509.jpeg",
+   "date_published": "2021-11-04T17:00:00Z",
+   "date_modified": "2021-11-04T17:00:00Z",
+   "tags": [
+    "event",
+    "press_event"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/dart_launch_pre_image_20211102211509.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Press Event | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "426",
+    "global": "~space-schedule~event~press_event~426"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
    }
   }
  ],

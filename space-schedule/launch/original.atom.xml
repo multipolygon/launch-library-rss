@@ -46,20 +46,4 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
     <category term="commercial_crew_program"/>
     <category term="international_space_station"/>
   </entry>
-  <entry>
-    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~360fe91d-17ae-45b1-a636-340a27c1e6f8</id>
-    <title>Long March 2C/YZ-1S | Yaogan-32-02</title>
-    <updated>2021-11-03T07:36:00Z</updated>
-    <published>2021-11-03T07:36:00Z</published>
-    <content type="text">Yaogan is a series of Chinese reconnaissance satellites.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/360fe91d-17ae-45b1-a636-340a27c1e6f8.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_science_and_technology_corporation"/>
-    <category term="government"/>
-    <category term="long_march_2"/>
-    <category term="long_march_2_c_yz_1_s"/>
-    <category term="government_top_secret"/>
-    <category term="launch_area_4_sls_2_603"/>
-  </entry>
 </feed>

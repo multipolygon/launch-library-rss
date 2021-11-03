@@ -2,23 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Space-schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/original.atom.xml</id>
-  <updated>2021-11-30T12:05:00Z</updated>
+  <updated>2021-11-30T00:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items in subcategories for category.</subtitle>
-  <entry>
-    <id>~space-schedule~event~eva~337</id>
-    <title>US EVA-78</title>
-    <updated>2021-11-30T12:05:00Z</updated>
-    <published>2021-11-30T12:05:00Z</published>
-    <content type="text">NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"/>
-    <category term="event"/>
-    <category term="eva"/>
-  </entry>
   <entry>
     <id>~space-schedule~event~spacecraft_undocking~288</id>
     <title>Progress-M-UM Undocking</title>
@@ -159,19 +148,16 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <category term="international_space_station"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~360fe91d-17ae-45b1-a636-340a27c1e6f8</id>
-    <title>Long March 2C/YZ-1S | Yaogan-32-02</title>
-    <updated>2021-11-03T07:36:00Z</updated>
-    <published>2021-11-03T07:36:00Z</published>
-    <content type="text">Yaogan is a series of Chinese reconnaissance satellites.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/360fe91d-17ae-45b1-a636-340a27c1e6f8.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_science_and_technology_corporation"/>
-    <category term="government"/>
-    <category term="long_march_2"/>
-    <category term="long_march_2_c_yz_1_s"/>
-    <category term="government_top_secret"/>
-    <category term="launch_area_4_sls_2_603"/>
+    <id>~space-schedule~event~press_event~426</id>
+    <title>DART Launch Preview Briefing</title>
+    <updated>2021-11-04T17:00:00Z</updated>
+    <published>2021-11-04T17:00:00Z</published>
+    <content type="text">NASA will hold a media briefing about the upcoming launch of the agency’s first planetary defense test mission, the Double Asteroid Redirection Test (DART). Briefing participants include NASA's planetary defense officer Lindley Johnson and representatives from DART project.&#xD;
+&#xD;
+DART is currently scheduled to launch at the end of November.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/dart_launch_pre_image_20211102211509.jpeg"/>
+    <category term="event"/>
+    <category term="press_event"/>
   </entry>
 </feed>

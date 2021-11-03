@@ -2,23 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Event</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/original.atom.xml</id>
-  <updated>2021-11-30T12:05:00Z</updated>
+  <updated>2021-11-30T00:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items in Space Schedule &gt; Event.</subtitle>
-  <entry>
-    <id>~space-schedule~event~eva~337</id>
-    <title>US EVA-78</title>
-    <updated>2021-11-30T12:05:00Z</updated>
-    <published>2021-11-30T12:05:00Z</published>
-    <content type="text">NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"/>
-    <category term="event"/>
-    <category term="eva"/>
-  </entry>
   <entry>
     <id>~space-schedule~event~spacecraft_undocking~288</id>
     <title>Progress-M-UM Undocking</title>
@@ -119,5 +108,18 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>
     <category term="event"/>
     <category term="docking"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~press_event~426</id>
+    <title>DART Launch Preview Briefing</title>
+    <updated>2021-11-04T17:00:00Z</updated>
+    <published>2021-11-04T17:00:00Z</published>
+    <content type="text">NASA will hold a media briefing about the upcoming launch of the agency’s first planetary defense test mission, the Double Asteroid Redirection Test (DART). Briefing participants include NASA's planetary defense officer Lindley Johnson and representatives from DART project.&#xD;
+&#xD;
+DART is currently scheduled to launch at the end of November.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/dart_launch_pre_image_20211102211509.jpeg"/>
+    <category term="event"/>
+    <category term="press_event"/>
   </entry>
 </feed>
