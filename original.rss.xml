@@ -7,18 +7,18 @@
     <description>All items.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+    <pubDate>Tue, 30 Nov 2021 12:05:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
-      <title>Progress-M-UM Undocking</title>
+      <title>US EVA-78</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The modified Progress space tug called Progress-M-UM will undock from the Prichal node module before performing a de-orbit burn initiating its destructive re-entry in the atmosphere</description>
+      <description>NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.</description>
       <category>event</category>
-      <category>spacecraft_undocking</category>
-      <guid isPermaLink="false">~space-schedule~event~spacecraft_undocking~288</guid>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress-m-um_u_image_20210519125834.jpg"/>
+      <category>eva</category>
+      <guid isPermaLink="false">~space-schedule~event~eva~337</guid>
+      <pubDate>Tue, 30 Nov 2021 12:05:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"/>
     </item>
     <item>
       <title>Solar Orbiter Earth Flyby</title>
@@ -137,6 +137,33 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <guid isPermaLink="false">~space-schedule~launch~space_x~0d779392-1a36-4c1e-b0b8-ec11e3031ee6</guid>
       <pubDate>Sun, 07 Nov 2021 03:36:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211101043747.jpeg"/>
+    </item>
+    <item>
+      <title>Long March 2D | Unknown Payload</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/ec8490e6-e1a8-4381-9040-3ba4b42d4f37.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_technology_corporation</category>
+      <category>government</category>
+      <category>long_march</category>
+      <category>long_march_2_d</category>
+      <category>launch_complex_3_lc_3_la_1</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~ec8490e6-e1a8-4381-9040-3ba4b42d4f37</guid>
+      <pubDate>Sat, 06 Nov 2021 02:50:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg"/>
+    </item>
+    <item>
+      <title>Long March 2C | Unknown Payload</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/221552dc-18f2-438e-a858-e29b3eafcf1a.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_technology_corporation</category>
+      <category>government</category>
+      <category>long_march_2</category>
+      <category>launch_complex_9</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~221552dc-18f2-438e-a858-e29b3eafcf1a</guid>
+      <pubDate>Fri, 05 Nov 2021 02:12:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202_image_20190222031200.jpeg"/>
     </item>
     <item>
       <title>DART Launch Preview Briefing</title>

@@ -2,22 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Spacecraft Undocking | Event | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_undocking/original.atom.xml</id>
-  <updated>2021-11-30T00:00:00Z</updated>
+  <updated>2021-11-24T00:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_undocking/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_undocking/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fspacecraft_undocking%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
-  <entry>
-    <id>288</id>
-    <title>Progress-M-UM Undocking</title>
-    <updated>2021-11-30T00:00:00Z</updated>
-    <published>2021-11-30T00:00:00Z</published>
-    <content type="text">The modified Progress space tug called Progress-M-UM will undock from the Prichal node module before performing a de-orbit burn initiating its destructive re-entry in the atmosphere</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress-m-um_u_image_20210519125834.jpg"/>
-    <category term="event"/>
-    <category term="spacecraft_undocking"/>
-  </entry>
   <entry>
     <id>286</id>
     <title>Progress MS-17 Undocking</title>

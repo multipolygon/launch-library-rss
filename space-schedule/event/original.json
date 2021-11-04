@@ -3,21 +3,21 @@
  "description": "All items in Space Schedule > Event.",
  "items": [
   {
-   "id": "~space-schedule~event~spacecraft_undocking~288",
-   "title": "Progress-M-UM Undocking",
-   "content_text": "The modified Progress space tug called Progress-M-UM will undock from the Prichal node module before performing a de-orbit burn initiating its destructive re-entry in the atmosphere",
+   "id": "~space-schedule~event~eva~337",
+   "title": "US EVA-78",
+   "content_text": "NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress-m-um_u_image_20210519125834.jpg",
-   "date_published": "2021-11-30T00:00:00Z",
-   "date_modified": "2021-11-30T00:00:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg",
+   "date_published": "2021-11-30T12:05:00Z",
+   "date_modified": "2021-11-30T12:05:00Z",
    "tags": [
     "event",
-    "spacecraft_undocking"
+    "eva"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress-m-um_u_image_20210519125834.jpg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"
     }
    ],
    "_meta": {
@@ -25,14 +25,14 @@
     "videoCount": 0,
     "imageCount": 1,
     "youtubeCount": 1,
-    "subtitle": "Spacecraft Undocking | Event | Space Schedule"
+    "subtitle": "EVA | Event | Space Schedule"
    },
    "_id": {
-    "parent": "288",
-    "global": "~space-schedule~event~spacecraft_undocking~288"
+    "parent": "337",
+    "global": "~space-schedule~event~eva~337"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_undocking/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
    }
   },
   {

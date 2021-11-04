@@ -46,5 +46,32 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
       <pubDate>Sun, 07 Nov 2021 03:36:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211101043747.jpeg"/>
     </item>
+    <item>
+      <title>Long March 2D | Unknown Payload</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/ec8490e6-e1a8-4381-9040-3ba4b42d4f37.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_technology_corporation</category>
+      <category>government</category>
+      <category>long_march</category>
+      <category>long_march_2_d</category>
+      <category>launch_complex_3_lc_3_la_1</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~ec8490e6-e1a8-4381-9040-3ba4b42d4f37</guid>
+      <pubDate>Sat, 06 Nov 2021 02:50:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg"/>
+    </item>
+    <item>
+      <title>Long March 2C | Unknown Payload</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/221552dc-18f2-438e-a858-e29b3eafcf1a.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_technology_corporation</category>
+      <category>government</category>
+      <category>long_march_2</category>
+      <category>launch_complex_9</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~221552dc-18f2-438e-a858-e29b3eafcf1a</guid>
+      <pubDate>Fri, 05 Nov 2021 02:12:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202_image_20190222031200.jpeg"/>
+    </item>
   </channel>
 </rss>

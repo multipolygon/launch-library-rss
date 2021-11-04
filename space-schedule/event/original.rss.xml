@@ -7,18 +7,18 @@
     <description>All items in Space Schedule &gt; Event.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
+    <pubDate>Tue, 30 Nov 2021 12:05:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
-      <title>Progress-M-UM Undocking</title>
+      <title>US EVA-78</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>The modified Progress space tug called Progress-M-UM will undock from the Prichal node module before performing a de-orbit burn initiating its destructive re-entry in the atmosphere</description>
+      <description>NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.</description>
       <category>event</category>
-      <category>spacecraft_undocking</category>
-      <guid isPermaLink="false">~space-schedule~event~spacecraft_undocking~288</guid>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress-m-um_u_image_20210519125834.jpg"/>
+      <category>eva</category>
+      <guid isPermaLink="false">~space-schedule~event~eva~337</guid>
+      <pubDate>Tue, 30 Nov 2021 12:05:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"/>
     </item>
     <item>
       <title>Solar Orbiter Earth Flyby</title>
