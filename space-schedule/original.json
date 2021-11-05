@@ -3,39 +3,6 @@
  "description": "All items in subcategories for category.",
  "items": [
   {
-   "id": "~space-schedule~event~eva~337",
-   "title": "US EVA-78",
-   "content_text": "NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg",
-   "date_published": "2021-11-30T12:05:00Z",
-   "date_modified": "2021-11-30T12:05:00Z",
-   "tags": [
-    "event",
-    "eva"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "EVA | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "337",
-    "global": "~space-schedule~event~eva~337"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~event~flyby~381",
    "title": "Solar Orbiter Earth Flyby",
    "content_text": "Solar Orbiter, a partnership between ESA and NASA, will perform a gravity assist maneuver with Earth on November 26. Throughout its mission it also makes repeated gravity assist flybys of Venus to get closer to the Sun, and to change its orbital inclination, boosting it out of the ecliptic plane, to get the best – and first – views of the Sun’s poles.",
@@ -171,39 +138,6 @@
    }
   },
   {
-   "id": "~space-schedule~event~spacecraft_landing~283",
-   "title": "SpaceX Crew-2 \"Endeavour\" Crew Dragon Splashdown",
-   "content_text": "The \"Endeavour\" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg",
-   "date_published": "2021-11-15T01:00:00Z",
-   "date_modified": "2021-11-15T01:00:00Z",
-   "tags": [
-    "event",
-    "spacecraft_landing"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Spacecraft Landing | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "283",
-    "global": "~space-schedule~event~spacecraft_landing~283"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_landing/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~event~spacecraft_relocation~285",
    "title": "Crew-3 Crew Dragon Relocation",
    "content_text": "NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.",
@@ -234,39 +168,6 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_relocation/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~spacecraft_undocking~282",
-   "title": "SpaceX Crew-2 \"Endeavour\" Crew Dragon Undocking",
-   "content_text": "The \"Endeavour\" Crew Dragon will undock from the International Space Station, carrying NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet. It will then reenter the Earth's atmosphere and splashdown in the Atlantic Ocean.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg",
-   "date_published": "2021-11-15T00:00:00Z",
-   "date_modified": "2021-11-15T00:00:00Z",
-   "tags": [
-    "event",
-    "spacecraft_undocking"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Spacecraft Undocking | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "282",
-    "global": "~space-schedule~event~spacecraft_undocking~282"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_undocking/original.json"
    }
   },
   {
@@ -308,8 +209,8 @@
    "content_text": "The Crew-3 Crew Dragon will dock autonomously to the International Space Station, carrying NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer to the International Space Station as crew members of Expedition 66.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg",
-   "date_published": "2021-11-08T01:30:00Z",
-   "date_modified": "2021-11-08T01:30:00Z",
+   "date_published": "2021-11-10T00:50:00Z",
+   "date_modified": "2021-11-10T00:50:00Z",
    "tags": [
     "event",
     "docking"
@@ -336,42 +237,69 @@
    }
   },
   {
-   "id": "~space-schedule~launch~space_x~0d779392-1a36-4c1e-b0b8-ec11e3031ee6",
-   "title": "Falcon 9 Block 5 | SpX USCV-3 (NASA Crew Flight 3)",
-   "content_text": "Third crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/0d779392-1a36-4c1e-b0b8-ec11e3031ee6.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211101043747.jpeg",
-   "date_published": "2021-11-07T03:36:00Z",
-   "date_modified": "2021-11-07T03:36:00Z",
+   "id": "~space-schedule~event~spacecraft_landing~283",
+   "title": "SpaceX Crew-2 \"Endeavour\" Crew Dragon Splashdown",
+   "content_text": "The \"Endeavour\" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg",
+   "date_published": "2021-11-07T22:00:00Z",
+   "date_modified": "2021-11-07T22:00:00Z",
    "tags": [
-    "launch",
-    "space_x",
-    "commercial",
-    "falcon",
-    "falcon_9",
-    "human_exploration",
-    "launch_complex_39_a",
-    "commercial_crew_program",
-    "international_space_station"
+    "event",
+    "spacecraft_landing"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211101043747.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg"
     }
    ],
    "_meta": {
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "subtitle": "SpaceX | Launch | Space Schedule"
+    "youtubeCount": 1,
+    "subtitle": "Spacecraft Landing | Event | Space Schedule"
    },
    "_id": {
-    "parent": "0d779392-1a36-4c1e-b0b8-ec11e3031ee6",
-    "global": "~space-schedule~launch~space_x~0d779392-1a36-4c1e-b0b8-ec11e3031ee6"
+    "parent": "283",
+    "global": "~space-schedule~event~spacecraft_landing~283"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_landing/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~spacecraft_undocking~282",
+   "title": "SpaceX Crew-2 \"Endeavour\" Crew Dragon Undocking",
+   "content_text": "The \"Endeavour\" Crew Dragon will undock from the International Space Station, carrying NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet. It will then reenter the Earth's atmosphere and splashdown in the Atlantic Ocean.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg",
+   "date_published": "2021-11-07T18:05:00Z",
+   "date_modified": "2021-11-07T18:05:00Z",
+   "tags": [
+    "event",
+    "spacecraft_undocking"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Spacecraft Undocking | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "282",
+    "global": "~space-schedule~event~spacecraft_undocking~282"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_undocking/original.json"
    }
   },
   {
@@ -411,38 +339,36 @@
    }
   },
   {
-   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~221552dc-18f2-438e-a858-e29b3eafcf1a",
-   "title": "Long March 2C | Unknown Payload",
-   "content_text": "-",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/221552dc-18f2-438e-a858-e29b3eafcf1a.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202_image_20190222031200.jpeg",
-   "date_published": "2021-11-05T02:12:00Z",
-   "date_modified": "2021-11-05T02:12:00Z",
+   "id": "~space-schedule~event~press_event~427",
+   "title": "SpaceX Crew-2 Crew News Conference",
+   "content_text": "NASA’s SpaceX Crew-2 astronauts will answer media questions about their time aboard the International Space Station as they prepare to return to Earth later this month.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20211105060501.jpeg",
+   "date_published": "2021-11-05T16:30:00Z",
+   "date_modified": "2021-11-05T16:30:00Z",
    "tags": [
-    "launch",
-    "china_aerospace_science_and_technology_corporation",
-    "government",
-    "long_march_2",
-    "launch_complex_9"
+    "event",
+    "press_event"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202_image_20190222031200.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20211105060501.jpeg"
     }
    ],
    "_meta": {
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
+    "youtubeCount": 1,
+    "subtitle": "Press Event | Event | Space Schedule"
    },
    "_id": {
-    "parent": "221552dc-18f2-438e-a858-e29b3eafcf1a",
-    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~221552dc-18f2-438e-a858-e29b3eafcf1a"
+    "parent": "427",
+    "global": "~space-schedule~event~press_event~427"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
    }
   },
   {
@@ -487,7 +413,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 14,
+  "itemCount": 12,
   "pageNumber": 1,
   "pageCount": 1
  }

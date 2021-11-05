@@ -22,18 +22,4 @@
     <category term="long_march_2_d"/>
     <category term="launch_complex_3_lc_3_la_1"/>
   </entry>
-  <entry>
-    <id>221552dc-18f2-438e-a858-e29b3eafcf1a</id>
-    <title>Long March 2C | Unknown Payload</title>
-    <updated>2021-11-05T02:12:00Z</updated>
-    <published>2021-11-05T02:12:00Z</published>
-    <content type="text">-</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/221552dc-18f2-438e-a858-e29b3eafcf1a.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202_image_20190222031200.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_science_and_technology_corporation"/>
-    <category term="government"/>
-    <category term="long_march_2"/>
-    <category term="launch_complex_9"/>
-  </entry>
 </feed>

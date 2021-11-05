@@ -6,9 +6,19 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Thu, 04 Nov 2021 17:00:00 GMT</pubDate>
+    <pubDate>Fri, 05 Nov 2021 16:30:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>SpaceX Crew-2 Crew News Conference</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA’s SpaceX Crew-2 astronauts will answer media questions about their time aboard the International Space Station as they prepare to return to Earth later this month.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">427</guid>
+      <pubDate>Fri, 05 Nov 2021 16:30:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20211105060501.jpeg"/>
+    </item>
     <item>
       <title>DART Launch Preview Briefing</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
