@@ -3,6 +3,72 @@
  "description": "All items.",
  "items": [
   {
+   "id": "~space-schedule~event~spacecraft_release~284",
+   "title": "NG-16 Cygnus Release & Reentry",
+   "content_text": "The Northrop Grumman NG-16 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg",
+   "date_published": "2021-11-30T00:00:00Z",
+   "date_modified": "2021-11-30T00:00:00Z",
+   "tags": [
+    "event",
+    "spacecraft_release"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Spacecraft Release | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "284",
+    "global": "~space-schedule~event~spacecraft_release~284"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_release/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~docking~287",
+   "title": "Progress-M-UM & Prichal Docking",
+   "content_text": "The modified Progress space tug called Progress-M-UM will dock the Prichal node module to the nadir port of the MLM Nauka module on the International Space Station. It will provide four ports to mount additional modules and one docking port for cargo and crew spacecrafts.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress-m-um__image_20210519124545.jpg",
+   "date_published": "2021-11-26T15:25:00Z",
+   "date_modified": "2021-11-26T15:25:00Z",
+   "tags": [
+    "event",
+    "docking"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress-m-um__image_20210519124545.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Docking | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "287",
+    "global": "~space-schedule~event~docking~287"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~flyby~381",
    "title": "Solar Orbiter Earth Flyby",
    "content_text": "Solar Orbiter, a partnership between ESA and NASA, will perform a gravity assist maneuver with Earth on November 26. Throughout its mission it also makes repeated gravity assist flybys of Venus to get closer to the Sun, and to change its orbital inclination, boosting it out of the ecliptic plane, to get the best – and first – views of the Sun’s poles.",
@@ -35,21 +101,21 @@
    }
   },
   {
-   "id": "~space-schedule~event~docking~287",
-   "title": "Progress-M-UM & Prichal Docking",
-   "content_text": "The modified Progress space tug called Progress-M-UM will dock the Prichal node module to the nadir port of the MLM Nauka module on the International Space Station. It will provide four ports to mount additional modules and one docking port for cargo and crew spacecrafts.",
+   "id": "~space-schedule~event~spacecraft_undocking~286",
+   "title": "Progress MS-17 Undocking",
+   "content_text": "The Progress MS-17 spacecraft will undock from the Nauka module of the International Space Station.\r\n\r\nIt will then de-orbit and burn up in the atmosphere.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress-m-um__image_20210519124545.jpg",
-   "date_published": "2021-11-26T00:00:00Z",
-   "date_modified": "2021-11-26T00:00:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg",
+   "date_published": "2021-11-25T11:18:00Z",
+   "date_modified": "2021-11-25T11:18:00Z",
    "tags": [
     "event",
-    "docking"
+    "spacecraft_undocking"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress-m-um__image_20210519124545.jpg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"
     }
    ],
    "_meta": {
@@ -57,14 +123,14 @@
     "videoCount": 0,
     "imageCount": 1,
     "youtubeCount": 1,
-    "subtitle": "Docking | Event | Space Schedule"
+    "subtitle": "Spacecraft Undocking | Event | Space Schedule"
    },
    "_id": {
-    "parent": "287",
-    "global": "~space-schedule~event~docking~287"
+    "parent": "286",
+    "global": "~space-schedule~event~spacecraft_undocking~286"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_undocking/original.json"
    }
   },
   {
@@ -105,39 +171,6 @@
    }
   },
   {
-   "id": "~space-schedule~event~spacecraft_undocking~286",
-   "title": "Progress MS-17 Undocking",
-   "content_text": "The Progress MS-17 spacecraft will undock from the Nauka module of the International Space Station.\r\n\r\nIt will then de-orbit and burn up in the atmosphere.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg",
-   "date_published": "2021-11-24T00:00:00Z",
-   "date_modified": "2021-11-24T00:00:00Z",
-   "tags": [
-    "event",
-    "spacecraft_undocking"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Spacecraft Undocking | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "286",
-    "global": "~space-schedule~event~spacecraft_undocking~286"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_undocking/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~event~spacecraft_relocation~285",
    "title": "Crew-3 Crew Dragon Relocation",
    "content_text": "NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.",
@@ -171,46 +204,13 @@
    }
   },
   {
-   "id": "~space-schedule~event~spacecraft_release~284",
-   "title": "NG-16 Cygnus Release & Reentry",
-   "content_text": "The Northrop Grumman NG-16 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg",
-   "date_published": "2021-11-11T00:00:00Z",
-   "date_modified": "2021-11-11T00:00:00Z",
-   "tags": [
-    "event",
-    "spacecraft_release"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Spacecraft Release | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "284",
-    "global": "~space-schedule~event~spacecraft_release~284"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_release/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~event~docking~274",
    "title": "SpaceX Crew-3 Crew Dragon Docking",
    "content_text": "The Crew-3 Crew Dragon will dock autonomously to the International Space Station, carrying NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer to the International Space Station as crew members of Expedition 66.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg",
-   "date_published": "2021-11-10T00:50:00Z",
-   "date_modified": "2021-11-10T00:50:00Z",
+   "date_published": "2021-11-12T00:10:00Z",
+   "date_modified": "2021-11-12T00:10:00Z",
    "tags": [
     "event",
     "docking"
@@ -237,13 +237,49 @@
    }
   },
   {
+   "id": "~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2",
+   "title": "Epsilon | RAISE-2 & Others",
+   "content_text": "8 payloads will fly on this mission : \"RApid Innovative payload demonstration SatellitE-2\" (RAISE-2), DRUMS (Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg",
+   "date_published": "2021-11-09T00:48:00Z",
+   "date_modified": "2021-11-09T00:48:00Z",
+   "tags": [
+    "launch",
+    "japan_aerospace_exploration_agency",
+    "government",
+    "epsilon",
+    "test_flight",
+    "m_v_pad"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Japan Aerospace Exploration Agency | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "bc321d24-1c15-47e1-a966-497f1ca9dff2",
+    "global": "~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/japan_aerospace_exploration_agency/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~spacecraft_landing~283",
    "title": "SpaceX Crew-2 \"Endeavour\" Crew Dragon Splashdown",
    "content_text": "The \"Endeavour\" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg",
-   "date_published": "2021-11-07T22:00:00Z",
-   "date_modified": "2021-11-07T22:00:00Z",
+   "date_published": "2021-11-08T12:14:00Z",
+   "date_modified": "2021-11-08T12:14:00Z",
    "tags": [
     "event",
     "spacecraft_landing"
@@ -303,39 +339,36 @@
    }
   },
   {
-   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~ec8490e6-e1a8-4381-9040-3ba4b42d4f37",
-   "title": "Long March 2D | Unknown Payload",
-   "content_text": "-",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/ec8490e6-e1a8-4381-9040-3ba4b42d4f37.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
-   "date_published": "2021-11-06T02:50:00Z",
-   "date_modified": "2021-11-06T02:50:00Z",
+   "id": "~space-schedule~event~change_of_command~428",
+   "title": "ISS Expedition 66 Change of Command Ceremony",
+   "content_text": "ESA astronaut Thomas Pesquet, first Expedition 66 commander, will hand over the International Space Station command to ROSCOSMOS cosmonaut Anton Shkaplerov.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20211105193714.jpeg",
+   "date_published": "2021-11-06T17:35:00Z",
+   "date_modified": "2021-11-06T17:35:00Z",
    "tags": [
-    "launch",
-    "china_aerospace_science_and_technology_corporation",
-    "government",
-    "long_march",
-    "long_march_2_d",
-    "launch_complex_3_lc_3_la_1"
+    "event",
+    "change_of_command"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20211105193714.jpeg"
     }
    ],
    "_meta": {
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
+    "youtubeCount": 1,
+    "subtitle": "Change of Command | Event | Space Schedule"
    },
    "_id": {
-    "parent": "ec8490e6-e1a8-4381-9040-3ba4b42d4f37",
-    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~ec8490e6-e1a8-4381-9040-3ba4b42d4f37"
+    "parent": "428",
+    "global": "~space-schedule~event~change_of_command~428"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/change_of_command/original.json"
    }
   },
   {
@@ -366,39 +399,6 @@
    "_id": {
     "parent": "427",
     "global": "~space-schedule~event~press_event~427"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~press_event~426",
-   "title": "DART Launch Preview Briefing",
-   "content_text": "NASA will hold a media briefing about the upcoming launch of the agency’s first planetary defense test mission, the Double Asteroid Redirection Test (DART). Briefing participants include NASA's planetary defense officer Lindley Johnson and representatives from DART project.\r\n\r\nDART is currently scheduled to launch at the end of November.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/dart_launch_pre_image_20211102211509.jpeg",
-   "date_published": "2021-11-04T17:00:00Z",
-   "date_modified": "2021-11-04T17:00:00Z",
-   "tags": [
-    "event",
-    "press_event"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/dart_launch_pre_image_20211102211509.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Press Event | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "426",
-    "global": "~space-schedule~event~press_event~426"
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"

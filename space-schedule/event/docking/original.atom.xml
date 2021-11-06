@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docking | Event | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.atom.xml</id>
-  <updated>2021-11-26T00:00:00Z</updated>
+  <updated>2021-11-26T15:25:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fdocking%2Foriginal.json"/>
@@ -10,8 +10,8 @@
   <entry>
     <id>287</id>
     <title>Progress-M-UM &amp; Prichal Docking</title>
-    <updated>2021-11-26T00:00:00Z</updated>
-    <published>2021-11-26T00:00:00Z</published>
+    <updated>2021-11-26T15:25:00Z</updated>
+    <published>2021-11-26T15:25:00Z</published>
     <content type="text">The modified Progress space tug called Progress-M-UM will dock the Prichal node module to the nadir port of the MLM Nauka module on the International Space Station. It will provide four ports to mount additional modules and one docking port for cargo and crew spacecrafts.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress-m-um__image_20210519124545.jpg"/>
@@ -21,8 +21,8 @@
   <entry>
     <id>274</id>
     <title>SpaceX Crew-3 Crew Dragon Docking</title>
-    <updated>2021-11-10T00:50:00Z</updated>
-    <published>2021-11-10T00:50:00Z</published>
+    <updated>2021-11-12T00:10:00Z</updated>
+    <published>2021-11-12T00:10:00Z</published>
     <content type="text">The Crew-3 Crew Dragon will dock autonomously to the International Space Station, carrying NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer to the International Space Station as crew members of Expedition 66.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>

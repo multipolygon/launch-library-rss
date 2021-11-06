@@ -29,18 +29,18 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
     <category term="space_launch_complex_4_e"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~ec8490e6-e1a8-4381-9040-3ba4b42d4f37</id>
-    <title>Long March 2D | Unknown Payload</title>
-    <updated>2021-11-06T02:50:00Z</updated>
-    <published>2021-11-06T02:50:00Z</published>
-    <content type="text">-</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/ec8490e6-e1a8-4381-9040-3ba4b42d4f37.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg"/>
+    <id>~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2</id>
+    <title>Epsilon | RAISE-2 &amp; Others</title>
+    <updated>2021-11-09T00:48:00Z</updated>
+    <published>2021-11-09T00:48:00Z</published>
+    <content type="text">8 payloads will fly on this mission : "RApid Innovative payload demonstration SatellitE-2" (RAISE-2), DRUMS (Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg"/>
     <category term="launch"/>
-    <category term="china_aerospace_science_and_technology_corporation"/>
+    <category term="japan_aerospace_exploration_agency"/>
     <category term="government"/>
-    <category term="long_march"/>
-    <category term="long_march_2_d"/>
-    <category term="launch_complex_3_lc_3_la_1"/>
+    <category term="epsilon"/>
+    <category term="test_flight"/>
+    <category term="m_v_pad"/>
   </entry>
 </feed>

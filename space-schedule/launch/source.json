@@ -4,18 +4,18 @@
     "previous": null,
     "results": [
         {
-            "id": "ec8490e6-e1a8-4381-9040-3ba4b42d4f37",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/ec8490e6-e1a8-4381-9040-3ba4b42d4f37.json",
+            "id": "bc321d24-1c15-47e1-a966-497f1ca9dff2",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json",
             "launch_library_id": null,
-            "slug": "long-march-2d-unknown-payload",
-            "name": "Long March 2D | Unknown Payload",
+            "slug": "epsilon-raise-2-others",
+            "name": "Epsilon | RAISE-2 & Others",
             "status": {
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-11-06T03:00:00Z",
-            "window_end": "2021-11-06T03:35:00Z",
-            "window_start": "2021-11-06T02:50:00Z",
+            "net": "2021-11-09T00:51:21Z",
+            "window_end": "2021-11-09T00:59:00Z",
+            "window_start": "2021-11-09T00:48:00Z",
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,
@@ -24,48 +24,60 @@
             "failreason": "",
             "hashtag": null,
             "launch_service_provider": {
-                "id": 88,
-                "url": "https://ll.thespacedevs.com/2.2.0/agencies/88.json",
-                "name": "China Aerospace Science and Technology Corporation",
+                "id": 37,
+                "url": "https://ll.thespacedevs.com/2.2.0/agencies/37.json",
+                "name": "Japan Aerospace Exploration Agency",
                 "type": "Government"
             },
             "rocket": {
-                "id": 2973,
+                "id": 3000,
                 "configuration": {
-                    "id": 17,
-                    "launch_library_id": 73,
-                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/17.json",
-                    "name": "Long March 2D",
-                    "family": "Long March",
-                    "full_name": "Long March 2D",
-                    "variant": "2D"
+                    "id": 112,
+                    "launch_library_id": 168,
+                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/112.json",
+                    "name": "Epsilon",
+                    "family": "Epsilon",
+                    "full_name": "Epsilon",
+                    "variant": ""
                 }
             },
-            "mission": null,
+            "mission": {
+                "id": 1426,
+                "launch_library_id": null,
+                "name": "RAISE-2 & Others",
+                "description": "8 payloads will fly on this mission : \"RApid Innovative payload demonstration SatellitE-2\" (RAISE-2), DRUMS (Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).",
+                "launch_designator": null,
+                "type": "Test Flight",
+                "orbit": {
+                    "id": 8,
+                    "name": "Low Earth Orbit",
+                    "abbrev": "LEO"
+                }
+            },
             "pad": {
-                "id": 66,
-                "url": "https://ll.thespacedevs.com/2.2.0/pad/66.json",
-                "agency_id": 17,
-                "name": "Launch Complex 3 ( LC-3 ) ( LA-1 )",
+                "id": 151,
+                "url": "https://ll.thespacedevs.com/2.2.0/pad/151.json",
+                "agency_id": null,
+                "name": "M-V Pad",
                 "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center",
-                "map_url": "https://www.google.com/maps/?q=28.246017,102.026556",
-                "latitude": "28.246017",
-                "longitude": "102.026556",
+                "wiki_url": "https://en.wikipedia.org/wiki/Uchinoura_Space_Center",
+                "map_url": "https://www.google.com/maps?q=31.251,131.079806",
+                "latitude": "31.251",
+                "longitude": "131.079806",
                 "location": {
-                    "id": 16,
-                    "url": "https://ll.thespacedevs.com/2.2.0/location/16.json",
-                    "name": "Xichang Satellite Launch Center, People's Republic of China",
-                    "country_code": "CHN",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg",
-                    "total_launch_count": 163,
+                    "id": 24,
+                    "url": "https://ll.thespacedevs.com/2.2.0/location/24.json",
+                    "name": "Uchinoura Space Center, Japan",
+                    "country_code": "JPN",
+                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_24_20200803142411.jpg",
+                    "total_launch_count": 41,
                     "total_landing_count": 0
                 },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_66_20200803143611.jpg",
-                "total_launch_count": 57
+                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_151_20200803143425.jpg",
+                "total_launch_count": 7
             },
             "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg",
             "infographic": null,
             "program": []
         },

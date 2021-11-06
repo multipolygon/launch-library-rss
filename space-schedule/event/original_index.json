@@ -3,13 +3,29 @@
  "description": "All feeds in Space Schedule > Event.",
  "items": [
   {
+   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_release/original.json",
+   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fspacecraft_release%2Foriginal.json",
+   "title": "Spacecraft Release | Event | Space Schedule",
+   "content_text": "1 items",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg",
+   "date_published": "2021-11-30T00:00:00Z",
+   "date_modified": "2021-11-30T00:00:00Z",
+   "_geo": {},
+   "_meta": {
+    "itemCount": 1,
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 0
+   }
+  },
+  {
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fdocking%2Foriginal.json",
    "title": "Docking | Event | Space Schedule",
    "content_text": "2 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress-m-um__image_20210519124545.jpg",
-   "date_published": "2021-11-26T00:00:00Z",
-   "date_modified": "2021-11-26T00:00:00Z",
+   "date_published": "2021-11-26T15:25:00Z",
+   "date_modified": "2021-11-26T15:25:00Z",
    "_geo": {},
    "_meta": {
     "itemCount": 2,
@@ -40,8 +56,8 @@
    "title": "Spacecraft Undocking | Event | Space Schedule",
    "content_text": "2 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg",
-   "date_published": "2021-11-24T00:00:00Z",
-   "date_modified": "2021-11-24T00:00:00Z",
+   "date_published": "2021-11-25T11:18:00Z",
+   "date_modified": "2021-11-25T11:18:00Z",
    "_geo": {},
    "_meta": {
     "itemCount": 2,
@@ -67,13 +83,13 @@
    }
   },
   {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_release/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fspacecraft_release%2Foriginal.json",
-   "title": "Spacecraft Release | Event | Space Schedule",
+   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_landing/original.json",
+   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fspacecraft_landing%2Foriginal.json",
+   "title": "Spacecraft Landing | Event | Space Schedule",
    "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg",
-   "date_published": "2021-11-11T00:00:00Z",
-   "date_modified": "2021-11-11T00:00:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg",
+   "date_published": "2021-11-08T12:14:00Z",
+   "date_modified": "2021-11-08T12:14:00Z",
    "_geo": {},
    "_meta": {
     "itemCount": 1,
@@ -83,13 +99,13 @@
    }
   },
   {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_landing/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fspacecraft_landing%2Foriginal.json",
-   "title": "Spacecraft Landing | Event | Space Schedule",
+   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/change_of_command/original.json",
+   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fchange_of_command%2Foriginal.json",
+   "title": "Change of Command | Event | Space Schedule",
    "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg",
-   "date_published": "2021-11-07T22:00:00Z",
-   "date_modified": "2021-11-07T22:00:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20211105193714.jpeg",
+   "date_published": "2021-11-06T17:35:00Z",
+   "date_modified": "2021-11-06T17:35:00Z",
    "_geo": {},
    "_meta": {
     "itemCount": 1,
@@ -102,13 +118,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json",
    "title": "Press Event | Event | Space Schedule",
-   "content_text": "2 items",
+   "content_text": "1 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20211105060501.jpeg",
    "date_published": "2021-11-05T16:30:00Z",
    "date_modified": "2021-11-05T16:30:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 2,
+    "itemCount": 1,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0
@@ -123,7 +139,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal_index.json",
  "_meta": {
-  "itemCount": 7,
+  "itemCount": 8,
   "pageNumber": 1,
   "pageCount": 1
  }

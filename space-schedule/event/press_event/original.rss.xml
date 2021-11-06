@@ -19,17 +19,5 @@
       <pubDate>Fri, 05 Nov 2021 16:30:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20211105060501.jpeg"/>
     </item>
-    <item>
-      <title>DART Launch Preview Briefing</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>NASA will hold a media briefing about the upcoming launch of the agency’s first planetary defense test mission, the Double Asteroid Redirection Test (DART). Briefing participants include NASA's planetary defense officer Lindley Johnson and representatives from DART project.&#xD;
-&#xD;
-DART is currently scheduled to launch at the end of November.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">426</guid>
-      <pubDate>Thu, 04 Nov 2021 17:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/dart_launch_pre_image_20211102211509.jpeg"/>
-    </item>
   </channel>
 </rss>

@@ -40,39 +40,39 @@
    }
   },
   {
-   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~ec8490e6-e1a8-4381-9040-3ba4b42d4f37",
-   "title": "Long March 2D | Unknown Payload",
-   "content_text": "-",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/ec8490e6-e1a8-4381-9040-3ba4b42d4f37.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
-   "date_published": "2021-11-06T02:50:00Z",
-   "date_modified": "2021-11-06T02:50:00Z",
+   "id": "~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2",
+   "title": "Epsilon | RAISE-2 & Others",
+   "content_text": "8 payloads will fly on this mission : \"RApid Innovative payload demonstration SatellitE-2\" (RAISE-2), DRUMS (Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg",
+   "date_published": "2021-11-09T00:48:00Z",
+   "date_modified": "2021-11-09T00:48:00Z",
    "tags": [
     "launch",
-    "china_aerospace_science_and_technology_corporation",
+    "japan_aerospace_exploration_agency",
     "government",
-    "long_march",
-    "long_march_2_d",
-    "launch_complex_3_lc_3_la_1"
+    "epsilon",
+    "test_flight",
+    "m_v_pad"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg"
     }
    ],
    "_meta": {
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
+    "subtitle": "Japan Aerospace Exploration Agency | Launch | Space Schedule"
    },
    "_id": {
-    "parent": "ec8490e6-e1a8-4381-9040-3ba4b42d4f37",
-    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~ec8490e6-e1a8-4381-9040-3ba4b42d4f37"
+    "parent": "bc321d24-1c15-47e1-a966-497f1ca9dff2",
+    "global": "~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/japan_aerospace_exploration_agency/original.json"
    }
   }
  ],

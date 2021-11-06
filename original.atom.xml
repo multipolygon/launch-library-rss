@@ -2,12 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>All Items</title>
   <id>https://launch-library-rss.multipolygon.net/original.atom.xml</id>
-  <updated>2021-11-26T00:00:00Z</updated>
+  <updated>2021-11-30T00:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items.</subtitle>
+  <entry>
+    <id>~space-schedule~event~spacecraft_release~284</id>
+    <title>NG-16 Cygnus Release &amp; Reentry</title>
+    <updated>2021-11-30T00:00:00Z</updated>
+    <published>2021-11-30T00:00:00Z</published>
+    <content type="text">The Northrop Grumman NG-16 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"/>
+    <category term="event"/>
+    <category term="spacecraft_release"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~docking~287</id>
+    <title>Progress-M-UM &amp; Prichal Docking</title>
+    <updated>2021-11-26T15:25:00Z</updated>
+    <published>2021-11-26T15:25:00Z</published>
+    <content type="text">The modified Progress space tug called Progress-M-UM will dock the Prichal node module to the nadir port of the MLM Nauka module on the International Space Station. It will provide four ports to mount additional modules and one docking port for cargo and crew spacecrafts.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress-m-um__image_20210519124545.jpg"/>
+    <category term="event"/>
+    <category term="docking"/>
+  </entry>
   <entry>
     <id>~space-schedule~event~flyby~381</id>
     <title>Solar Orbiter Earth Flyby</title>
@@ -20,15 +42,17 @@
     <category term="flyby"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~docking~287</id>
-    <title>Progress-M-UM &amp; Prichal Docking</title>
-    <updated>2021-11-26T00:00:00Z</updated>
-    <published>2021-11-26T00:00:00Z</published>
-    <content type="text">The modified Progress space tug called Progress-M-UM will dock the Prichal node module to the nadir port of the MLM Nauka module on the International Space Station. It will provide four ports to mount additional modules and one docking port for cargo and crew spacecrafts.</content>
+    <id>~space-schedule~event~spacecraft_undocking~286</id>
+    <title>Progress MS-17 Undocking</title>
+    <updated>2021-11-25T11:18:00Z</updated>
+    <published>2021-11-25T11:18:00Z</published>
+    <content type="text">The Progress MS-17 spacecraft will undock from the Nauka module of the International Space Station.&#xD;
+&#xD;
+It will then de-orbit and burn up in the atmosphere.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress-m-um__image_20210519124545.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"/>
     <category term="event"/>
-    <category term="docking"/>
+    <category term="spacecraft_undocking"/>
   </entry>
   <entry>
     <id>~space-schedule~launch~space_x~c4b2f90e-3385-4cbe-a89f-fc5f57da1bfb</id>
@@ -51,19 +75,6 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
     <category term="space_launch_complex_4_e"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~spacecraft_undocking~286</id>
-    <title>Progress MS-17 Undocking</title>
-    <updated>2021-11-24T00:00:00Z</updated>
-    <published>2021-11-24T00:00:00Z</published>
-    <content type="text">The Progress MS-17 spacecraft will undock from the Nauka module of the International Space Station.&#xD;
-&#xD;
-It will then de-orbit and burn up in the atmosphere.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"/>
-    <category term="event"/>
-    <category term="spacecraft_undocking"/>
-  </entry>
-  <entry>
     <id>~space-schedule~event~spacecraft_relocation~285</id>
     <title>Crew-3 Crew Dragon Relocation</title>
     <updated>2021-11-15T00:00:00Z</updated>
@@ -75,21 +86,10 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <category term="spacecraft_relocation"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~spacecraft_release~284</id>
-    <title>NG-16 Cygnus Release &amp; Reentry</title>
-    <updated>2021-11-11T00:00:00Z</updated>
-    <published>2021-11-11T00:00:00Z</published>
-    <content type="text">The Northrop Grumman NG-16 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"/>
-    <category term="event"/>
-    <category term="spacecraft_release"/>
-  </entry>
-  <entry>
     <id>~space-schedule~event~docking~274</id>
     <title>SpaceX Crew-3 Crew Dragon Docking</title>
-    <updated>2021-11-10T00:50:00Z</updated>
-    <published>2021-11-10T00:50:00Z</published>
+    <updated>2021-11-12T00:10:00Z</updated>
+    <published>2021-11-12T00:10:00Z</published>
     <content type="text">The Crew-3 Crew Dragon will dock autonomously to the International Space Station, carrying NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer to the International Space Station as crew members of Expedition 66.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>
@@ -97,10 +97,25 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <category term="docking"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2</id>
+    <title>Epsilon | RAISE-2 &amp; Others</title>
+    <updated>2021-11-09T00:48:00Z</updated>
+    <published>2021-11-09T00:48:00Z</published>
+    <content type="text">8 payloads will fly on this mission : "RApid Innovative payload demonstration SatellitE-2" (RAISE-2), DRUMS (Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg"/>
+    <category term="launch"/>
+    <category term="japan_aerospace_exploration_agency"/>
+    <category term="government"/>
+    <category term="epsilon"/>
+    <category term="test_flight"/>
+    <category term="m_v_pad"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~spacecraft_landing~283</id>
     <title>SpaceX Crew-2 "Endeavour" Crew Dragon Splashdown</title>
-    <updated>2021-11-07T22:00:00Z</updated>
-    <published>2021-11-07T22:00:00Z</published>
+    <updated>2021-11-08T12:14:00Z</updated>
+    <published>2021-11-08T12:14:00Z</published>
     <content type="text">The "Endeavour" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg"/>
@@ -119,19 +134,15 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <category term="spacecraft_undocking"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~ec8490e6-e1a8-4381-9040-3ba4b42d4f37</id>
-    <title>Long March 2D | Unknown Payload</title>
-    <updated>2021-11-06T02:50:00Z</updated>
-    <published>2021-11-06T02:50:00Z</published>
-    <content type="text">-</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/ec8490e6-e1a8-4381-9040-3ba4b42d4f37.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_science_and_technology_corporation"/>
-    <category term="government"/>
-    <category term="long_march"/>
-    <category term="long_march_2_d"/>
-    <category term="launch_complex_3_lc_3_la_1"/>
+    <id>~space-schedule~event~change_of_command~428</id>
+    <title>ISS Expedition 66 Change of Command Ceremony</title>
+    <updated>2021-11-06T17:35:00Z</updated>
+    <published>2021-11-06T17:35:00Z</published>
+    <content type="text">ESA astronaut Thomas Pesquet, first Expedition 66 commander, will hand over the International Space Station command to ROSCOSMOS cosmonaut Anton Shkaplerov.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20211105193714.jpeg"/>
+    <category term="event"/>
+    <category term="change_of_command"/>
   </entry>
   <entry>
     <id>~space-schedule~event~press_event~427</id>
@@ -141,19 +152,6 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <content type="text">NASA’s SpaceX Crew-2 astronauts will answer media questions about their time aboard the International Space Station as they prepare to return to Earth later this month.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20211105060501.jpeg"/>
-    <category term="event"/>
-    <category term="press_event"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~press_event~426</id>
-    <title>DART Launch Preview Briefing</title>
-    <updated>2021-11-04T17:00:00Z</updated>
-    <published>2021-11-04T17:00:00Z</published>
-    <content type="text">NASA will hold a media briefing about the upcoming launch of the agency’s first planetary defense test mission, the Double Asteroid Redirection Test (DART). Briefing participants include NASA's planetary defense officer Lindley Johnson and representatives from DART project.&#xD;
-&#xD;
-DART is currently scheduled to launch at the end of November.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/dart_launch_pre_image_20211102211509.jpeg"/>
     <category term="event"/>
     <category term="press_event"/>
   </entry>
