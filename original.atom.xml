@@ -2,12 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>All Items</title>
   <id>https://launch-library-rss.multipolygon.net/original.atom.xml</id>
-  <updated>2021-11-30T00:00:00Z</updated>
+  <updated>2021-11-30T12:05:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items.</subtitle>
+  <entry>
+    <id>~space-schedule~event~eva~337</id>
+    <title>US EVA-78</title>
+    <updated>2021-11-30T12:05:00Z</updated>
+    <published>2021-11-30T12:05:00Z</published>
+    <content type="text">NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"/>
+    <category term="event"/>
+    <category term="eva"/>
+  </entry>
   <entry>
     <id>~space-schedule~event~spacecraft_release~284</id>
     <title>NG-16 Cygnus Release &amp; Reentry</title>
@@ -117,7 +128,7 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
     <updated>2021-11-08T12:14:00Z</updated>
     <published>2021-11-08T12:14:00Z</published>
     <content type="text">The "Endeavour" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=2iMhv1gyAq0"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg"/>
     <category term="event"/>
     <category term="spacecraft_landing"/>
@@ -125,10 +136,10 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
   <entry>
     <id>~space-schedule~event~spacecraft_undocking~282</id>
     <title>SpaceX Crew-2 "Endeavour" Crew Dragon Undocking</title>
-    <updated>2021-11-07T18:05:00Z</updated>
-    <published>2021-11-07T18:05:00Z</published>
+    <updated>2021-11-07T17:05:00Z</updated>
+    <published>2021-11-07T17:05:00Z</published>
     <content type="text">The "Endeavour" Crew Dragon will undock from the International Space Station, carrying NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet. It will then reenter the Earth's atmosphere and splashdown in the Atlantic Ocean.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=2iMhv1gyAq0"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg"/>
     <category term="event"/>
     <category term="spacecraft_undocking"/>
@@ -143,16 +154,5 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20211105193714.jpeg"/>
     <category term="event"/>
     <category term="change_of_command"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~press_event~427</id>
-    <title>SpaceX Crew-2 Crew News Conference</title>
-    <updated>2021-11-05T16:30:00Z</updated>
-    <published>2021-11-05T16:30:00Z</published>
-    <content type="text">NASA’s SpaceX Crew-2 astronauts will answer media questions about their time aboard the International Space Station as they prepare to return to Earth later this month.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20211105060501.jpeg"/>
-    <category term="event"/>
-    <category term="press_event"/>
   </entry>
 </feed>
