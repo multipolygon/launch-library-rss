@@ -90,8 +90,8 @@ It will then de-orbit and burn up in the atmosphere.</content>
   <entry>
     <id>~space-schedule~event~spacecraft_landing~283</id>
     <title>SpaceX Crew-2 "Endeavour" Crew Dragon Splashdown</title>
-    <updated>2021-11-08T12:14:00Z</updated>
-    <published>2021-11-08T12:14:00Z</published>
+    <updated>2021-11-09T03:33:00Z</updated>
+    <published>2021-11-09T03:33:00Z</published>
     <content type="text">The "Endeavour" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=2iMhv1gyAq0"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg"/>
@@ -101,8 +101,8 @@ It will then de-orbit and burn up in the atmosphere.</content>
   <entry>
     <id>~space-schedule~event~spacecraft_undocking~282</id>
     <title>SpaceX Crew-2 "Endeavour" Crew Dragon Undocking</title>
-    <updated>2021-11-07T17:05:00Z</updated>
-    <published>2021-11-07T17:05:00Z</published>
+    <updated>2021-11-08T19:05:00Z</updated>
+    <published>2021-11-08T19:05:00Z</published>
     <content type="text">The "Endeavour" Crew Dragon will undock from the International Space Station, carrying NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet. It will then reenter the Earth's atmosphere and splashdown in the Atlantic Ocean.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=2iMhv1gyAq0"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg"/>
@@ -110,14 +110,14 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <category term="spacecraft_undocking"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~change_of_command~428</id>
-    <title>ISS Expedition 66 Change of Command Ceremony</title>
-    <updated>2021-11-06T17:35:00Z</updated>
-    <published>2021-11-06T17:35:00Z</published>
-    <content type="text">ESA astronaut Thomas Pesquet, first Expedition 66 commander, will hand over the International Space Station command to ROSCOSMOS cosmonaut Anton Shkaplerov.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20211105193714.jpeg"/>
+    <id>~space-schedule~event~eva~430</id>
+    <title>Tiangong EVA-3</title>
+    <updated>2021-11-07T11:30:00Z</updated>
+    <published>2021-11-07T11:30:00Z</published>
+    <content type="text">Zhai Zhigang and Wang Yaping headed outside Tianhe for a 6 hours long EVA.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=eqbSfiBoJu8"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png"/>
     <category term="event"/>
-    <category term="change_of_command"/>
+    <category term="eva"/>
   </entry>
 </feed>

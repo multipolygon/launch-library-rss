@@ -27,6 +27,31 @@
     "imageCount": 1,
     "youtubeCount": 1
    }
+  },
+  {
+   "id": "430",
+   "title": "Tiangong EVA-3",
+   "content_text": "Zhai Zhigang and Wang Yaping headed outside Tianhe for a 6 hours long EVA.",
+   "url": "https://www.youtube.com/watch?v=eqbSfiBoJu8",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png",
+   "date_published": "2021-11-07T11:30:00Z",
+   "date_modified": "2021-11-07T11:30:00Z",
+   "tags": [
+    "event",
+    "eva"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/png",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1
+   }
   }
  ],
  "_feed_url": {
@@ -35,7 +60,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Feva%2Foriginal.json",
  "_meta": {
-  "itemCount": 1,
+  "itemCount": 2,
   "pageNumber": 1,
   "pageCount": 1
  }

@@ -102,6 +102,16 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>
     </item>
     <item>
+      <title>SpaceX Crew-2 "Endeavour" Crew Dragon Splashdown</title>
+      <link>https://www.youtube.com/watch?v=2iMhv1gyAq0</link>
+      <description>The "Endeavour" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.</description>
+      <category>event</category>
+      <category>spacecraft_landing</category>
+      <guid isPermaLink="false">~space-schedule~event~spacecraft_landing~283</guid>
+      <pubDate>Tue, 09 Nov 2021 03:33:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg"/>
+    </item>
+    <item>
       <title>Epsilon | RAISE-2 &amp; Others</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json</link>
       <description>8 payloads will fly on this mission : "RApid Innovative payload demonstration SatellitE-2" (RAISE-2), DRUMS (Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).</description>
@@ -116,34 +126,24 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg"/>
     </item>
     <item>
-      <title>SpaceX Crew-2 "Endeavour" Crew Dragon Splashdown</title>
-      <link>https://www.youtube.com/watch?v=2iMhv1gyAq0</link>
-      <description>The "Endeavour" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.</description>
-      <category>event</category>
-      <category>spacecraft_landing</category>
-      <guid isPermaLink="false">~space-schedule~event~spacecraft_landing~283</guid>
-      <pubDate>Mon, 08 Nov 2021 12:14:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg"/>
-    </item>
-    <item>
       <title>SpaceX Crew-2 "Endeavour" Crew Dragon Undocking</title>
       <link>https://www.youtube.com/watch?v=2iMhv1gyAq0</link>
       <description>The "Endeavour" Crew Dragon will undock from the International Space Station, carrying NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet. It will then reenter the Earth's atmosphere and splashdown in the Atlantic Ocean.</description>
       <category>event</category>
       <category>spacecraft_undocking</category>
       <guid isPermaLink="false">~space-schedule~event~spacecraft_undocking~282</guid>
-      <pubDate>Sun, 07 Nov 2021 17:05:00 GMT</pubDate>
+      <pubDate>Mon, 08 Nov 2021 19:05:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg"/>
     </item>
     <item>
-      <title>ISS Expedition 66 Change of Command Ceremony</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>ESA astronaut Thomas Pesquet, first Expedition 66 commander, will hand over the International Space Station command to ROSCOSMOS cosmonaut Anton Shkaplerov.</description>
+      <title>Tiangong EVA-3</title>
+      <link>https://www.youtube.com/watch?v=eqbSfiBoJu8</link>
+      <description>Zhai Zhigang and Wang Yaping headed outside Tianhe for a 6 hours long EVA.</description>
       <category>event</category>
-      <category>change_of_command</category>
-      <guid isPermaLink="false">~space-schedule~event~change_of_command~428</guid>
-      <pubDate>Sat, 06 Nov 2021 17:35:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20211105193714.jpeg"/>
+      <category>eva</category>
+      <guid isPermaLink="false">~space-schedule~event~eva~430</guid>
+      <pubDate>Sun, 07 Nov 2021 11:30:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png"/>
     </item>
   </channel>
 </rss>

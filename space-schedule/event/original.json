@@ -238,8 +238,8 @@
    "content_text": "The \"Endeavour\" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.",
    "url": "https://www.youtube.com/watch?v=2iMhv1gyAq0",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg",
-   "date_published": "2021-11-08T12:14:00Z",
-   "date_modified": "2021-11-08T12:14:00Z",
+   "date_published": "2021-11-09T03:33:00Z",
+   "date_modified": "2021-11-09T03:33:00Z",
    "tags": [
     "event",
     "spacecraft_landing"
@@ -271,8 +271,8 @@
    "content_text": "The \"Endeavour\" Crew Dragon will undock from the International Space Station, carrying NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet. It will then reenter the Earth's atmosphere and splashdown in the Atlantic Ocean.",
    "url": "https://www.youtube.com/watch?v=2iMhv1gyAq0",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg",
-   "date_published": "2021-11-07T17:05:00Z",
-   "date_modified": "2021-11-07T17:05:00Z",
+   "date_published": "2021-11-08T19:05:00Z",
+   "date_modified": "2021-11-08T19:05:00Z",
    "tags": [
     "event",
     "spacecraft_undocking"
@@ -299,21 +299,21 @@
    }
   },
   {
-   "id": "~space-schedule~event~change_of_command~428",
-   "title": "ISS Expedition 66 Change of Command Ceremony",
-   "content_text": "ESA astronaut Thomas Pesquet, first Expedition 66 commander, will hand over the International Space Station command to ROSCOSMOS cosmonaut Anton Shkaplerov.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20211105193714.jpeg",
-   "date_published": "2021-11-06T17:35:00Z",
-   "date_modified": "2021-11-06T17:35:00Z",
+   "id": "~space-schedule~event~eva~430",
+   "title": "Tiangong EVA-3",
+   "content_text": "Zhai Zhigang and Wang Yaping headed outside Tianhe for a 6 hours long EVA.",
+   "url": "https://www.youtube.com/watch?v=eqbSfiBoJu8",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png",
+   "date_published": "2021-11-07T11:30:00Z",
+   "date_modified": "2021-11-07T11:30:00Z",
    "tags": [
     "event",
-    "change_of_command"
+    "eva"
    ],
    "attachments": [
     {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/iss_expedition__image_20211105193714.jpeg"
+     "mime_type": "image/png",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png"
     }
    ],
    "_meta": {
@@ -321,14 +321,14 @@
     "videoCount": 0,
     "imageCount": 1,
     "youtubeCount": 1,
-    "subtitle": "Change of Command | Event | Space Schedule"
+    "subtitle": "EVA | Event | Space Schedule"
    },
    "_id": {
-    "parent": "428",
-    "global": "~space-schedule~event~change_of_command~428"
+    "parent": "430",
+    "global": "~space-schedule~event~eva~430"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/change_of_command/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
    }
   }
  ],
