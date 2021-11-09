@@ -19,15 +19,5 @@
       <pubDate>Tue, 30 Nov 2021 12:05:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"/>
     </item>
-    <item>
-      <title>Tiangong EVA-3</title>
-      <link>https://www.youtube.com/watch?v=eqbSfiBoJu8</link>
-      <description>Zhai Zhigang and Wang Yaping headed outside Tianhe for a 6 hours long EVA.</description>
-      <category>event</category>
-      <category>eva</category>
-      <guid isPermaLink="false">430</guid>
-      <pubDate>Sun, 07 Nov 2021 11:30:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png"/>
-    </item>
   </channel>
 </rss>

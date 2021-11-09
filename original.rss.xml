@@ -7,9 +7,19 @@
     <description>All items.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Tue, 30 Nov 2021 12:05:00 GMT</pubDate>
+    <pubDate>Wed, 08 Dec 2021 00:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Soyuz MS-20 Docking</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The Soyuz MS-20 spacecraft will dock to the International Space Station carrying ROSCOSMOS cosmonaut Alexander Misurkin as well as Japanese entrepreneur Yusaku Maezawa and his cameraman Yozo Hirano.</description>
+      <category>event</category>
+      <category>docking</category>
+      <guid isPermaLink="false">~space-schedule~event~docking~290</guid>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg"/>
+    </item>
     <item>
       <title>US EVA-78</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
@@ -102,28 +112,45 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>
     </item>
     <item>
+      <title>Electron | Love At First Insight</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/3985e602-f22f-441f-a0b1-a450ea459da9.json</link>
+      <description>Payload consists of two BlackSky Gen-2 high-resolution multi-spectral Earth observation satellites.</description>
+      <category>launch</category>
+      <category>rocket_lab_ltd</category>
+      <category>commercial</category>
+      <category>electron</category>
+      <category>earth_science</category>
+      <category>rocket_lab_launch_complex_1_a</category>
+      <guid isPermaLink="false">~space-schedule~launch~rocket_lab_ltd~3985e602-f22f-441f-a0b1-a450ea459da9</guid>
+      <pubDate>Thu, 11 Nov 2021 04:25:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"/>
+    </item>
+    <item>
+      <title>Falcon 9 Block 5 | SpX USCV-3 (NASA Crew Flight 3)</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/0d779392-1a36-4c1e-b0b8-ec11e3031ee6.json</link>
+      <description>Third crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon_9</category>
+      <category>human_exploration</category>
+      <category>launch_complex_39_a</category>
+      <category>commercial_crew_program</category>
+      <category>international_space_station</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~0d779392-1a36-4c1e-b0b8-ec11e3031ee6</guid>
+      <pubDate>Thu, 11 Nov 2021 02:03:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211101043747.jpeg"/>
+    </item>
+    <item>
       <title>SpaceX Crew-2 "Endeavour" Crew Dragon Splashdown</title>
-      <link>https://www.youtube.com/watch?v=2iMhv1gyAq0</link>
+      <link>https://www.youtube.com/watch?v=KmMPsrUC-LY</link>
       <description>The "Endeavour" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.</description>
       <category>event</category>
       <category>spacecraft_landing</category>
       <guid isPermaLink="false">~space-schedule~event~spacecraft_landing~283</guid>
       <pubDate>Tue, 09 Nov 2021 03:33:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg"/>
-    </item>
-    <item>
-      <title>Epsilon | RAISE-2 &amp; Others</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json</link>
-      <description>8 payloads will fly on this mission : "RApid Innovative payload demonstration SatellitE-2" (RAISE-2), DRUMS (Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).</description>
-      <category>launch</category>
-      <category>japan_aerospace_exploration_agency</category>
-      <category>government</category>
-      <category>epsilon</category>
-      <category>test_flight</category>
-      <category>m_v_pad</category>
-      <guid isPermaLink="false">~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2</guid>
-      <pubDate>Tue, 09 Nov 2021 00:48:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg"/>
     </item>
     <item>
       <title>SpaceX Crew-2 "Endeavour" Crew Dragon Undocking</title>
@@ -134,16 +161,6 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
       <guid isPermaLink="false">~space-schedule~event~spacecraft_undocking~282</guid>
       <pubDate>Mon, 08 Nov 2021 19:05:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg"/>
-    </item>
-    <item>
-      <title>Tiangong EVA-3</title>
-      <link>https://www.youtube.com/watch?v=eqbSfiBoJu8</link>
-      <description>Zhai Zhigang and Wang Yaping headed outside Tianhe for a 6 hours long EVA.</description>
-      <category>event</category>
-      <category>eva</category>
-      <guid isPermaLink="false">~space-schedule~event~eva~430</guid>
-      <pubDate>Sun, 07 Nov 2021 11:30:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png"/>
     </item>
   </channel>
 </rss>

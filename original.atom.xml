@@ -2,12 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>All Items</title>
   <id>https://launch-library-rss.multipolygon.net/original.atom.xml</id>
-  <updated>2021-11-30T12:05:00Z</updated>
+  <updated>2021-12-08T00:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items.</subtitle>
+  <entry>
+    <id>~space-schedule~event~docking~290</id>
+    <title>Soyuz MS-20 Docking</title>
+    <updated>2021-12-08T00:00:00Z</updated>
+    <published>2021-12-08T00:00:00Z</published>
+    <content type="text">The Soyuz MS-20 spacecraft will dock to the International Space Station carrying ROSCOSMOS cosmonaut Alexander Misurkin as well as Japanese entrepreneur Yusaku Maezawa and his cameraman Yozo Hirano.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg"/>
+    <category term="event"/>
+    <category term="docking"/>
+  </entry>
   <entry>
     <id>~space-schedule~event~eva~337</id>
     <title>US EVA-78</title>
@@ -108,30 +119,48 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
     <category term="docking"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~rocket_lab_ltd~3985e602-f22f-441f-a0b1-a450ea459da9</id>
+    <title>Electron | Love At First Insight</title>
+    <updated>2021-11-11T04:25:00Z</updated>
+    <published>2021-11-11T04:25:00Z</published>
+    <content type="text">Payload consists of two BlackSky Gen-2 high-resolution multi-spectral Earth observation satellites.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/3985e602-f22f-441f-a0b1-a450ea459da9.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"/>
+    <category term="launch"/>
+    <category term="rocket_lab_ltd"/>
+    <category term="commercial"/>
+    <category term="electron"/>
+    <category term="earth_science"/>
+    <category term="rocket_lab_launch_complex_1_a"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~space_x~0d779392-1a36-4c1e-b0b8-ec11e3031ee6</id>
+    <title>Falcon 9 Block 5 | SpX USCV-3 (NASA Crew Flight 3)</title>
+    <updated>2021-11-11T02:03:00Z</updated>
+    <published>2021-11-11T02:03:00Z</published>
+    <content type="text">Third crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/0d779392-1a36-4c1e-b0b8-ec11e3031ee6.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211101043747.jpeg"/>
+    <category term="launch"/>
+    <category term="space_x"/>
+    <category term="commercial"/>
+    <category term="falcon"/>
+    <category term="falcon_9"/>
+    <category term="human_exploration"/>
+    <category term="launch_complex_39_a"/>
+    <category term="commercial_crew_program"/>
+    <category term="international_space_station"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~spacecraft_landing~283</id>
     <title>SpaceX Crew-2 "Endeavour" Crew Dragon Splashdown</title>
     <updated>2021-11-09T03:33:00Z</updated>
     <published>2021-11-09T03:33:00Z</published>
     <content type="text">The "Endeavour" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=2iMhv1gyAq0"/>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=KmMPsrUC-LY"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg"/>
     <category term="event"/>
     <category term="spacecraft_landing"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2</id>
-    <title>Epsilon | RAISE-2 &amp; Others</title>
-    <updated>2021-11-09T00:48:00Z</updated>
-    <published>2021-11-09T00:48:00Z</published>
-    <content type="text">8 payloads will fly on this mission : "RApid Innovative payload demonstration SatellitE-2" (RAISE-2), DRUMS (Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg"/>
-    <category term="launch"/>
-    <category term="japan_aerospace_exploration_agency"/>
-    <category term="government"/>
-    <category term="epsilon"/>
-    <category term="test_flight"/>
-    <category term="m_v_pad"/>
   </entry>
   <entry>
     <id>~space-schedule~event~spacecraft_undocking~282</id>
@@ -143,16 +172,5 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg"/>
     <category term="event"/>
     <category term="spacecraft_undocking"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~eva~430</id>
-    <title>Tiangong EVA-3</title>
-    <updated>2021-11-07T11:30:00Z</updated>
-    <published>2021-11-07T11:30:00Z</published>
-    <content type="text">Zhai Zhigang and Wang Yaping headed outside Tianhe for a 6 hours long EVA.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=eqbSfiBoJu8"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png"/>
-    <category term="event"/>
-    <category term="eva"/>
   </entry>
 </feed>

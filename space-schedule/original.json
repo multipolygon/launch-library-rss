@@ -3,6 +3,39 @@
  "description": "All items in subcategories for category.",
  "items": [
   {
+   "id": "~space-schedule~event~docking~290",
+   "title": "Soyuz MS-20 Docking",
+   "content_text": "The Soyuz MS-20 spacecraft will dock to the International Space Station carrying ROSCOSMOS cosmonaut Alexander Misurkin as well as Japanese entrepreneur Yusaku Maezawa and his cameraman Yozo Hirano.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg",
+   "date_published": "2021-12-08T00:00:00Z",
+   "date_modified": "2021-12-08T00:00:00Z",
+   "tags": [
+    "event",
+    "docking"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Docking | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "290",
+    "global": "~space-schedule~event~docking~290"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~eva~337",
    "title": "US EVA-78",
    "content_text": "NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.",
@@ -270,10 +303,85 @@
    }
   },
   {
+   "id": "~space-schedule~launch~rocket_lab_ltd~3985e602-f22f-441f-a0b1-a450ea459da9",
+   "title": "Electron | Love At First Insight",
+   "content_text": "Payload consists of two BlackSky Gen-2 high-resolution multi-spectral Earth observation satellites.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/3985e602-f22f-441f-a0b1-a450ea459da9.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+   "date_published": "2021-11-11T04:25:00Z",
+   "date_modified": "2021-11-11T04:25:00Z",
+   "tags": [
+    "launch",
+    "rocket_lab_ltd",
+    "commercial",
+    "electron",
+    "earth_science",
+    "rocket_lab_launch_complex_1_a"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Rocket Lab Ltd | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "3985e602-f22f-441f-a0b1-a450ea459da9",
+    "global": "~space-schedule~launch~rocket_lab_ltd~3985e602-f22f-441f-a0b1-a450ea459da9"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/rocket_lab_ltd/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~launch~space_x~0d779392-1a36-4c1e-b0b8-ec11e3031ee6",
+   "title": "Falcon 9 Block 5 | SpX USCV-3 (NASA Crew Flight 3)",
+   "content_text": "Third crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/0d779392-1a36-4c1e-b0b8-ec11e3031ee6.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211101043747.jpeg",
+   "date_published": "2021-11-11T02:03:00Z",
+   "date_modified": "2021-11-11T02:03:00Z",
+   "tags": [
+    "launch",
+    "space_x",
+    "commercial",
+    "falcon",
+    "falcon_9",
+    "human_exploration",
+    "launch_complex_39_a",
+    "commercial_crew_program",
+    "international_space_station"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211101043747.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "SpaceX | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "0d779392-1a36-4c1e-b0b8-ec11e3031ee6",
+    "global": "~space-schedule~launch~space_x~0d779392-1a36-4c1e-b0b8-ec11e3031ee6"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~spacecraft_landing~283",
    "title": "SpaceX Crew-2 \"Endeavour\" Crew Dragon Splashdown",
    "content_text": "The \"Endeavour\" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.",
-   "url": "https://www.youtube.com/watch?v=2iMhv1gyAq0",
+   "url": "https://www.youtube.com/watch?v=KmMPsrUC-LY",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg",
    "date_published": "2021-11-09T03:33:00Z",
    "date_modified": "2021-11-09T03:33:00Z",
@@ -300,42 +408,6 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_landing/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2",
-   "title": "Epsilon | RAISE-2 & Others",
-   "content_text": "8 payloads will fly on this mission : \"RApid Innovative payload demonstration SatellitE-2\" (RAISE-2), DRUMS (Debris Removal Unprecedented Micro-Satellite), Hibari, Z-Sat, and four CubeSat (ASTERISC, ARICA, NANODRAGON, KOSEN-1).",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg",
-   "date_published": "2021-11-09T00:48:00Z",
-   "date_modified": "2021-11-09T00:48:00Z",
-   "tags": [
-    "launch",
-    "japan_aerospace_exploration_agency",
-    "government",
-    "epsilon",
-    "test_flight",
-    "m_v_pad"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Japan Aerospace Exploration Agency | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "bc321d24-1c15-47e1-a966-497f1ca9dff2",
-    "global": "~space-schedule~launch~japan_aerospace_exploration_agency~bc321d24-1c15-47e1-a966-497f1ca9dff2"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/japan_aerospace_exploration_agency/original.json"
    }
   },
   {
@@ -370,39 +442,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_undocking/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~eva~430",
-   "title": "Tiangong EVA-3",
-   "content_text": "Zhai Zhigang and Wang Yaping headed outside Tianhe for a 6 hours long EVA.",
-   "url": "https://www.youtube.com/watch?v=eqbSfiBoJu8",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png",
-   "date_published": "2021-11-07T11:30:00Z",
-   "date_modified": "2021-11-07T11:30:00Z",
-   "tags": [
-    "event",
-    "eva"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "EVA | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "430",
-    "global": "~space-schedule~event~eva~430"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -413,7 +452,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 12,
+  "itemCount": 13,
   "pageNumber": 1,
   "pageCount": 1
  }

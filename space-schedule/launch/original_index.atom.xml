@@ -13,15 +13,15 @@
     <title>SpaceX | Launch | Space Schedule</title>
     <updated>2021-11-24T06:20:00Z</updated>
     <published>2021-11-24T06:20:00Z</published>
-    <content type="text">1 items</content>
+    <content type="text">2 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json"/>
   </entry>
   <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/japan_aerospace_exploration_agency/original.json</id>
-    <title>Japan Aerospace Exploration Agency | Launch | Space Schedule</title>
-    <updated>2021-11-09T00:48:00Z</updated>
-    <published>2021-11-09T00:48:00Z</published>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/rocket_lab_ltd/original.json</id>
+    <title>Rocket Lab Ltd | Launch | Space Schedule</title>
+    <updated>2021-11-11T04:25:00Z</updated>
+    <published>2021-11-11T04:25:00Z</published>
     <content type="text">1 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fjapan_aerospace_exploration_agency%2Foriginal.json"/>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Frocket_lab_ltd%2Foriginal.json"/>
   </entry>
 </feed>

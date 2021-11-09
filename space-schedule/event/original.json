@@ -3,6 +3,39 @@
  "description": "All items in Space Schedule > Event.",
  "items": [
   {
+   "id": "~space-schedule~event~docking~290",
+   "title": "Soyuz MS-20 Docking",
+   "content_text": "The Soyuz MS-20 spacecraft will dock to the International Space Station carrying ROSCOSMOS cosmonaut Alexander Misurkin as well as Japanese entrepreneur Yusaku Maezawa and his cameraman Yozo Hirano.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg",
+   "date_published": "2021-12-08T00:00:00Z",
+   "date_modified": "2021-12-08T00:00:00Z",
+   "tags": [
+    "event",
+    "docking"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Docking | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "290",
+    "global": "~space-schedule~event~docking~290"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~eva~337",
    "title": "US EVA-78",
    "content_text": "NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.",
@@ -236,7 +269,7 @@
    "id": "~space-schedule~event~spacecraft_landing~283",
    "title": "SpaceX Crew-2 \"Endeavour\" Crew Dragon Splashdown",
    "content_text": "The \"Endeavour\" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.",
-   "url": "https://www.youtube.com/watch?v=2iMhv1gyAq0",
+   "url": "https://www.youtube.com/watch?v=KmMPsrUC-LY",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg",
    "date_published": "2021-11-09T03:33:00Z",
    "date_modified": "2021-11-09T03:33:00Z",
@@ -296,39 +329,6 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_undocking/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~eva~430",
-   "title": "Tiangong EVA-3",
-   "content_text": "Zhai Zhigang and Wang Yaping headed outside Tianhe for a 6 hours long EVA.",
-   "url": "https://www.youtube.com/watch?v=eqbSfiBoJu8",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png",
-   "date_published": "2021-11-07T11:30:00Z",
-   "date_modified": "2021-11-07T11:30:00Z",
-   "tags": [
-    "event",
-    "eva"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/default.png"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "EVA | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "430",
-    "global": "~space-schedule~event~eva~430"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
    }
   }
  ],
