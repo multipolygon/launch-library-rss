@@ -97,6 +97,21 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
     <category term="space_launch_complex_4_e"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~arianespace~11ae4d7c-e83c-4a52-94b8-1cf79bd16d52</id>
+    <title>Vega | CERES</title>
+    <updated>2021-11-16T09:27:00Z</updated>
+    <published>2021-11-16T09:27:00Z</published>
+    <content type="text">CERES (CapacitÉ de Renseignement Électromagnétique Spatiale) is a space-based signal intelligence (SIGNIT) system consisting of three satellites constellation.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/11ae4d7c-e83c-4a52-94b8-1cf79bd16d52.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"/>
+    <category term="launch"/>
+    <category term="arianespace"/>
+    <category term="commercial"/>
+    <category term="vega"/>
+    <category term="government_top_secret"/>
+    <category term="ariane_launch_area_1"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~spacecraft_relocation~285</id>
     <title>Crew-3 Crew Dragon Relocation</title>
     <updated>2021-11-15T00:00:00Z</updated>
@@ -152,25 +167,14 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
     <category term="international_space_station"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~spacecraft_landing~283</id>
-    <title>SpaceX Crew-2 "Endeavour" Crew Dragon Splashdown</title>
-    <updated>2021-11-09T03:33:00Z</updated>
-    <published>2021-11-09T03:33:00Z</published>
-    <content type="text">The "Endeavour" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=KmMPsrUC-LY"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg"/>
+    <id>~space-schedule~event~static_fire~431</id>
+    <title>Starship S20 Static Fire #3</title>
+    <updated>2021-11-10T20:00:00Z</updated>
+    <published>2021-11-10T20:00:00Z</published>
+    <content type="text">SpaceX will likely conduct Starship S20 testing between 10am and 6pm local time, November 10.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=mhJRzQsLZGg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211110005934.jpeg"/>
     <category term="event"/>
-    <category term="spacecraft_landing"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~spacecraft_undocking~282</id>
-    <title>SpaceX Crew-2 "Endeavour" Crew Dragon Undocking</title>
-    <updated>2021-11-08T19:05:00Z</updated>
-    <published>2021-11-08T19:05:00Z</published>
-    <content type="text">The "Endeavour" Crew Dragon will undock from the International Space Station, carrying NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet. It will then reenter the Earth's atmosphere and splashdown in the Atlantic Ocean.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=2iMhv1gyAq0"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg"/>
-    <category term="event"/>
-    <category term="spacecraft_undocking"/>
+    <category term="static_fire"/>
   </entry>
 </feed>

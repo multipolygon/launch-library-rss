@@ -45,7 +45,7 @@
     <title>Spacecraft Undocking | Event | Space Schedule</title>
     <updated>2021-11-25T11:18:00Z</updated>
     <published>2021-11-25T11:18:00Z</published>
-    <content type="text">2 items</content>
+    <content type="text">1 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fspacecraft_undocking%2Foriginal.json"/>
   </entry>
   <entry>
@@ -57,11 +57,11 @@
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fspacecraft_relocation%2Foriginal.json"/>
   </entry>
   <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_landing/original.json</id>
-    <title>Spacecraft Landing | Event | Space Schedule</title>
-    <updated>2021-11-09T03:33:00Z</updated>
-    <published>2021-11-09T03:33:00Z</published>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json</id>
+    <title>Static Fire | Event | Space Schedule</title>
+    <updated>2021-11-10T20:00:00Z</updated>
+    <published>2021-11-10T20:00:00Z</published>
     <content type="text">1 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fspacecraft_landing%2Foriginal.json"/>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json"/>
   </entry>
 </feed>

@@ -237,6 +237,42 @@
    }
   },
   {
+   "id": "~space-schedule~launch~arianespace~11ae4d7c-e83c-4a52-94b8-1cf79bd16d52",
+   "title": "Vega | CERES",
+   "content_text": "CERES (CapacitÉ de Renseignement Électromagnétique Spatiale) is a space-based signal intelligence (SIGNIT) system consisting of three satellites constellation.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/11ae4d7c-e83c-4a52-94b8-1cf79bd16d52.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
+   "date_published": "2021-11-16T09:27:00Z",
+   "date_modified": "2021-11-16T09:27:00Z",
+   "tags": [
+    "launch",
+    "arianespace",
+    "commercial",
+    "vega",
+    "government_top_secret",
+    "ariane_launch_area_1"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Arianespace | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "11ae4d7c-e83c-4a52-94b8-1cf79bd16d52",
+    "global": "~space-schedule~launch~arianespace~11ae4d7c-e83c-4a52-94b8-1cf79bd16d52"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~spacecraft_relocation~285",
    "title": "Crew-3 Crew Dragon Relocation",
    "content_text": "NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.",
@@ -378,21 +414,21 @@
    }
   },
   {
-   "id": "~space-schedule~event~spacecraft_landing~283",
-   "title": "SpaceX Crew-2 \"Endeavour\" Crew Dragon Splashdown",
-   "content_text": "The \"Endeavour\" Crew Dragon will splashdown in the Gulf of Mexico, bringing NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet back to Earth after spending six months on the International Space Station.",
-   "url": "https://www.youtube.com/watch?v=KmMPsrUC-LY",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg",
-   "date_published": "2021-11-09T03:33:00Z",
-   "date_modified": "2021-11-09T03:33:00Z",
+   "id": "~space-schedule~event~static_fire~431",
+   "title": "Starship S20 Static Fire #3",
+   "content_text": "SpaceX will likely conduct Starship S20 testing between 10am and 6pm local time, November 10.",
+   "url": "https://www.youtube.com/watch?v=mhJRzQsLZGg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211110005934.jpeg",
+   "date_published": "2021-11-10T20:00:00Z",
+   "date_modified": "2021-11-10T20:00:00Z",
    "tags": [
     "event",
-    "spacecraft_landing"
+    "static_fire"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121219.jpg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211110005934.jpeg"
     }
    ],
    "_meta": {
@@ -400,47 +436,14 @@
     "videoCount": 0,
     "imageCount": 1,
     "youtubeCount": 1,
-    "subtitle": "Spacecraft Landing | Event | Space Schedule"
+    "subtitle": "Static Fire | Event | Space Schedule"
    },
    "_id": {
-    "parent": "283",
-    "global": "~space-schedule~event~spacecraft_landing~283"
+    "parent": "431",
+    "global": "~space-schedule~event~static_fire~431"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_landing/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~spacecraft_undocking~282",
-   "title": "SpaceX Crew-2 \"Endeavour\" Crew Dragon Undocking",
-   "content_text": "The \"Endeavour\" Crew Dragon will undock from the International Space Station, carrying NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet. It will then reenter the Earth's atmosphere and splashdown in the Atlantic Ocean.",
-   "url": "https://www.youtube.com/watch?v=2iMhv1gyAq0",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg",
-   "date_published": "2021-11-08T19:05:00Z",
-   "date_modified": "2021-11-08T19:05:00Z",
-   "tags": [
-    "event",
-    "spacecraft_undocking"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Spacecraft Undocking | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "282",
-    "global": "~space-schedule~event~spacecraft_undocking~282"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_undocking/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
    }
   }
  ],

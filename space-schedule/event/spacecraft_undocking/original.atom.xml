@@ -20,15 +20,4 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <category term="event"/>
     <category term="spacecraft_undocking"/>
   </entry>
-  <entry>
-    <id>282</id>
-    <title>SpaceX Crew-2 "Endeavour" Crew Dragon Undocking</title>
-    <updated>2021-11-08T19:05:00Z</updated>
-    <published>2021-11-08T19:05:00Z</published>
-    <content type="text">The "Endeavour" Crew Dragon will undock from the International Space Station, carrying NASA astronauts Shane Kimbrough and Megan McArthur, JAXA astronaut Akihiko Hoshide and ESA astronaut Thomas Pesquet. It will then reenter the Earth's atmosphere and splashdown in the Atlantic Ocean.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=2iMhv1gyAq0"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2__image_20210519121216.jpeg"/>
-    <category term="event"/>
-    <category term="spacecraft_undocking"/>
-  </entry>
 </feed>

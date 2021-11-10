@@ -1,5 +1,5 @@
 {
-    "count": 3,
+    "count": 4,
     "next": null,
     "previous": null,
     "results": [
@@ -231,6 +231,84 @@
             },
             "webcast_live": false,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null,
+            "program": []
+        },
+        {
+            "id": "11ae4d7c-e83c-4a52-94b8-1cf79bd16d52",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/11ae4d7c-e83c-4a52-94b8-1cf79bd16d52.json",
+            "launch_library_id": 1192,
+            "slug": "vega-ceres",
+            "name": "Vega | CERES",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-11-16T09:27:00Z",
+            "window_end": "2021-11-16T09:27:00Z",
+            "window_start": "2021-11-16T09:27:00Z",
+            "inhold": false,
+            "tbdtime": false,
+            "tbddate": false,
+            "probability": -1,
+            "holdreason": "",
+            "failreason": "",
+            "hashtag": null,
+            "launch_service_provider": {
+                "id": 115,
+                "url": "https://ll.thespacedevs.com/2.2.0/agencies/115.json",
+                "name": "Arianespace",
+                "type": "Commercial"
+            },
+            "rocket": {
+                "id": 128,
+                "configuration": {
+                    "id": 167,
+                    "launch_library_id": 18,
+                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/167.json",
+                    "name": "Vega",
+                    "family": "Vega",
+                    "full_name": "Vega",
+                    "variant": ""
+                }
+            },
+            "mission": {
+                "id": 5881,
+                "launch_library_id": null,
+                "name": "CERES",
+                "description": "CERES (CapacitÉ de Renseignement Électromagnétique Spatiale) is a space-based signal intelligence (SIGNIT) system consisting of three satellites constellation.",
+                "launch_designator": null,
+                "type": "Government/Top Secret",
+                "orbit": {
+                    "id": 8,
+                    "name": "Low Earth Orbit",
+                    "abbrev": "LEO"
+                }
+            },
+            "pad": {
+                "id": 34,
+                "url": "https://ll.thespacedevs.com/2.2.0/pad/34.json",
+                "agency_id": 115,
+                "name": "Ariane Launch Area 1",
+                "info_url": null,
+                "wiki_url": "https://en.wikipedia.org/wiki/ELA-1",
+                "map_url": "https://www.google.com/maps/?q=5.239,-52.775",
+                "latitude": "5.236",
+                "longitude": "-52.775",
+                "location": {
+                    "id": 13,
+                    "url": "https://ll.thespacedevs.com/2.2.0/location/13.json",
+                    "name": "Kourou, French Guiana",
+                    "country_code": "GUF",
+                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_13_20200803142412.jpg",
+                    "total_launch_count": 308,
+                    "total_landing_count": 0
+                },
+                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_34_20200803143527.jpg",
+                "total_launch_count": 45
+            },
+            "webcast_live": false,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
             "infographic": null,
             "program": []
         },
