@@ -73,6 +73,16 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"/>
     </item>
     <item>
+      <title>SpaceX Crew-2 Crew News Conference</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA’s SpaceX Crew-2 astronauts will answer media questions about their time aboard the International Space Station during a post-landing news conference.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~432</guid>
+      <pubDate>Mon, 15 Nov 2021 14:15:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20211110234527.jpg"/>
+    </item>
+    <item>
       <title>Crew-3 Crew Dragon Relocation</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.</description>
@@ -83,6 +93,16 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crew-3_crew_dra_image_20210519122555.jpeg"/>
     </item>
     <item>
+      <title>Starship S20 Static Fire #3</title>
+      <link>https://www.youtube.com/watch?v=mhJRzQsLZGg</link>
+      <description>SpaceX will likely conduct Starship S20 testing between 10am and 6pm local time, November 10.</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~431</guid>
+      <pubDate>Fri, 12 Nov 2021 20:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211110005934.jpeg"/>
+    </item>
+    <item>
       <title>SpaceX Crew-3 Crew Dragon Docking</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The Crew-3 Crew Dragon will dock autonomously to the International Space Station, carrying NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer to the International Space Station as crew members of Expedition 66.</description>
@@ -91,16 +111,6 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <guid isPermaLink="false">~space-schedule~event~docking~274</guid>
       <pubDate>Fri, 12 Nov 2021 00:10:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>
-    </item>
-    <item>
-      <title>Starship S20 Static Fire #3</title>
-      <link>https://www.youtube.com/watch?v=mhJRzQsLZGg</link>
-      <description>SpaceX will likely conduct Starship S20 testing between 10am and 6pm local time, November 10.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~431</guid>
-      <pubDate>Wed, 10 Nov 2021 20:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211110005934.jpeg"/>
     </item>
   </channel>
 </rss>

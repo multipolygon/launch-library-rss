@@ -29,37 +29,6 @@
     "videoCount": 0,
     "imageCount": 1
    }
-  },
-  {
-   "id": "0d779392-1a36-4c1e-b0b8-ec11e3031ee6",
-   "title": "Falcon 9 Block 5 | SpX USCV-3 (NASA Crew Flight 3)",
-   "content_text": "Third crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/0d779392-1a36-4c1e-b0b8-ec11e3031ee6.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211101043747.jpeg",
-   "date_published": "2021-11-11T02:03:00Z",
-   "date_modified": "2021-11-11T02:03:00Z",
-   "tags": [
-    "launch",
-    "space_x",
-    "commercial",
-    "falcon",
-    "falcon_9",
-    "human_exploration",
-    "launch_complex_39_a",
-    "commercial_crew_program",
-    "international_space_station"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211101043747.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -70,7 +39,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json",
  "_meta": {
-  "itemCount": 2,
+  "itemCount": 1,
   "pageNumber": 1,
   "pageCount": 1
  }

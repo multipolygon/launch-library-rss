@@ -2,26 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/rocket_lab_ltd/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Rocket Lab Ltd | Launch | Space Schedule</title>
+    <title>Rocket Lab Ltd</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Frocket_lab_ltd%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Thu, 11 Nov 2021 04:25:00 GMT</pubDate>
+    <pubDate>Thu, 11 Nov 2021 11:24:54 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <item>
-      <title>Electron | Love At First Insight</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/3985e602-f22f-441f-a0b1-a450ea459da9.json</link>
-      <description>Payload consists of two BlackSky Gen-2 high-resolution multi-spectral Earth observation satellites.</description>
-      <category>launch</category>
-      <category>rocket_lab_ltd</category>
-      <category>commercial</category>
-      <category>electron</category>
-      <category>earth_science</category>
-      <category>rocket_lab_launch_complex_1_a</category>
-      <guid isPermaLink="false">3985e602-f22f-441f-a0b1-a450ea459da9</guid>
-      <pubDate>Thu, 11 Nov 2021 04:25:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"/>
-    </item>
   </channel>
 </rss>

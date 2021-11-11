@@ -6,13 +6,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/original_index.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Foriginal_index.json",
    "title": "Event",
-   "content_text": "7 items",
+   "content_text": "8 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg",
    "date_published": "2021-12-08T00:00:00Z",
    "date_modified": "2021-12-08T00:00:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 7,
+    "itemCount": 8,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0
@@ -22,13 +22,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/original_index.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Foriginal_index.json",
    "title": "Launch",
-   "content_text": "3 items",
+   "content_text": "2 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
    "date_published": "2021-11-24T06:20:00Z",
    "date_modified": "2021-11-24T06:20:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 3,
+    "itemCount": 2,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0
