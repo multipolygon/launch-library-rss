@@ -31,17 +31,6 @@
     <category term="eva"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~spacecraft_release~284</id>
-    <title>NG-16 Cygnus Release &amp; Reentry</title>
-    <updated>2021-11-30T00:00:00Z</updated>
-    <published>2021-11-30T00:00:00Z</published>
-    <content type="text">The Northrop Grumman NG-16 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"/>
-    <category term="event"/>
-    <category term="spacecraft_release"/>
-  </entry>
-  <entry>
     <id>~space-schedule~event~docking~287</id>
     <title>Progress-M-UM &amp; Prichal Docking</title>
     <updated>2021-11-26T15:25:00Z</updated>
@@ -77,6 +66,17 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <category term="spacecraft_undocking"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~spacecraft_release~284</id>
+    <title>NG-16 Cygnus Release &amp; Reentry</title>
+    <updated>2021-11-20T16:00:00Z</updated>
+    <published>2021-11-20T16:00:00Z</published>
+    <content type="text">The Northrop Grumman NG-16 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"/>
+    <category term="event"/>
+    <category term="spacecraft_release"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~press_event~432</id>
     <title>SpaceX Crew-2 Crew News Conference</title>
     <updated>2021-11-15T14:15:00Z</updated>
@@ -103,7 +103,7 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <title>Starship S20 Static Fire #3</title>
     <updated>2021-11-12T20:00:00Z</updated>
     <published>2021-11-12T20:00:00Z</published>
-    <content type="text">SpaceX will likely conduct Starship S20 testing between 10am and 6pm local time, November 10.</content>
+    <content type="text">SpaceX will likely conduct Starship S20 testing between 6am and 2pm local time, November 10.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=mhJRzQsLZGg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211110005934.jpeg"/>
     <category term="event"/>
@@ -112,10 +112,10 @@ It will then de-orbit and burn up in the atmosphere.</content>
   <entry>
     <id>~space-schedule~event~docking~274</id>
     <title>SpaceX Crew-3 Crew Dragon Docking</title>
-    <updated>2021-11-12T00:10:00Z</updated>
-    <published>2021-11-12T00:10:00Z</published>
+    <updated>2021-11-11T23:33:00Z</updated>
+    <published>2021-11-11T23:33:00Z</published>
     <content type="text">The Crew-3 Crew Dragon will dock autonomously to the International Space Station, carrying NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer to the International Space Station as crew members of Expedition 66.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=dZ5YAPZ8i3s"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>
     <category term="event"/>
     <category term="docking"/>

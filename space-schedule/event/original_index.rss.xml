@@ -25,13 +25,6 @@
       <pubDate>Tue, 30 Nov 2021 12:05:00 GMT</pubDate>
     </item>
     <item>
-      <title>Spacecraft Release | Event | Space Schedule</title>
-      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fspacecraft_release%2Foriginal.json</link>
-      <description>1 items</description>
-      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_release/original.json</guid>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Flyby | Event | Space Schedule</title>
       <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fflyby%2Foriginal.json</link>
       <description>1 items</description>
@@ -44,6 +37,13 @@
       <description>1 items</description>
       <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_undocking/original.json</guid>
       <pubDate>Thu, 25 Nov 2021 11:18:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spacecraft Release | Event | Space Schedule</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fspacecraft_release%2Foriginal.json</link>
+      <description>1 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_release/original.json</guid>
+      <pubDate>Sat, 20 Nov 2021 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Press Event | Event | Space Schedule</title>
