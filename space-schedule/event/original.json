@@ -69,6 +69,39 @@
    }
   },
   {
+   "id": "~space-schedule~event~spacecraft_relocation~285",
+   "title": "Crew-3 Crew Dragon Relocation",
+   "content_text": "NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crew-3_crew_dra_image_20210519122555.jpeg",
+   "date_published": "2021-11-30T00:00:00Z",
+   "date_modified": "2021-11-30T00:00:00Z",
+   "tags": [
+    "event",
+    "spacecraft_relocation"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crew-3_crew_dra_image_20210519122555.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Spacecraft Relocation | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "285",
+    "global": "~space-schedule~event~spacecraft_relocation~285"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_relocation/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~docking~287",
    "title": "Progress-M-UM & Prichal Docking",
    "content_text": "The modified Progress space tug called Progress-M-UM will dock the Prichal node module to the nadir port of the MLM Nauka module on the International Space Station. It will provide four ports to mount additional modules and one docking port for cargo and crew spacecrafts.",
@@ -233,46 +266,13 @@
    }
   },
   {
-   "id": "~space-schedule~event~spacecraft_relocation~285",
-   "title": "Crew-3 Crew Dragon Relocation",
-   "content_text": "NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crew-3_crew_dra_image_20210519122555.jpeg",
-   "date_published": "2021-11-15T00:00:00Z",
-   "date_modified": "2021-11-15T00:00:00Z",
-   "tags": [
-    "event",
-    "spacecraft_relocation"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crew-3_crew_dra_image_20210519122555.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Spacecraft Relocation | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "285",
-    "global": "~space-schedule~event~spacecraft_relocation~285"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_relocation/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~event~static_fire~431",
    "title": "Starship S20 Static Fire #3",
-   "content_text": "SpaceX will likely conduct Starship S20 testing between 6am and 2pm local time, November 10.",
-   "url": "https://www.youtube.com/watch?v=mhJRzQsLZGg",
+   "content_text": "SpaceX performed a pre-burner test followed by a static fire of Starship S20.",
+   "url": "https://www.youtube.com/watch?v=g8ja43uGrdQ",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211110005934.jpeg",
-   "date_published": "2021-11-12T20:00:00Z",
-   "date_modified": "2021-11-12T20:00:00Z",
+   "date_published": "2021-11-12T17:20:00Z",
+   "date_modified": "2021-11-12T17:20:00Z",
    "tags": [
     "event",
     "static_fire"
@@ -297,39 +297,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~event~docking~274",
-   "title": "SpaceX Crew-3 Crew Dragon Docking",
-   "content_text": "The Crew-3 Crew Dragon will dock autonomously to the International Space Station, carrying NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer to the International Space Station as crew members of Expedition 66.",
-   "url": "https://www.youtube.com/watch?v=dZ5YAPZ8i3s",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg",
-   "date_published": "2021-11-11T23:33:00Z",
-   "date_modified": "2021-11-11T23:33:00Z",
-   "tags": [
-    "event",
-    "docking"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Docking | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "274",
-    "global": "~space-schedule~event~docking~274"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -340,7 +307,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 10,
+  "itemCount": 9,
   "pageNumber": 1,
   "pageCount": 1
  }

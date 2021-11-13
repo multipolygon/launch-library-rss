@@ -31,6 +31,17 @@
     <category term="eva"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~spacecraft_relocation~285</id>
+    <title>Crew-3 Crew Dragon Relocation</title>
+    <updated>2021-11-30T00:00:00Z</updated>
+    <published>2021-11-30T00:00:00Z</published>
+    <content type="text">NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crew-3_crew_dra_image_20210519122555.jpeg"/>
+    <category term="event"/>
+    <category term="spacecraft_relocation"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~docking~287</id>
     <title>Progress-M-UM &amp; Prichal Docking</title>
     <updated>2021-11-26T15:25:00Z</updated>
@@ -123,32 +134,10 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
     <category term="press_event"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~spacecraft_relocation~285</id>
-    <title>Crew-3 Crew Dragon Relocation</title>
-    <updated>2021-11-15T00:00:00Z</updated>
-    <published>2021-11-15T00:00:00Z</published>
-    <content type="text">NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crew-3_crew_dra_image_20210519122555.jpeg"/>
-    <category term="event"/>
-    <category term="spacecraft_relocation"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~static_fire~431</id>
-    <title>Starship S20 Static Fire #3</title>
-    <updated>2021-11-12T20:00:00Z</updated>
-    <published>2021-11-12T20:00:00Z</published>
-    <content type="text">SpaceX will likely conduct Starship S20 testing between 6am and 2pm local time, November 10.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=mhJRzQsLZGg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211110005934.jpeg"/>
-    <category term="event"/>
-    <category term="static_fire"/>
-  </entry>
-  <entry>
     <id>~space-schedule~launch~space_x~e4200e5c-2726-43f2-8439-36bd1be59821</id>
     <title>Falcon 9 Block 5 | Starlink 4-1</title>
-    <updated>2021-11-12T12:40:00Z</updated>
-    <published>2021-11-12T12:40:00Z</published>
+    <updated>2021-11-13T12:19:00Z</updated>
+    <published>2021-11-13T12:19:00Z</published>
     <content type="text">A batch of 53 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/e4200e5c-2726-43f2-8439-36bd1be59821.json"/>
     <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160353.png"/>
@@ -161,14 +150,14 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
     <category term="space_launch_complex_40"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~docking~274</id>
-    <title>SpaceX Crew-3 Crew Dragon Docking</title>
-    <updated>2021-11-11T23:33:00Z</updated>
-    <published>2021-11-11T23:33:00Z</published>
-    <content type="text">The Crew-3 Crew Dragon will dock autonomously to the International Space Station, carrying NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer to the International Space Station as crew members of Expedition 66.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=dZ5YAPZ8i3s"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-3_c_image_20210519073813.jpeg"/>
+    <id>~space-schedule~event~static_fire~431</id>
+    <title>Starship S20 Static Fire #3</title>
+    <updated>2021-11-12T17:20:00Z</updated>
+    <published>2021-11-12T17:20:00Z</published>
+    <content type="text">SpaceX performed a pre-burner test followed by a static fire of Starship S20.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=g8ja43uGrdQ"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211110005934.jpeg"/>
     <category term="event"/>
-    <category term="docking"/>
+    <category term="static_fire"/>
   </entry>
 </feed>

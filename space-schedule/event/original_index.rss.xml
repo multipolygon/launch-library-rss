@@ -13,7 +13,7 @@
     <item>
       <title>Docking | Event | Space Schedule</title>
       <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fdocking%2Foriginal.json</link>
-      <description>3 items</description>
+      <description>2 items</description>
       <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json</guid>
       <pubDate>Wed, 08 Dec 2021 00:00:00 GMT</pubDate>
     </item>
@@ -23,6 +23,13 @@
       <description>1 items</description>
       <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json</guid>
       <pubDate>Tue, 30 Nov 2021 12:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spacecraft Relocation | Event | Space Schedule</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fspacecraft_relocation%2Foriginal.json</link>
+      <description>1 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_relocation/original.json</guid>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Flyby | Event | Space Schedule</title>
@@ -53,18 +60,11 @@
       <pubDate>Mon, 15 Nov 2021 14:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>Spacecraft Relocation | Event | Space Schedule</title>
-      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fspacecraft_relocation%2Foriginal.json</link>
-      <description>1 items</description>
-      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_relocation/original.json</guid>
-      <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Static Fire | Event | Space Schedule</title>
       <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json</link>
       <description>1 items</description>
       <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json</guid>
-      <pubDate>Fri, 12 Nov 2021 20:00:00 GMT</pubDate>
+      <pubDate>Fri, 12 Nov 2021 17:20:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
