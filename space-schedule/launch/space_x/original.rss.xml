@@ -28,20 +28,5 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
       <pubDate>Wed, 24 Nov 2021 06:20:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg"/>
     </item>
-    <item>
-      <title>Falcon 9 Block 5 | Starlink 4-1</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/e4200e5c-2726-43f2-8439-36bd1be59821.json</link>
-      <description>A batch of 53 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
-      <category>launch</category>
-      <category>space_x</category>
-      <category>commercial</category>
-      <category>falcon</category>
-      <category>falcon_9</category>
-      <category>communications</category>
-      <category>space_launch_complex_40</category>
-      <guid isPermaLink="false">e4200e5c-2726-43f2-8439-36bd1be59821</guid>
-      <pubDate>Sat, 13 Nov 2021 12:19:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160353.png"/>
-    </item>
   </channel>
 </rss>

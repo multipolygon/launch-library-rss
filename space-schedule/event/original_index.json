@@ -113,22 +113,6 @@
     "videoCount": 0,
     "imageCount": 0
    }
-  },
-  {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json",
-   "title": "Static Fire | Event | Space Schedule",
-   "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211110005934.jpeg",
-   "date_published": "2021-11-12T17:20:00Z",
-   "date_modified": "2021-11-12T17:20:00Z",
-   "_geo": {},
-   "_meta": {
-    "itemCount": 1,
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 0
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -139,7 +123,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal_index.json",
  "_meta": {
-  "itemCount": 8,
+  "itemCount": 7,
   "pageNumber": 1,
   "pageCount": 1
  }

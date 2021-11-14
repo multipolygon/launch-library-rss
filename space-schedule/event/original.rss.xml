@@ -92,15 +92,5 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <pubDate>Mon, 15 Nov 2021 14:15:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20211110234527.jpg"/>
     </item>
-    <item>
-      <title>Starship S20 Static Fire #3</title>
-      <link>https://www.youtube.com/watch?v=g8ja43uGrdQ</link>
-      <description>SpaceX performed a pre-burner test followed by a static fire of Starship S20.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~431</guid>
-      <pubDate>Fri, 12 Nov 2021 17:20:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211110005934.jpeg"/>
-    </item>
   </channel>
 </rss>

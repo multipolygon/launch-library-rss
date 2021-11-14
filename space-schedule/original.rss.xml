@@ -125,30 +125,5 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
       <pubDate>Mon, 15 Nov 2021 14:15:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20211110234527.jpg"/>
     </item>
-    <item>
-      <title>Falcon 9 Block 5 | Starlink 4-1</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/e4200e5c-2726-43f2-8439-36bd1be59821.json</link>
-      <description>A batch of 53 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.</description>
-      <category>launch</category>
-      <category>space_x</category>
-      <category>commercial</category>
-      <category>falcon</category>
-      <category>falcon_9</category>
-      <category>communications</category>
-      <category>space_launch_complex_40</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~e4200e5c-2726-43f2-8439-36bd1be59821</guid>
-      <pubDate>Sat, 13 Nov 2021 12:19:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160353.png"/>
-    </item>
-    <item>
-      <title>Starship S20 Static Fire #3</title>
-      <link>https://www.youtube.com/watch?v=g8ja43uGrdQ</link>
-      <description>SpaceX performed a pre-burner test followed by a static fire of Starship S20.</description>
-      <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~431</guid>
-      <pubDate>Fri, 12 Nov 2021 17:20:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_st_image_20211110005934.jpeg"/>
-    </item>
   </channel>
 </rss>
