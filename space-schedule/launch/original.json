@@ -38,42 +38,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~arianespace~11ae4d7c-e83c-4a52-94b8-1cf79bd16d52",
-   "title": "Vega | CERES",
-   "content_text": "CERES (CapacitÉ de Renseignement Électromagnétique Spatiale) is a space-based signal intelligence (SIGNIT) system consisting of three satellites constellation.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/11ae4d7c-e83c-4a52-94b8-1cf79bd16d52.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
-   "date_published": "2021-11-16T09:27:00Z",
-   "date_modified": "2021-11-16T09:27:00Z",
-   "tags": [
-    "launch",
-    "arianespace",
-    "commercial",
-    "vega",
-    "government_top_secret",
-    "ariane_launch_area_1"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Arianespace | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "11ae4d7c-e83c-4a52-94b8-1cf79bd16d52",
-    "global": "~space-schedule~launch~arianespace~11ae4d7c-e83c-4a52-94b8-1cf79bd16d52"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -84,7 +48,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 2,
+  "itemCount": 1,
   "pageNumber": 1,
   "pageCount": 1
  }

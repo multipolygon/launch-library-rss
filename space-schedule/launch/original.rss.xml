@@ -29,19 +29,5 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
       <pubDate>Wed, 24 Nov 2021 06:20:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg"/>
     </item>
-    <item>
-      <title>Vega | CERES</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/11ae4d7c-e83c-4a52-94b8-1cf79bd16d52.json</link>
-      <description>CERES (CapacitÉ de Renseignement Électromagnétique Spatiale) is a space-based signal intelligence (SIGNIT) system consisting of three satellites constellation.</description>
-      <category>launch</category>
-      <category>arianespace</category>
-      <category>commercial</category>
-      <category>vega</category>
-      <category>government_top_secret</category>
-      <category>ariane_launch_area_1</category>
-      <guid isPermaLink="false">~space-schedule~launch~arianespace~11ae4d7c-e83c-4a52-94b8-1cf79bd16d52</guid>
-      <pubDate>Tue, 16 Nov 2021 09:27:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"/>
-    </item>
   </channel>
 </rss>

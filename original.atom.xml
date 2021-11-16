@@ -108,21 +108,6 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
     <category term="spacecraft_release"/>
   </entry>
   <entry>
-    <id>~space-schedule~launch~arianespace~11ae4d7c-e83c-4a52-94b8-1cf79bd16d52</id>
-    <title>Vega | CERES</title>
-    <updated>2021-11-16T09:27:00Z</updated>
-    <published>2021-11-16T09:27:00Z</published>
-    <content type="text">CERES (CapacitÉ de Renseignement Électromagnétique Spatiale) is a space-based signal intelligence (SIGNIT) system consisting of three satellites constellation.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/11ae4d7c-e83c-4a52-94b8-1cf79bd16d52.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg"/>
-    <category term="launch"/>
-    <category term="arianespace"/>
-    <category term="commercial"/>
-    <category term="vega"/>
-    <category term="government_top_secret"/>
-    <category term="ariane_launch_area_1"/>
-  </entry>
-  <entry>
     <id>~space-schedule~event~press_event~432</id>
     <title>SpaceX Crew-2 Crew News Conference</title>
     <updated>2021-11-15T14:15:00Z</updated>
