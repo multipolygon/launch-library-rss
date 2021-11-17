@@ -2,21 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Launch</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/original.atom.xml</id>
-  <updated>2021-11-24T06:20:00Z</updated>
+  <updated>2021-12-01T00:35:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items in Space Schedule &gt; Launch.</subtitle>
   <entry>
+    <id>~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2</id>
+    <title>Soyuz STB/Fregat | 2 x Galileo</title>
+    <updated>2021-12-01T00:35:00Z</updated>
+    <published>2021-12-01T00:35:00Z</published>
+    <content type="text">Payload consists of two satellites for Europe's Galileo navigation system.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/8464fae8-48ef-4e35-860c-07347f339ce2.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520stb_image_20190224025011.jpeg"/>
+    <category term="launch"/>
+    <category term="arianespace"/>
+    <category term="commercial"/>
+    <category term="soyuz"/>
+    <category term="soyuz_stb"/>
+    <category term="navigation"/>
+    <category term="soyuz_launch_complex"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~launch~russian_space_forces~12ed3429-fab7-4bc7-8d03-aa4dbe5f6228</id>
+    <title>Soyuz 2.1b/Fregat (?) | EKS 5 (Tundra 5) (?)</title>
+    <updated>2021-11-25T00:30:00Z</updated>
+    <published>2021-11-25T00:30:00Z</published>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/12ed3429-fab7-4bc7-8d03-aa4dbe5f6228.json"/>
+    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png"/>
+    <category term="launch"/>
+    <category term="russian_space_forces"/>
+    <category term="government"/>
+    <category term="soyuz"/>
+    <category term="soyuz_2_1_b_fregat"/>
+    <category term="unknown_pad"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~space_x~c4b2f90e-3385-4cbe-a89f-fc5f57da1bfb</id>
     <title>Falcon 9 Block 5 | Double Asteroid Redirection Test (DART)</title>
     <updated>2021-11-24T06:20:00Z</updated>
     <published>2021-11-24T06:20:00Z</published>
-    <content type="text">Double Asteroid Redirection Test (DART) mission is the first-ever mission to demonstrate the capability to deflect an asteroid by colliding a spacecraft with it at high speed â€“ a technique known as a kinetic impactor.
-
-DART is a planetary defense-driven test of one of the technologies for preventing the Earth impact of a hazardous asteroid: the kinetic impactor.  DARTâ€™s primary objective is to demonstrate a kinetic impact on a small asteroid.  The binary near-Earth asteroid (65803) Didymos is the target for DART.   While Didymosâ€™ primary body is approximately 800 meters across, its secondary body (or â€œmoonletâ€) has a 150-meter size, which is more typical of the size of asteroids that could pose a more common hazard to Earth.
-
+    <content type="text">Double Asteroid Redirection Test (DART) mission is the first-ever mission to demonstrate the capability to deflect an asteroid by colliding a spacecraft with it at high speed, a technique known as a kinetic impactor.&#xD;
+&#xD;
+DART is a planetary defense-driven test of one of the technologies for preventing the Earth impact of a hazardous asteroid: the kinetic impactor.  DART's primary objective is to demonstrate a kinetic impact on a small asteroid.  The binary near-Earth asteroid (65803) Didymos is the target for DART.   While Didymos' primary body is approximately 800 meters across, its secondary body has a 150-meter size, which is more typical of the size of asteroids that could pose a more common hazard to Earth.&#xD;
+&#xD;
 The DART spacecraft will achieve the kinetic impact by deliberately crashing itself into the moonlet at a speed of approximately 6 km/s, with the aid of an onboard camera and sophisticated autonomous navigation software. The collision will change the speed of the moonlet in its orbit around the main body by a fraction of one percent, enough to be measured using telescopes on Earth.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/c4b2f90e-3385-4cbe-a89f-fc5f57da1bfb.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg"/>

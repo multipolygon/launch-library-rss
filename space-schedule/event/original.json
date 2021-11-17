@@ -200,6 +200,39 @@
    }
   },
   {
+   "id": "~space-schedule~event~press_event~434",
+   "title": "DART Pre-Launch News Conference",
+   "content_text": "NASA will host a media briefing about the upcoming launch of Double Asteroid Redirection Test (DART) mission.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/dart_pre-launch_image_20211116204913.jpeg",
+   "date_published": "2021-11-23T00:00:00Z",
+   "date_modified": "2021-11-23T00:00:00Z",
+   "tags": [
+    "event",
+    "press_event"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/dart_pre-launch_image_20211116204913.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Press Event | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "434",
+    "global": "~space-schedule~event~press_event~434"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~spacecraft_release~284",
    "title": "NG-16 Cygnus Release & Reentry",
    "content_text": "The Northrop Grumman NG-16 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.",
@@ -230,39 +263,6 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_release/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~press_event~432",
-   "title": "SpaceX Crew-2 Crew News Conference",
-   "content_text": "NASA’s SpaceX Crew-2 astronauts will answer media questions about their time aboard the International Space Station during a post-landing news conference.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20211110234527.jpg",
-   "date_published": "2021-11-15T14:15:00Z",
-   "date_modified": "2021-11-15T14:15:00Z",
-   "tags": [
-    "event",
-    "press_event"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20211110234527.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Press Event | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "432",
-    "global": "~space-schedule~event~press_event~432"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
    }
   }
  ],

@@ -2,12 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <atom:link href="https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_space_forces/original.rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Russian Space Forces</title>
+    <title>Russian Space Forces | Launch | Space Schedule</title>
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Frussian_space_forces%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Tue, 16 Nov 2021 11:24:46 GMT</pubDate>
+    <pubDate>Thu, 25 Nov 2021 00:30:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Soyuz 2.1b/Fregat (?) | EKS 5 (Tundra 5) (?)</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/12ed3429-fab7-4bc7-8d03-aa4dbe5f6228.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>russian_space_forces</category>
+      <category>government</category>
+      <category>soyuz</category>
+      <category>soyuz_2_1_b_fregat</category>
+      <category>unknown_pad</category>
+      <guid isPermaLink="false">12ed3429-fab7-4bc7-8d03-aa4dbe5f6228</guid>
+      <pubDate>Thu, 25 Nov 2021 00:30:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png"/>
+    </item>
   </channel>
 </rss>

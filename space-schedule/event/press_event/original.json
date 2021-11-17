@@ -4,13 +4,13 @@
  "title": "Press Event | Event | Space Schedule",
  "items": [
   {
-   "id": "432",
-   "title": "SpaceX Crew-2 Crew News Conference",
-   "content_text": "NASA’s SpaceX Crew-2 astronauts will answer media questions about their time aboard the International Space Station during a post-landing news conference.",
+   "id": "434",
+   "title": "DART Pre-Launch News Conference",
+   "content_text": "NASA will host a media briefing about the upcoming launch of Double Asteroid Redirection Test (DART) mission.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20211110234527.jpg",
-   "date_published": "2021-11-15T14:15:00Z",
-   "date_modified": "2021-11-15T14:15:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/dart_pre-launch_image_20211116204913.jpeg",
+   "date_published": "2021-11-23T00:00:00Z",
+   "date_modified": "2021-11-23T00:00:00Z",
    "tags": [
     "event",
     "press_event"
@@ -18,7 +18,7 @@
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20211110234527.jpg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/dart_pre-launch_image_20211116204913.jpeg"
     }
    ],
    "_meta": {

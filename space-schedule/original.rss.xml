@@ -21,6 +21,21 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg"/>
     </item>
     <item>
+      <title>Soyuz STB/Fregat | 2 x Galileo</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/8464fae8-48ef-4e35-860c-07347f339ce2.json</link>
+      <description>Payload consists of two satellites for Europe's Galileo navigation system.</description>
+      <category>launch</category>
+      <category>arianespace</category>
+      <category>commercial</category>
+      <category>soyuz</category>
+      <category>soyuz_stb</category>
+      <category>navigation</category>
+      <category>soyuz_launch_complex</category>
+      <guid isPermaLink="false">~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2</guid>
+      <pubDate>Wed, 01 Dec 2021 00:35:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520stb_image_20190224025011.jpeg"/>
+    </item>
+    <item>
       <title>US EVA-78</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.</description>
@@ -73,12 +88,26 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"/>
     </item>
     <item>
+      <title>Soyuz 2.1b/Fregat (?) | EKS 5 (Tundra 5) (?)</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/12ed3429-fab7-4bc7-8d03-aa4dbe5f6228.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>russian_space_forces</category>
+      <category>government</category>
+      <category>soyuz</category>
+      <category>soyuz_2_1_b_fregat</category>
+      <category>unknown_pad</category>
+      <guid isPermaLink="false">~space-schedule~launch~russian_space_forces~12ed3429-fab7-4bc7-8d03-aa4dbe5f6228</guid>
+      <pubDate>Thu, 25 Nov 2021 00:30:00 GMT</pubDate>
+      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png"/>
+    </item>
+    <item>
       <title>Falcon 9 Block 5 | Double Asteroid Redirection Test (DART)</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/c4b2f90e-3385-4cbe-a89f-fc5f57da1bfb.json</link>
-      <description>Double Asteroid Redirection Test (DART) mission is the first-ever mission to demonstrate the capability to deflect an asteroid by colliding a spacecraft with it at high speed â€“ a technique known as a kinetic impactor.
-
-DART is a planetary defense-driven test of one of the technologies for preventing the Earth impact of a hazardous asteroid: the kinetic impactor.  DARTâ€™s primary objective is to demonstrate a kinetic impact on a small asteroid.  The binary near-Earth asteroid (65803) Didymos is the target for DART.   While Didymosâ€™ primary body is approximately 800 meters across, its secondary body (or â€œmoonletâ€) has a 150-meter size, which is more typical of the size of asteroids that could pose a more common hazard to Earth.
-
+      <description>Double Asteroid Redirection Test (DART) mission is the first-ever mission to demonstrate the capability to deflect an asteroid by colliding a spacecraft with it at high speed, a technique known as a kinetic impactor.&#xD;
+&#xD;
+DART is a planetary defense-driven test of one of the technologies for preventing the Earth impact of a hazardous asteroid: the kinetic impactor.  DART's primary objective is to demonstrate a kinetic impact on a small asteroid.  The binary near-Earth asteroid (65803) Didymos is the target for DART.   While Didymos' primary body is approximately 800 meters across, its secondary body has a 150-meter size, which is more typical of the size of asteroids that could pose a more common hazard to Earth.&#xD;
+&#xD;
 The DART spacecraft will achieve the kinetic impact by deliberately crashing itself into the moonlet at a speed of approximately 6 km/s, with the aid of an onboard camera and sophisticated autonomous navigation software. The collision will change the speed of the moonlet in its orbit around the main body by a fraction of one percent, enough to be measured using telescopes on Earth.</description>
       <category>launch</category>
       <category>space_x</category>
@@ -92,6 +121,16 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg"/>
     </item>
     <item>
+      <title>DART Pre-Launch News Conference</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA will host a media briefing about the upcoming launch of Double Asteroid Redirection Test (DART) mission.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~434</guid>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/dart_pre-launch_image_20211116204913.jpeg"/>
+    </item>
+    <item>
       <title>NG-16 Cygnus Release &amp; Reentry</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The Northrop Grumman NG-16 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</description>
@@ -100,16 +139,6 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
       <guid isPermaLink="false">~space-schedule~event~spacecraft_release~284</guid>
       <pubDate>Sat, 20 Nov 2021 16:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"/>
-    </item>
-    <item>
-      <title>SpaceX Crew-2 Crew News Conference</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>NASA’s SpaceX Crew-2 astronauts will answer media questions about their time aboard the International Space Station during a post-landing news conference.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~432</guid>
-      <pubDate>Mon, 15 Nov 2021 14:15:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20211110234527.jpg"/>
     </item>
   </channel>
 </rss>

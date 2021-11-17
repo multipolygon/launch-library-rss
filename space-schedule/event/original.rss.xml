@@ -73,6 +73,16 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"/>
     </item>
     <item>
+      <title>DART Pre-Launch News Conference</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA will host a media briefing about the upcoming launch of Double Asteroid Redirection Test (DART) mission.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~434</guid>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/dart_pre-launch_image_20211116204913.jpeg"/>
+    </item>
+    <item>
       <title>NG-16 Cygnus Release &amp; Reentry</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The Northrop Grumman NG-16 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</description>
@@ -81,16 +91,6 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <guid isPermaLink="false">~space-schedule~event~spacecraft_release~284</guid>
       <pubDate>Sat, 20 Nov 2021 16:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"/>
-    </item>
-    <item>
-      <title>SpaceX Crew-2 Crew News Conference</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>NASA’s SpaceX Crew-2 astronauts will answer media questions about their time aboard the International Space Station during a post-landing news conference.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~432</guid>
-      <pubDate>Mon, 15 Nov 2021 14:15:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20211110234527.jpg"/>
     </item>
   </channel>
 </rss>

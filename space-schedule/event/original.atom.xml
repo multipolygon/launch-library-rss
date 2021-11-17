@@ -77,6 +77,17 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <category term="spacecraft_undocking"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~press_event~434</id>
+    <title>DART Pre-Launch News Conference</title>
+    <updated>2021-11-23T00:00:00Z</updated>
+    <published>2021-11-23T00:00:00Z</published>
+    <content type="text">NASA will host a media briefing about the upcoming launch of Double Asteroid Redirection Test (DART) mission.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/dart_pre-launch_image_20211116204913.jpeg"/>
+    <category term="event"/>
+    <category term="press_event"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~spacecraft_release~284</id>
     <title>NG-16 Cygnus Release &amp; Reentry</title>
     <updated>2021-11-20T16:00:00Z</updated>
@@ -86,16 +97,5 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"/>
     <category term="event"/>
     <category term="spacecraft_release"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~press_event~432</id>
-    <title>SpaceX Crew-2 Crew News Conference</title>
-    <updated>2021-11-15T14:15:00Z</updated>
-    <published>2021-11-15T14:15:00Z</published>
-    <content type="text">NASA’s SpaceX Crew-2 astronauts will answer media questions about their time aboard the International Space Station during a post-landing news conference.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/spacex_crew-2_c_image_20211110234527.jpg"/>
-    <category term="event"/>
-    <category term="press_event"/>
   </entry>
 </feed>
