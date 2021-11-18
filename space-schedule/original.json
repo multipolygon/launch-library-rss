@@ -273,6 +273,41 @@
    }
   },
   {
+   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~6aa3fa12-04a7-4e87-9058-5aa24efb91aa",
+   "title": "Long March 3B (?) | ChinaSat 6D (?)",
+   "content_text": "-",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/6aa3fa12-04a7-4e87-9058-5aa24efb91aa.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
+   "date_published": "2021-11-24T16:00:00Z",
+   "date_modified": "2021-11-24T16:00:00Z",
+   "tags": [
+    "launch",
+    "china_aerospace_science_and_technology_corporation",
+    "government",
+    "long_march_3",
+    "launch_complex_2_lc_2"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "6aa3fa12-04a7-4e87-9058-5aa24efb91aa",
+    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~6aa3fa12-04a7-4e87-9058-5aa24efb91aa"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~launch~space_x~c4b2f90e-3385-4cbe-a89f-fc5f57da1bfb",
    "title": "Falcon 9 Block 5 | Double Asteroid Redirection Test (DART)",
    "content_text": "Double Asteroid Redirection Test (DART) mission is the first-ever mission to demonstrate the capability to deflect an asteroid by colliding a spacecraft with it at high speed, a technique known as a kinetic impactor.\r\n\r\nDART is a planetary defense-driven test of one of the technologies for preventing the Earth impact of a hazardous asteroid: the kinetic impactor.  DART's primary objective is to demonstrate a kinetic impact on a small asteroid.  The binary near-Earth asteroid (65803) Didymos is the target for DART.   While Didymos' primary body is approximately 800 meters across, its secondary body has a 150-meter size, which is more typical of the size of asteroids that could pose a more common hazard to Earth.\r\n\r\nThe DART spacecraft will achieve the kinetic impact by deliberately crashing itself into the moonlet at a speed of approximately 6 km/s, with the aid of an onboard camera and sophisticated autonomous navigation software. The collision will change the speed of the moonlet in its orbit around the main body by a fraction of one percent, enough to be measured using telescopes on Earth.",
@@ -343,6 +378,42 @@
    }
   },
   {
+   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~c39809ff-fb6e-4218-b869-a43a2b3d3518",
+   "title": "Long March 2C/YZ-1S (?) | Unknown",
+   "content_text": "-",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/c39809ff-fb6e-4218-b869-a43a2b3d3518.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg",
+   "date_published": "2021-11-22T23:37:00Z",
+   "date_modified": "2021-11-22T23:37:00Z",
+   "tags": [
+    "launch",
+    "china_aerospace_science_and_technology_corporation",
+    "government",
+    "long_march_2",
+    "long_march_2_c_yz_1_s",
+    "launch_area_4_sls_2_603"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "c39809ff-fb6e-4218-b869-a43a2b3d3518",
+    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~c39809ff-fb6e-4218-b869-a43a2b3d3518"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~spacecraft_release~284",
    "title": "NG-16 Cygnus Release & Reentry",
    "content_text": "The Northrop Grumman NG-16 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.",
@@ -374,6 +445,42 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_release/original.json"
    }
+  },
+  {
+   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~fcd23739-8135-43bb-9524-a5dba87d40ac",
+   "title": "Long March 4B (?) | Gaofen-11-03 (?)",
+   "content_text": "-",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/fcd23739-8135-43bb-9524-a5dba87d40ac.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190430065008.jpg",
+   "date_published": "2021-11-20T01:44:00Z",
+   "date_modified": "2021-11-20T01:44:00Z",
+   "tags": [
+    "launch",
+    "china_aerospace_science_and_technology_corporation",
+    "government",
+    "long_march_4",
+    "long_march_4_b",
+    "launch_complex_9"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190430065008.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "fcd23739-8135-43bb-9524-a5dba87d40ac",
+    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~fcd23739-8135-43bb-9524-a5dba87d40ac"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
+   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -384,7 +491,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 11,
+  "itemCount": 14,
   "pageNumber": 1,
   "pageCount": 1
  }

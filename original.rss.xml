@@ -102,6 +102,19 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png"/>
     </item>
     <item>
+      <title>Long March 3B (?) | ChinaSat 6D (?)</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/6aa3fa12-04a7-4e87-9058-5aa24efb91aa.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_technology_corporation</category>
+      <category>government</category>
+      <category>long_march_3</category>
+      <category>launch_complex_2_lc_2</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~6aa3fa12-04a7-4e87-9058-5aa24efb91aa</guid>
+      <pubDate>Wed, 24 Nov 2021 16:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
+    </item>
+    <item>
       <title>Falcon 9 Block 5 | Double Asteroid Redirection Test (DART)</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/c4b2f90e-3385-4cbe-a89f-fc5f57da1bfb.json</link>
       <description>Double Asteroid Redirection Test (DART) mission is the first-ever mission to demonstrate the capability to deflect an asteroid by colliding a spacecraft with it at high speed, a technique known as a kinetic impactor.&#xD;
@@ -131,6 +144,20 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/dart_pre-launch_image_20211116204913.jpeg"/>
     </item>
     <item>
+      <title>Long March 2C/YZ-1S (?) | Unknown</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/c39809ff-fb6e-4218-b869-a43a2b3d3518.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_technology_corporation</category>
+      <category>government</category>
+      <category>long_march_2</category>
+      <category>long_march_2_c_yz_1_s</category>
+      <category>launch_area_4_sls_2_603</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~c39809ff-fb6e-4218-b869-a43a2b3d3518</guid>
+      <pubDate>Mon, 22 Nov 2021 23:37:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg"/>
+    </item>
+    <item>
       <title>NG-16 Cygnus Release &amp; Reentry</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>The Northrop Grumman NG-16 Cygnus will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.</description>
@@ -139,6 +166,20 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
       <guid isPermaLink="false">~space-schedule~event~spacecraft_release~284</guid>
       <pubDate>Sat, 20 Nov 2021 16:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"/>
+    </item>
+    <item>
+      <title>Long March 4B (?) | Gaofen-11-03 (?)</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/fcd23739-8135-43bb-9524-a5dba87d40ac.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_technology_corporation</category>
+      <category>government</category>
+      <category>long_march_4</category>
+      <category>long_march_4_b</category>
+      <category>launch_complex_9</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~fcd23739-8135-43bb-9524-a5dba87d40ac</guid>
+      <pubDate>Sat, 20 Nov 2021 01:44:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190430065008.jpg"/>
     </item>
   </channel>
 </rss>
