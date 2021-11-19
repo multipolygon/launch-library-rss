@@ -9,7 +9,7 @@
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <entry>
     <id>12ed3429-fab7-4bc7-8d03-aa4dbe5f6228</id>
-    <title>Soyuz 2.1b/Fregat (?) | EKS 5 (Tundra 5) (?)</title>
+    <title>Soyuz 2.1b/Fregat | EKS 5 (Tundra 5)</title>
     <updated>2021-11-25T00:30:00Z</updated>
     <published>2021-11-25T00:30:00Z</published>
     <content type="text">-</content>
@@ -20,6 +20,6 @@
     <category term="government"/>
     <category term="soyuz"/>
     <category term="soyuz_2_1_b_fregat"/>
-    <category term="unknown_pad"/>
+    <category term="43_4_43_r"/>
   </entry>
 </feed>

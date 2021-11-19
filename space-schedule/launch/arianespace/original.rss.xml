@@ -6,7 +6,7 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Farianespace%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Wed, 01 Dec 2021 00:35:00 GMT</pubDate>
+    <pubDate>Thu, 02 Dec 2021 00:31:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
@@ -21,7 +21,7 @@
       <category>navigation</category>
       <category>soyuz_launch_complex</category>
       <guid isPermaLink="false">8464fae8-48ef-4e35-860c-07347f339ce2</guid>
-      <pubDate>Wed, 01 Dec 2021 00:35:00 GMT</pubDate>
+      <pubDate>Thu, 02 Dec 2021 00:31:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520stb_image_20190224025011.jpeg"/>
     </item>
   </channel>

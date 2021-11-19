@@ -10,7 +10,7 @@
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
-      <title>Soyuz 2.1b/Fregat (?) | EKS 5 (Tundra 5) (?)</title>
+      <title>Soyuz 2.1b/Fregat | EKS 5 (Tundra 5)</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/12ed3429-fab7-4bc7-8d03-aa4dbe5f6228.json</link>
       <description>-</description>
       <category>launch</category>
@@ -18,7 +18,7 @@
       <category>government</category>
       <category>soyuz</category>
       <category>soyuz_2_1_b_fregat</category>
-      <category>unknown_pad</category>
+      <category>43_4_43_r</category>
       <guid isPermaLink="false">12ed3429-fab7-4bc7-8d03-aa4dbe5f6228</guid>
       <pubDate>Thu, 25 Nov 2021 00:30:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png"/>

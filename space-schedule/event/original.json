@@ -8,8 +8,8 @@
    "content_text": "The Soyuz MS-20 spacecraft will dock to the International Space Station carrying ROSCOSMOS cosmonaut Alexander Misurkin as well as Japanese entrepreneur Yusaku Maezawa and his cameraman Yozo Hirano.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg",
-   "date_published": "2021-12-08T00:00:00Z",
-   "date_modified": "2021-12-08T00:00:00Z",
+   "date_published": "2021-12-08T11:10:00Z",
+   "date_modified": "2021-12-08T11:10:00Z",
    "tags": [
     "event",
     "docking"
@@ -264,6 +264,38 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_release/original.json"
    }
+  },
+  {
+   "id": "~space-schedule~event~celestial_event~435",
+   "title": "Partial Lunar Eclipse",
+   "content_text": "A partial lunar eclipse will be visible throughout much of the globe where the Moon appears above the horizon during the eclipse, including North and South America, Eastern Asia, Australia, and the Pacific Region. North America will have the best location to see the entirety of the eclipse.",
+   "url": "https://youtu.be/U079_8l8SNM",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/partial_lunar_e_image_20211119070248.jpg",
+   "date_published": "2021-11-19T09:00:00Z",
+   "date_modified": "2021-11-19T09:00:00Z",
+   "tags": [
+    "event",
+    "celestial_event"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/partial_lunar_e_image_20211119070248.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Celestial Event | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "435",
+    "global": "~space-schedule~event~celestial_event~435"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/celestial_event/original.json"
+   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -274,7 +306,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 8,
+  "itemCount": 9,
   "pageNumber": 1,
   "pageCount": 1
  }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Arianespace | Launch | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.atom.xml</id>
-  <updated>2021-12-01T00:35:00Z</updated>
+  <updated>2021-12-02T00:31:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Farianespace%2Foriginal.json"/>
@@ -10,8 +10,8 @@
   <entry>
     <id>8464fae8-48ef-4e35-860c-07347f339ce2</id>
     <title>Soyuz STB/Fregat | 2 x Galileo</title>
-    <updated>2021-12-01T00:35:00Z</updated>
-    <published>2021-12-01T00:35:00Z</published>
+    <updated>2021-12-02T00:31:00Z</updated>
+    <published>2021-12-02T00:31:00Z</published>
     <content type="text">Payload consists of two satellites for Europe's Galileo navigation system.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/8464fae8-48ef-4e35-860c-07347f339ce2.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520stb_image_20190224025011.jpeg"/>

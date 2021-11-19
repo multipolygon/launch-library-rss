@@ -8,8 +8,8 @@
    "content_text": "The Soyuz MS-20 spacecraft will dock to the International Space Station carrying ROSCOSMOS cosmonaut Alexander Misurkin as well as Japanese entrepreneur Yusaku Maezawa and his cameraman Yozo Hirano.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg",
-   "date_published": "2021-12-08T00:00:00Z",
-   "date_modified": "2021-12-08T00:00:00Z",
+   "date_published": "2021-12-08T11:10:00Z",
+   "date_modified": "2021-12-08T11:10:00Z",
    "tags": [
     "event",
     "docking"
@@ -41,8 +41,8 @@
    "content_text": "Payload consists of two satellites for Europe's Galileo navigation system.",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/8464fae8-48ef-4e35-860c-07347f339ce2.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520stb_image_20190224025011.jpeg",
-   "date_published": "2021-12-01T00:35:00Z",
-   "date_modified": "2021-12-01T00:35:00Z",
+   "date_published": "2021-12-02T00:31:00Z",
+   "date_modified": "2021-12-02T00:31:00Z",
    "tags": [
     "launch",
     "arianespace",
@@ -238,7 +238,7 @@
   },
   {
    "id": "~space-schedule~launch~russian_space_forces~12ed3429-fab7-4bc7-8d03-aa4dbe5f6228",
-   "title": "Soyuz 2.1b/Fregat (?) | EKS 5 (Tundra 5) (?)",
+   "title": "Soyuz 2.1b/Fregat | EKS 5 (Tundra 5)",
    "content_text": "-",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/12ed3429-fab7-4bc7-8d03-aa4dbe5f6228.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png",
@@ -250,7 +250,7 @@
     "government",
     "soyuz",
     "soyuz_2_1_b_fregat",
-    "unknown_pad"
+    "43_4_43_r"
    ],
    "attachments": [
     {
@@ -447,6 +447,42 @@
    }
   },
   {
+   "id": "~space-schedule~launch~astra_space~d08f82c9-efa1-44a8-9004-2fb3305f828a",
+   "title": "Astra Rocket 3 | STP-27AD2",
+   "content_text": "Space Force test payload contracted through the Defense Innovation Unit’s Other Transaction Agreement with Astra Space.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/d08f82c9-efa1-44a8-9004-2fb3305f828a.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
+   "date_published": "2021-11-20T05:00:00Z",
+   "date_modified": "2021-11-20T05:00:00Z",
+   "tags": [
+    "launch",
+    "astra_space",
+    "astra_rocket",
+    "astra_rocket_3",
+    "test_flight",
+    "launch_pad_3_b"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Astra Space | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "d08f82c9-efa1-44a8-9004-2fb3305f828a",
+    "global": "~space-schedule~launch~astra_space~d08f82c9-efa1-44a8-9004-2fb3305f828a"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/astra_space/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~fcd23739-8135-43bb-9524-a5dba87d40ac",
    "title": "Long March 4B (?) | Gaofen-11-03 (?)",
    "content_text": "-",
@@ -481,6 +517,38 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
    }
+  },
+  {
+   "id": "~space-schedule~event~celestial_event~435",
+   "title": "Partial Lunar Eclipse",
+   "content_text": "A partial lunar eclipse will be visible throughout much of the globe where the Moon appears above the horizon during the eclipse, including North and South America, Eastern Asia, Australia, and the Pacific Region. North America will have the best location to see the entirety of the eclipse.",
+   "url": "https://youtu.be/U079_8l8SNM",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/partial_lunar_e_image_20211119070248.jpg",
+   "date_published": "2021-11-19T09:00:00Z",
+   "date_modified": "2021-11-19T09:00:00Z",
+   "tags": [
+    "event",
+    "celestial_event"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/partial_lunar_e_image_20211119070248.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Celestial Event | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "435",
+    "global": "~space-schedule~event~celestial_event~435"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/celestial_event/original.json"
+   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -491,7 +559,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 14,
+  "itemCount": 16,
   "pageNumber": 1,
   "pageCount": 1
  }

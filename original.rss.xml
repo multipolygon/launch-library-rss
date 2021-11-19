@@ -7,7 +7,7 @@
     <description>All items.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Wed, 08 Dec 2021 00:00:00 GMT</pubDate>
+    <pubDate>Wed, 08 Dec 2021 11:10:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
@@ -17,7 +17,7 @@
       <category>event</category>
       <category>docking</category>
       <guid isPermaLink="false">~space-schedule~event~docking~290</guid>
-      <pubDate>Wed, 08 Dec 2021 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 08 Dec 2021 11:10:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg"/>
     </item>
     <item>
@@ -32,7 +32,7 @@
       <category>navigation</category>
       <category>soyuz_launch_complex</category>
       <guid isPermaLink="false">~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2</guid>
-      <pubDate>Wed, 01 Dec 2021 00:35:00 GMT</pubDate>
+      <pubDate>Thu, 02 Dec 2021 00:31:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520stb_image_20190224025011.jpeg"/>
     </item>
     <item>
@@ -88,7 +88,7 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"/>
     </item>
     <item>
-      <title>Soyuz 2.1b/Fregat (?) | EKS 5 (Tundra 5) (?)</title>
+      <title>Soyuz 2.1b/Fregat | EKS 5 (Tundra 5)</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/12ed3429-fab7-4bc7-8d03-aa4dbe5f6228.json</link>
       <description>-</description>
       <category>launch</category>
@@ -96,7 +96,7 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <category>government</category>
       <category>soyuz</category>
       <category>soyuz_2_1_b_fregat</category>
-      <category>unknown_pad</category>
+      <category>43_4_43_r</category>
       <guid isPermaLink="false">~space-schedule~launch~russian_space_forces~12ed3429-fab7-4bc7-8d03-aa4dbe5f6228</guid>
       <pubDate>Thu, 25 Nov 2021 00:30:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png"/>
@@ -168,6 +168,20 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"/>
     </item>
     <item>
+      <title>Astra Rocket 3 | STP-27AD2</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/d08f82c9-efa1-44a8-9004-2fb3305f828a.json</link>
+      <description>Space Force test payload contracted through the Defense Innovation Unit’s Other Transaction Agreement with Astra Space.</description>
+      <category>launch</category>
+      <category>astra_space</category>
+      <category>astra_rocket</category>
+      <category>astra_rocket_3</category>
+      <category>test_flight</category>
+      <category>launch_pad_3_b</category>
+      <guid isPermaLink="false">~space-schedule~launch~astra_space~d08f82c9-efa1-44a8-9004-2fb3305f828a</guid>
+      <pubDate>Sat, 20 Nov 2021 05:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg"/>
+    </item>
+    <item>
       <title>Long March 4B (?) | Gaofen-11-03 (?)</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/fcd23739-8135-43bb-9524-a5dba87d40ac.json</link>
       <description>-</description>
@@ -180,6 +194,16 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
       <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~fcd23739-8135-43bb-9524-a5dba87d40ac</guid>
       <pubDate>Sat, 20 Nov 2021 01:44:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190430065008.jpg"/>
+    </item>
+    <item>
+      <title>Partial Lunar Eclipse</title>
+      <link>https://youtu.be/U079_8l8SNM</link>
+      <description>A partial lunar eclipse will be visible throughout much of the globe where the Moon appears above the horizon during the eclipse, including North and South America, Eastern Asia, Australia, and the Pacific Region. North America will have the best location to see the entirety of the eclipse.</description>
+      <category>event</category>
+      <category>celestial_event</category>
+      <guid isPermaLink="false">~space-schedule~event~celestial_event~435</guid>
+      <pubDate>Fri, 19 Nov 2021 09:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/partial_lunar_e_image_20211119070248.jpg"/>
     </item>
   </channel>
 </rss>

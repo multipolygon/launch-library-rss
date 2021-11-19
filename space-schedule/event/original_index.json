@@ -8,8 +8,8 @@
    "title": "Docking | Event | Space Schedule",
    "content_text": "2 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg",
-   "date_published": "2021-12-08T00:00:00Z",
-   "date_modified": "2021-12-08T00:00:00Z",
+   "date_published": "2021-12-08T11:10:00Z",
+   "date_modified": "2021-12-08T11:10:00Z",
    "_geo": {},
    "_meta": {
     "itemCount": 2,
@@ -113,6 +113,22 @@
     "videoCount": 0,
     "imageCount": 0
    }
+  },
+  {
+   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/celestial_event/original.json",
+   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fcelestial_event%2Foriginal.json",
+   "title": "Celestial Event | Event | Space Schedule",
+   "content_text": "1 items",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/partial_lunar_e_image_20211119070248.jpg",
+   "date_published": "2021-11-19T09:00:00Z",
+   "date_modified": "2021-11-19T09:00:00Z",
+   "_geo": {},
+   "_meta": {
+    "itemCount": 1,
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 0
+   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -123,7 +139,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal_index.json",
  "_meta": {
-  "itemCount": 7,
+  "itemCount": 8,
   "pageNumber": 1,
   "pageCount": 1
  }

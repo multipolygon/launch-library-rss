@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Event</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/event/original.atom.xml</id>
-  <updated>2021-12-08T00:00:00Z</updated>
+  <updated>2021-12-08T11:10:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/event/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/event/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json"/>
@@ -11,8 +11,8 @@
   <entry>
     <id>~space-schedule~event~docking~290</id>
     <title>Soyuz MS-20 Docking</title>
-    <updated>2021-12-08T00:00:00Z</updated>
-    <published>2021-12-08T00:00:00Z</published>
+    <updated>2021-12-08T11:10:00Z</updated>
+    <published>2021-12-08T11:10:00Z</published>
     <content type="text">The Soyuz MS-20 spacecraft will dock to the International Space Station carrying ROSCOSMOS cosmonaut Alexander Misurkin as well as Japanese entrepreneur Yusaku Maezawa and his cameraman Yozo Hirano.</content>
     <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg"/>
@@ -97,5 +97,16 @@ It will then de-orbit and burn up in the atmosphere.</content>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"/>
     <category term="event"/>
     <category term="spacecraft_release"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~celestial_event~435</id>
+    <title>Partial Lunar Eclipse</title>
+    <updated>2021-11-19T09:00:00Z</updated>
+    <published>2021-11-19T09:00:00Z</published>
+    <content type="text">A partial lunar eclipse will be visible throughout much of the globe where the Moon appears above the horizon during the eclipse, including North and South America, Eastern Asia, Australia, and the Pacific Region. North America will have the best location to see the entirety of the eclipse.</content>
+    <link rel="alternate" href="https://youtu.be/U079_8l8SNM"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/partial_lunar_e_image_20211119070248.jpg"/>
+    <category term="event"/>
+    <category term="celestial_event"/>
   </entry>
 </feed>

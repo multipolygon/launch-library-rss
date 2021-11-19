@@ -7,7 +7,7 @@
     <description>All items in Space Schedule &gt; Event.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Wed, 08 Dec 2021 00:00:00 GMT</pubDate>
+    <pubDate>Wed, 08 Dec 2021 11:10:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
@@ -17,7 +17,7 @@
       <category>event</category>
       <category>docking</category>
       <guid isPermaLink="false">~space-schedule~event~docking~290</guid>
-      <pubDate>Wed, 08 Dec 2021 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 08 Dec 2021 11:10:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg"/>
     </item>
     <item>
@@ -91,6 +91,16 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <guid isPermaLink="false">~space-schedule~event~spacecraft_release~284</guid>
       <pubDate>Sat, 20 Nov 2021 16:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"/>
+    </item>
+    <item>
+      <title>Partial Lunar Eclipse</title>
+      <link>https://youtu.be/U079_8l8SNM</link>
+      <description>A partial lunar eclipse will be visible throughout much of the globe where the Moon appears above the horizon during the eclipse, including North and South America, Eastern Asia, Australia, and the Pacific Region. North America will have the best location to see the entirety of the eclipse.</description>
+      <category>event</category>
+      <category>celestial_event</category>
+      <guid isPermaLink="false">~space-schedule~event~celestial_event~435</guid>
+      <pubDate>Fri, 19 Nov 2021 09:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/partial_lunar_e_image_20211119070248.jpg"/>
     </item>
   </channel>
 </rss>
