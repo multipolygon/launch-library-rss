@@ -7,9 +7,23 @@
     <description>All feeds in Space Schedule &gt; Event.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Wed, 08 Dec 2021 11:10:00 GMT</pubDate>
+    <pubDate>Mon, 20 Dec 2021 03:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Spacecraft Landing | Event | Space Schedule</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fspacecraft_landing%2Foriginal.json</link>
+      <description>1 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_landing/original.json</guid>
+      <pubDate>Mon, 20 Dec 2021 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spacecraft Undocking | Event | Space Schedule</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fspacecraft_undocking%2Foriginal.json</link>
+      <description>2 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_undocking/original.json</guid>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Docking | Event | Space Schedule</title>
       <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fdocking%2Foriginal.json</link>
@@ -39,13 +53,6 @@
       <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Spacecraft Undocking | Event | Space Schedule</title>
-      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fspacecraft_undocking%2Foriginal.json</link>
-      <description>1 items</description>
-      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_undocking/original.json</guid>
-      <pubDate>Thu, 25 Nov 2021 11:18:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Press Event | Event | Space Schedule</title>
       <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json</link>
       <description>1 items</description>
@@ -58,13 +65,6 @@
       <description>1 items</description>
       <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_release/original.json</guid>
       <pubDate>Sat, 20 Nov 2021 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celestial Event | Event | Space Schedule</title>
-      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fcelestial_event%2Foriginal.json</link>
-      <description>1 items</description>
-      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/celestial_event/original.json</guid>
-      <pubDate>Fri, 19 Nov 2021 09:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -36,19 +36,4 @@
     <category term="long_march_2_c_yz_1_s"/>
     <category term="launch_area_4_sls_2_603"/>
   </entry>
-  <entry>
-    <id>fcd23739-8135-43bb-9524-a5dba87d40ac</id>
-    <title>Long March 4B (?) | Gaofen-11-03 (?)</title>
-    <updated>2021-11-20T01:44:00Z</updated>
-    <published>2021-11-20T01:44:00Z</published>
-    <content type="text">-</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/fcd23739-8135-43bb-9524-a5dba87d40ac.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190430065008.jpg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_science_and_technology_corporation"/>
-    <category term="government"/>
-    <category term="long_march_4"/>
-    <category term="long_march_4_b"/>
-    <category term="launch_complex_9"/>
-  </entry>
 </feed>

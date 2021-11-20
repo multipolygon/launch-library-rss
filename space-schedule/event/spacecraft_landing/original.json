@@ -1,16 +1,42 @@
 {
  "version": "https://jsonfeed.org/version/1",
  "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_landing/original.json",
- "title": "Spacecraft Landing",
- "items": [],
+ "title": "Spacecraft Landing | Event | Space Schedule",
+ "items": [
+  {
+   "id": "293",
+   "title": "Soyuz MS-20 Landing",
+   "content_text": "The Soyuz MS-20 spacecraft carrying ROSCOSMOS cosmonaut Alexander Misurkin as well as Japanese entrepreneur Yusaku Maezawa and his cameraman Yozo Hirano will land back on Earth near Dzhezkazgan, Kazakhstan.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_lan_image_20210519132757.jpg",
+   "date_published": "2021-12-20T03:00:00Z",
+   "date_modified": "2021-12-20T03:00:00Z",
+   "tags": [
+    "event",
+    "spacecraft_landing"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_lan_image_20210519132757.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1
+   }
+  }
+ ],
  "_feed_url": {
   "rss": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_landing/original.rss.xml",
   "atom": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_landing/original.atom.xml"
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fspacecraft_landing%2Foriginal.json",
  "_meta": {
-  "itemCount": 0,
+  "itemCount": 1,
   "pageNumber": 1,
-  "pageCount": 0
+  "pageCount": 1
  }
 }

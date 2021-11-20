@@ -28,12 +28,13 @@
     <item>
       <title>Soyuz 2.1b/Fregat | EKS 5 (Tundra 5)</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/12ed3429-fab7-4bc7-8d03-aa4dbe5f6228.json</link>
-      <description>-</description>
+      <description>The Tundra or EKS (meaning Unified Space System) series of satellites is the next generation of Russian early warning satellites.</description>
       <category>launch</category>
       <category>russian_space_forces</category>
       <category>government</category>
       <category>soyuz</category>
       <category>soyuz_2_1_b_fregat</category>
+      <category>government_top_secret</category>
       <category>43_4_43_r</category>
       <guid isPermaLink="false">~space-schedule~launch~russian_space_forces~12ed3429-fab7-4bc7-8d03-aa4dbe5f6228</guid>
       <pubDate>Thu, 25 Nov 2021 00:30:00 GMT</pubDate>
@@ -53,6 +54,24 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
     </item>
     <item>
+      <title>Soyuz 2.1b | Uzlovoy Module (UM) "Prichal"</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/89ee335d-53bd-49e0-a774-921321f5926f.json</link>
+      <description>The UM (Uzlovoy Module) or NM (Node Module) is a node to be added to the Russian part of the ISS complex. It is also named Prichal.
+
+UM will be delivered by a modified Progress space tug, called Progress-M-UM. The UM will be docked to the nadir port of the MLM (Nauka) module, providing four ports to mount additional modules and one docking port for cargo and crew spacecrafts.</description>
+      <category>launch</category>
+      <category>russian_federal_space_agency_roscosmos</category>
+      <category>government</category>
+      <category>soyuz</category>
+      <category>soyuz_2_1_b</category>
+      <category>human_exploration</category>
+      <category>31_6</category>
+      <category>international_space_station</category>
+      <guid isPermaLink="false">~space-schedule~launch~russian_federal_space_agency_roscosmos~89ee335d-53bd-49e0-a774-921321f5926f</guid>
+      <pubDate>Wed, 24 Nov 2021 13:06:36 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg"/>
+    </item>
+    <item>
       <title>Falcon 9 Block 5 | Double Asteroid Redirection Test (DART)</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/c4b2f90e-3385-4cbe-a89f-fc5f57da1bfb.json</link>
       <description>Double Asteroid Redirection Test (DART) mission is the first-ever mission to demonstrate the capability to deflect an asteroid by colliding a spacecraft with it at high speed, a technique known as a kinetic impactor.&#xD;
@@ -68,7 +87,7 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
       <category>robotic_exploration</category>
       <category>space_launch_complex_4_e</category>
       <guid isPermaLink="false">~space-schedule~launch~space_x~c4b2f90e-3385-4cbe-a89f-fc5f57da1bfb</guid>
-      <pubDate>Wed, 24 Nov 2021 06:20:00 GMT</pubDate>
+      <pubDate>Wed, 24 Nov 2021 06:21:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg"/>
     </item>
     <item>
@@ -84,34 +103,6 @@ The DART spacecraft will achieve the kinetic impact by deliberately crashing its
       <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~c39809ff-fb6e-4218-b869-a43a2b3d3518</guid>
       <pubDate>Mon, 22 Nov 2021 23:37:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg"/>
-    </item>
-    <item>
-      <title>Astra Rocket 3 | STP-27AD2</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/d08f82c9-efa1-44a8-9004-2fb3305f828a.json</link>
-      <description>Space Force test payload contracted through the Defense Innovation Unit’s Other Transaction Agreement with Astra Space.</description>
-      <category>launch</category>
-      <category>astra_space</category>
-      <category>astra_rocket</category>
-      <category>astra_rocket_3</category>
-      <category>test_flight</category>
-      <category>launch_pad_3_b</category>
-      <guid isPermaLink="false">~space-schedule~launch~astra_space~d08f82c9-efa1-44a8-9004-2fb3305f828a</guid>
-      <pubDate>Sat, 20 Nov 2021 05:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg"/>
-    </item>
-    <item>
-      <title>Long March 4B (?) | Gaofen-11-03 (?)</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/fcd23739-8135-43bb-9524-a5dba87d40ac.json</link>
-      <description>-</description>
-      <category>launch</category>
-      <category>china_aerospace_science_and_technology_corporation</category>
-      <category>government</category>
-      <category>long_march_4</category>
-      <category>long_march_4_b</category>
-      <category>launch_complex_9</category>
-      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~fcd23739-8135-43bb-9524-a5dba87d40ac</guid>
-      <pubDate>Sat, 20 Nov 2021 01:44:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190430065008.jpg"/>
     </item>
   </channel>
 </rss>

@@ -42,7 +42,7 @@
   {
    "id": "~space-schedule~launch~russian_space_forces~12ed3429-fab7-4bc7-8d03-aa4dbe5f6228",
    "title": "Soyuz 2.1b/Fregat | EKS 5 (Tundra 5)",
-   "content_text": "-",
+   "content_text": "The Tundra or EKS (meaning Unified Space System) series of satellites is the next generation of Russian early warning satellites.",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/12ed3429-fab7-4bc7-8d03-aa4dbe5f6228.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png",
    "date_published": "2021-11-25T00:30:00Z",
@@ -53,6 +53,7 @@
     "government",
     "soyuz",
     "soyuz_2_1_b_fregat",
+    "government_top_secret",
     "43_4_43_r"
    ],
    "attachments": [
@@ -111,13 +112,51 @@
    }
   },
   {
+   "id": "~space-schedule~launch~russian_federal_space_agency_roscosmos~89ee335d-53bd-49e0-a774-921321f5926f",
+   "title": "Soyuz 2.1b | Uzlovoy Module (UM) \"Prichal\"",
+   "content_text": "The UM (Uzlovoy Module) or NM (Node Module) is a node to be added to the Russian part of the ISS complex. It is also named Prichal.\n\nUM will be delivered by a modified Progress space tug, called Progress-M-UM. The UM will be docked to the nadir port of the MLM (Nauka) module, providing four ports to mount additional modules and one docking port for cargo and crew spacecrafts.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/89ee335d-53bd-49e0-a774-921321f5926f.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg",
+   "date_published": "2021-11-24T13:06:36Z",
+   "date_modified": "2021-11-24T13:06:36Z",
+   "tags": [
+    "launch",
+    "russian_federal_space_agency_roscosmos",
+    "government",
+    "soyuz",
+    "soyuz_2_1_b",
+    "human_exploration",
+    "31_6",
+    "international_space_station"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "89ee335d-53bd-49e0-a774-921321f5926f",
+    "global": "~space-schedule~launch~russian_federal_space_agency_roscosmos~89ee335d-53bd-49e0-a774-921321f5926f"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~launch~space_x~c4b2f90e-3385-4cbe-a89f-fc5f57da1bfb",
    "title": "Falcon 9 Block 5 | Double Asteroid Redirection Test (DART)",
    "content_text": "Double Asteroid Redirection Test (DART) mission is the first-ever mission to demonstrate the capability to deflect an asteroid by colliding a spacecraft with it at high speed, a technique known as a kinetic impactor.\r\n\r\nDART is a planetary defense-driven test of one of the technologies for preventing the Earth impact of a hazardous asteroid: the kinetic impactor.  DART's primary objective is to demonstrate a kinetic impact on a small asteroid.  The binary near-Earth asteroid (65803) Didymos is the target for DART.   While Didymos' primary body is approximately 800 meters across, its secondary body has a 150-meter size, which is more typical of the size of asteroids that could pose a more common hazard to Earth.\r\n\r\nThe DART spacecraft will achieve the kinetic impact by deliberately crashing itself into the moonlet at a speed of approximately 6 km/s, with the aid of an onboard camera and sophisticated autonomous navigation software. The collision will change the speed of the moonlet in its orbit around the main body by a fraction of one percent, enough to be measured using telescopes on Earth.",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/c4b2f90e-3385-4cbe-a89f-fc5f57da1bfb.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-   "date_published": "2021-11-24T06:20:00Z",
-   "date_modified": "2021-11-24T06:20:00Z",
+   "date_published": "2021-11-24T06:21:00Z",
+   "date_modified": "2021-11-24T06:21:00Z",
    "tags": [
     "launch",
     "space_x",
@@ -182,78 +221,6 @@
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
    }
-  },
-  {
-   "id": "~space-schedule~launch~astra_space~d08f82c9-efa1-44a8-9004-2fb3305f828a",
-   "title": "Astra Rocket 3 | STP-27AD2",
-   "content_text": "Space Force test payload contracted through the Defense Innovation Unit’s Other Transaction Agreement with Astra Space.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/d08f82c9-efa1-44a8-9004-2fb3305f828a.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
-   "date_published": "2021-11-20T05:00:00Z",
-   "date_modified": "2021-11-20T05:00:00Z",
-   "tags": [
-    "launch",
-    "astra_space",
-    "astra_rocket",
-    "astra_rocket_3",
-    "test_flight",
-    "launch_pad_3_b"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Astra Space | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "d08f82c9-efa1-44a8-9004-2fb3305f828a",
-    "global": "~space-schedule~launch~astra_space~d08f82c9-efa1-44a8-9004-2fb3305f828a"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/astra_space/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~fcd23739-8135-43bb-9524-a5dba87d40ac",
-   "title": "Long March 4B (?) | Gaofen-11-03 (?)",
-   "content_text": "-",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/fcd23739-8135-43bb-9524-a5dba87d40ac.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190430065008.jpg",
-   "date_published": "2021-11-20T01:44:00Z",
-   "date_modified": "2021-11-20T01:44:00Z",
-   "tags": [
-    "launch",
-    "china_aerospace_science_and_technology_corporation",
-    "government",
-    "long_march_4",
-    "long_march_4_b",
-    "launch_complex_9"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190430065008.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "fcd23739-8135-43bb-9524-a5dba87d40ac",
-    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~fcd23739-8135-43bb-9524-a5dba87d40ac"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -264,7 +231,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 7,
+  "itemCount": 6,
   "pageNumber": 1,
   "pageCount": 1
  }

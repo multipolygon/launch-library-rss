@@ -12,12 +12,13 @@
     <item>
       <title>Soyuz 2.1b/Fregat | EKS 5 (Tundra 5)</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/12ed3429-fab7-4bc7-8d03-aa4dbe5f6228.json</link>
-      <description>-</description>
+      <description>The Tundra or EKS (meaning Unified Space System) series of satellites is the next generation of Russian early warning satellites.</description>
       <category>launch</category>
       <category>russian_space_forces</category>
       <category>government</category>
       <category>soyuz</category>
       <category>soyuz_2_1_b_fregat</category>
+      <category>government_top_secret</category>
       <category>43_4_43_r</category>
       <guid isPermaLink="false">12ed3429-fab7-4bc7-8d03-aa4dbe5f6228</guid>
       <pubDate>Thu, 25 Nov 2021 00:30:00 GMT</pubDate>

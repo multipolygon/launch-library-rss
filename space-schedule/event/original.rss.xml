@@ -7,9 +7,29 @@
     <description>All items in Space Schedule &gt; Event.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Wed, 08 Dec 2021 11:10:00 GMT</pubDate>
+    <pubDate>Mon, 20 Dec 2021 03:00:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Soyuz MS-20 Landing</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The Soyuz MS-20 spacecraft carrying ROSCOSMOS cosmonaut Alexander Misurkin as well as Japanese entrepreneur Yusaku Maezawa and his cameraman Yozo Hirano will land back on Earth near Dzhezkazgan, Kazakhstan.</description>
+      <category>event</category>
+      <category>spacecraft_landing</category>
+      <guid isPermaLink="false">~space-schedule~event~spacecraft_landing~293</guid>
+      <pubDate>Mon, 20 Dec 2021 03:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_lan_image_20210519132757.jpg"/>
+    </item>
+    <item>
+      <title>Soyuz MS-20 Undocking</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>The Soyuz MS-20 spacecraft will undock from the International Space Station carrying ROSCOSMOS cosmonaut Alexander Misurkin as well as Japanese entrepreneur Yusaku Maezawa and his cameraman Yozo Hirano.</description>
+      <category>event</category>
+      <category>spacecraft_undocking</category>
+      <guid isPermaLink="false">~space-schedule~event~spacecraft_undocking~291</guid>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_und_image_20210519132331.jpeg"/>
+    </item>
     <item>
       <title>Soyuz MS-20 Docking</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
@@ -47,7 +67,7 @@
       <category>event</category>
       <category>docking</category>
       <guid isPermaLink="false">~space-schedule~event~docking~287</guid>
-      <pubDate>Fri, 26 Nov 2021 15:25:00 GMT</pubDate>
+      <pubDate>Fri, 26 Nov 2021 15:26:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress-m-um__image_20210519124545.jpg"/>
     </item>
     <item>
@@ -91,16 +111,6 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <guid isPermaLink="false">~space-schedule~event~spacecraft_release~284</guid>
       <pubDate>Sat, 20 Nov 2021 16:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ng-16_cygnus_re_image_20210519121614.jpg"/>
-    </item>
-    <item>
-      <title>Partial Lunar Eclipse</title>
-      <link>https://youtu.be/U079_8l8SNM</link>
-      <description>A partial lunar eclipse will be visible throughout much of the globe where the Moon appears above the horizon during the eclipse, including North and South America, Eastern Asia, Australia, and the Pacific Region. North America will have the best location to see the entirety of the eclipse.</description>
-      <category>event</category>
-      <category>celestial_event</category>
-      <guid isPermaLink="false">~space-schedule~event~celestial_event~435</guid>
-      <pubDate>Fri, 19 Nov 2021 09:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/partial_lunar_e_image_20211119070248.jpg"/>
     </item>
   </channel>
 </rss>
