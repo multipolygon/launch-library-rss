@@ -7,9 +7,16 @@
     <description>All feeds in Space Schedule &gt; Launch.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Thu, 02 Dec 2021 00:31:00 GMT</pubDate>
+    <pubDate>Wed, 22 Dec 2021 09:30:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>China Aerospace Science and Technology Corporation | Launch | Space Schedule</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_technology_corporation%2Foriginal.json</link>
+      <description>3 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json</guid>
+      <pubDate>Wed, 22 Dec 2021 09:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Arianespace | Launch | Space Schedule</title>
       <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Farianespace%2Foriginal.json</link>
@@ -25,11 +32,11 @@
       <pubDate>Thu, 25 Nov 2021 00:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>China Aerospace Science and Technology Corporation | Launch | Space Schedule</title>
-      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_technology_corporation%2Foriginal.json</link>
-      <description>2 items</description>
-      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json</guid>
-      <pubDate>Wed, 24 Nov 2021 16:00:00 GMT</pubDate>
+      <title>Galactic Energy | Launch | Space Schedule</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fgalactic_energy%2Foriginal.json</link>
+      <description>1 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/galactic_energy/original.json</guid>
+      <pubDate>Wed, 24 Nov 2021 23:30:00 GMT</pubDate>
     </item>
     <item>
       <title>Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule</title>

@@ -7,22 +7,22 @@
     <description>All subcategories in category.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Mon, 20 Dec 2021 03:00:00 GMT</pubDate>
+    <pubDate>Wed, 22 Dec 2021 09:30:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <item>
-      <title>Event</title>
-      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Foriginal_index.json</link>
-      <description>8 items</description>
-      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/original_index.json</guid>
-      <pubDate>Mon, 20 Dec 2021 03:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Launch</title>
       <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Foriginal_index.json</link>
-      <description>5 items</description>
+      <description>6 items</description>
       <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/launch/original_index.json</guid>
-      <pubDate>Thu, 02 Dec 2021 00:31:00 GMT</pubDate>
+      <pubDate>Wed, 22 Dec 2021 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Event</title>
+      <link>https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Foriginal_index.json</link>
+      <description>7 items</description>
+      <guid isPermaLink="false">https://launch-library-rss.multipolygon.net/space-schedule/event/original_index.json</guid>
+      <pubDate>Tue, 21 Dec 2021 22:20:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

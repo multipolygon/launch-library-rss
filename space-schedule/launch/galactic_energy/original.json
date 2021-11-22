@@ -1,0 +1,45 @@
+{
+ "title": "Galactic Energy | Launch | Space Schedule",
+ "items": [
+  {
+   "id": "407d5c9c-61df-4439-b780-5fe41c4b12d5",
+   "title": "Ceres-1 | Fangzhou-2F (?)",
+   "content_text": "Fangzhou 2F is a Chinese technology verification nanosatellite developed by Space Ark.\r\n\r\nThe Fangzhou 2F key technology verification satellite is designed based on the 6U CubeSat form factor to provide on-orbit verification of technologies planned for the company's Ark series of small and medium returnable spacecraft.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/407d5c9c-61df-4439-b780-5fe41c4b12d5.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20201106095300.jpeg",
+   "date_published": "2021-11-24T23:30:00Z",
+   "date_modified": "2021-11-24T23:30:00Z",
+   "tags": [
+    "launch",
+    "galactic_energy",
+    "commercial",
+    "ceres_1",
+    "technology",
+    "unknown_pad"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20201106095300.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1
+   }
+  }
+ ],
+ "version": "https://jsonfeed.org/version/1",
+ "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/launch/galactic_energy/original.json",
+ "_feed_url": {
+  "rss": "https://launch-library-rss.multipolygon.net/space-schedule/launch/galactic_energy/original.rss.xml",
+  "atom": "https://launch-library-rss.multipolygon.net/space-schedule/launch/galactic_energy/original.atom.xml"
+ },
+ "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fgalactic_energy%2Foriginal.json",
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ }
+}

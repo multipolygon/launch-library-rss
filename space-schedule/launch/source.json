@@ -1,5 +1,5 @@
 {
-    "count": 7,
+    "count": 8,
     "next": null,
     "previous": null,
     "results": [
@@ -270,18 +270,18 @@
             ]
         },
         {
-            "id": "6aa3fa12-04a7-4e87-9058-5aa24efb91aa",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/6aa3fa12-04a7-4e87-9058-5aa24efb91aa.json",
+            "id": "407d5c9c-61df-4439-b780-5fe41c4b12d5",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/407d5c9c-61df-4439-b780-5fe41c4b12d5.json",
             "launch_library_id": null,
-            "slug": "long-march-3b-chinasat-6d",
-            "name": "Long March 3B (?) | ChinaSat 6D (?)",
+            "slug": "ceres-1-fangzhou-2f",
+            "name": "Ceres-1 | Fangzhou-2F (?)",
             "status": {
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-11-24T16:15:00Z",
-            "window_end": "2021-11-24T19:00:00Z",
-            "window_start": "2021-11-24T16:00:00Z",
+            "net": "2021-11-24T23:40:00Z",
+            "window_end": "2021-11-25T00:17:00Z",
+            "window_start": "2021-11-24T23:30:00Z",
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,
@@ -290,48 +290,60 @@
             "failreason": "",
             "hashtag": null,
             "launch_service_provider": {
-                "id": 88,
-                "url": "https://ll.thespacedevs.com/2.2.0/agencies/88.json",
-                "name": "China Aerospace Science and Technology Corporation",
-                "type": "Government"
+                "id": 1021,
+                "url": "https://ll.thespacedevs.com/2.2.0/agencies/1021.json",
+                "name": "Galactic Energy",
+                "type": "Commercial"
             },
             "rocket": {
-                "id": 2753,
+                "id": 3100,
                 "configuration": {
-                    "id": 50,
-                    "launch_library_id": 69,
-                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/50.json",
-                    "name": "Long March 3",
-                    "family": "Long March 3",
-                    "full_name": "Long March 3B/E",
-                    "variant": "B/E"
+                    "id": 461,
+                    "launch_library_id": null,
+                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/461.json",
+                    "name": "Ceres-1",
+                    "family": "Ceres-1",
+                    "full_name": "Ceres-1",
+                    "variant": "Ceres-1"
                 }
             },
-            "mission": null,
+            "mission": {
+                "id": 5889,
+                "launch_library_id": null,
+                "name": "Fangzhou-2F",
+                "description": "Fangzhou 2F is a Chinese technology verification nanosatellite developed by Space Ark.\r\n\r\nThe Fangzhou 2F key technology verification satellite is designed based on the 6U CubeSat form factor to provide on-orbit verification of technologies planned for the company's Ark series of small and medium returnable spacecraft.",
+                "launch_designator": null,
+                "type": "Technology",
+                "orbit": {
+                    "id": 17,
+                    "name": "Sun-Synchronous Orbit",
+                    "abbrev": "SSO"
+                }
+            },
             "pad": {
-                "id": 45,
-                "url": "https://ll.thespacedevs.com/2.2.0/pad/45.json",
+                "id": 142,
+                "url": "https://ll.thespacedevs.com/2.2.0/pad/142.json",
                 "agency_id": null,
-                "name": "Launch Complex 2 (LC-2)",
+                "name": "Unknown Pad",
                 "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center",
-                "map_url": "https://www.google.com/maps/?q=28.246017,102.026556",
-                "latitude": "28.246017",
-                "longitude": "102.026556",
+                "wiki_url": "https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center",
+                "map_url": "http://maps.google.com/maps?q=40.9605556,100.2961393",
+                "latitude": "40.9605556",
+                "longitude": "100.2961393",
                 "location": {
-                    "id": 16,
-                    "url": "https://ll.thespacedevs.com/2.2.0/location/16.json",
-                    "name": "Xichang Satellite Launch Center, People's Republic of China",
+                    "id": 17,
+                    "url": "https://ll.thespacedevs.com/2.2.0/location/17.json",
+                    "name": "Jiuquan, People's Republic of China",
                     "country_code": "CHN",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg",
-                    "total_launch_count": 164,
+                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg",
+                    "total_launch_count": 150,
                     "total_landing_count": 0
                 },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_45_20200803143520.jpg",
-                "total_launch_count": 86
+                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_142_20200803143244.jpg",
+                "total_launch_count": 1
             },
             "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20201106095300.jpeg",
             "infographic": null,
             "program": []
         },
@@ -410,6 +422,72 @@
             },
             "webcast_live": false,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png",
+            "infographic": null,
+            "program": []
+        },
+        {
+            "id": "6aa3fa12-04a7-4e87-9058-5aa24efb91aa",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/6aa3fa12-04a7-4e87-9058-5aa24efb91aa.json",
+            "launch_library_id": null,
+            "slug": "long-march-3b-chinasat-6d",
+            "name": "Long March 3B (?) | ChinaSat 6D (?)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-11-26T16:40:00Z",
+            "window_end": "2021-11-26T17:05:00Z",
+            "window_start": "2021-11-26T16:30:00Z",
+            "inhold": false,
+            "tbdtime": false,
+            "tbddate": false,
+            "probability": null,
+            "holdreason": "",
+            "failreason": "",
+            "hashtag": null,
+            "launch_service_provider": {
+                "id": 88,
+                "url": "https://ll.thespacedevs.com/2.2.0/agencies/88.json",
+                "name": "China Aerospace Science and Technology Corporation",
+                "type": "Government"
+            },
+            "rocket": {
+                "id": 2753,
+                "configuration": {
+                    "id": 50,
+                    "launch_library_id": 69,
+                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/50.json",
+                    "name": "Long March 3",
+                    "family": "Long March 3",
+                    "full_name": "Long March 3B/E",
+                    "variant": "B/E"
+                }
+            },
+            "mission": null,
+            "pad": {
+                "id": 45,
+                "url": "https://ll.thespacedevs.com/2.2.0/pad/45.json",
+                "agency_id": null,
+                "name": "Launch Complex 2 (LC-2)",
+                "info_url": null,
+                "wiki_url": "https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center",
+                "map_url": "https://www.google.com/maps/?q=28.246017,102.026556",
+                "latitude": "28.246017",
+                "longitude": "102.026556",
+                "location": {
+                    "id": 16,
+                    "url": "https://ll.thespacedevs.com/2.2.0/location/16.json",
+                    "name": "Xichang Satellite Launch Center, People's Republic of China",
+                    "country_code": "CHN",
+                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg",
+                    "total_launch_count": 164,
+                    "total_landing_count": 0
+                },
+                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_45_20200803143520.jpg",
+                "total_launch_count": 86
+            },
+            "webcast_live": false,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
             "infographic": null,
             "program": []
         },
