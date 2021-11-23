@@ -54,34 +54,6 @@
     "videoCount": 0,
     "imageCount": 1
    }
-  },
-  {
-   "id": "c39809ff-fb6e-4218-b869-a43a2b3d3518",
-   "title": "Long March 2C/YZ-1S (?) | Unknown",
-   "content_text": "-",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/c39809ff-fb6e-4218-b869-a43a2b3d3518.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg",
-   "date_published": "2021-11-22T23:37:00Z",
-   "date_modified": "2021-11-22T23:37:00Z",
-   "tags": [
-    "launch",
-    "china_aerospace_science_and_technology_corporation",
-    "government",
-    "long_march_2",
-    "long_march_2_c_yz_1_s",
-    "launch_area_4_sls_2_603"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1
-   }
   }
  ],
  "version": "https://jsonfeed.org/version/1",
@@ -92,7 +64,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_technology_corporation%2Foriginal.json",
  "_meta": {
-  "itemCount": 3,
+  "itemCount": 2,
   "pageNumber": 1,
   "pageCount": 1
  }

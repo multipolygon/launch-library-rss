@@ -1,74 +1,8 @@
 {
-    "count": 8,
+    "count": 7,
     "next": null,
     "previous": null,
     "results": [
-        {
-            "id": "c39809ff-fb6e-4218-b869-a43a2b3d3518",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/c39809ff-fb6e-4218-b869-a43a2b3d3518.json",
-            "launch_library_id": null,
-            "slug": "long-march-2cyz-1s-unknown",
-            "name": "Long March 2C/YZ-1S (?) | Unknown",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-11-22T23:50:00Z",
-            "window_end": "2021-11-23T00:04:00Z",
-            "window_start": "2021-11-22T23:37:00Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": null,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 88,
-                "url": "https://ll.thespacedevs.com/2.2.0/agencies/88.json",
-                "name": "China Aerospace Science and Technology Corporation",
-                "type": "Government"
-            },
-            "rocket": {
-                "id": 2714,
-                "configuration": {
-                    "id": 156,
-                    "launch_library_id": 192,
-                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/156.json",
-                    "name": "Long March 2C/YZ-1S",
-                    "family": "Long March 2",
-                    "full_name": "Long March 2C/YZ-1S",
-                    "variant": "C/YZ-1S"
-                }
-            },
-            "mission": null,
-            "pad": {
-                "id": 22,
-                "url": "https://ll.thespacedevs.com/2.2.0/pad/22.json",
-                "agency_id": null,
-                "name": "Launch Area 4 (SLS-2 / 603)",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4",
-                "map_url": "http://maps.google.com/maps?q=40.960556,100.298333",
-                "latitude": "40.960556",
-                "longitude": "100.298333",
-                "location": {
-                    "id": 17,
-                    "url": "https://ll.thespacedevs.com/2.2.0/location/17.json",
-                    "name": "Jiuquan, People's Republic of China",
-                    "country_code": "CHN",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_17_20200803142429.jpg",
-                    "total_launch_count": 150,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_22_20200803143437.jpg",
-                "total_launch_count": 73
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg",
-            "infographic": null,
-            "program": []
-        },
         {
             "id": "c4b2f90e-3385-4cbe-a89f-fc5f57da1bfb",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/c4b2f90e-3385-4cbe-a89f-fc5f57da1bfb.json",
@@ -85,7 +19,7 @@
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,
-            "probability": -1,
+            "probability": 90,
             "holdreason": "",
             "failreason": "",
             "hashtag": null,

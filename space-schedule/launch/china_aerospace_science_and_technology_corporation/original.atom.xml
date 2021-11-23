@@ -35,19 +35,4 @@
     <category term="long_march_3"/>
     <category term="launch_complex_2_lc_2"/>
   </entry>
-  <entry>
-    <id>c39809ff-fb6e-4218-b869-a43a2b3d3518</id>
-    <title>Long March 2C/YZ-1S (?) | Unknown</title>
-    <updated>2021-11-22T23:37:00Z</updated>
-    <published>2021-11-22T23:37:00Z</published>
-    <content type="text">-</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/c39809ff-fb6e-4218-b869-a43a2b3d3518.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_science_and_technology_corporation"/>
-    <category term="government"/>
-    <category term="long_march_2"/>
-    <category term="long_march_2_c_yz_1_s"/>
-    <category term="launch_area_4_sls_2_603"/>
-  </entry>
 </feed>
