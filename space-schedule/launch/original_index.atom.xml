@@ -17,6 +17,22 @@
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_technology_corporation%2Foriginal.json"/>
   </entry>
   <entry>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/khrunichev_state_research_and_production_space_center/original.json</id>
+    <title>Khrunichev State Research and Production Space Center | Launch | Space Schedule</title>
+    <updated>2021-12-12T12:09:00Z</updated>
+    <published>2021-12-12T12:09:00Z</published>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fkhrunichev_state_research_and_production_space_center%2Foriginal.json"/>
+  </entry>
+  <entry>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/blue_origin/original.json</id>
+    <title>Blue Origin | Launch | Space Schedule</title>
+    <updated>2021-12-09T15:00:00Z</updated>
+    <published>2021-12-09T15:00:00Z</published>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fblue_origin%2Foriginal.json"/>
+  </entry>
+  <entry>
     <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json</id>
     <title>Arianespace | Launch | Space Schedule</title>
     <updated>2021-12-02T00:31:00Z</updated>
@@ -47,13 +63,5 @@
     <published>2021-11-24T13:06:36Z</published>
     <content type="text">1 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Frussian_federal_space_agency_roscosmos%2Foriginal.json"/>
-  </entry>
-  <entry>
-    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json</id>
-    <title>SpaceX | Launch | Space Schedule</title>
-    <updated>2021-11-24T06:21:00Z</updated>
-    <published>2021-11-24T06:21:00Z</published>
-    <content type="text">1 items</content>
-    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Fspace_x%2Foriginal.json"/>
   </entry>
 </feed>

@@ -7,9 +7,19 @@
     <description>All items in Space Schedule &gt; Event.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Tue, 21 Dec 2021 22:20:00 GMT</pubDate>
+    <pubDate>Wed, 22 Dec 2021 09:30:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>CRS-24 Dragon Docking</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>Following its launch atop a Falcon 9, the CRS-24 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.</description>
+      <category>event</category>
+      <category>docking</category>
+      <guid isPermaLink="false">~space-schedule~event~docking~289</guid>
+      <pubDate>Wed, 22 Dec 2021 09:30:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-24_dragon_d_image_20210519131141.jpeg"/>
+    </item>
     <item>
       <title>Progress-M-UM Undocking</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
@@ -101,16 +111,6 @@ It will then de-orbit and burn up in the atmosphere.</description>
       <guid isPermaLink="false">~space-schedule~event~spacecraft_undocking~286</guid>
       <pubDate>Thu, 25 Nov 2021 11:18:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"/>
-    </item>
-    <item>
-      <title>DART Pre-Launch News Conference</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>NASA will host a media briefing about the upcoming launch of Double Asteroid Redirection Test (DART) mission.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~434</guid>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/dart_pre-launch_image_20211116204913.jpeg"/>
     </item>
   </channel>
 </rss>

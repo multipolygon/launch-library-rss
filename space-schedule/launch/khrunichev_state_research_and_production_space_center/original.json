@@ -1,16 +1,46 @@
 {
+ "title": "Khrunichev State Research and Production Space Center | Launch | Space Schedule",
+ "items": [
+  {
+   "id": "700b3892-cff9-4164-b1cb-c60bb3d81635",
+   "title": "Proton-M/Briz-M | Ekspress-AMU3 & AMU7",
+   "content_text": "The Ekspress-AMU 3 and Ekspress-AMU 7 are two communications satellite for russian domestic communication services. While the spacecraft themselves are built by russian RSCC (Kosmicheskiya Svyaz), the communication payloads are built by Thales Alenia Space.\r\n\r\nBoth satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 20 C-band transponders. They will be located at 96.5° and 145° East respectively.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/700b3892-cff9-4164-b1cb-c60bb3d81635.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/proton-m2520briz-m_image_20190224012317.jpeg",
+   "date_published": "2021-12-12T12:09:00Z",
+   "date_modified": "2021-12-12T12:09:00Z",
+   "tags": [
+    "launch",
+    "khrunichev_state_research_and_production_space_center",
+    "government",
+    "proton",
+    "proton_m_briz_m",
+    "communications",
+    "200_39_200_l"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/proton-m2520briz-m_image_20190224012317.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1
+   }
+  }
+ ],
  "version": "https://jsonfeed.org/version/1",
  "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/launch/khrunichev_state_research_and_production_space_center/original.json",
- "title": "Khrunichev State Research And Production Space Center",
- "items": [],
  "_feed_url": {
   "rss": "https://launch-library-rss.multipolygon.net/space-schedule/launch/khrunichev_state_research_and_production_space_center/original.rss.xml",
   "atom": "https://launch-library-rss.multipolygon.net/space-schedule/launch/khrunichev_state_research_and_production_space_center/original.atom.xml"
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fkhrunichev_state_research_and_production_space_center%2Foriginal.json",
  "_meta": {
-  "itemCount": 0,
+  "itemCount": 1,
   "pageNumber": 1,
-  "pageCount": 0
+  "pageCount": 1
  }
 }

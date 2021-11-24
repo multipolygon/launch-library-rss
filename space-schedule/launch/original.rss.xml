@@ -24,6 +24,37 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_7a_image_20210311201838.jpg"/>
     </item>
     <item>
+      <title>Proton-M/Briz-M | Ekspress-AMU3 &amp; AMU7</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/700b3892-cff9-4164-b1cb-c60bb3d81635.json</link>
+      <description>The Ekspress-AMU 3 and Ekspress-AMU 7 are two communications satellite for russian domestic communication services. While the spacecraft themselves are built by russian RSCC (Kosmicheskiya Svyaz), the communication payloads are built by Thales Alenia Space.&#xD;
+&#xD;
+Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 20 C-band transponders. They will be located at 96.5° and 145° East respectively.</description>
+      <category>launch</category>
+      <category>khrunichev_state_research_and_production_space_center</category>
+      <category>government</category>
+      <category>proton</category>
+      <category>proton_m_briz_m</category>
+      <category>communications</category>
+      <category>200_39_200_l</category>
+      <guid isPermaLink="false">~space-schedule~launch~khrunichev_state_research_and_production_space_center~700b3892-cff9-4164-b1cb-c60bb3d81635</guid>
+      <pubDate>Sun, 12 Dec 2021 12:09:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/proton-m2520briz-m_image_20190224012317.jpeg"/>
+    </item>
+    <item>
+      <title>New Shepard | NS-19</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/6b0311ed-1ece-4485-89f8-6832cb5e2358.json</link>
+      <description>NS-19 is the third crewed New Shepard flight, carrying two honorary guests and four paying customers.</description>
+      <category>launch</category>
+      <category>blue_origin</category>
+      <category>commercial</category>
+      <category>new_shepard</category>
+      <category>tourism</category>
+      <category>west_texas_suborbital_launch_site_corn_ranch</category>
+      <guid isPermaLink="false">~space-schedule~launch~blue_origin~6b0311ed-1ece-4485-89f8-6832cb5e2358</guid>
+      <pubDate>Thu, 09 Dec 2021 15:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"/>
+    </item>
+    <item>
       <title>Soyuz STB/Fregat | 2 x Galileo</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/8464fae8-48ef-4e35-860c-07347f339ce2.json</link>
       <description>Payload consists of two satellites for Europe's Galileo navigation system.</description>
@@ -99,25 +130,6 @@ UM will be delivered by a modified Progress space tug, called Progress-M-UM. The
       <guid isPermaLink="false">~space-schedule~launch~russian_federal_space_agency_roscosmos~89ee335d-53bd-49e0-a774-921321f5926f</guid>
       <pubDate>Wed, 24 Nov 2021 13:06:36 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg"/>
-    </item>
-    <item>
-      <title>Falcon 9 Block 5 | Double Asteroid Redirection Test (DART)</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/c4b2f90e-3385-4cbe-a89f-fc5f57da1bfb.json</link>
-      <description>Double Asteroid Redirection Test (DART) mission is the first-ever mission to demonstrate the capability to deflect an asteroid by colliding a spacecraft with it at high speed, a technique known as a kinetic impactor.&#xD;
-&#xD;
-DART is a planetary defense-driven test of one of the technologies for preventing the Earth impact of a hazardous asteroid: the kinetic impactor.  DART's primary objective is to demonstrate a kinetic impact on a small asteroid.  The binary near-Earth asteroid (65803) Didymos is the target for DART.   While Didymos' primary body is approximately 800 meters across, its secondary body has a 150-meter size, which is more typical of the size of asteroids that could pose a more common hazard to Earth.&#xD;
-&#xD;
-The DART spacecraft will achieve the kinetic impact by deliberately crashing itself into the moonlet at a speed of approximately 6 km/s, with the aid of an onboard camera and sophisticated autonomous navigation software. The collision will change the speed of the moonlet in its orbit around the main body by a fraction of one percent, enough to be measured using telescopes on Earth.</description>
-      <category>launch</category>
-      <category>space_x</category>
-      <category>commercial</category>
-      <category>falcon</category>
-      <category>falcon_9</category>
-      <category>robotic_exploration</category>
-      <category>space_launch_complex_4_e</category>
-      <guid isPermaLink="false">~space-schedule~launch~space_x~c4b2f90e-3385-4cbe-a89f-fc5f57da1bfb</guid>
-      <pubDate>Wed, 24 Nov 2021 06:21:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg"/>
     </item>
   </channel>
 </rss>
