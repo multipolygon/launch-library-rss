@@ -4,38 +4,13 @@
  "title": "Docking | Event | Space Schedule",
  "items": [
   {
-   "id": "289",
-   "title": "CRS-24 Dragon Docking",
-   "content_text": "Following its launch atop a Falcon 9, the CRS-24 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-24_dragon_d_image_20210519131141.jpeg",
-   "date_published": "2021-12-22T09:30:00Z",
-   "date_modified": "2021-12-22T09:30:00Z",
-   "tags": [
-    "event",
-    "docking"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-24_dragon_d_image_20210519131141.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1
-   }
-  },
-  {
    "id": "290",
    "title": "Soyuz MS-20 Docking",
    "content_text": "The Soyuz MS-20 spacecraft will dock to the International Space Station carrying ROSCOSMOS cosmonaut Alexander Misurkin as well as Japanese entrepreneur Yusaku Maezawa and his cameraman Yozo Hirano.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg",
-   "date_published": "2021-12-08T11:10:00Z",
-   "date_modified": "2021-12-08T11:10:00Z",
+   "date_published": "2021-12-08T13:41:00Z",
+   "date_modified": "2021-12-08T13:41:00Z",
    "tags": [
     "event",
     "docking"
@@ -85,7 +60,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fdocking%2Foriginal.json",
  "_meta": {
-  "itemCount": 3,
+  "itemCount": 2,
   "pageNumber": 1,
   "pageCount": 1
  }

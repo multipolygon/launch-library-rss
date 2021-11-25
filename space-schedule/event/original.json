@@ -3,39 +3,6 @@
  "description": "All items in Space Schedule > Event.",
  "items": [
   {
-   "id": "~space-schedule~event~docking~289",
-   "title": "CRS-24 Dragon Docking",
-   "content_text": "Following its launch atop a Falcon 9, the CRS-24 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-24_dragon_d_image_20210519131141.jpeg",
-   "date_published": "2021-12-22T09:30:00Z",
-   "date_modified": "2021-12-22T09:30:00Z",
-   "tags": [
-    "event",
-    "docking"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-24_dragon_d_image_20210519131141.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Docking | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "289",
-    "global": "~space-schedule~event~docking~289"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~event~spacecraft_undocking~288",
    "title": "Progress-M-UM Undocking",
    "content_text": "The modified Progress space tug called Progress-M-UM will undock from the Prichal node module before performing a de-orbit burn initiating its destructive re-entry in the atmosphere",
@@ -74,8 +41,8 @@
    "content_text": "The Soyuz MS-20 spacecraft carrying ROSCOSMOS cosmonaut Alexander Misurkin as well as Japanese entrepreneur Yusaku Maezawa and his cameraman Yozo Hirano will land back on Earth near Dzhezkazgan, Kazakhstan.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_lan_image_20210519132757.jpg",
-   "date_published": "2021-12-20T03:00:00Z",
-   "date_modified": "2021-12-20T03:00:00Z",
+   "date_published": "2021-12-20T03:18:00Z",
+   "date_modified": "2021-12-20T03:18:00Z",
    "tags": [
     "event",
     "spacecraft_landing"
@@ -107,8 +74,8 @@
    "content_text": "The Soyuz MS-20 spacecraft will undock from the International Space Station carrying ROSCOSMOS cosmonaut Alexander Misurkin as well as Japanese entrepreneur Yusaku Maezawa and his cameraman Yozo Hirano.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_und_image_20210519132331.jpeg",
-   "date_published": "2021-12-20T00:00:00Z",
-   "date_modified": "2021-12-20T00:00:00Z",
+   "date_published": "2021-12-19T23:54:00Z",
+   "date_modified": "2021-12-19T23:54:00Z",
    "tags": [
     "event",
     "spacecraft_undocking"
@@ -140,8 +107,8 @@
    "content_text": "The Soyuz MS-20 spacecraft will dock to the International Space Station carrying ROSCOSMOS cosmonaut Alexander Misurkin as well as Japanese entrepreneur Yusaku Maezawa and his cameraman Yozo Hirano.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg",
-   "date_published": "2021-12-08T11:10:00Z",
-   "date_modified": "2021-12-08T11:10:00Z",
+   "date_published": "2021-12-08T13:41:00Z",
+   "date_modified": "2021-12-08T13:41:00Z",
    "tags": [
     "event",
     "docking"
@@ -165,6 +132,39 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~press_event~436",
+   "title": "Rocket Lab Neutron Development Update",
+   "content_text": "Rocket Lab will host a major development update about its upcoming Neutron launch vehicle.",
+   "url": "https://www.youtube.com/watch?v=A0thW57QeDM",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rocket_lab_neut_image_20211124172620.jpg",
+   "date_published": "2021-12-02T13:00:00Z",
+   "date_modified": "2021-12-02T13:00:00Z",
+   "tags": [
+    "event",
+    "press_event"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rocket_lab_neut_image_20211124172620.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Press Event | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "436",
+    "global": "~space-schedule~event~press_event~436"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
    }
   },
   {
@@ -302,10 +302,10 @@
    "id": "~space-schedule~event~spacecraft_undocking~286",
    "title": "Progress MS-17 Undocking",
    "content_text": "The Progress MS-17 spacecraft will undock from the Nauka module of the International Space Station.\r\n\r\nIt will then de-orbit and burn up in the atmosphere.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "url": "https://youtu.be/6tQXdMGt57o",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg",
-   "date_published": "2021-11-25T11:18:00Z",
-   "date_modified": "2021-11-25T11:18:00Z",
+   "date_published": "2021-11-25T11:23:00Z",
+   "date_modified": "2021-11-25T11:23:00Z",
    "tags": [
     "event",
     "spacecraft_undocking"
@@ -320,7 +320,6 @@
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "youtubeCount": 1,
     "subtitle": "Spacecraft Undocking | Event | Space Schedule"
    },
    "_id": {

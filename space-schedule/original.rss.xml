@@ -7,9 +7,24 @@
     <description>All items in subcategories for category.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Wed, 22 Dec 2021 09:30:00 GMT</pubDate>
+    <pubDate>Wed, 22 Dec 2021 12:20:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Ariane 5 ECA+ | James Webb Space Telescope (JWST)</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/d0fa4bb2-80ea-4808-af08-7785dde53bf6.json</link>
+      <description>The James Webb Space Telescope is a space telescope developed by NASA, ESA and CSA to succeed the Hubble Space Telescope as NASA's flagship astrophysics mission.  Its primary mirror, the Optical Telescope Element, is composed of 18 hexagonal mirror segments which combine to create a 6.5 m diameter mirror, considerably larger than Hubble's 2.4 m mirror. This will allow JWST to provide improved infrared resolution and sensitivity over Hubble, and will enable a broad range of investigations across the fields of astronomy and cosmology, including observing some of the most distant events and objects in the universe, such as the formation of the first galaxies.</description>
+      <category>launch</category>
+      <category>arianespace</category>
+      <category>commercial</category>
+      <category>ariane_5</category>
+      <category>ariane_5_eca</category>
+      <category>astrophysics</category>
+      <category>ariane_launch_area_3</category>
+      <guid isPermaLink="false">~space-schedule~launch~arianespace~d0fa4bb2-80ea-4808-af08-7785dde53bf6</guid>
+      <pubDate>Wed, 22 Dec 2021 12:20:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg"/>
+    </item>
     <item>
       <title>Long March 7A (?) | HOTS (?)</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/edeca0f9-cae5-44ea-a6e4-dc39043b37dc.json</link>
@@ -22,16 +37,6 @@
       <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~edeca0f9-cae5-44ea-a6e4-dc39043b37dc</guid>
       <pubDate>Wed, 22 Dec 2021 09:30:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_7a_image_20210311201838.jpg"/>
-    </item>
-    <item>
-      <title>CRS-24 Dragon Docking</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>Following its launch atop a Falcon 9, the CRS-24 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.</description>
-      <category>event</category>
-      <category>docking</category>
-      <guid isPermaLink="false">~space-schedule~event~docking~289</guid>
-      <pubDate>Wed, 22 Dec 2021 09:30:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-24_dragon_d_image_20210519131141.jpeg"/>
     </item>
     <item>
       <title>Progress-M-UM Undocking</title>
@@ -50,7 +55,7 @@
       <category>event</category>
       <category>spacecraft_landing</category>
       <guid isPermaLink="false">~space-schedule~event~spacecraft_landing~293</guid>
-      <pubDate>Mon, 20 Dec 2021 03:00:00 GMT</pubDate>
+      <pubDate>Mon, 20 Dec 2021 03:18:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_lan_image_20210519132757.jpg"/>
     </item>
     <item>
@@ -60,7 +65,7 @@
       <category>event</category>
       <category>spacecraft_undocking</category>
       <guid isPermaLink="false">~space-schedule~event~spacecraft_undocking~291</guid>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 19 Dec 2021 23:54:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_und_image_20210519132331.jpeg"/>
     </item>
     <item>
@@ -101,8 +106,34 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <category>event</category>
       <category>docking</category>
       <guid isPermaLink="false">~space-schedule~event~docking~290</guid>
-      <pubDate>Wed, 08 Dec 2021 11:10:00 GMT</pubDate>
+      <pubDate>Wed, 08 Dec 2021 13:41:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg"/>
+    </item>
+    <item>
+      <title>Soyuz 2.1a | Soyuz MS-20</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/603f47d2-bc2b-4bab-b623-294c2cbf899c.json</link>
+      <description>Soyuz MS-20 will carry Roscosmos cosmonaut Aleksandr Misurkin as well as two tourists, a Japanese billionere Yusaku Maezawa and his assistant Yozo Hirano, to the International Space Station.</description>
+      <category>launch</category>
+      <category>russian_federal_space_agency_roscosmos</category>
+      <category>government</category>
+      <category>soyuz</category>
+      <category>soyuz_2_1_a</category>
+      <category>human_exploration</category>
+      <category>31_6</category>
+      <category>international_space_station</category>
+      <guid isPermaLink="false">~space-schedule~launch~russian_federal_space_agency_roscosmos~603f47d2-bc2b-4bab-b623-294c2cbf899c</guid>
+      <pubDate>Wed, 08 Dec 2021 07:38:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
+    </item>
+    <item>
+      <title>Rocket Lab Neutron Development Update</title>
+      <link>https://www.youtube.com/watch?v=A0thW57QeDM</link>
+      <description>Rocket Lab will host a major development update about its upcoming Neutron launch vehicle.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~436</guid>
+      <pubDate>Thu, 02 Dec 2021 13:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rocket_lab_neut_image_20211124172620.jpg"/>
     </item>
     <item>
       <title>Soyuz STB/Fregat | 2 x Galileo</title>
@@ -174,64 +205,15 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
     </item>
     <item>
       <title>Progress MS-17 Undocking</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <link>https://youtu.be/6tQXdMGt57o</link>
       <description>The Progress MS-17 spacecraft will undock from the Nauka module of the International Space Station.&#xD;
 &#xD;
 It will then de-orbit and burn up in the atmosphere.</description>
       <category>event</category>
       <category>spacecraft_undocking</category>
       <guid isPermaLink="false">~space-schedule~event~spacecraft_undocking~286</guid>
-      <pubDate>Thu, 25 Nov 2021 11:18:00 GMT</pubDate>
+      <pubDate>Thu, 25 Nov 2021 11:23:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"/>
-    </item>
-    <item>
-      <title>Soyuz 2.1b/Fregat | EKS 5 (Tundra 5)</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/12ed3429-fab7-4bc7-8d03-aa4dbe5f6228.json</link>
-      <description>The Tundra or EKS (meaning Unified Space System) series of satellites is the next generation of Russian early warning satellites.</description>
-      <category>launch</category>
-      <category>russian_space_forces</category>
-      <category>government</category>
-      <category>soyuz</category>
-      <category>soyuz_2_1_b_fregat</category>
-      <category>government_top_secret</category>
-      <category>43_4_43_r</category>
-      <guid isPermaLink="false">~space-schedule~launch~russian_space_forces~12ed3429-fab7-4bc7-8d03-aa4dbe5f6228</guid>
-      <pubDate>Thu, 25 Nov 2021 00:30:00 GMT</pubDate>
-      <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png"/>
-    </item>
-    <item>
-      <title>Ceres-1 | Fangzhou-2F (?)</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/407d5c9c-61df-4439-b780-5fe41c4b12d5.json</link>
-      <description>Fangzhou 2F is a Chinese technology verification nanosatellite developed by Space Ark.&#xD;
-&#xD;
-The Fangzhou 2F key technology verification satellite is designed based on the 6U CubeSat form factor to provide on-orbit verification of technologies planned for the company's Ark series of small and medium returnable spacecraft.</description>
-      <category>launch</category>
-      <category>galactic_energy</category>
-      <category>commercial</category>
-      <category>ceres_1</category>
-      <category>technology</category>
-      <category>unknown_pad</category>
-      <guid isPermaLink="false">~space-schedule~launch~galactic_energy~407d5c9c-61df-4439-b780-5fe41c4b12d5</guid>
-      <pubDate>Wed, 24 Nov 2021 23:30:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20201106095300.jpeg"/>
-    </item>
-    <item>
-      <title>Soyuz 2.1b | Uzlovoy Module (UM) "Prichal"</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/89ee335d-53bd-49e0-a774-921321f5926f.json</link>
-      <description>The UM (Uzlovoy Module) or NM (Node Module) is a node to be added to the Russian part of the ISS complex. It is also named Prichal.
-
-UM will be delivered by a modified Progress space tug, called Progress-M-UM. The UM will be docked to the nadir port of the MLM (Nauka) module, providing four ports to mount additional modules and one docking port for cargo and crew spacecrafts.</description>
-      <category>launch</category>
-      <category>russian_federal_space_agency_roscosmos</category>
-      <category>government</category>
-      <category>soyuz</category>
-      <category>soyuz_2_1_b</category>
-      <category>human_exploration</category>
-      <category>31_6</category>
-      <category>international_space_station</category>
-      <guid isPermaLink="false">~space-schedule~launch~russian_federal_space_agency_roscosmos~89ee335d-53bd-49e0-a774-921321f5926f</guid>
-      <pubDate>Wed, 24 Nov 2021 13:06:36 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg"/>
     </item>
   </channel>
 </rss>

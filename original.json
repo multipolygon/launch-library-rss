@@ -3,6 +3,43 @@
  "description": "All items.",
  "items": [
   {
+   "id": "~space-schedule~launch~arianespace~d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+   "title": "Ariane 5 ECA+ | James Webb Space Telescope (JWST)",
+   "content_text": "The James Webb Space Telescope is a space telescope developed by NASA, ESA and CSA to succeed the Hubble Space Telescope as NASA's flagship astrophysics mission.  Its primary mirror, the Optical Telescope Element, is composed of 18 hexagonal mirror segments which combine to create a 6.5 m diameter mirror, considerably larger than Hubble's 2.4 m mirror. This will allow JWST to provide improved infrared resolution and sensitivity over Hubble, and will enable a broad range of investigations across the fields of astronomy and cosmology, including observing some of the most distant events and objects in the universe, such as the formation of the first galaxies.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/d0fa4bb2-80ea-4808-af08-7785dde53bf6.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg",
+   "date_published": "2021-12-22T12:20:00Z",
+   "date_modified": "2021-12-22T12:20:00Z",
+   "tags": [
+    "launch",
+    "arianespace",
+    "commercial",
+    "ariane_5",
+    "ariane_5_eca",
+    "astrophysics",
+    "ariane_launch_area_3"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Arianespace | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+    "global": "~space-schedule~launch~arianespace~d0fa4bb2-80ea-4808-af08-7785dde53bf6"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~edeca0f9-cae5-44ea-a6e4-dc39043b37dc",
    "title": "Long March 7A (?) | HOTS (?)",
    "content_text": "-",
@@ -35,39 +72,6 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~docking~289",
-   "title": "CRS-24 Dragon Docking",
-   "content_text": "Following its launch atop a Falcon 9, the CRS-24 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-24_dragon_d_image_20210519131141.jpeg",
-   "date_published": "2021-12-22T09:30:00Z",
-   "date_modified": "2021-12-22T09:30:00Z",
-   "tags": [
-    "event",
-    "docking"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-24_dragon_d_image_20210519131141.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Docking | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "289",
-    "global": "~space-schedule~event~docking~289"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
    }
   },
   {
@@ -109,8 +113,8 @@
    "content_text": "The Soyuz MS-20 spacecraft carrying ROSCOSMOS cosmonaut Alexander Misurkin as well as Japanese entrepreneur Yusaku Maezawa and his cameraman Yozo Hirano will land back on Earth near Dzhezkazgan, Kazakhstan.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_lan_image_20210519132757.jpg",
-   "date_published": "2021-12-20T03:00:00Z",
-   "date_modified": "2021-12-20T03:00:00Z",
+   "date_published": "2021-12-20T03:18:00Z",
+   "date_modified": "2021-12-20T03:18:00Z",
    "tags": [
     "event",
     "spacecraft_landing"
@@ -142,8 +146,8 @@
    "content_text": "The Soyuz MS-20 spacecraft will undock from the International Space Station carrying ROSCOSMOS cosmonaut Alexander Misurkin as well as Japanese entrepreneur Yusaku Maezawa and his cameraman Yozo Hirano.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_und_image_20210519132331.jpeg",
-   "date_published": "2021-12-20T00:00:00Z",
-   "date_modified": "2021-12-20T00:00:00Z",
+   "date_published": "2021-12-19T23:54:00Z",
+   "date_modified": "2021-12-19T23:54:00Z",
    "tags": [
     "event",
     "spacecraft_undocking"
@@ -248,8 +252,8 @@
    "content_text": "The Soyuz MS-20 spacecraft will dock to the International Space Station carrying ROSCOSMOS cosmonaut Alexander Misurkin as well as Japanese entrepreneur Yusaku Maezawa and his cameraman Yozo Hirano.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg",
-   "date_published": "2021-12-08T11:10:00Z",
-   "date_modified": "2021-12-08T11:10:00Z",
+   "date_published": "2021-12-08T13:41:00Z",
+   "date_modified": "2021-12-08T13:41:00Z",
    "tags": [
     "event",
     "docking"
@@ -273,6 +277,77 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/docking/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~launch~russian_federal_space_agency_roscosmos~603f47d2-bc2b-4bab-b623-294c2cbf899c",
+   "title": "Soyuz 2.1a | Soyuz MS-20",
+   "content_text": "Soyuz MS-20 will carry Roscosmos cosmonaut Aleksandr Misurkin as well as two tourists, a Japanese billionere Yusaku Maezawa and his assistant Yozo Hirano, to the International Space Station.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/603f47d2-bc2b-4bab-b623-294c2cbf899c.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
+   "date_published": "2021-12-08T07:38:00Z",
+   "date_modified": "2021-12-08T07:38:00Z",
+   "tags": [
+    "launch",
+    "russian_federal_space_agency_roscosmos",
+    "government",
+    "soyuz",
+    "soyuz_2_1_a",
+    "human_exploration",
+    "31_6",
+    "international_space_station"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "603f47d2-bc2b-4bab-b623-294c2cbf899c",
+    "global": "~space-schedule~launch~russian_federal_space_agency_roscosmos~603f47d2-bc2b-4bab-b623-294c2cbf899c"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~press_event~436",
+   "title": "Rocket Lab Neutron Development Update",
+   "content_text": "Rocket Lab will host a major development update about its upcoming Neutron launch vehicle.",
+   "url": "https://www.youtube.com/watch?v=A0thW57QeDM",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rocket_lab_neut_image_20211124172620.jpg",
+   "date_published": "2021-12-02T13:00:00Z",
+   "date_modified": "2021-12-02T13:00:00Z",
+   "tags": [
+    "event",
+    "press_event"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rocket_lab_neut_image_20211124172620.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Press Event | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "436",
+    "global": "~space-schedule~event~press_event~436"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
    }
   },
   {
@@ -482,10 +557,10 @@
    "id": "~space-schedule~event~spacecraft_undocking~286",
    "title": "Progress MS-17 Undocking",
    "content_text": "The Progress MS-17 spacecraft will undock from the Nauka module of the International Space Station.\r\n\r\nIt will then de-orbit and burn up in the atmosphere.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "url": "https://youtu.be/6tQXdMGt57o",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg",
-   "date_published": "2021-11-25T11:18:00Z",
-   "date_modified": "2021-11-25T11:18:00Z",
+   "date_published": "2021-11-25T11:23:00Z",
+   "date_modified": "2021-11-25T11:23:00Z",
    "tags": [
     "event",
     "spacecraft_undocking"
@@ -500,7 +575,6 @@
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "youtubeCount": 1,
     "subtitle": "Spacecraft Undocking | Event | Space Schedule"
    },
    "_id": {
@@ -509,117 +583,6 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_undocking/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~launch~russian_space_forces~12ed3429-fab7-4bc7-8d03-aa4dbe5f6228",
-   "title": "Soyuz 2.1b/Fregat | EKS 5 (Tundra 5)",
-   "content_text": "The Tundra or EKS (meaning Unified Space System) series of satellites is the next generation of Russian early warning satellites.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/12ed3429-fab7-4bc7-8d03-aa4dbe5f6228.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png",
-   "date_published": "2021-11-25T00:30:00Z",
-   "date_modified": "2021-11-25T00:30:00Z",
-   "tags": [
-    "launch",
-    "russian_space_forces",
-    "government",
-    "soyuz",
-    "soyuz_2_1_b_fregat",
-    "government_top_secret",
-    "43_4_43_r"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/png",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Russian Space Forces | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "12ed3429-fab7-4bc7-8d03-aa4dbe5f6228",
-    "global": "~space-schedule~launch~russian_space_forces~12ed3429-fab7-4bc7-8d03-aa4dbe5f6228"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_space_forces/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~launch~galactic_energy~407d5c9c-61df-4439-b780-5fe41c4b12d5",
-   "title": "Ceres-1 | Fangzhou-2F (?)",
-   "content_text": "Fangzhou 2F is a Chinese technology verification nanosatellite developed by Space Ark.\r\n\r\nThe Fangzhou 2F key technology verification satellite is designed based on the 6U CubeSat form factor to provide on-orbit verification of technologies planned for the company's Ark series of small and medium returnable spacecraft.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/407d5c9c-61df-4439-b780-5fe41c4b12d5.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20201106095300.jpeg",
-   "date_published": "2021-11-24T23:30:00Z",
-   "date_modified": "2021-11-24T23:30:00Z",
-   "tags": [
-    "launch",
-    "galactic_energy",
-    "commercial",
-    "ceres_1",
-    "technology",
-    "unknown_pad"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20201106095300.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Galactic Energy | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "407d5c9c-61df-4439-b780-5fe41c4b12d5",
-    "global": "~space-schedule~launch~galactic_energy~407d5c9c-61df-4439-b780-5fe41c4b12d5"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/galactic_energy/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~launch~russian_federal_space_agency_roscosmos~89ee335d-53bd-49e0-a774-921321f5926f",
-   "title": "Soyuz 2.1b | Uzlovoy Module (UM) \"Prichal\"",
-   "content_text": "The UM (Uzlovoy Module) or NM (Node Module) is a node to be added to the Russian part of the ISS complex. It is also named Prichal.\n\nUM will be delivered by a modified Progress space tug, called Progress-M-UM. The UM will be docked to the nadir port of the MLM (Nauka) module, providing four ports to mount additional modules and one docking port for cargo and crew spacecrafts.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/89ee335d-53bd-49e0-a774-921321f5926f.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg",
-   "date_published": "2021-11-24T13:06:36Z",
-   "date_modified": "2021-11-24T13:06:36Z",
-   "tags": [
-    "launch",
-    "russian_federal_space_agency_roscosmos",
-    "government",
-    "soyuz",
-    "soyuz_2_1_b",
-    "human_exploration",
-    "31_6",
-    "international_space_station"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "89ee335d-53bd-49e0-a774-921321f5926f",
-    "global": "~space-schedule~launch~russian_federal_space_agency_roscosmos~89ee335d-53bd-49e0-a774-921321f5926f"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.json"
    }
   }
  ],
@@ -631,7 +594,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 18,
+  "itemCount": 17,
   "pageNumber": 1,
   "pageCount": 1
  }

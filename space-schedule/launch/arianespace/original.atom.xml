@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Arianespace | Launch | Space Schedule</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.atom.xml</id>
-  <updated>2021-12-02T00:31:00Z</updated>
+  <updated>2021-12-22T12:20:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Farianespace%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
+  <entry>
+    <id>d0fa4bb2-80ea-4808-af08-7785dde53bf6</id>
+    <title>Ariane 5 ECA+ | James Webb Space Telescope (JWST)</title>
+    <updated>2021-12-22T12:20:00Z</updated>
+    <published>2021-12-22T12:20:00Z</published>
+    <content type="text">The James Webb Space Telescope is a space telescope developed by NASA, ESA and CSA to succeed the Hubble Space Telescope as NASA's flagship astrophysics mission.  Its primary mirror, the Optical Telescope Element, is composed of 18 hexagonal mirror segments which combine to create a 6.5 m diameter mirror, considerably larger than Hubble's 2.4 m mirror. This will allow JWST to provide improved infrared resolution and sensitivity over Hubble, and will enable a broad range of investigations across the fields of astronomy and cosmology, including observing some of the most distant events and objects in the universe, such as the formation of the first galaxies.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/d0fa4bb2-80ea-4808-af08-7785dde53bf6.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg"/>
+    <category term="launch"/>
+    <category term="arianespace"/>
+    <category term="commercial"/>
+    <category term="ariane_5"/>
+    <category term="ariane_5_eca"/>
+    <category term="astrophysics"/>
+    <category term="ariane_launch_area_3"/>
+  </entry>
   <entry>
     <id>8464fae8-48ef-4e35-860c-07347f339ce2</id>
     <title>Soyuz STB/Fregat | 2 x Galileo</title>

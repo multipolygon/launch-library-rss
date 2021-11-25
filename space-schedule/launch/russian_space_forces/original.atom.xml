@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Russian Space Forces | Launch | Space Schedule</title>
+  <title>Russian Space Forces</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_space_forces/original.atom.xml</id>
-  <updated>2021-11-25T00:30:00Z</updated>
+  <updated>2021-11-25T11:25:05.263Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_space_forces/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_space_forces/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Frussian_space_forces%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
-  <entry>
-    <id>12ed3429-fab7-4bc7-8d03-aa4dbe5f6228</id>
-    <title>Soyuz 2.1b/Fregat | EKS 5 (Tundra 5)</title>
-    <updated>2021-11-25T00:30:00Z</updated>
-    <published>2021-11-25T00:30:00Z</published>
-    <content type="text">The Tundra or EKS (meaning Unified Space System) series of satellites is the next generation of Russian early warning satellites.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/12ed3429-fab7-4bc7-8d03-aa4dbe5f6228.json"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png"/>
-    <category term="launch"/>
-    <category term="russian_space_forces"/>
-    <category term="government"/>
-    <category term="soyuz"/>
-    <category term="soyuz_2_1_b_fregat"/>
-    <category term="government_top_secret"/>
-    <category term="43_4_43_r"/>
-  </entry>
 </feed>

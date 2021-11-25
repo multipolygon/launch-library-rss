@@ -34,8 +34,8 @@
    "content_text": "The Soyuz MS-20 spacecraft will undock from the International Space Station carrying ROSCOSMOS cosmonaut Alexander Misurkin as well as Japanese entrepreneur Yusaku Maezawa and his cameraman Yozo Hirano.",
    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_und_image_20210519132331.jpeg",
-   "date_published": "2021-12-20T00:00:00Z",
-   "date_modified": "2021-12-20T00:00:00Z",
+   "date_published": "2021-12-19T23:54:00Z",
+   "date_modified": "2021-12-19T23:54:00Z",
    "tags": [
     "event",
     "spacecraft_undocking"
@@ -57,10 +57,10 @@
    "id": "286",
    "title": "Progress MS-17 Undocking",
    "content_text": "The Progress MS-17 spacecraft will undock from the Nauka module of the International Space Station.\r\n\r\nIt will then de-orbit and burn up in the atmosphere.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "url": "https://youtu.be/6tQXdMGt57o",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg",
-   "date_published": "2021-11-25T11:18:00Z",
-   "date_modified": "2021-11-25T11:18:00Z",
+   "date_published": "2021-11-25T11:23:00Z",
+   "date_modified": "2021-11-25T11:23:00Z",
    "tags": [
     "event",
     "spacecraft_undocking"
@@ -74,8 +74,7 @@
    "_meta": {
     "audioCount": 0,
     "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1
+    "imageCount": 1
    }
   }
  ],

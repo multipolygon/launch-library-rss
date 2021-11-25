@@ -1,27 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Galactic Energy | Launch | Space Schedule</title>
+  <title>Galactic Energy</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/galactic_energy/original.atom.xml</id>
-  <updated>2021-11-24T23:30:00Z</updated>
+  <updated>2021-11-25T11:25:05.232Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/galactic_energy/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/galactic_energy/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fgalactic_energy%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
-  <entry>
-    <id>407d5c9c-61df-4439-b780-5fe41c4b12d5</id>
-    <title>Ceres-1 | Fangzhou-2F (?)</title>
-    <updated>2021-11-24T23:30:00Z</updated>
-    <published>2021-11-24T23:30:00Z</published>
-    <content type="text">Fangzhou 2F is a Chinese technology verification nanosatellite developed by Space Ark.&#xD;
-&#xD;
-The Fangzhou 2F key technology verification satellite is designed based on the 6U CubeSat form factor to provide on-orbit verification of technologies planned for the company's Ark series of small and medium returnable spacecraft.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/407d5c9c-61df-4439-b780-5fe41c4b12d5.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20201106095300.jpeg"/>
-    <category term="launch"/>
-    <category term="galactic_energy"/>
-    <category term="commercial"/>
-    <category term="ceres_1"/>
-    <category term="technology"/>
-    <category term="unknown_pad"/>
-  </entry>
 </feed>

@@ -2,19 +2,19 @@
  "title": "Russian Federal Space Agency (ROSCOSMOS) | Launch | Space Schedule",
  "items": [
   {
-   "id": "89ee335d-53bd-49e0-a774-921321f5926f",
-   "title": "Soyuz 2.1b | Uzlovoy Module (UM) \"Prichal\"",
-   "content_text": "The UM (Uzlovoy Module) or NM (Node Module) is a node to be added to the Russian part of the ISS complex. It is also named Prichal.\n\nUM will be delivered by a modified Progress space tug, called Progress-M-UM. The UM will be docked to the nadir port of the MLM (Nauka) module, providing four ports to mount additional modules and one docking port for cargo and crew spacecrafts.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/89ee335d-53bd-49e0-a774-921321f5926f.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg",
-   "date_published": "2021-11-24T13:06:36Z",
-   "date_modified": "2021-11-24T13:06:36Z",
+   "id": "603f47d2-bc2b-4bab-b623-294c2cbf899c",
+   "title": "Soyuz 2.1a | Soyuz MS-20",
+   "content_text": "Soyuz MS-20 will carry Roscosmos cosmonaut Aleksandr Misurkin as well as two tourists, a Japanese billionere Yusaku Maezawa and his assistant Yozo Hirano, to the International Space Station.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/603f47d2-bc2b-4bab-b623-294c2cbf899c.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
+   "date_published": "2021-12-08T07:38:00Z",
+   "date_modified": "2021-12-08T07:38:00Z",
    "tags": [
     "launch",
     "russian_federal_space_agency_roscosmos",
     "government",
     "soyuz",
-    "soyuz_2_1_b",
+    "soyuz_2_1_a",
     "human_exploration",
     "31_6",
     "international_space_station"
@@ -22,7 +22,7 @@
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"
     }
    ],
    "_meta": {

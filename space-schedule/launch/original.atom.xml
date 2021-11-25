@@ -2,12 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Launch</title>
   <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/original.atom.xml</id>
-  <updated>2021-12-22T09:30:00Z</updated>
+  <updated>2021-12-22T12:20:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/original.atom.xml"/>
   <link rel="alternate" type="application/json" href="https://launch-library-rss.multipolygon.net/space-schedule/launch/original.json"/>
   <link rel="alternate" type="text/html" href="https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json"/>
   <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.2.2">jsonfeed-to-atom</generator>
   <subtitle>All items in Space Schedule &gt; Launch.</subtitle>
+  <entry>
+    <id>~space-schedule~launch~arianespace~d0fa4bb2-80ea-4808-af08-7785dde53bf6</id>
+    <title>Ariane 5 ECA+ | James Webb Space Telescope (JWST)</title>
+    <updated>2021-12-22T12:20:00Z</updated>
+    <published>2021-12-22T12:20:00Z</published>
+    <content type="text">The James Webb Space Telescope is a space telescope developed by NASA, ESA and CSA to succeed the Hubble Space Telescope as NASA's flagship astrophysics mission.  Its primary mirror, the Optical Telescope Element, is composed of 18 hexagonal mirror segments which combine to create a 6.5 m diameter mirror, considerably larger than Hubble's 2.4 m mirror. This will allow JWST to provide improved infrared resolution and sensitivity over Hubble, and will enable a broad range of investigations across the fields of astronomy and cosmology, including observing some of the most distant events and objects in the universe, such as the formation of the first galaxies.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/d0fa4bb2-80ea-4808-af08-7785dde53bf6.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg"/>
+    <category term="launch"/>
+    <category term="arianespace"/>
+    <category term="commercial"/>
+    <category term="ariane_5"/>
+    <category term="ariane_5_eca"/>
+    <category term="astrophysics"/>
+    <category term="ariane_launch_area_3"/>
+  </entry>
   <entry>
     <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~edeca0f9-cae5-44ea-a6e4-dc39043b37dc</id>
     <title>Long March 7A (?) | HOTS (?)</title>
@@ -56,6 +72,23 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
     <category term="west_texas_suborbital_launch_site_corn_ranch"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~russian_federal_space_agency_roscosmos~603f47d2-bc2b-4bab-b623-294c2cbf899c</id>
+    <title>Soyuz 2.1a | Soyuz MS-20</title>
+    <updated>2021-12-08T07:38:00Z</updated>
+    <published>2021-12-08T07:38:00Z</published>
+    <content type="text">Soyuz MS-20 will carry Roscosmos cosmonaut Aleksandr Misurkin as well as two tourists, a Japanese billionere Yusaku Maezawa and his assistant Yozo Hirano, to the International Space Station.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/603f47d2-bc2b-4bab-b623-294c2cbf899c.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
+    <category term="launch"/>
+    <category term="russian_federal_space_agency_roscosmos"/>
+    <category term="government"/>
+    <category term="soyuz"/>
+    <category term="soyuz_2_1_a"/>
+    <category term="human_exploration"/>
+    <category term="31_6"/>
+    <category term="international_space_station"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2</id>
     <title>Soyuz STB/Fregat | 2 x Galileo</title>
     <updated>2021-12-02T00:31:00Z</updated>
@@ -84,57 +117,5 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
     <category term="government"/>
     <category term="long_march_3"/>
     <category term="launch_complex_2_lc_2"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~russian_space_forces~12ed3429-fab7-4bc7-8d03-aa4dbe5f6228</id>
-    <title>Soyuz 2.1b/Fregat | EKS 5 (Tundra 5)</title>
-    <updated>2021-11-25T00:30:00Z</updated>
-    <published>2021-11-25T00:30:00Z</published>
-    <content type="text">The Tundra or EKS (meaning Unified Space System) series of satellites is the next generation of Russian early warning satellites.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/12ed3429-fab7-4bc7-8d03-aa4dbe5f6228.json"/>
-    <link rel="enclosure" type="image/png" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png"/>
-    <category term="launch"/>
-    <category term="russian_space_forces"/>
-    <category term="government"/>
-    <category term="soyuz"/>
-    <category term="soyuz_2_1_b_fregat"/>
-    <category term="government_top_secret"/>
-    <category term="43_4_43_r"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~galactic_energy~407d5c9c-61df-4439-b780-5fe41c4b12d5</id>
-    <title>Ceres-1 | Fangzhou-2F (?)</title>
-    <updated>2021-11-24T23:30:00Z</updated>
-    <published>2021-11-24T23:30:00Z</published>
-    <content type="text">Fangzhou 2F is a Chinese technology verification nanosatellite developed by Space Ark.&#xD;
-&#xD;
-The Fangzhou 2F key technology verification satellite is designed based on the 6U CubeSat form factor to provide on-orbit verification of technologies planned for the company's Ark series of small and medium returnable spacecraft.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/407d5c9c-61df-4439-b780-5fe41c4b12d5.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20201106095300.jpeg"/>
-    <category term="launch"/>
-    <category term="galactic_energy"/>
-    <category term="commercial"/>
-    <category term="ceres_1"/>
-    <category term="technology"/>
-    <category term="unknown_pad"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~russian_federal_space_agency_roscosmos~89ee335d-53bd-49e0-a774-921321f5926f</id>
-    <title>Soyuz 2.1b | Uzlovoy Module (UM) "Prichal"</title>
-    <updated>2021-11-24T13:06:36Z</updated>
-    <published>2021-11-24T13:06:36Z</published>
-    <content type="text">The UM (Uzlovoy Module) or NM (Node Module) is a node to be added to the Russian part of the ISS complex. It is also named Prichal.
-
-UM will be delivered by a modified Progress space tug, called Progress-M-UM. The UM will be docked to the nadir port of the MLM (Nauka) module, providing four ports to mount additional modules and one docking port for cargo and crew spacecrafts.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/89ee335d-53bd-49e0-a774-921321f5926f.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg"/>
-    <category term="launch"/>
-    <category term="russian_federal_space_agency_roscosmos"/>
-    <category term="government"/>
-    <category term="soyuz"/>
-    <category term="soyuz_2_1_b"/>
-    <category term="human_exploration"/>
-    <category term="31_6"/>
-    <category term="international_space_station"/>
   </entry>
 </feed>
