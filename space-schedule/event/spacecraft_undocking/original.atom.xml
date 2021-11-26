@@ -29,17 +29,4 @@
     <category term="event"/>
     <category term="spacecraft_undocking"/>
   </entry>
-  <entry>
-    <id>286</id>
-    <title>Progress MS-17 Undocking</title>
-    <updated>2021-11-25T11:23:00Z</updated>
-    <published>2021-11-25T11:23:00Z</published>
-    <content type="text">The Progress MS-17 spacecraft will undock from the Nauka module of the International Space Station.&#xD;
-&#xD;
-It will then de-orbit and burn up in the atmosphere.</content>
-    <link rel="alternate" href="https://youtu.be/6tQXdMGt57o"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"/>
-    <category term="event"/>
-    <category term="spacecraft_undocking"/>
-  </entry>
 </feed>

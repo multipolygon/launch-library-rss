@@ -6,9 +6,19 @@
     <link>https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fdocking%2Foriginal.json</link>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Wed, 08 Dec 2021 13:41:00 GMT</pubDate>
+    <pubDate>Wed, 22 Dec 2021 09:30:00 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>CRS-24 Dragon Docking</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>Following its launch atop a Falcon 9, the CRS-24 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.</description>
+      <category>event</category>
+      <category>docking</category>
+      <guid isPermaLink="false">289</guid>
+      <pubDate>Wed, 22 Dec 2021 09:30:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-24_dragon_d_image_20210519131141.jpeg"/>
+    </item>
     <item>
       <title>Soyuz MS-20 Docking</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>

@@ -39,6 +39,17 @@
     <category term="201"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~docking~289</id>
+    <title>CRS-24 Dragon Docking</title>
+    <updated>2021-12-22T09:30:00Z</updated>
+    <published>2021-12-22T09:30:00Z</published>
+    <content type="text">Following its launch atop a Falcon 9, the CRS-24 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-24_dragon_d_image_20210519131141.jpeg"/>
+    <category term="event"/>
+    <category term="docking"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~spacecraft_undocking~288</id>
     <title>Progress-M-UM Undocking</title>
     <updated>2021-12-21T22:20:00Z</updated>
@@ -216,18 +227,5 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress-m-um__image_20210519124545.jpg"/>
     <category term="event"/>
     <category term="docking"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~spacecraft_undocking~286</id>
-    <title>Progress MS-17 Undocking</title>
-    <updated>2021-11-25T11:23:00Z</updated>
-    <published>2021-11-25T11:23:00Z</published>
-    <content type="text">The Progress MS-17 spacecraft will undock from the Nauka module of the International Space Station.&#xD;
-&#xD;
-It will then de-orbit and burn up in the atmosphere.</content>
-    <link rel="alternate" href="https://youtu.be/6tQXdMGt57o"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/progress_ms-17__image_20210519123907.jpeg"/>
-    <category term="event"/>
-    <category term="spacecraft_undocking"/>
   </entry>
 </feed>
