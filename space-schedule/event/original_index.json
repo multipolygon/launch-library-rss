@@ -83,22 +83,6 @@
    }
   },
   {
-   "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_relocation/original.json",
-   "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fspacecraft_relocation%2Foriginal.json",
-   "title": "Spacecraft Relocation | Event | Space Schedule",
-   "content_text": "1 items",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crew-3_crew_dra_image_20210519122555.jpeg",
-   "date_published": "2021-11-30T00:00:00Z",
-   "date_modified": "2021-11-30T00:00:00Z",
-   "_geo": {},
-   "_meta": {
-    "itemCount": 1,
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 0
-   }
-  },
-  {
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/flyby/original.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Fflyby%2Foriginal.json",
    "title": "Flyby | Event | Space Schedule",
@@ -123,7 +107,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal_index.json",
  "_meta": {
-  "itemCount": 7,
+  "itemCount": 6,
   "pageNumber": 1,
   "pageCount": 1
  }

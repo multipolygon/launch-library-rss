@@ -454,39 +454,6 @@
    }
   },
   {
-   "id": "~space-schedule~event~spacecraft_relocation~285",
-   "title": "Crew-3 Crew Dragon Relocation",
-   "content_text": "NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.",
-   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crew-3_crew_dra_image_20210519122555.jpeg",
-   "date_published": "2021-11-30T00:00:00Z",
-   "date_modified": "2021-11-30T00:00:00Z",
-   "tags": [
-    "event",
-    "spacecraft_relocation"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crew-3_crew_dra_image_20210519122555.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Spacecraft Relocation | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "285",
-    "global": "~space-schedule~event~spacecraft_relocation~285"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/spacecraft_relocation/original.json"
-   }
-  },
-  {
    "id": "~space-schedule~event~flyby~381",
    "title": "Solar Orbiter Earth Flyby",
    "content_text": "Solar Orbiter, a partnership between ESA and NASA, will perform a gravity assist maneuver with Earth on November 27. Throughout its mission it also makes repeated gravity assist flybys of Venus to get closer to the Sun, and to change its orbital inclination, boosting it out of the ecliptic plane, to get the best – and first – views of the Sun’s poles.",
@@ -516,41 +483,6 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/flyby/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~6aa3fa12-04a7-4e87-9058-5aa24efb91aa",
-   "title": "Long March 3B (?) | ChinaSat 6D (?)",
-   "content_text": "-",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/6aa3fa12-04a7-4e87-9058-5aa24efb91aa.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-   "date_published": "2021-11-26T16:30:00Z",
-   "date_modified": "2021-11-26T16:30:00Z",
-   "tags": [
-    "launch",
-    "china_aerospace_science_and_technology_corporation",
-    "government",
-    "long_march_3",
-    "launch_complex_2_lc_2"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "China Aerospace Science and Technology Corporation | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "6aa3fa12-04a7-4e87-9058-5aa24efb91aa",
-    "global": "~space-schedule~launch~china_aerospace_science_and_technology_corporation~6aa3fa12-04a7-4e87-9058-5aa24efb91aa"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/china_aerospace_science_and_technology_corporation/original.json"
    }
   },
   {
@@ -595,7 +527,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Foriginal.json",
  "_meta": {
-  "itemCount": 17,
+  "itemCount": 15,
   "pageNumber": 1,
   "pageCount": 1
  }

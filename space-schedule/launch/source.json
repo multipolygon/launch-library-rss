@@ -1,74 +1,8 @@
 {
-    "count": 7,
+    "count": 6,
     "next": null,
     "previous": null,
     "results": [
-        {
-            "id": "6aa3fa12-04a7-4e87-9058-5aa24efb91aa",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/6aa3fa12-04a7-4e87-9058-5aa24efb91aa.json",
-            "launch_library_id": null,
-            "slug": "long-march-3b-chinasat-6d",
-            "name": "Long March 3B (?) | ChinaSat 6D (?)",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-11-26T16:40:00Z",
-            "window_end": "2021-11-26T17:05:00Z",
-            "window_start": "2021-11-26T16:30:00Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": null,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 88,
-                "url": "https://ll.thespacedevs.com/2.2.0/agencies/88.json",
-                "name": "China Aerospace Science and Technology Corporation",
-                "type": "Government"
-            },
-            "rocket": {
-                "id": 2753,
-                "configuration": {
-                    "id": 50,
-                    "launch_library_id": 69,
-                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/50.json",
-                    "name": "Long March 3",
-                    "family": "Long March 3",
-                    "full_name": "Long March 3B/E",
-                    "variant": "B/E"
-                }
-            },
-            "mission": null,
-            "pad": {
-                "id": 45,
-                "url": "https://ll.thespacedevs.com/2.2.0/pad/45.json",
-                "agency_id": null,
-                "name": "Launch Complex 2 (LC-2)",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center",
-                "map_url": "https://www.google.com/maps/?q=28.246017,102.026556",
-                "latitude": "28.246017",
-                "longitude": "102.026556",
-                "location": {
-                    "id": 16,
-                    "url": "https://ll.thespacedevs.com/2.2.0/location/16.json",
-                    "name": "Xichang Satellite Launch Center, People's Republic of China",
-                    "country_code": "CHN",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_16_20200803142513.jpg",
-                    "total_launch_count": 164,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_45_20200803143520.jpg",
-                "total_launch_count": 86
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-            "infographic": null,
-            "program": []
-        },
         {
             "id": "8464fae8-48ef-4e35-860c-07347f339ce2",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/8464fae8-48ef-4e35-860c-07347f339ce2.json",

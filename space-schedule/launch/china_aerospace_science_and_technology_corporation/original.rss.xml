@@ -22,18 +22,5 @@
       <pubDate>Wed, 22 Dec 2021 09:30:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_7a_image_20210311201838.jpg"/>
     </item>
-    <item>
-      <title>Long March 3B (?) | ChinaSat 6D (?)</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/6aa3fa12-04a7-4e87-9058-5aa24efb91aa.json</link>
-      <description>-</description>
-      <category>launch</category>
-      <category>china_aerospace_science_and_technology_corporation</category>
-      <category>government</category>
-      <category>long_march_3</category>
-      <category>launch_complex_2_lc_2</category>
-      <guid isPermaLink="false">6aa3fa12-04a7-4e87-9058-5aa24efb91aa</guid>
-      <pubDate>Fri, 26 Nov 2021 16:30:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
-    </item>
   </channel>
 </rss>

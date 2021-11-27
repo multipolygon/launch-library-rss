@@ -104,18 +104,4 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
     <category term="navigation"/>
     <category term="soyuz_launch_complex"/>
   </entry>
-  <entry>
-    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~6aa3fa12-04a7-4e87-9058-5aa24efb91aa</id>
-    <title>Long March 3B (?) | ChinaSat 6D (?)</title>
-    <updated>2021-11-26T16:30:00Z</updated>
-    <published>2021-11-26T16:30:00Z</published>
-    <content type="text">-</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/6aa3fa12-04a7-4e87-9058-5aa24efb91aa.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_science_and_technology_corporation"/>
-    <category term="government"/>
-    <category term="long_march_3"/>
-    <category term="launch_complex_2_lc_2"/>
-  </entry>
 </feed>

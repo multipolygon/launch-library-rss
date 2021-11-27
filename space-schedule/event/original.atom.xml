@@ -86,17 +86,6 @@
     <category term="eva"/>
   </entry>
   <entry>
-    <id>~space-schedule~event~spacecraft_relocation~285</id>
-    <title>Crew-3 Crew Dragon Relocation</title>
-    <updated>2021-11-30T00:00:00Z</updated>
-    <published>2021-11-30T00:00:00Z</published>
-    <content type="text">NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crew-3_crew_dra_image_20210519122555.jpeg"/>
-    <category term="event"/>
-    <category term="spacecraft_relocation"/>
-  </entry>
-  <entry>
     <id>~space-schedule~event~flyby~381</id>
     <title>Solar Orbiter Earth Flyby</title>
     <updated>2021-11-27T04:30:00Z</updated>

@@ -171,16 +171,6 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"/>
     </item>
     <item>
-      <title>Crew-3 Crew Dragon Relocation</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>NASA astronauts Raja Chari, Thomas Marshburn and Kayla Barron as well as ESA astronaut Matthias Maurer will relocate the Crew Dragon spacecraft to IDA-3 located at the zenith port of the Harmony module.</description>
-      <category>event</category>
-      <category>spacecraft_relocation</category>
-      <guid isPermaLink="false">~space-schedule~event~spacecraft_relocation~285</guid>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crew-3_crew_dra_image_20210519122555.jpeg"/>
-    </item>
-    <item>
       <title>Solar Orbiter Earth Flyby</title>
       <link>https://www.esa.int/ESA_Multimedia/Images/2020/01/Solar_Orbiter_journey_around_the_Sun</link>
       <description>Solar Orbiter, a partnership between ESA and NASA, will perform a gravity assist maneuver with Earth on November 27. Throughout its mission it also makes repeated gravity assist flybys of Venus to get closer to the Sun, and to change its orbital inclination, boosting it out of the ecliptic plane, to get the best – and first – views of the Sun’s poles.</description>
@@ -189,19 +179,6 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <guid isPermaLink="false">~space-schedule~event~flyby~381</guid>
       <pubDate>Sat, 27 Nov 2021 04:30:00 GMT</pubDate>
       <enclosure type="image/png" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/solar_orbiter_e_image_20210930094846.png"/>
-    </item>
-    <item>
-      <title>Long March 3B (?) | ChinaSat 6D (?)</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/6aa3fa12-04a7-4e87-9058-5aa24efb91aa.json</link>
-      <description>-</description>
-      <category>launch</category>
-      <category>china_aerospace_science_and_technology_corporation</category>
-      <category>government</category>
-      <category>long_march_3</category>
-      <category>launch_complex_2_lc_2</category>
-      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~6aa3fa12-04a7-4e87-9058-5aa24efb91aa</guid>
-      <pubDate>Fri, 26 Nov 2021 16:30:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
     </item>
     <item>
       <title>Progress-M-UM &amp; Prichal Docking</title>
