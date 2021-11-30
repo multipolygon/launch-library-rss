@@ -186,6 +186,43 @@
    }
   },
   {
+   "id": "~space-schedule~launch~united_launch_alliance~495fe114-753d-48b1-9d23-eb9adaa3fb23",
+   "title": "Atlas V 551 | STP-3",
+   "content_text": "Rideshare mission with the STPSat-6 satellite and six secondary payloads for the US Air Force. STPSat-6 carries the NNSA's Space and Atmospheric Burst Reporting System-3 (SABRS-3) payload and NASA's Laser Communications Relay Demonstration (LCRD) experiment.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/495fe114-753d-48b1-9d23-eb9adaa3fb23.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520551_image_20190224012316.jpeg",
+   "date_published": "2021-12-05T09:04:00Z",
+   "date_modified": "2021-12-05T09:04:00Z",
+   "tags": [
+    "launch",
+    "united_launch_alliance",
+    "commercial",
+    "atlas",
+    "atlas_v_551",
+    "dedicated_rideshare",
+    "space_launch_complex_41"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520551_image_20190224012316.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "United Launch Alliance | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "495fe114-753d-48b1-9d23-eb9adaa3fb23",
+    "global": "~space-schedule~launch~united_launch_alliance~495fe114-753d-48b1-9d23-eb9adaa3fb23"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/united_launch_alliance/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2",
    "title": "Soyuz STB/Fregat | 2 x Galileo",
    "content_text": "Payload consists of two satellites for Europe's Galileo navigation system.",
@@ -231,7 +268,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Foriginal.json",
  "_meta": {
-  "itemCount": 6,
+  "itemCount": 7,
   "pageNumber": 1,
   "pageCount": 1
  }

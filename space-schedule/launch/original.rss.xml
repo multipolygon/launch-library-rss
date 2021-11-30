@@ -86,6 +86,21 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
     </item>
     <item>
+      <title>Atlas V 551 | STP-3</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/495fe114-753d-48b1-9d23-eb9adaa3fb23.json</link>
+      <description>Rideshare mission with the STPSat-6 satellite and six secondary payloads for the US Air Force. STPSat-6 carries the NNSA's Space and Atmospheric Burst Reporting System-3 (SABRS-3) payload and NASA's Laser Communications Relay Demonstration (LCRD) experiment.</description>
+      <category>launch</category>
+      <category>united_launch_alliance</category>
+      <category>commercial</category>
+      <category>atlas</category>
+      <category>atlas_v_551</category>
+      <category>dedicated_rideshare</category>
+      <category>space_launch_complex_41</category>
+      <guid isPermaLink="false">~space-schedule~launch~united_launch_alliance~495fe114-753d-48b1-9d23-eb9adaa3fb23</guid>
+      <pubDate>Sun, 05 Dec 2021 09:04:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520551_image_20190224012316.jpeg"/>
+    </item>
+    <item>
       <title>Soyuz STB/Fregat | 2 x Galileo</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/8464fae8-48ef-4e35-860c-07347f339ce2.json</link>
       <description>Payload consists of two satellites for Europe's Galileo navigation system.</description>

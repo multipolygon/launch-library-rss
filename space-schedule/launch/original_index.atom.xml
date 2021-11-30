@@ -48,4 +48,12 @@
     <content type="text">1 items</content>
     <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Frussian_federal_space_agency_roscosmos%2Foriginal.json"/>
   </entry>
+  <entry>
+    <id>https://launch-library-rss.multipolygon.net/space-schedule/launch/united_launch_alliance/original.json</id>
+    <title>United Launch Alliance | Launch | Space Schedule</title>
+    <updated>2021-12-05T09:04:00Z</updated>
+    <published>2021-12-05T09:04:00Z</published>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Funited_launch_alliance%2Foriginal.json"/>
+  </entry>
 </feed>

@@ -136,6 +136,21 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
     </item>
     <item>
+      <title>Atlas V 551 | STP-3</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/495fe114-753d-48b1-9d23-eb9adaa3fb23.json</link>
+      <description>Rideshare mission with the STPSat-6 satellite and six secondary payloads for the US Air Force. STPSat-6 carries the NNSA's Space and Atmospheric Burst Reporting System-3 (SABRS-3) payload and NASA's Laser Communications Relay Demonstration (LCRD) experiment.</description>
+      <category>launch</category>
+      <category>united_launch_alliance</category>
+      <category>commercial</category>
+      <category>atlas</category>
+      <category>atlas_v_551</category>
+      <category>dedicated_rideshare</category>
+      <category>space_launch_complex_41</category>
+      <guid isPermaLink="false">~space-schedule~launch~united_launch_alliance~495fe114-753d-48b1-9d23-eb9adaa3fb23</guid>
+      <pubDate>Sun, 05 Dec 2021 09:04:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520551_image_20190224012316.jpeg"/>
+    </item>
+    <item>
       <title>Rocket Lab Neutron Development Update</title>
       <link>https://www.youtube.com/watch?v=A0thW57QeDM</link>
       <description>Rocket Lab will host a major development update about its upcoming Neutron launch vehicle.</description>
@@ -159,16 +174,6 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <guid isPermaLink="false">~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2</guid>
       <pubDate>Thu, 02 Dec 2021 00:31:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520stb_image_20190224025011.jpeg"/>
-    </item>
-    <item>
-      <title>US EVA-78</title>
-      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
-      <description>NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.</description>
-      <category>event</category>
-      <category>eva</category>
-      <guid isPermaLink="false">~space-schedule~event~eva~337</guid>
-      <pubDate>Tue, 30 Nov 2021 12:10:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"/>
     </item>
   </channel>
 </rss>
