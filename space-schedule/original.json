@@ -318,8 +318,8 @@
    "content_text": "Soyuz MS-20 will carry Roscosmos cosmonaut Aleksandr Misurkin as well as two tourists, a Japanese billionere Yusaku Maezawa and his assistant Yozo Hirano, to the International Space Station.",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/603f47d2-bc2b-4bab-b623-294c2cbf899c.json",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
-   "date_published": "2021-12-08T07:38:00Z",
-   "date_modified": "2021-12-08T07:38:00Z",
+   "date_published": "2021-12-08T07:38:15Z",
+   "date_modified": "2021-12-08T07:38:15Z",
    "tags": [
     "launch",
     "russian_federal_space_agency_roscosmos",
@@ -348,6 +348,39 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/russian_federal_space_agency_roscosmos/original.json"
+   }
+  },
+  {
+   "id": "~space-schedule~event~press_event~437",
+   "title": "IXPE Pre-Launch News Conference",
+   "content_text": "NASA will host a media briefing about the upcoming launch of the Imaging X-ray Polarimetry Explorer (IXPE) mission.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ixpe_pre-launch_image_20211201070800.jpeg",
+   "date_published": "2021-12-07T22:30:00Z",
+   "date_modified": "2021-12-07T22:30:00Z",
+   "tags": [
+    "event",
+    "press_event"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ixpe_pre-launch_image_20211201070800.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Press Event | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "437",
+    "global": "~space-schedule~event~press_event~437"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
    }
   },
   {
@@ -388,6 +421,43 @@
    }
   },
   {
+   "id": "~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2",
+   "title": "Soyuz STB/Fregat | 2 x Galileo",
+   "content_text": "Payload consists of two satellites for Europe's Galileo navigation system.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/8464fae8-48ef-4e35-860c-07347f339ce2.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_stb_image_20211130181029.jpeg",
+   "date_published": "2021-12-03T00:27:00Z",
+   "date_modified": "2021-12-03T00:27:00Z",
+   "tags": [
+    "launch",
+    "arianespace",
+    "commercial",
+    "soyuz",
+    "soyuz_stb",
+    "navigation",
+    "soyuz_launch_complex"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_stb_image_20211130181029.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "Arianespace | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "8464fae8-48ef-4e35-860c-07347f339ce2",
+    "global": "~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~press_event~436",
    "title": "Rocket Lab Neutron Development Update",
    "content_text": "Rocket Lab will host a major development update about its upcoming Neutron launch vehicle.",
@@ -421,40 +491,36 @@
    }
   },
   {
-   "id": "~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2",
-   "title": "Soyuz STB/Fregat | 2 x Galileo",
-   "content_text": "Payload consists of two satellites for Europe's Galileo navigation system.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/8464fae8-48ef-4e35-860c-07347f339ce2.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520stb_image_20190224025011.jpeg",
-   "date_published": "2021-12-02T00:31:00Z",
-   "date_modified": "2021-12-02T00:31:00Z",
+   "id": "~space-schedule~event~eva~337",
+   "title": "US EVA-78",
+   "content_text": "NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.",
+   "url": "https://www.youtube.com/watch?v=ScAtmwgIXwU",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg",
+   "date_published": "2021-12-02T12:10:00Z",
+   "date_modified": "2021-12-02T12:10:00Z",
    "tags": [
-    "launch",
-    "arianespace",
-    "commercial",
-    "soyuz",
-    "soyuz_stb",
-    "navigation",
-    "soyuz_launch_complex"
+    "event",
+    "eva"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520stb_image_20190224025011.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"
     }
    ],
    "_meta": {
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "subtitle": "Arianespace | Launch | Space Schedule"
+    "youtubeCount": 1,
+    "subtitle": "EVA | Event | Space Schedule"
    },
    "_id": {
-    "parent": "8464fae8-48ef-4e35-860c-07347f339ce2",
-    "global": "~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2"
+    "parent": "337",
+    "global": "~space-schedule~event~eva~337"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
    }
   }
  ],
@@ -466,7 +532,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Foriginal.json",
  "_meta": {
-  "itemCount": 13,
+  "itemCount": 15,
   "pageNumber": 1,
   "pageCount": 1
  }

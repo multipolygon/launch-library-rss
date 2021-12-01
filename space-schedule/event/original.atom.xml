@@ -64,6 +64,17 @@
     <category term="docking"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~press_event~437</id>
+    <title>IXPE Pre-Launch News Conference</title>
+    <updated>2021-12-07T22:30:00Z</updated>
+    <published>2021-12-07T22:30:00Z</published>
+    <content type="text">NASA will host a media briefing about the upcoming launch of the Imaging X-ray Polarimetry Explorer (IXPE) mission.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ixpe_pre-launch_image_20211201070800.jpeg"/>
+    <category term="event"/>
+    <category term="press_event"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~press_event~436</id>
     <title>Rocket Lab Neutron Development Update</title>
     <updated>2021-12-02T13:00:00Z</updated>
@@ -73,5 +84,16 @@
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rocket_lab_neut_image_20211124172620.jpg"/>
     <category term="event"/>
     <category term="press_event"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~eva~337</id>
+    <title>US EVA-78</title>
+    <updated>2021-12-02T12:10:00Z</updated>
+    <published>2021-12-02T12:10:00Z</published>
+    <content type="text">NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=ScAtmwgIXwU"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"/>
+    <category term="event"/>
+    <category term="eva"/>
   </entry>
 </feed>

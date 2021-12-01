@@ -74,8 +74,8 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
   <entry>
     <id>~space-schedule~launch~russian_federal_space_agency_roscosmos~603f47d2-bc2b-4bab-b623-294c2cbf899c</id>
     <title>Soyuz 2.1a | Soyuz MS-20</title>
-    <updated>2021-12-08T07:38:00Z</updated>
-    <published>2021-12-08T07:38:00Z</published>
+    <updated>2021-12-08T07:38:15Z</updated>
+    <published>2021-12-08T07:38:15Z</published>
     <content type="text">Soyuz MS-20 will carry Roscosmos cosmonaut Aleksandr Misurkin as well as two tourists, a Japanese billionere Yusaku Maezawa and his assistant Yozo Hirano, to the International Space Station.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/603f47d2-bc2b-4bab-b623-294c2cbf899c.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
@@ -107,11 +107,11 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
   <entry>
     <id>~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2</id>
     <title>Soyuz STB/Fregat | 2 x Galileo</title>
-    <updated>2021-12-02T00:31:00Z</updated>
-    <published>2021-12-02T00:31:00Z</published>
+    <updated>2021-12-03T00:27:00Z</updated>
+    <published>2021-12-03T00:27:00Z</published>
     <content type="text">Payload consists of two satellites for Europe's Galileo navigation system.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/8464fae8-48ef-4e35-860c-07347f339ce2.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520stb_image_20190224025011.jpeg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_stb_image_20211130181029.jpeg"/>
     <category term="launch"/>
     <category term="arianespace"/>
     <category term="commercial"/>

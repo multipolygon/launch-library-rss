@@ -4,6 +4,31 @@
  "title": "Press Event | Event | Space Schedule",
  "items": [
   {
+   "id": "437",
+   "title": "IXPE Pre-Launch News Conference",
+   "content_text": "NASA will host a media briefing about the upcoming launch of the Imaging X-ray Polarimetry Explorer (IXPE) mission.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ixpe_pre-launch_image_20211201070800.jpeg",
+   "date_published": "2021-12-07T22:30:00Z",
+   "date_modified": "2021-12-07T22:30:00Z",
+   "tags": [
+    "event",
+    "press_event"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ixpe_pre-launch_image_20211201070800.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1
+   }
+  },
+  {
    "id": "436",
    "title": "Rocket Lab Neutron Development Update",
    "content_text": "Rocket Lab will host a major development update about its upcoming Neutron launch vehicle.",
@@ -35,7 +60,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json",
  "_meta": {
-  "itemCount": 1,
+  "itemCount": 2,
   "pageNumber": 1,
   "pageCount": 1
  }

@@ -132,8 +132,18 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <category>31_6</category>
       <category>international_space_station</category>
       <guid isPermaLink="false">~space-schedule~launch~russian_federal_space_agency_roscosmos~603f47d2-bc2b-4bab-b623-294c2cbf899c</guid>
-      <pubDate>Wed, 08 Dec 2021 07:38:00 GMT</pubDate>
+      <pubDate>Wed, 08 Dec 2021 07:38:15 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
+    </item>
+    <item>
+      <title>IXPE Pre-Launch News Conference</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>NASA will host a media briefing about the upcoming launch of the Imaging X-ray Polarimetry Explorer (IXPE) mission.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~437</guid>
+      <pubDate>Tue, 07 Dec 2021 22:30:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ixpe_pre-launch_image_20211201070800.jpeg"/>
     </item>
     <item>
       <title>Atlas V 551 | STP-3</title>
@@ -151,16 +161,6 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520551_image_20190224012316.jpeg"/>
     </item>
     <item>
-      <title>Rocket Lab Neutron Development Update</title>
-      <link>https://www.youtube.com/watch?v=A0thW57QeDM</link>
-      <description>Rocket Lab will host a major development update about its upcoming Neutron launch vehicle.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~436</guid>
-      <pubDate>Thu, 02 Dec 2021 13:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rocket_lab_neut_image_20211124172620.jpg"/>
-    </item>
-    <item>
       <title>Soyuz STB/Fregat | 2 x Galileo</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/8464fae8-48ef-4e35-860c-07347f339ce2.json</link>
       <description>Payload consists of two satellites for Europe's Galileo navigation system.</description>
@@ -172,8 +172,28 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <category>navigation</category>
       <category>soyuz_launch_complex</category>
       <guid isPermaLink="false">~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2</guid>
-      <pubDate>Thu, 02 Dec 2021 00:31:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520stb_image_20190224025011.jpeg"/>
+      <pubDate>Fri, 03 Dec 2021 00:27:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_stb_image_20211130181029.jpeg"/>
+    </item>
+    <item>
+      <title>Rocket Lab Neutron Development Update</title>
+      <link>https://www.youtube.com/watch?v=A0thW57QeDM</link>
+      <description>Rocket Lab will host a major development update about its upcoming Neutron launch vehicle.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~436</guid>
+      <pubDate>Thu, 02 Dec 2021 13:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rocket_lab_neut_image_20211124172620.jpg"/>
+    </item>
+    <item>
+      <title>US EVA-78</title>
+      <link>https://www.youtube.com/watch?v=ScAtmwgIXwU</link>
+      <description>NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.</description>
+      <category>event</category>
+      <category>eva</category>
+      <guid isPermaLink="false">~space-schedule~event~eva~337</guid>
+      <pubDate>Thu, 02 Dec 2021 12:10:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"/>
     </item>
   </channel>
 </rss>

@@ -82,7 +82,7 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <category>31_6</category>
       <category>international_space_station</category>
       <guid isPermaLink="false">~space-schedule~launch~russian_federal_space_agency_roscosmos~603f47d2-bc2b-4bab-b623-294c2cbf899c</guid>
-      <pubDate>Wed, 08 Dec 2021 07:38:00 GMT</pubDate>
+      <pubDate>Wed, 08 Dec 2021 07:38:15 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
     </item>
     <item>
@@ -112,8 +112,8 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <category>navigation</category>
       <category>soyuz_launch_complex</category>
       <guid isPermaLink="false">~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2</guid>
-      <pubDate>Thu, 02 Dec 2021 00:31:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520stb_image_20190224025011.jpeg"/>
+      <pubDate>Fri, 03 Dec 2021 00:27:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_stb_image_20211130181029.jpeg"/>
     </item>
   </channel>
 </rss>

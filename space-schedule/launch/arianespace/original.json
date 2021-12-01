@@ -35,9 +35,9 @@
    "title": "Soyuz STB/Fregat | 2 x Galileo",
    "content_text": "Payload consists of two satellites for Europe's Galileo navigation system.",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/8464fae8-48ef-4e35-860c-07347f339ce2.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520stb_image_20190224025011.jpeg",
-   "date_published": "2021-12-02T00:31:00Z",
-   "date_modified": "2021-12-02T00:31:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_stb_image_20211130181029.jpeg",
+   "date_published": "2021-12-03T00:27:00Z",
+   "date_modified": "2021-12-03T00:27:00Z",
    "tags": [
     "launch",
     "arianespace",
@@ -50,7 +50,7 @@
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520stb_image_20190224025011.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_stb_image_20211130181029.jpeg"
     }
    ],
    "_meta": {

@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-12-02T00:31:00Z",
-            "window_end": "2021-12-02T00:31:00Z",
-            "window_start": "2021-12-02T00:31:00Z",
+            "net": "2021-12-03T00:27:00Z",
+            "window_end": "2021-12-03T00:27:00Z",
+            "window_start": "2021-12-03T00:27:00Z",
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,
@@ -77,7 +77,7 @@
                 "total_launch_count": 24
             },
             "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520stb_image_20190224025011.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_stb_image_20211130181029.jpeg",
             "infographic": null,
             "program": []
         },
@@ -169,9 +169,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-12-08T07:38:00Z",
-            "window_end": "2021-12-08T07:38:00Z",
-            "window_start": "2021-12-08T07:38:00Z",
+            "net": "2021-12-08T07:38:15Z",
+            "window_end": "2021-12-08T07:38:15Z",
+            "window_start": "2021-12-08T07:38:15Z",
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,
