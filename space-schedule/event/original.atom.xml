@@ -75,6 +75,17 @@
     <category term="press_event"/>
   </entry>
   <entry>
+    <id>~space-schedule~event~static_fire~438</id>
+    <title>Starship S20 Static Fire #4</title>
+    <updated>2021-12-03T00:00:00Z</updated>
+    <published>2021-12-03T00:00:00Z</published>
+    <content type="text">SpaceX is expected to perform a static fire of Starship S20.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=UdQzA0NICX8"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_te_image_20211201180100.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~press_event~436</id>
     <title>Rocket Lab Neutron Development Update</title>
     <updated>2021-12-02T13:00:00Z</updated>
@@ -95,5 +106,18 @@
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"/>
     <category term="event"/>
     <category term="eva"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~press_event~439</id>
+    <title>National Space Council Meeting</title>
+    <updated>2021-12-01T18:30:00Z</updated>
+    <published>2021-12-01T18:30:00Z</published>
+    <content type="text">US Vice President Kamala Harris chairs her first National Space Council meeting on Dec. 1, 2021, at the U.S. Institute of Peace in Washington. NASA Administrator Bill Nelson will join the vice president to deliver remarks.&#xD;
+ &#xD;
+The council advises the president on America’s space policy and strategy, and reviews the nation’s long-range goals for space activities.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=G_hzzWjVowg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/national_space__image_20211201183547.jpeg"/>
+    <category term="event"/>
+    <category term="press_event"/>
   </entry>
 </feed>

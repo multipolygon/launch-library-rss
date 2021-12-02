@@ -89,6 +89,21 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
     <category term="international_space_station"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~rocket_lab_ltd~029615cc-ef67-4a1e-b98e-08bdbfb3ae7e</id>
+    <title>Electron | A Data With Destiny</title>
+    <updated>2021-12-07T00:40:00Z</updated>
+    <published>2021-12-07T00:40:00Z</published>
+    <content type="text">Payload consists of two BlackSky Gen-2 high-resolution multi-spectral Earth observation satellites.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/029615cc-ef67-4a1e-b98e-08bdbfb3ae7e.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"/>
+    <category term="launch"/>
+    <category term="rocket_lab_ltd"/>
+    <category term="commercial"/>
+    <category term="electron"/>
+    <category term="earth_science"/>
+    <category term="rocket_lab_launch_complex_1_a"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~united_launch_alliance~495fe114-753d-48b1-9d23-eb9adaa3fb23</id>
     <title>Atlas V 551 | STP-3</title>
     <updated>2021-12-05T09:04:00Z</updated>
@@ -107,8 +122,8 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
   <entry>
     <id>~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2</id>
     <title>Soyuz STB/Fregat | 2 x Galileo</title>
-    <updated>2021-12-03T00:27:00Z</updated>
-    <published>2021-12-03T00:27:00Z</published>
+    <updated>2021-12-03T00:27:25Z</updated>
+    <published>2021-12-03T00:27:25Z</published>
     <content type="text">Payload consists of two satellites for Europe's Galileo navigation system.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/8464fae8-48ef-4e35-860c-07347f339ce2.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_stb_image_20211130181029.jpeg"/>

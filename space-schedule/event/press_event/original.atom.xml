@@ -29,4 +29,17 @@
     <category term="event"/>
     <category term="press_event"/>
   </entry>
+  <entry>
+    <id>439</id>
+    <title>National Space Council Meeting</title>
+    <updated>2021-12-01T18:30:00Z</updated>
+    <published>2021-12-01T18:30:00Z</published>
+    <content type="text">US Vice President Kamala Harris chairs her first National Space Council meeting on Dec. 1, 2021, at the U.S. Institute of Peace in Washington. NASA Administrator Bill Nelson will join the vice president to deliver remarks.&#xD;
+ &#xD;
+The council advises the president on America’s space policy and strategy, and reviews the nation’s long-range goals for space activities.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=G_hzzWjVowg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/national_space__image_20211201183547.jpeg"/>
+    <category term="event"/>
+    <category term="press_event"/>
+  </entry>
 </feed>

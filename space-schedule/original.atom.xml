@@ -155,6 +155,21 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
     <category term="press_event"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~rocket_lab_ltd~029615cc-ef67-4a1e-b98e-08bdbfb3ae7e</id>
+    <title>Electron | A Data With Destiny</title>
+    <updated>2021-12-07T00:40:00Z</updated>
+    <published>2021-12-07T00:40:00Z</published>
+    <content type="text">Payload consists of two BlackSky Gen-2 high-resolution multi-spectral Earth observation satellites.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/029615cc-ef67-4a1e-b98e-08bdbfb3ae7e.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"/>
+    <category term="launch"/>
+    <category term="rocket_lab_ltd"/>
+    <category term="commercial"/>
+    <category term="electron"/>
+    <category term="earth_science"/>
+    <category term="rocket_lab_launch_complex_1_a"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~united_launch_alliance~495fe114-753d-48b1-9d23-eb9adaa3fb23</id>
     <title>Atlas V 551 | STP-3</title>
     <updated>2021-12-05T09:04:00Z</updated>
@@ -173,8 +188,8 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
   <entry>
     <id>~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2</id>
     <title>Soyuz STB/Fregat | 2 x Galileo</title>
-    <updated>2021-12-03T00:27:00Z</updated>
-    <published>2021-12-03T00:27:00Z</published>
+    <updated>2021-12-03T00:27:25Z</updated>
+    <published>2021-12-03T00:27:25Z</published>
     <content type="text">Payload consists of two satellites for Europe's Galileo navigation system.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/8464fae8-48ef-4e35-860c-07347f339ce2.json"/>
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_stb_image_20211130181029.jpeg"/>
@@ -185,6 +200,17 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
     <category term="soyuz_stb"/>
     <category term="navigation"/>
     <category term="soyuz_launch_complex"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~static_fire~438</id>
+    <title>Starship S20 Static Fire #4</title>
+    <updated>2021-12-03T00:00:00Z</updated>
+    <published>2021-12-03T00:00:00Z</published>
+    <content type="text">SpaceX is expected to perform a static fire of Starship S20.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=UdQzA0NICX8"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_te_image_20211201180100.jpeg"/>
+    <category term="event"/>
+    <category term="static_fire"/>
   </entry>
   <entry>
     <id>~space-schedule~event~press_event~436</id>
@@ -207,5 +233,18 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
     <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"/>
     <category term="event"/>
     <category term="eva"/>
+  </entry>
+  <entry>
+    <id>~space-schedule~event~press_event~439</id>
+    <title>National Space Council Meeting</title>
+    <updated>2021-12-01T18:30:00Z</updated>
+    <published>2021-12-01T18:30:00Z</published>
+    <content type="text">US Vice President Kamala Harris chairs her first National Space Council meeting on Dec. 1, 2021, at the U.S. Institute of Peace in Washington. NASA Administrator Bill Nelson will join the vice president to deliver remarks.&#xD;
+ &#xD;
+The council advises the president on America’s space policy and strategy, and reviews the nation’s long-range goals for space activities.</content>
+    <link rel="alternate" href="https://www.youtube.com/watch?v=G_hzzWjVowg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/national_space__image_20211201183547.jpeg"/>
+    <category term="event"/>
+    <category term="press_event"/>
   </entry>
 </feed>

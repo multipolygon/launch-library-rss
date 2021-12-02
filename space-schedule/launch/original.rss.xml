@@ -86,6 +86,20 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
     </item>
     <item>
+      <title>Electron | A Data With Destiny</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/029615cc-ef67-4a1e-b98e-08bdbfb3ae7e.json</link>
+      <description>Payload consists of two BlackSky Gen-2 high-resolution multi-spectral Earth observation satellites.</description>
+      <category>launch</category>
+      <category>rocket_lab_ltd</category>
+      <category>commercial</category>
+      <category>electron</category>
+      <category>earth_science</category>
+      <category>rocket_lab_launch_complex_1_a</category>
+      <guid isPermaLink="false">~space-schedule~launch~rocket_lab_ltd~029615cc-ef67-4a1e-b98e-08bdbfb3ae7e</guid>
+      <pubDate>Tue, 07 Dec 2021 00:40:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"/>
+    </item>
+    <item>
       <title>Atlas V 551 | STP-3</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/495fe114-753d-48b1-9d23-eb9adaa3fb23.json</link>
       <description>Rideshare mission with the STPSat-6 satellite and six secondary payloads for the US Air Force. STPSat-6 carries the NNSA's Space and Atmospheric Burst Reporting System-3 (SABRS-3) payload and NASA's Laser Communications Relay Demonstration (LCRD) experiment.</description>
@@ -112,7 +126,7 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <category>navigation</category>
       <category>soyuz_launch_complex</category>
       <guid isPermaLink="false">~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2</guid>
-      <pubDate>Fri, 03 Dec 2021 00:27:00 GMT</pubDate>
+      <pubDate>Fri, 03 Dec 2021 00:27:25 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_stb_image_20211130181029.jpeg"/>
     </item>
   </channel>

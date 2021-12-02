@@ -71,6 +71,16 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ixpe_pre-launch_image_20211201070800.jpeg"/>
     </item>
     <item>
+      <title>Starship S20 Static Fire #4</title>
+      <link>https://www.youtube.com/watch?v=UdQzA0NICX8</link>
+      <description>SpaceX is expected to perform a static fire of Starship S20.</description>
+      <category>event</category>
+      <category>static_fire</category>
+      <guid isPermaLink="false">~space-schedule~event~static_fire~438</guid>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_te_image_20211201180100.jpeg"/>
+    </item>
+    <item>
       <title>Rocket Lab Neutron Development Update</title>
       <link>https://www.youtube.com/watch?v=A0thW57QeDM</link>
       <description>Rocket Lab will host a major development update about its upcoming Neutron launch vehicle.</description>
@@ -89,6 +99,18 @@
       <guid isPermaLink="false">~space-schedule~event~eva~337</guid>
       <pubDate>Thu, 02 Dec 2021 12:10:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"/>
+    </item>
+    <item>
+      <title>National Space Council Meeting</title>
+      <link>https://www.youtube.com/watch?v=G_hzzWjVowg</link>
+      <description>US Vice President Kamala Harris chairs her first National Space Council meeting on Dec. 1, 2021, at the U.S. Institute of Peace in Washington. NASA Administrator Bill Nelson will join the vice president to deliver remarks.&#xD;
+ &#xD;
+The council advises the president on America’s space policy and strategy, and reviews the nation’s long-range goals for space activities.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">~space-schedule~event~press_event~439</guid>
+      <pubDate>Wed, 01 Dec 2021 18:30:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/national_space__image_20211201183547.jpeg"/>
     </item>
   </channel>
 </rss>
