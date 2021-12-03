@@ -4,26 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": 439,
-            "url": "https://ll.thespacedevs.com/2.2.0/event/439.json",
-            "slug": "national-space-council-meeting",
-            "name": "National Space Council Meeting",
-            "type": {
-                "id": 20,
-                "name": "Press Event"
-            },
-            "description": "US Vice President Kamala Harris chairs her first National Space Council meeting on Dec. 1, 2021, at the U.S. Institute of Peace in Washington. NASA Administrator Bill Nelson will join the vice president to deliver remarks.\r\n \r\nThe council advises the president on America’s space policy and strategy, and reviews the nation’s long-range goals for space activities.",
-            "location": "Institude of Peace, Washington, USA",
-            "news_url": null,
-            "video_url": "https://www.youtube.com/watch?v=G_hzzWjVowg",
-            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/national_space__image_20211201183547.jpeg",
-            "date": "2021-12-01T18:30:00Z",
-            "launches": [],
-            "expeditions": [],
-            "spacestations": [],
-            "program": []
-        },
-        {
             "id": 337,
             "url": "https://ll.thespacedevs.com/2.2.0/event/337.json",
             "slug": "us-eva-78",
@@ -154,7 +134,7 @@
             "news_url": "https://twitter.com/BocaChicaGal/status/1465805215916036102",
             "video_url": "https://www.youtube.com/watch?v=UdQzA0NICX8",
             "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_te_image_20211201180100.jpeg",
-            "date": "2021-12-03T00:00:00Z",
+            "date": "2021-12-04T00:00:00Z",
             "launches": [],
             "expeditions": [],
             "spacestations": [],
@@ -179,6 +159,26 @@
                     "wiki_url": "https://en.wikipedia.org/wiki/SpaceX_Starship"
                 }
             ]
+        },
+        {
+            "id": 440,
+            "url": "https://ll.thespacedevs.com/2.2.0/event/440.json",
+            "slug": "2021-nasa-astronaut-candidates-announcement",
+            "name": "2021 NASA Astronaut Candidates Announcement",
+            "type": {
+                "id": 20,
+                "name": "Press Event"
+            },
+            "description": "After evaluating more than 12,000 applications, NASA will introduce its 2021 astronaut candidates from Ellington Field near NASA’s Johnson Space Center in Houston. After completing training, these individuals could be eligible for a variety of flight assignments including missions on and around the Moon under the Artemis program.",
+            "location": "Ellington Field Joint Reserve Base, TX, USA",
+            "news_url": "https://www.nasa.gov/press-release/nasa-to-announce-america-s-next-class-of-astronaut-candidates",
+            "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/2021_nasa_astro_image_20211202132624.jpeg",
+            "date": "2021-12-06T17:30:00Z",
+            "launches": [],
+            "expeditions": [],
+            "spacestations": [],
+            "program": []
         },
         {
             "id": 437,

@@ -201,13 +201,46 @@
    }
   },
   {
+   "id": "~space-schedule~event~press_event~440",
+   "title": "2021 NASA Astronaut Candidates Announcement",
+   "content_text": "After evaluating more than 12,000 applications, NASA will introduce its 2021 astronaut candidates from Ellington Field near NASA’s Johnson Space Center in Houston. After completing training, these individuals could be eligible for a variety of flight assignments including missions on and around the Moon under the Artemis program.",
+   "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/2021_nasa_astro_image_20211202132624.jpeg",
+   "date_published": "2021-12-06T17:30:00Z",
+   "date_modified": "2021-12-06T17:30:00Z",
+   "tags": [
+    "event",
+    "press_event"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/2021_nasa_astro_image_20211202132624.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "youtubeCount": 1,
+    "subtitle": "Press Event | Event | Space Schedule"
+   },
+   "_id": {
+    "parent": "440",
+    "global": "~space-schedule~event~press_event~440"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~event~static_fire~438",
    "title": "Starship S20 Static Fire #4",
    "content_text": "SpaceX is expected to perform a static fire of Starship S20.",
    "url": "https://www.youtube.com/watch?v=UdQzA0NICX8",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_te_image_20211201180100.jpeg",
-   "date_published": "2021-12-03T00:00:00Z",
-   "date_modified": "2021-12-03T00:00:00Z",
+   "date_published": "2021-12-04T00:00:00Z",
+   "date_modified": "2021-12-04T00:00:00Z",
    "tags": [
     "event",
     "static_fire"
@@ -297,39 +330,6 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~press_event~439",
-   "title": "National Space Council Meeting",
-   "content_text": "US Vice President Kamala Harris chairs her first National Space Council meeting on Dec. 1, 2021, at the U.S. Institute of Peace in Washington. NASA Administrator Bill Nelson will join the vice president to deliver remarks.\r\n \r\nThe council advises the president on America’s space policy and strategy, and reviews the nation’s long-range goals for space activities.",
-   "url": "https://www.youtube.com/watch?v=G_hzzWjVowg",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/national_space__image_20211201183547.jpeg",
-   "date_published": "2021-12-01T18:30:00Z",
-   "date_modified": "2021-12-01T18:30:00Z",
-   "tags": [
-    "event",
-    "press_event"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/national_space__image_20211201183547.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Press Event | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "439",
-    "global": "~space-schedule~event~press_event~439"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
    }
   }
  ],

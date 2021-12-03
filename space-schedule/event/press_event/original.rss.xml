@@ -20,6 +20,16 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ixpe_pre-launch_image_20211201070800.jpeg"/>
     </item>
     <item>
+      <title>2021 NASA Astronaut Candidates Announcement</title>
+      <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
+      <description>After evaluating more than 12,000 applications, NASA will introduce its 2021 astronaut candidates from Ellington Field near NASA’s Johnson Space Center in Houston. After completing training, these individuals could be eligible for a variety of flight assignments including missions on and around the Moon under the Artemis program.</description>
+      <category>event</category>
+      <category>press_event</category>
+      <guid isPermaLink="false">440</guid>
+      <pubDate>Mon, 06 Dec 2021 17:30:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/2021_nasa_astro_image_20211202132624.jpeg"/>
+    </item>
+    <item>
       <title>Rocket Lab Neutron Development Update</title>
       <link>https://www.youtube.com/watch?v=A0thW57QeDM</link>
       <description>Rocket Lab will host a major development update about its upcoming Neutron launch vehicle.</description>
@@ -28,18 +38,6 @@
       <guid isPermaLink="false">436</guid>
       <pubDate>Thu, 02 Dec 2021 13:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rocket_lab_neut_image_20211124172620.jpg"/>
-    </item>
-    <item>
-      <title>National Space Council Meeting</title>
-      <link>https://www.youtube.com/watch?v=G_hzzWjVowg</link>
-      <description>US Vice President Kamala Harris chairs her first National Space Council meeting on Dec. 1, 2021, at the U.S. Institute of Peace in Washington. NASA Administrator Bill Nelson will join the vice president to deliver remarks.&#xD;
- &#xD;
-The council advises the president on America’s space policy and strategy, and reviews the nation’s long-range goals for space activities.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">439</guid>
-      <pubDate>Wed, 01 Dec 2021 18:30:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/national_space__image_20211201183547.jpeg"/>
     </item>
   </channel>
 </rss>
