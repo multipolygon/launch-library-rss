@@ -196,38 +196,18 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <category>navigation</category>
       <category>soyuz_launch_complex</category>
       <guid isPermaLink="false">~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2</guid>
-      <pubDate>Sat, 04 Dec 2021 00:23:22 GMT</pubDate>
+      <pubDate>Sun, 05 Dec 2021 00:19:20 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_stb_image_20211130181029.jpeg"/>
     </item>
     <item>
-      <title>Starship S20 Static Fire #4</title>
-      <link>https://www.youtube.com/watch?v=UdQzA0NICX8</link>
-      <description>SpaceX is expected to perform a static fire of Starship S20.</description>
+      <title>Total Solar Eclipse</title>
+      <link>https://youtu.be/J04GFN2Pq1w</link>
+      <description>Camera views of the total solar eclipse visible from Antarctica will be broadcasted on NASA TV.</description>
       <category>event</category>
-      <category>static_fire</category>
-      <guid isPermaLink="false">~space-schedule~event~static_fire~438</guid>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_te_image_20211201180100.jpeg"/>
-    </item>
-    <item>
-      <title>Rocket Lab Neutron Development Update</title>
-      <link>https://www.youtube.com/watch?v=A0thW57QeDM</link>
-      <description>Rocket Lab will host a major development update about its upcoming Neutron launch vehicle.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~436</guid>
-      <pubDate>Thu, 02 Dec 2021 13:00:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rocket_lab_neut_image_20211124172620.jpg"/>
-    </item>
-    <item>
-      <title>US EVA-78</title>
-      <link>https://www.youtube.com/watch?v=ScAtmwgIXwU</link>
-      <description>NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.</description>
-      <category>event</category>
-      <category>eva</category>
-      <guid isPermaLink="false">~space-schedule~event~eva~337</guid>
-      <pubDate>Thu, 02 Dec 2021 12:10:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"/>
+      <category>celestial_event</category>
+      <guid isPermaLink="false">~space-schedule~event~celestial_event~441</guid>
+      <pubDate>Sat, 04 Dec 2021 07:33:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/total_solar_ecl_image_20211203205654.jpeg"/>
     </item>
   </channel>
 </rss>

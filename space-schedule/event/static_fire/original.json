@@ -1,42 +1,16 @@
 {
  "version": "https://jsonfeed.org/version/1",
  "feed_url": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json",
- "title": "Static Fire | Event | Space Schedule",
- "items": [
-  {
-   "id": "438",
-   "title": "Starship S20 Static Fire #4",
-   "content_text": "SpaceX is expected to perform a static fire of Starship S20.",
-   "url": "https://www.youtube.com/watch?v=UdQzA0NICX8",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_te_image_20211201180100.jpeg",
-   "date_published": "2021-12-04T00:00:00Z",
-   "date_modified": "2021-12-04T00:00:00Z",
-   "tags": [
-    "event",
-    "static_fire"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_te_image_20211201180100.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1
-   }
-  }
- ],
+ "title": "Static Fire",
+ "items": [],
  "_feed_url": {
   "rss": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.rss.xml",
   "atom": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.atom.xml"
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fstatic_fire%2Foriginal.json",
  "_meta": {
-  "itemCount": 1,
+  "itemCount": 0,
   "pageNumber": 1,
-  "pageCount": 1
+  "pageCount": 0
  }
 }

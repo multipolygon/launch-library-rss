@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-12-04T00:23:22Z",
-            "window_end": "2021-12-04T00:23:22Z",
-            "window_start": "2021-12-04T00:23:22Z",
+            "net": "2021-12-05T00:19:20Z",
+            "window_end": "2021-12-05T00:19:20Z",
+            "window_start": "2021-12-05T00:19:20Z",
             "inhold": false,
             "tbdtime": false,
             "tbddate": false,
@@ -76,7 +76,7 @@
                 "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_81_20200803143601.jpg",
                 "total_launch_count": 24
             },
-            "webcast_live": false,
+            "webcast_live": true,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_stb_image_20211130181029.jpeg",
             "infographic": null,
             "program": []

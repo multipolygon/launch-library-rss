@@ -234,102 +234,35 @@
    }
   },
   {
-   "id": "~space-schedule~event~static_fire~438",
-   "title": "Starship S20 Static Fire #4",
-   "content_text": "SpaceX is expected to perform a static fire of Starship S20.",
-   "url": "https://www.youtube.com/watch?v=UdQzA0NICX8",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_te_image_20211201180100.jpeg",
-   "date_published": "2021-12-04T00:00:00Z",
-   "date_modified": "2021-12-04T00:00:00Z",
+   "id": "~space-schedule~event~celestial_event~441",
+   "title": "Total Solar Eclipse",
+   "content_text": "Camera views of the total solar eclipse visible from Antarctica will be broadcasted on NASA TV.",
+   "url": "https://youtu.be/J04GFN2Pq1w",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/total_solar_ecl_image_20211203205654.jpeg",
+   "date_published": "2021-12-04T07:33:00Z",
+   "date_modified": "2021-12-04T07:33:00Z",
    "tags": [
     "event",
-    "static_fire"
+    "celestial_event"
    ],
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/starship_s20_te_image_20211201180100.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/total_solar_ecl_image_20211203205654.jpeg"
     }
    ],
    "_meta": {
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Static Fire | Event | Space Schedule"
+    "subtitle": "Celestial Event | Event | Space Schedule"
    },
    "_id": {
-    "parent": "438",
-    "global": "~space-schedule~event~static_fire~438"
+    "parent": "441",
+    "global": "~space-schedule~event~celestial_event~441"
    },
    "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/static_fire/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~press_event~436",
-   "title": "Rocket Lab Neutron Development Update",
-   "content_text": "Rocket Lab will host a major development update about its upcoming Neutron launch vehicle.",
-   "url": "https://www.youtube.com/watch?v=A0thW57QeDM",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rocket_lab_neut_image_20211124172620.jpg",
-   "date_published": "2021-12-02T13:00:00Z",
-   "date_modified": "2021-12-02T13:00:00Z",
-   "tags": [
-    "event",
-    "press_event"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rocket_lab_neut_image_20211124172620.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "Press Event | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "436",
-    "global": "~space-schedule~event~press_event~436"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/press_event/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~event~eva~337",
-   "title": "US EVA-78",
-   "content_text": "NASA astronauts Thomas Marshburn and Kayla Barron will venture outside the orbiting outpost to replace the port 1 truss S-Band communications antenna.",
-   "url": "https://www.youtube.com/watch?v=ScAtmwgIXwU",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg",
-   "date_published": "2021-12-02T12:10:00Z",
-   "date_modified": "2021-12-02T12:10:00Z",
-   "tags": [
-    "event",
-    "eva"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/us_eva-78_image_20210922162821.jpg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1,
-    "subtitle": "EVA | Event | Space Schedule"
-   },
-   "_id": {
-    "parent": "337",
-    "global": "~space-schedule~event~eva~337"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/eva/original.json"
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/event/celestial_event/original.json"
    }
   }
  ],
@@ -341,7 +274,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Foriginal.json",
  "_meta": {
-  "itemCount": 10,
+  "itemCount": 8,
   "pageNumber": 1,
   "pageCount": 1
  }

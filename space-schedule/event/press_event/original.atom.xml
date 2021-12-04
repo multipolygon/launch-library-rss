@@ -29,15 +29,4 @@
     <category term="event"/>
     <category term="press_event"/>
   </entry>
-  <entry>
-    <id>436</id>
-    <title>Rocket Lab Neutron Development Update</title>
-    <updated>2021-12-02T13:00:00Z</updated>
-    <published>2021-12-02T13:00:00Z</published>
-    <content type="text">Rocket Lab will host a major development update about its upcoming Neutron launch vehicle.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=A0thW57QeDM"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/rocket_lab_neut_image_20211124172620.jpg"/>
-    <category term="event"/>
-    <category term="press_event"/>
-  </entry>
 </feed>
