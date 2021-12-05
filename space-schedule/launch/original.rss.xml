@@ -70,6 +70,21 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"/>
     </item>
     <item>
+      <title>Falcon 9 Block 5 | X-Ray Polarimetry Explorer (IXPE)</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/dfb2cc3b-8cd8-41b6-a83a-22b2a742ba4b.json</link>
+      <description>Imaging X-ray Polarimetry Explorer (IXPE) is a space observatory tasked with measuring the polarization of cosmic X-rays. This data will help to learn more about objects that emit these X-rays, such as black holes and neutron stars.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon_9</category>
+      <category>astrophysics</category>
+      <category>launch_complex_39_a</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~dfb2cc3b-8cd8-41b6-a83a-22b2a742ba4b</guid>
+      <pubDate>Thu, 09 Dec 2021 06:00:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg"/>
+    </item>
+    <item>
       <title>Soyuz 2.1a | Soyuz MS-20</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/603f47d2-bc2b-4bab-b623-294c2cbf899c.json</link>
       <description>Soyuz MS-20 will carry Roscosmos cosmonaut Aleksandr Misurkin as well as two tourists, a Japanese billionere Yusaku Maezawa and his assistant Yozo Hirano, to the International Space Station.</description>
@@ -111,23 +126,8 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <category>dedicated_rideshare</category>
       <category>space_launch_complex_41</category>
       <guid isPermaLink="false">~space-schedule~launch~united_launch_alliance~495fe114-753d-48b1-9d23-eb9adaa3fb23</guid>
-      <pubDate>Sun, 05 Dec 2021 09:04:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520551_image_20190224012316.jpeg"/>
-    </item>
-    <item>
-      <title>Soyuz STB/Fregat | 2 x Galileo</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/8464fae8-48ef-4e35-860c-07347f339ce2.json</link>
-      <description>Payload consists of two satellites for Europe's Galileo navigation system.</description>
-      <category>launch</category>
-      <category>arianespace</category>
-      <category>commercial</category>
-      <category>soyuz</category>
-      <category>soyuz_stb</category>
-      <category>navigation</category>
-      <category>soyuz_launch_complex</category>
-      <guid isPermaLink="false">~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2</guid>
-      <pubDate>Sun, 05 Dec 2021 00:19:20 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_stb_image_20211130181029.jpeg"/>
+      <pubDate>Mon, 06 Dec 2021 09:04:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20211205093555.jpg"/>
     </item>
   </channel>
 </rss>

@@ -1,31 +1,11 @@
 {
-    "count": 88,
-    "next": "https://ll.thespacedevs.com/2.0.0/event/upcoming.json?limit=10&offset=10",
+    "count": 87,
+    "next": "https://ll.thespacedevs.com/2.0.0/event/upcoming/?limit=10&offset=10",
     "previous": null,
     "results": [
         {
-            "id": 441,
-            "url": "https://ll.thespacedevs.com/2.2.0/event/441.json",
-            "slug": "total-solar-eclipse",
-            "name": "Total Solar Eclipse",
-            "type": {
-                "id": 11,
-                "name": "Celestial Event"
-            },
-            "description": "Camera views of the total solar eclipse visible from Antarctica will be broadcasted on NASA TV.",
-            "location": "Antarctica",
-            "news_url": "https://earthsky.org/astronomy-essentials/total-solar-eclipse-december-4-2021/",
-            "video_url": "https://youtu.be/J04GFN2Pq1w",
-            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/total_solar_ecl_image_20211203205654.jpeg",
-            "date": "2021-12-04T07:33:00Z",
-            "launches": [],
-            "expeditions": [],
-            "spacestations": [],
-            "program": []
-        },
-        {
             "id": 440,
-            "url": "https://ll.thespacedevs.com/2.2.0/event/440.json",
+            "url": "https://ll.thespacedevs.com/2.2.0/event/440/",
             "slug": "2021-nasa-astronaut-candidates-announcement",
             "name": "2021 NASA Astronaut Candidates Announcement",
             "type": {
@@ -45,7 +25,7 @@
         },
         {
             "id": 437,
-            "url": "https://ll.thespacedevs.com/2.2.0/event/437.json",
+            "url": "https://ll.thespacedevs.com/2.2.0/event/437/",
             "slug": "ixpe-pre-launch-news-conference",
             "name": "IXPE Pre-Launch News Conference",
             "type": {
@@ -61,13 +41,13 @@
             "launches": [
                 {
                     "id": "dfb2cc3b-8cd8-41b6-a83a-22b2a742ba4b",
-                    "url": "https://ll.thespacedevs.com/2.2.0/launch/dfb2cc3b-8cd8-41b6-a83a-22b2a742ba4b.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/launch/dfb2cc3b-8cd8-41b6-a83a-22b2a742ba4b/",
                     "launch_library_id": 1951,
                     "slug": "falcon-9-block-5-x-ray-polarimetry-explorer-ixpe",
                     "name": "Falcon 9 Block 5 | X-Ray Polarimetry Explorer (IXPE)",
                     "status": {
-                        "id": 2,
-                        "name": "TBD"
+                        "id": 1,
+                        "name": "Go"
                     },
                     "net": "2021-12-09T06:00:00Z",
                     "window_end": "2021-12-09T07:30:00Z",
@@ -75,13 +55,13 @@
                     "inhold": false,
                     "tbdtime": false,
                     "tbddate": false,
-                    "probability": -1,
+                    "probability": 70,
                     "holdreason": "",
                     "failreason": "",
                     "hashtag": null,
                     "launch_service_provider": {
                         "id": 121,
-                        "url": "https://ll.thespacedevs.com/2.2.0/agencies/121.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/agencies/121/",
                         "name": "SpaceX",
                         "type": "Commercial"
                     },
@@ -90,7 +70,7 @@
                         "configuration": {
                             "id": 164,
                             "launch_library_id": 188,
-                            "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/164.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/164/",
                             "name": "Falcon 9",
                             "family": "Falcon",
                             "full_name": "Falcon 9 Block 5",
@@ -112,7 +92,7 @@
                     },
                     "pad": {
                         "id": 87,
-                        "url": "https://ll.thespacedevs.com/2.2.0/pad/87.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/pad/87/",
                         "agency_id": null,
                         "name": "Launch Complex 39A",
                         "info_url": null,
@@ -122,7 +102,7 @@
                         "longitude": "-80.60428186",
                         "location": {
                             "id": 27,
-                            "url": "https://ll.thespacedevs.com/2.2.0/location/27.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/location/27/",
                             "name": "Kennedy Space Center, FL, USA",
                             "country_code": "USA",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg",
@@ -144,7 +124,7 @@
         },
         {
             "id": 290,
-            "url": "https://ll.thespacedevs.com/2.2.0/event/290.json",
+            "url": "https://ll.thespacedevs.com/2.2.0/event/290/",
             "slug": "soyuz-ms-20-docking",
             "name": "Soyuz MS-20 Docking",
             "type": {
@@ -160,7 +140,7 @@
             "launches": [
                 {
                     "id": "603f47d2-bc2b-4bab-b623-294c2cbf899c",
-                    "url": "https://ll.thespacedevs.com/2.2.0/launch/603f47d2-bc2b-4bab-b623-294c2cbf899c.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/launch/603f47d2-bc2b-4bab-b623-294c2cbf899c/",
                     "launch_library_id": null,
                     "slug": "soyuz-21a-soyuz-ms-20",
                     "name": "Soyuz 2.1a | Soyuz MS-20",
@@ -180,7 +160,7 @@
                     "hashtag": null,
                     "launch_service_provider": {
                         "id": 63,
-                        "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                         "name": "Russian Federal Space Agency (ROSCOSMOS)",
                         "type": "Government"
                     },
@@ -189,7 +169,7 @@
                         "configuration": {
                             "id": 24,
                             "launch_library_id": 49,
-                            "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/24.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/24/",
                             "name": "Soyuz 2.1a",
                             "family": "Soyuz",
                             "full_name": "Soyuz 2.1a",
@@ -211,7 +191,7 @@
                     },
                     "pad": {
                         "id": 20,
-                        "url": "https://ll.thespacedevs.com/2.2.0/pad/20.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/pad/20/",
                         "agency_id": null,
                         "name": "31/6",
                         "info_url": null,
@@ -221,7 +201,7 @@
                         "longitude": "63.564003",
                         "location": {
                             "id": 15,
-                            "url": "https://ll.thespacedevs.com/2.2.0/location/15.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/location/15/",
                             "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
                             "country_code": "KAZ",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_15_20200803142517.jpg",
@@ -237,19 +217,19 @@
                     "program": [
                         {
                             "id": 8,
-                            "url": "https://ll.thespacedevs.com/2.2.0/program/8.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/program/8/",
                             "name": "Soyuz",
                             "description": "The Soyuz programme is a human spaceflight programme initiated by the Soviet Union in the early 1960s. The Soyuz spacecraft was originally part of a Moon landing project intended to put a Soviet cosmonaut on the Moon. It was the third Soviet human spaceflight programme after the Vostok and Voskhod programmes.",
                             "agencies": [
                                 {
                                     "id": 63,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                                     "name": "Russian Federal Space Agency (ROSCOSMOS)",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 66,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/66.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/66/",
                                     "name": "Soviet Space Program",
                                     "type": "Government"
                                 }
@@ -262,37 +242,37 @@
                         },
                         {
                             "id": 17,
-                            "url": "https://ll.thespacedevs.com/2.2.0/program/17.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/program/17/",
                             "name": "International Space Station",
                             "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
                             "agencies": [
                                 {
                                     "id": 16,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/16.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/16/",
                                     "name": "Canadian Space Agency",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 27,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/27.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/27/",
                                     "name": "European Space Agency",
                                     "type": "Multinational"
                                 },
                                 {
                                     "id": 37,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/37.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/37/",
                                     "name": "Japan Aerospace Exploration Agency",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 44,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/44.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/44/",
                                     "name": "National Aeronautics and Space Administration",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 63,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                                     "name": "Russian Federal Space Agency (ROSCOSMOS)",
                                     "type": "Government"
                                 }
@@ -309,13 +289,13 @@
             "expeditions": [
                 {
                     "id": 144,
-                    "url": "https://ll.thespacedevs.com/2.2.0/expedition/144.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/expedition/144/",
                     "name": "Soyuz MS-20",
                     "start": "2021-12-08T00:00:00Z",
                     "end": "2021-12-20T00:00:00Z",
                     "spacestation": {
                         "id": 4,
-                        "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4/",
                         "name": "International Space Station",
                         "status": {
                             "id": 1,
@@ -329,7 +309,7 @@
             "spacestations": [
                 {
                     "id": 4,
-                    "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4/",
                     "name": "International Space Station",
                     "status": {
                         "id": 1,
@@ -344,37 +324,37 @@
             "program": [
                 {
                     "id": 17,
-                    "url": "https://ll.thespacedevs.com/2.2.0/program/17.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/program/17/",
                     "name": "International Space Station",
                     "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
                     "agencies": [
                         {
                             "id": 16,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/16.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/16/",
                             "name": "Canadian Space Agency",
                             "type": "Government"
                         },
                         {
                             "id": 27,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/27.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/27/",
                             "name": "European Space Agency",
                             "type": "Multinational"
                         },
                         {
                             "id": 37,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/37.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/37/",
                             "name": "Japan Aerospace Exploration Agency",
                             "type": "Government"
                         },
                         {
                             "id": 44,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44/",
                             "name": "National Aeronautics and Space Administration",
                             "type": "Government"
                         },
                         {
                             "id": 63,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                             "name": "Russian Federal Space Agency (ROSCOSMOS)",
                             "type": "Government"
                         }
@@ -389,7 +369,7 @@
         },
         {
             "id": 291,
-            "url": "https://ll.thespacedevs.com/2.2.0/event/291.json",
+            "url": "https://ll.thespacedevs.com/2.2.0/event/291/",
             "slug": "soyuz-ms-20-undocking",
             "name": "Soyuz MS-20 Undocking",
             "type": {
@@ -405,7 +385,7 @@
             "launches": [
                 {
                     "id": "603f47d2-bc2b-4bab-b623-294c2cbf899c",
-                    "url": "https://ll.thespacedevs.com/2.2.0/launch/603f47d2-bc2b-4bab-b623-294c2cbf899c.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/launch/603f47d2-bc2b-4bab-b623-294c2cbf899c/",
                     "launch_library_id": null,
                     "slug": "soyuz-21a-soyuz-ms-20",
                     "name": "Soyuz 2.1a | Soyuz MS-20",
@@ -425,7 +405,7 @@
                     "hashtag": null,
                     "launch_service_provider": {
                         "id": 63,
-                        "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                         "name": "Russian Federal Space Agency (ROSCOSMOS)",
                         "type": "Government"
                     },
@@ -434,7 +414,7 @@
                         "configuration": {
                             "id": 24,
                             "launch_library_id": 49,
-                            "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/24.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/24/",
                             "name": "Soyuz 2.1a",
                             "family": "Soyuz",
                             "full_name": "Soyuz 2.1a",
@@ -456,7 +436,7 @@
                     },
                     "pad": {
                         "id": 20,
-                        "url": "https://ll.thespacedevs.com/2.2.0/pad/20.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/pad/20/",
                         "agency_id": null,
                         "name": "31/6",
                         "info_url": null,
@@ -466,7 +446,7 @@
                         "longitude": "63.564003",
                         "location": {
                             "id": 15,
-                            "url": "https://ll.thespacedevs.com/2.2.0/location/15.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/location/15/",
                             "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
                             "country_code": "KAZ",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_15_20200803142517.jpg",
@@ -482,19 +462,19 @@
                     "program": [
                         {
                             "id": 8,
-                            "url": "https://ll.thespacedevs.com/2.2.0/program/8.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/program/8/",
                             "name": "Soyuz",
                             "description": "The Soyuz programme is a human spaceflight programme initiated by the Soviet Union in the early 1960s. The Soyuz spacecraft was originally part of a Moon landing project intended to put a Soviet cosmonaut on the Moon. It was the third Soviet human spaceflight programme after the Vostok and Voskhod programmes.",
                             "agencies": [
                                 {
                                     "id": 63,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                                     "name": "Russian Federal Space Agency (ROSCOSMOS)",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 66,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/66.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/66/",
                                     "name": "Soviet Space Program",
                                     "type": "Government"
                                 }
@@ -507,37 +487,37 @@
                         },
                         {
                             "id": 17,
-                            "url": "https://ll.thespacedevs.com/2.2.0/program/17.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/program/17/",
                             "name": "International Space Station",
                             "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
                             "agencies": [
                                 {
                                     "id": 16,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/16.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/16/",
                                     "name": "Canadian Space Agency",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 27,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/27.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/27/",
                                     "name": "European Space Agency",
                                     "type": "Multinational"
                                 },
                                 {
                                     "id": 37,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/37.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/37/",
                                     "name": "Japan Aerospace Exploration Agency",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 44,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/44.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/44/",
                                     "name": "National Aeronautics and Space Administration",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 63,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                                     "name": "Russian Federal Space Agency (ROSCOSMOS)",
                                     "type": "Government"
                                 }
@@ -554,13 +534,13 @@
             "expeditions": [
                 {
                     "id": 144,
-                    "url": "https://ll.thespacedevs.com/2.2.0/expedition/144.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/expedition/144/",
                     "name": "Soyuz MS-20",
                     "start": "2021-12-08T00:00:00Z",
                     "end": "2021-12-20T00:00:00Z",
                     "spacestation": {
                         "id": 4,
-                        "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4/",
                         "name": "International Space Station",
                         "status": {
                             "id": 1,
@@ -574,7 +554,7 @@
             "spacestations": [
                 {
                     "id": 4,
-                    "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4/",
                     "name": "International Space Station",
                     "status": {
                         "id": 1,
@@ -589,19 +569,19 @@
             "program": [
                 {
                     "id": 8,
-                    "url": "https://ll.thespacedevs.com/2.2.0/program/8.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/program/8/",
                     "name": "Soyuz",
                     "description": "The Soyuz programme is a human spaceflight programme initiated by the Soviet Union in the early 1960s. The Soyuz spacecraft was originally part of a Moon landing project intended to put a Soviet cosmonaut on the Moon. It was the third Soviet human spaceflight programme after the Vostok and Voskhod programmes.",
                     "agencies": [
                         {
                             "id": 63,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                             "name": "Russian Federal Space Agency (ROSCOSMOS)",
                             "type": "Government"
                         },
                         {
                             "id": 66,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/66.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/66/",
                             "name": "Soviet Space Program",
                             "type": "Government"
                         }
@@ -614,37 +594,37 @@
                 },
                 {
                     "id": 17,
-                    "url": "https://ll.thespacedevs.com/2.2.0/program/17.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/program/17/",
                     "name": "International Space Station",
                     "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
                     "agencies": [
                         {
                             "id": 16,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/16.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/16/",
                             "name": "Canadian Space Agency",
                             "type": "Government"
                         },
                         {
                             "id": 27,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/27.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/27/",
                             "name": "European Space Agency",
                             "type": "Multinational"
                         },
                         {
                             "id": 37,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/37.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/37/",
                             "name": "Japan Aerospace Exploration Agency",
                             "type": "Government"
                         },
                         {
                             "id": 44,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44/",
                             "name": "National Aeronautics and Space Administration",
                             "type": "Government"
                         },
                         {
                             "id": 63,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                             "name": "Russian Federal Space Agency (ROSCOSMOS)",
                             "type": "Government"
                         }
@@ -659,7 +639,7 @@
         },
         {
             "id": 293,
-            "url": "https://ll.thespacedevs.com/2.2.0/event/293.json",
+            "url": "https://ll.thespacedevs.com/2.2.0/event/293/",
             "slug": "soyuz-ms-20-landing",
             "name": "Soyuz MS-20 Landing",
             "type": {
@@ -675,7 +655,7 @@
             "launches": [
                 {
                     "id": "603f47d2-bc2b-4bab-b623-294c2cbf899c",
-                    "url": "https://ll.thespacedevs.com/2.2.0/launch/603f47d2-bc2b-4bab-b623-294c2cbf899c.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/launch/603f47d2-bc2b-4bab-b623-294c2cbf899c/",
                     "launch_library_id": null,
                     "slug": "soyuz-21a-soyuz-ms-20",
                     "name": "Soyuz 2.1a | Soyuz MS-20",
@@ -695,7 +675,7 @@
                     "hashtag": null,
                     "launch_service_provider": {
                         "id": 63,
-                        "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                         "name": "Russian Federal Space Agency (ROSCOSMOS)",
                         "type": "Government"
                     },
@@ -704,7 +684,7 @@
                         "configuration": {
                             "id": 24,
                             "launch_library_id": 49,
-                            "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/24.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/24/",
                             "name": "Soyuz 2.1a",
                             "family": "Soyuz",
                             "full_name": "Soyuz 2.1a",
@@ -726,7 +706,7 @@
                     },
                     "pad": {
                         "id": 20,
-                        "url": "https://ll.thespacedevs.com/2.2.0/pad/20.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/pad/20/",
                         "agency_id": null,
                         "name": "31/6",
                         "info_url": null,
@@ -736,7 +716,7 @@
                         "longitude": "63.564003",
                         "location": {
                             "id": 15,
-                            "url": "https://ll.thespacedevs.com/2.2.0/location/15.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/location/15/",
                             "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
                             "country_code": "KAZ",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_15_20200803142517.jpg",
@@ -752,19 +732,19 @@
                     "program": [
                         {
                             "id": 8,
-                            "url": "https://ll.thespacedevs.com/2.2.0/program/8.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/program/8/",
                             "name": "Soyuz",
                             "description": "The Soyuz programme is a human spaceflight programme initiated by the Soviet Union in the early 1960s. The Soyuz spacecraft was originally part of a Moon landing project intended to put a Soviet cosmonaut on the Moon. It was the third Soviet human spaceflight programme after the Vostok and Voskhod programmes.",
                             "agencies": [
                                 {
                                     "id": 63,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                                     "name": "Russian Federal Space Agency (ROSCOSMOS)",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 66,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/66.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/66/",
                                     "name": "Soviet Space Program",
                                     "type": "Government"
                                 }
@@ -777,37 +757,37 @@
                         },
                         {
                             "id": 17,
-                            "url": "https://ll.thespacedevs.com/2.2.0/program/17.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/program/17/",
                             "name": "International Space Station",
                             "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
                             "agencies": [
                                 {
                                     "id": 16,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/16.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/16/",
                                     "name": "Canadian Space Agency",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 27,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/27.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/27/",
                                     "name": "European Space Agency",
                                     "type": "Multinational"
                                 },
                                 {
                                     "id": 37,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/37.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/37/",
                                     "name": "Japan Aerospace Exploration Agency",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 44,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/44.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/44/",
                                     "name": "National Aeronautics and Space Administration",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 63,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                                     "name": "Russian Federal Space Agency (ROSCOSMOS)",
                                     "type": "Government"
                                 }
@@ -824,13 +804,13 @@
             "expeditions": [
                 {
                     "id": 144,
-                    "url": "https://ll.thespacedevs.com/2.2.0/expedition/144.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/expedition/144/",
                     "name": "Soyuz MS-20",
                     "start": "2021-12-08T00:00:00Z",
                     "end": "2021-12-20T00:00:00Z",
                     "spacestation": {
                         "id": 4,
-                        "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4/",
                         "name": "International Space Station",
                         "status": {
                             "id": 1,
@@ -844,7 +824,7 @@
             "spacestations": [
                 {
                     "id": 4,
-                    "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4/",
                     "name": "International Space Station",
                     "status": {
                         "id": 1,
@@ -859,19 +839,19 @@
             "program": [
                 {
                     "id": 8,
-                    "url": "https://ll.thespacedevs.com/2.2.0/program/8.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/program/8/",
                     "name": "Soyuz",
                     "description": "The Soyuz programme is a human spaceflight programme initiated by the Soviet Union in the early 1960s. The Soyuz spacecraft was originally part of a Moon landing project intended to put a Soviet cosmonaut on the Moon. It was the third Soviet human spaceflight programme after the Vostok and Voskhod programmes.",
                     "agencies": [
                         {
                             "id": 63,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                             "name": "Russian Federal Space Agency (ROSCOSMOS)",
                             "type": "Government"
                         },
                         {
                             "id": 66,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/66.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/66/",
                             "name": "Soviet Space Program",
                             "type": "Government"
                         }
@@ -884,37 +864,37 @@
                 },
                 {
                     "id": 17,
-                    "url": "https://ll.thespacedevs.com/2.2.0/program/17.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/program/17/",
                     "name": "International Space Station",
                     "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
                     "agencies": [
                         {
                             "id": 16,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/16.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/16/",
                             "name": "Canadian Space Agency",
                             "type": "Government"
                         },
                         {
                             "id": 27,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/27.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/27/",
                             "name": "European Space Agency",
                             "type": "Multinational"
                         },
                         {
                             "id": 37,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/37.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/37/",
                             "name": "Japan Aerospace Exploration Agency",
                             "type": "Government"
                         },
                         {
                             "id": 44,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44/",
                             "name": "National Aeronautics and Space Administration",
                             "type": "Government"
                         },
                         {
                             "id": 63,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                             "name": "Russian Federal Space Agency (ROSCOSMOS)",
                             "type": "Government"
                         }
@@ -929,7 +909,7 @@
         },
         {
             "id": 288,
-            "url": "https://ll.thespacedevs.com/2.2.0/event/288.json",
+            "url": "https://ll.thespacedevs.com/2.2.0/event/288/",
             "slug": "progress-m-um-undocking",
             "name": "Progress-M-UM Undocking",
             "type": {
@@ -945,7 +925,7 @@
             "launches": [
                 {
                     "id": "89ee335d-53bd-49e0-a774-921321f5926f",
-                    "url": "https://ll.thespacedevs.com/2.2.0/launch/89ee335d-53bd-49e0-a774-921321f5926f.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/launch/89ee335d-53bd-49e0-a774-921321f5926f/",
                     "launch_library_id": 1598,
                     "slug": "soyuz-21b-uzlovoy-module-um-prichal",
                     "name": "Soyuz 2.1b | Uzlovoy Module (UM) \"Prichal\"",
@@ -965,7 +945,7 @@
                     "hashtag": null,
                     "launch_service_provider": {
                         "id": 63,
-                        "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                         "name": "Russian Federal Space Agency (ROSCOSMOS)",
                         "type": "Government"
                     },
@@ -974,7 +954,7 @@
                         "configuration": {
                             "id": 15,
                             "launch_library_id": 3,
-                            "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/15.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/15/",
                             "name": "Soyuz 2.1b",
                             "family": "Soyuz",
                             "full_name": "Soyuz 2.1b",
@@ -996,7 +976,7 @@
                     },
                     "pad": {
                         "id": 20,
-                        "url": "https://ll.thespacedevs.com/2.2.0/pad/20.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/pad/20/",
                         "agency_id": null,
                         "name": "31/6",
                         "info_url": null,
@@ -1006,7 +986,7 @@
                         "longitude": "63.564003",
                         "location": {
                             "id": 15,
-                            "url": "https://ll.thespacedevs.com/2.2.0/location/15.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/location/15/",
                             "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
                             "country_code": "KAZ",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_15_20200803142517.jpg",
@@ -1022,37 +1002,37 @@
                     "program": [
                         {
                             "id": 17,
-                            "url": "https://ll.thespacedevs.com/2.2.0/program/17.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/program/17/",
                             "name": "International Space Station",
                             "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
                             "agencies": [
                                 {
                                     "id": 16,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/16.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/16/",
                                     "name": "Canadian Space Agency",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 27,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/27.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/27/",
                                     "name": "European Space Agency",
                                     "type": "Multinational"
                                 },
                                 {
                                     "id": 37,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/37.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/37/",
                                     "name": "Japan Aerospace Exploration Agency",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 44,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/44.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/44/",
                                     "name": "National Aeronautics and Space Administration",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 63,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                                     "name": "Russian Federal Space Agency (ROSCOSMOS)",
                                     "type": "Government"
                                 }
@@ -1070,7 +1050,7 @@
             "spacestations": [
                 {
                     "id": 4,
-                    "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4/",
                     "name": "International Space Station",
                     "status": {
                         "id": 1,
@@ -1085,37 +1065,37 @@
             "program": [
                 {
                     "id": 17,
-                    "url": "https://ll.thespacedevs.com/2.2.0/program/17.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/program/17/",
                     "name": "International Space Station",
                     "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
                     "agencies": [
                         {
                             "id": 16,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/16.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/16/",
                             "name": "Canadian Space Agency",
                             "type": "Government"
                         },
                         {
                             "id": 27,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/27.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/27/",
                             "name": "European Space Agency",
                             "type": "Multinational"
                         },
                         {
                             "id": 37,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/37.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/37/",
                             "name": "Japan Aerospace Exploration Agency",
                             "type": "Government"
                         },
                         {
                             "id": 44,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44/",
                             "name": "National Aeronautics and Space Administration",
                             "type": "Government"
                         },
                         {
                             "id": 63,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                             "name": "Russian Federal Space Agency (ROSCOSMOS)",
                             "type": "Government"
                         }
@@ -1130,7 +1110,7 @@
         },
         {
             "id": 289,
-            "url": "https://ll.thespacedevs.com/2.2.0/event/289.json",
+            "url": "https://ll.thespacedevs.com/2.2.0/event/289/",
             "slug": "crs-24-dragon-docking",
             "name": "CRS-24 Dragon Docking",
             "type": {
@@ -1146,7 +1126,7 @@
             "launches": [
                 {
                     "id": "878ba32c-5e93-4d2b-95c3-24b60c8b05e7",
-                    "url": "https://ll.thespacedevs.com/2.2.0/launch/878ba32c-5e93-4d2b-95c3-24b60c8b05e7.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/launch/878ba32c-5e93-4d2b-95c3-24b60c8b05e7/",
                     "launch_library_id": null,
                     "slug": "falcon-9-block-5-dragon-crs-2-spx-24",
                     "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-24",
@@ -1166,7 +1146,7 @@
                     "hashtag": null,
                     "launch_service_provider": {
                         "id": 121,
-                        "url": "https://ll.thespacedevs.com/2.2.0/agencies/121.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/agencies/121/",
                         "name": "SpaceX",
                         "type": "Commercial"
                     },
@@ -1175,7 +1155,7 @@
                         "configuration": {
                             "id": 164,
                             "launch_library_id": 188,
-                            "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/164.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/164/",
                             "name": "Falcon 9",
                             "family": "Falcon",
                             "full_name": "Falcon 9 Block 5",
@@ -1197,7 +1177,7 @@
                     },
                     "pad": {
                         "id": 87,
-                        "url": "https://ll.thespacedevs.com/2.2.0/pad/87.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/pad/87/",
                         "agency_id": null,
                         "name": "Launch Complex 39A",
                         "info_url": null,
@@ -1207,7 +1187,7 @@
                         "longitude": "-80.60428186",
                         "location": {
                             "id": 27,
-                            "url": "https://ll.thespacedevs.com/2.2.0/location/27.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/location/27/",
                             "name": "Kennedy Space Center, FL, USA",
                             "country_code": "USA",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg",
@@ -1223,31 +1203,31 @@
                     "program": [
                         {
                             "id": 11,
-                            "url": "https://ll.thespacedevs.com/2.2.0/program/11.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/program/11/",
                             "name": "Commercial Resupply Services",
                             "description": "Commercial Resupply Services (CRS) are a series of flights awarded by NASA for the delivery of cargo and supplies to the International Space Station.The first CRS contracts were signed in 2008 and awarded $1.6 billion to SpaceX for twelve cargo Dragon and $1.9 billion to Orbital Sciences for eight Cygnus flights, covering deliveries to 2016. The Falcon 9 and Antares rockets were also developed under the CRS program to deliver cargo spacecraft to the ISS.",
                             "agencies": [
                                 {
                                     "id": 44,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/44.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/44/",
                                     "name": "National Aeronautics and Space Administration",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 257,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/257.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/257/",
                                     "name": "Northrop Grumman Innovation Systems",
                                     "type": "Commercial"
                                 },
                                 {
                                     "id": 1020,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/1020.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/1020/",
                                     "name": "Sierra Nevada Corporation",
                                     "type": "Commercial"
                                 },
                                 {
                                     "id": 121,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/121.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/121/",
                                     "name": "SpaceX",
                                     "type": "Commercial"
                                 }
@@ -1260,37 +1240,37 @@
                         },
                         {
                             "id": 17,
-                            "url": "https://ll.thespacedevs.com/2.2.0/program/17.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/program/17/",
                             "name": "International Space Station",
                             "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
                             "agencies": [
                                 {
                                     "id": 16,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/16.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/16/",
                                     "name": "Canadian Space Agency",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 27,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/27.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/27/",
                                     "name": "European Space Agency",
                                     "type": "Multinational"
                                 },
                                 {
                                     "id": 37,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/37.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/37/",
                                     "name": "Japan Aerospace Exploration Agency",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 44,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/44.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/44/",
                                     "name": "National Aeronautics and Space Administration",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 63,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                                     "name": "Russian Federal Space Agency (ROSCOSMOS)",
                                     "type": "Government"
                                 }
@@ -1308,7 +1288,7 @@
             "spacestations": [
                 {
                     "id": 4,
-                    "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4/",
                     "name": "International Space Station",
                     "status": {
                         "id": 1,
@@ -1323,31 +1303,31 @@
             "program": [
                 {
                     "id": 11,
-                    "url": "https://ll.thespacedevs.com/2.2.0/program/11.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/program/11/",
                     "name": "Commercial Resupply Services",
                     "description": "Commercial Resupply Services (CRS) are a series of flights awarded by NASA for the delivery of cargo and supplies to the International Space Station.The first CRS contracts were signed in 2008 and awarded $1.6 billion to SpaceX for twelve cargo Dragon and $1.9 billion to Orbital Sciences for eight Cygnus flights, covering deliveries to 2016. The Falcon 9 and Antares rockets were also developed under the CRS program to deliver cargo spacecraft to the ISS.",
                     "agencies": [
                         {
                             "id": 44,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44/",
                             "name": "National Aeronautics and Space Administration",
                             "type": "Government"
                         },
                         {
                             "id": 257,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/257.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/257/",
                             "name": "Northrop Grumman Innovation Systems",
                             "type": "Commercial"
                         },
                         {
                             "id": 1020,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/1020.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/1020/",
                             "name": "Sierra Nevada Corporation",
                             "type": "Commercial"
                         },
                         {
                             "id": 121,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/121.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/121/",
                             "name": "SpaceX",
                             "type": "Commercial"
                         }
@@ -1360,37 +1340,37 @@
                 },
                 {
                     "id": 17,
-                    "url": "https://ll.thespacedevs.com/2.2.0/program/17.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/program/17/",
                     "name": "International Space Station",
                     "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
                     "agencies": [
                         {
                             "id": 16,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/16.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/16/",
                             "name": "Canadian Space Agency",
                             "type": "Government"
                         },
                         {
                             "id": 27,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/27.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/27/",
                             "name": "European Space Agency",
                             "type": "Multinational"
                         },
                         {
                             "id": 37,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/37.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/37/",
                             "name": "Japan Aerospace Exploration Agency",
                             "type": "Government"
                         },
                         {
                             "id": 44,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44/",
                             "name": "National Aeronautics and Space Administration",
                             "type": "Government"
                         },
                         {
                             "id": 63,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                             "name": "Russian Federal Space Agency (ROSCOSMOS)",
                             "type": "Government"
                         }
@@ -1405,7 +1385,7 @@
         },
         {
             "id": 334,
-            "url": "https://ll.thespacedevs.com/2.2.0/event/334.json",
+            "url": "https://ll.thespacedevs.com/2.2.0/event/334/",
             "slug": "russian-eva-51",
             "name": "Russian EVA-51",
             "type": {
@@ -1421,7 +1401,7 @@
             "launches": [
                 {
                     "id": "89ee335d-53bd-49e0-a774-921321f5926f",
-                    "url": "https://ll.thespacedevs.com/2.2.0/launch/89ee335d-53bd-49e0-a774-921321f5926f.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/launch/89ee335d-53bd-49e0-a774-921321f5926f/",
                     "launch_library_id": 1598,
                     "slug": "soyuz-21b-uzlovoy-module-um-prichal",
                     "name": "Soyuz 2.1b | Uzlovoy Module (UM) \"Prichal\"",
@@ -1441,7 +1421,7 @@
                     "hashtag": null,
                     "launch_service_provider": {
                         "id": 63,
-                        "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                         "name": "Russian Federal Space Agency (ROSCOSMOS)",
                         "type": "Government"
                     },
@@ -1450,7 +1430,7 @@
                         "configuration": {
                             "id": 15,
                             "launch_library_id": 3,
-                            "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/15.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/15/",
                             "name": "Soyuz 2.1b",
                             "family": "Soyuz",
                             "full_name": "Soyuz 2.1b",
@@ -1472,7 +1452,7 @@
                     },
                     "pad": {
                         "id": 20,
-                        "url": "https://ll.thespacedevs.com/2.2.0/pad/20.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/pad/20/",
                         "agency_id": null,
                         "name": "31/6",
                         "info_url": null,
@@ -1482,7 +1462,7 @@
                         "longitude": "63.564003",
                         "location": {
                             "id": 15,
-                            "url": "https://ll.thespacedevs.com/2.2.0/location/15.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/location/15/",
                             "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
                             "country_code": "KAZ",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_15_20200803142517.jpg",
@@ -1498,37 +1478,37 @@
                     "program": [
                         {
                             "id": 17,
-                            "url": "https://ll.thespacedevs.com/2.2.0/program/17.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/program/17/",
                             "name": "International Space Station",
                             "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
                             "agencies": [
                                 {
                                     "id": 16,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/16.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/16/",
                                     "name": "Canadian Space Agency",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 27,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/27.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/27/",
                                     "name": "European Space Agency",
                                     "type": "Multinational"
                                 },
                                 {
                                     "id": 37,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/37.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/37/",
                                     "name": "Japan Aerospace Exploration Agency",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 44,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/44.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/44/",
                                     "name": "National Aeronautics and Space Administration",
                                     "type": "Government"
                                 },
                                 {
                                     "id": 63,
-                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                                     "name": "Russian Federal Space Agency (ROSCOSMOS)",
                                     "type": "Government"
                                 }
@@ -1545,13 +1525,13 @@
             "expeditions": [
                 {
                     "id": 142,
-                    "url": "https://ll.thespacedevs.com/2.2.0/expedition/142.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/expedition/142/",
                     "name": "Expedition 66",
                     "start": "2021-10-17T01:14:00Z",
                     "end": null,
                     "spacestation": {
                         "id": 4,
-                        "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4/",
                         "name": "International Space Station",
                         "status": {
                             "id": 1,
@@ -1565,7 +1545,7 @@
             "spacestations": [
                 {
                     "id": 4,
-                    "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4/",
                     "name": "International Space Station",
                     "status": {
                         "id": 1,
@@ -1580,37 +1560,37 @@
             "program": [
                 {
                     "id": 17,
-                    "url": "https://ll.thespacedevs.com/2.2.0/program/17.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/program/17/",
                     "name": "International Space Station",
                     "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
                     "agencies": [
                         {
                             "id": 16,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/16.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/16/",
                             "name": "Canadian Space Agency",
                             "type": "Government"
                         },
                         {
                             "id": 27,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/27.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/27/",
                             "name": "European Space Agency",
                             "type": "Multinational"
                         },
                         {
                             "id": 37,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/37.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/37/",
                             "name": "Japan Aerospace Exploration Agency",
                             "type": "Government"
                         },
                         {
                             "id": 44,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44/",
                             "name": "National Aeronautics and Space Administration",
                             "type": "Government"
                         },
                         {
                             "id": 63,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                             "name": "Russian Federal Space Agency (ROSCOSMOS)",
                             "type": "Government"
                         }
@@ -1625,7 +1605,7 @@
         },
         {
             "id": 335,
-            "url": "https://ll.thespacedevs.com/2.2.0/event/335.json",
+            "url": "https://ll.thespacedevs.com/2.2.0/event/335/",
             "slug": "russian-eva-52",
             "name": "Russian EVA-52",
             "type": {
@@ -1641,7 +1621,7 @@
             "launches": [
                 {
                     "id": "27fd5d5a-6935-4697-98b4-b409f029e2f0",
-                    "url": "https://ll.thespacedevs.com/2.2.0/launch/27fd5d5a-6935-4697-98b4-b409f029e2f0.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/launch/27fd5d5a-6935-4697-98b4-b409f029e2f0/",
                     "launch_library_id": 1597,
                     "slug": "proton-m-mlm-nauka",
                     "name": "Proton-M | MLM Nauka",
@@ -1661,7 +1641,7 @@
                     "hashtag": null,
                     "launch_service_provider": {
                         "id": 96,
-                        "url": "https://ll.thespacedevs.com/2.2.0/agencies/96.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/agencies/96/",
                         "name": "Khrunichev State Research and Production Space Center",
                         "type": "Government"
                     },
@@ -1670,7 +1650,7 @@
                         "configuration": {
                             "id": 152,
                             "launch_library_id": 186,
-                            "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/152.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/152/",
                             "name": "Proton-M",
                             "family": "Proton / UR-500",
                             "full_name": "Proton-M",
@@ -1692,7 +1672,7 @@
                     },
                     "pad": {
                         "id": 15,
-                        "url": "https://ll.thespacedevs.com/2.2.0/pad/15.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/pad/15/",
                         "agency_id": null,
                         "name": "200/39 (200L)",
                         "info_url": null,
@@ -1702,7 +1682,7 @@
                         "longitude": "63.032093",
                         "location": {
                             "id": 15,
-                            "url": "https://ll.thespacedevs.com/2.2.0/location/15.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/location/15/",
                             "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
                             "country_code": "KAZ",
                             "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_15_20200803142517.jpg",
@@ -1721,13 +1701,13 @@
             "expeditions": [
                 {
                     "id": 141,
-                    "url": "https://ll.thespacedevs.com/2.2.0/expedition/141.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/expedition/141/",
                     "name": "Expedition 65",
                     "start": "2021-04-17T19:45:00Z",
                     "end": "2021-10-17T01:14:00Z",
                     "spacestation": {
                         "id": 4,
-                        "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4.json",
+                        "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4/",
                         "name": "International Space Station",
                         "status": {
                             "id": 1,
@@ -1741,7 +1721,7 @@
             "spacestations": [
                 {
                     "id": 4,
-                    "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4/",
                     "name": "International Space Station",
                     "status": {
                         "id": 1,
@@ -1756,37 +1736,312 @@
             "program": [
                 {
                     "id": 17,
-                    "url": "https://ll.thespacedevs.com/2.2.0/program/17.json",
+                    "url": "https://ll.thespacedevs.com/2.2.0/program/17/",
                     "name": "International Space Station",
                     "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
                     "agencies": [
                         {
                             "id": 16,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/16.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/16/",
                             "name": "Canadian Space Agency",
                             "type": "Government"
                         },
                         {
                             "id": 27,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/27.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/27/",
                             "name": "European Space Agency",
                             "type": "Multinational"
                         },
                         {
                             "id": 37,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/37.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/37/",
                             "name": "Japan Aerospace Exploration Agency",
                             "type": "Government"
                         },
                         {
                             "id": 44,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44/",
                             "name": "National Aeronautics and Space Administration",
                             "type": "Government"
                         },
                         {
                             "id": 63,
-                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63.json",
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
+                            "name": "Russian Federal Space Agency (ROSCOSMOS)",
+                            "type": "Government"
+                        }
+                    ],
+                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/international2_program_20201129184745.png",
+                    "start_date": "1998-11-20T06:40:00Z",
+                    "end_date": null,
+                    "info_url": "https://www.nasa.gov/mission_pages/station/main/index.html",
+                    "wiki_url": "https://en.wikipedia.org/wiki/International_Space_Station_programme"
+                }
+            ]
+        },
+        {
+            "id": 294,
+            "url": "https://ll.thespacedevs.com/2.2.0/event/294/",
+            "slug": "crs-24-dragon-undocking",
+            "name": "CRS-24 Dragon Undocking",
+            "type": {
+                "id": 8,
+                "name": "Spacecraft Undocking"
+            },
+            "description": "The SpaceX CRS-24 Dragon spacecraft will undock from the International Space Station ahead of its reentry, splashdown and recovery.",
+            "location": "International Space Station",
+            "news_url": null,
+            "video_url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+            "feature_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-24_dragon_u_image_20210519133719.jpeg",
+            "date": "2022-01-31T00:00:00Z",
+            "launches": [
+                {
+                    "id": "878ba32c-5e93-4d2b-95c3-24b60c8b05e7",
+                    "url": "https://ll.thespacedevs.com/2.2.0/launch/878ba32c-5e93-4d2b-95c3-24b60c8b05e7/",
+                    "launch_library_id": null,
+                    "slug": "falcon-9-block-5-dragon-crs-2-spx-24",
+                    "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-24",
+                    "status": {
+                        "id": 2,
+                        "name": "TBD"
+                    },
+                    "net": "2021-12-21T10:06:00Z",
+                    "window_end": "2021-12-21T10:06:00Z",
+                    "window_start": "2021-12-21T10:06:00Z",
+                    "inhold": false,
+                    "tbdtime": false,
+                    "tbddate": false,
+                    "probability": null,
+                    "holdreason": "",
+                    "failreason": "",
+                    "hashtag": null,
+                    "launch_service_provider": {
+                        "id": 121,
+                        "url": "https://ll.thespacedevs.com/2.2.0/agencies/121/",
+                        "name": "SpaceX",
+                        "type": "Commercial"
+                    },
+                    "rocket": {
+                        "id": 2889,
+                        "configuration": {
+                            "id": 164,
+                            "launch_library_id": 188,
+                            "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/164/",
+                            "name": "Falcon 9",
+                            "family": "Falcon",
+                            "full_name": "Falcon 9 Block 5",
+                            "variant": "Block 5"
+                        }
+                    },
+                    "mission": {
+                        "id": 1306,
+                        "launch_library_id": null,
+                        "name": "Dragon CRS-2 SpX-24",
+                        "description": "24th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
+                        "launch_designator": null,
+                        "type": "Resupply",
+                        "orbit": {
+                            "id": 8,
+                            "name": "Low Earth Orbit",
+                            "abbrev": "LEO"
+                        }
+                    },
+                    "pad": {
+                        "id": 87,
+                        "url": "https://ll.thespacedevs.com/2.2.0/pad/87/",
+                        "agency_id": null,
+                        "name": "Launch Complex 39A",
+                        "info_url": null,
+                        "wiki_url": "https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A",
+                        "map_url": "http://maps.google.com/maps?q=28.608+N,+80.604+W",
+                        "latitude": "28.60822681",
+                        "longitude": "-80.60428186",
+                        "location": {
+                            "id": 27,
+                            "url": "https://ll.thespacedevs.com/2.2.0/location/27/",
+                            "name": "Kennedy Space Center, FL, USA",
+                            "country_code": "USA",
+                            "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg",
+                            "total_launch_count": 192,
+                            "total_landing_count": 0
+                        },
+                        "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_87_20200803143537.jpg",
+                        "total_launch_count": 135
+                    },
+                    "webcast_live": false,
+                    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085653.jpeg",
+                    "infographic": null,
+                    "program": [
+                        {
+                            "id": 11,
+                            "url": "https://ll.thespacedevs.com/2.2.0/program/11/",
+                            "name": "Commercial Resupply Services",
+                            "description": "Commercial Resupply Services (CRS) are a series of flights awarded by NASA for the delivery of cargo and supplies to the International Space Station.The first CRS contracts were signed in 2008 and awarded $1.6 billion to SpaceX for twelve cargo Dragon and $1.9 billion to Orbital Sciences for eight Cygnus flights, covering deliveries to 2016. The Falcon 9 and Antares rockets were also developed under the CRS program to deliver cargo spacecraft to the ISS.",
+                            "agencies": [
+                                {
+                                    "id": 44,
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/44/",
+                                    "name": "National Aeronautics and Space Administration",
+                                    "type": "Government"
+                                },
+                                {
+                                    "id": 257,
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/257/",
+                                    "name": "Northrop Grumman Innovation Systems",
+                                    "type": "Commercial"
+                                },
+                                {
+                                    "id": 1020,
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/1020/",
+                                    "name": "Sierra Nevada Corporation",
+                                    "type": "Commercial"
+                                },
+                                {
+                                    "id": 121,
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/121/",
+                                    "name": "SpaceX",
+                                    "type": "Commercial"
+                                }
+                            ],
+                            "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/commercial2520_program_20201129212219.png",
+                            "start_date": "2008-12-23T00:00:00Z",
+                            "end_date": null,
+                            "info_url": null,
+                            "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Resupply_Services#Commercial_Resupply_Services"
+                        },
+                        {
+                            "id": 17,
+                            "url": "https://ll.thespacedevs.com/2.2.0/program/17/",
+                            "name": "International Space Station",
+                            "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
+                            "agencies": [
+                                {
+                                    "id": 16,
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/16/",
+                                    "name": "Canadian Space Agency",
+                                    "type": "Government"
+                                },
+                                {
+                                    "id": 27,
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/27/",
+                                    "name": "European Space Agency",
+                                    "type": "Multinational"
+                                },
+                                {
+                                    "id": 37,
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/37/",
+                                    "name": "Japan Aerospace Exploration Agency",
+                                    "type": "Government"
+                                },
+                                {
+                                    "id": 44,
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/44/",
+                                    "name": "National Aeronautics and Space Administration",
+                                    "type": "Government"
+                                },
+                                {
+                                    "id": 63,
+                                    "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
+                                    "name": "Russian Federal Space Agency (ROSCOSMOS)",
+                                    "type": "Government"
+                                }
+                            ],
+                            "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/international2_program_20201129184745.png",
+                            "start_date": "1998-11-20T06:40:00Z",
+                            "end_date": null,
+                            "info_url": "https://www.nasa.gov/mission_pages/station/main/index.html",
+                            "wiki_url": "https://en.wikipedia.org/wiki/International_Space_Station_programme"
+                        }
+                    ]
+                }
+            ],
+            "expeditions": [],
+            "spacestations": [
+                {
+                    "id": 4,
+                    "url": "https://ll.thespacedevs.com/2.2.0/spacestation/4/",
+                    "name": "International Space Station",
+                    "status": {
+                        "id": 1,
+                        "name": "Active"
+                    },
+                    "founded": "1998-11-20",
+                    "description": "The International Space Station (ISS) is a space station, or a habitable artificial satellite, in low Earth orbit. Its first component was launched into orbit in 1998, with the first long-term residents arriving in November 2000. It has been inhabited continuously since that date. The last pressurised module was fitted in 2011, and an experimental inflatable space habitat was added in 2016. The station is expected to operate until 2030. Development and assembly of the station continues, with several new elements scheduled for launch in 2019. The ISS is the largest human-made body in low Earth orbit and can often be seen with the naked eye from Earth. The ISS consists of pressurised habitation modules, structural trusses, solar arrays, radiators, docking ports, experiment bays and robotic arms. ISS components have been launched by Russian Proton and Soyuz rockets, and American Space Shuttles.",
+                    "orbit": "Low Earth Orbit",
+                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/spacestation_images/international2520space2520station_image_20190220215716.jpeg"
+                }
+            ],
+            "program": [
+                {
+                    "id": 11,
+                    "url": "https://ll.thespacedevs.com/2.2.0/program/11/",
+                    "name": "Commercial Resupply Services",
+                    "description": "Commercial Resupply Services (CRS) are a series of flights awarded by NASA for the delivery of cargo and supplies to the International Space Station.The first CRS contracts were signed in 2008 and awarded $1.6 billion to SpaceX for twelve cargo Dragon and $1.9 billion to Orbital Sciences for eight Cygnus flights, covering deliveries to 2016. The Falcon 9 and Antares rockets were also developed under the CRS program to deliver cargo spacecraft to the ISS.",
+                    "agencies": [
+                        {
+                            "id": 44,
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44/",
+                            "name": "National Aeronautics and Space Administration",
+                            "type": "Government"
+                        },
+                        {
+                            "id": 257,
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/257/",
+                            "name": "Northrop Grumman Innovation Systems",
+                            "type": "Commercial"
+                        },
+                        {
+                            "id": 1020,
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/1020/",
+                            "name": "Sierra Nevada Corporation",
+                            "type": "Commercial"
+                        },
+                        {
+                            "id": 121,
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/121/",
+                            "name": "SpaceX",
+                            "type": "Commercial"
+                        }
+                    ],
+                    "image_url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/program_images/commercial2520_program_20201129212219.png",
+                    "start_date": "2008-12-23T00:00:00Z",
+                    "end_date": null,
+                    "info_url": null,
+                    "wiki_url": "https://en.wikipedia.org/wiki/Commercial_Resupply_Services#Commercial_Resupply_Services"
+                },
+                {
+                    "id": 17,
+                    "url": "https://ll.thespacedevs.com/2.2.0/program/17/",
+                    "name": "International Space Station",
+                    "description": "The International Space Station programme is tied together by a complex set of legal, political and financial agreements between the sixteen nations involved in the project, governing ownership of the various components, rights to crewing and utilization, and responsibilities for crew rotation and resupply of the International Space Station. It was conceived in 1984 by President Ronald Reagan, during the Space Station Freedom project as it was originally called.",
+                    "agencies": [
+                        {
+                            "id": 16,
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/16/",
+                            "name": "Canadian Space Agency",
+                            "type": "Government"
+                        },
+                        {
+                            "id": 27,
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/27/",
+                            "name": "European Space Agency",
+                            "type": "Multinational"
+                        },
+                        {
+                            "id": 37,
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/37/",
+                            "name": "Japan Aerospace Exploration Agency",
+                            "type": "Government"
+                        },
+                        {
+                            "id": 44,
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/44/",
+                            "name": "National Aeronautics and Space Administration",
+                            "type": "Government"
+                        },
+                        {
+                            "id": 63,
+                            "url": "https://ll.thespacedevs.com/2.2.0/agencies/63/",
                             "name": "Russian Federal Space Agency (ROSCOSMOS)",
                             "type": "Government"
                         }

@@ -116,6 +116,22 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
     <category term="west_texas_suborbital_launch_site_corn_ranch"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~space_x~dfb2cc3b-8cd8-41b6-a83a-22b2a742ba4b</id>
+    <title>Falcon 9 Block 5 | X-Ray Polarimetry Explorer (IXPE)</title>
+    <updated>2021-12-09T06:00:00Z</updated>
+    <published>2021-12-09T06:00:00Z</published>
+    <content type="text">Imaging X-ray Polarimetry Explorer (IXPE) is a space observatory tasked with measuring the polarization of cosmic X-rays. This data will help to learn more about objects that emit these X-rays, such as black holes and neutron stars.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/dfb2cc3b-8cd8-41b6-a83a-22b2a742ba4b.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg"/>
+    <category term="launch"/>
+    <category term="space_x"/>
+    <category term="commercial"/>
+    <category term="falcon"/>
+    <category term="falcon_9"/>
+    <category term="astrophysics"/>
+    <category term="launch_complex_39_a"/>
+  </entry>
+  <entry>
     <id>~space-schedule~event~docking~290</id>
     <title>Soyuz MS-20 Docking</title>
     <updated>2021-12-08T13:41:00Z</updated>
@@ -183,11 +199,11 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
   <entry>
     <id>~space-schedule~launch~united_launch_alliance~495fe114-753d-48b1-9d23-eb9adaa3fb23</id>
     <title>Atlas V 551 | STP-3</title>
-    <updated>2021-12-05T09:04:00Z</updated>
-    <published>2021-12-05T09:04:00Z</published>
+    <updated>2021-12-06T09:04:00Z</updated>
+    <published>2021-12-06T09:04:00Z</published>
     <content type="text">Rideshare mission with the STPSat-6 satellite and six secondary payloads for the US Air Force. STPSat-6 carries the NNSA's Space and Atmospheric Burst Reporting System-3 (SABRS-3) payload and NASA's Laser Communications Relay Demonstration (LCRD) experiment.</content>
     <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/495fe114-753d-48b1-9d23-eb9adaa3fb23.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520551_image_20190224012316.jpeg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20211205093555.jpg"/>
     <category term="launch"/>
     <category term="united_launch_alliance"/>
     <category term="commercial"/>
@@ -195,32 +211,5 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
     <category term="atlas_v_551"/>
     <category term="dedicated_rideshare"/>
     <category term="space_launch_complex_41"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2</id>
-    <title>Soyuz STB/Fregat | 2 x Galileo</title>
-    <updated>2021-12-05T00:19:20Z</updated>
-    <published>2021-12-05T00:19:20Z</published>
-    <content type="text">Payload consists of two satellites for Europe's Galileo navigation system.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/8464fae8-48ef-4e35-860c-07347f339ce2.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_stb_image_20211130181029.jpeg"/>
-    <category term="launch"/>
-    <category term="arianespace"/>
-    <category term="commercial"/>
-    <category term="soyuz"/>
-    <category term="soyuz_stb"/>
-    <category term="navigation"/>
-    <category term="soyuz_launch_complex"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~event~celestial_event~441</id>
-    <title>Total Solar Eclipse</title>
-    <updated>2021-12-04T07:33:00Z</updated>
-    <published>2021-12-04T07:33:00Z</published>
-    <content type="text">Camera views of the total solar eclipse visible from Antarctica will be broadcasted on NASA TV.</content>
-    <link rel="alternate" href="https://youtu.be/J04GFN2Pq1w"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/total_solar_ecl_image_20211203205654.jpeg"/>
-    <category term="event"/>
-    <category term="celestial_event"/>
   </entry>
 </feed>

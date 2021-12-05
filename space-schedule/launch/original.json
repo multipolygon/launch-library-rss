@@ -148,6 +148,43 @@
    }
   },
   {
+   "id": "~space-schedule~launch~space_x~dfb2cc3b-8cd8-41b6-a83a-22b2a742ba4b",
+   "title": "Falcon 9 Block 5 | X-Ray Polarimetry Explorer (IXPE)",
+   "content_text": "Imaging X-ray Polarimetry Explorer (IXPE) is a space observatory tasked with measuring the polarization of cosmic X-rays. This data will help to learn more about objects that emit these X-rays, such as black holes and neutron stars.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/dfb2cc3b-8cd8-41b6-a83a-22b2a742ba4b.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+   "date_published": "2021-12-09T06:00:00Z",
+   "date_modified": "2021-12-09T06:00:00Z",
+   "tags": [
+    "launch",
+    "space_x",
+    "commercial",
+    "falcon",
+    "falcon_9",
+    "astrophysics",
+    "launch_complex_39_a"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1,
+    "subtitle": "SpaceX | Launch | Space Schedule"
+   },
+   "_id": {
+    "parent": "dfb2cc3b-8cd8-41b6-a83a-22b2a742ba4b",
+    "global": "~space-schedule~launch~space_x~dfb2cc3b-8cd8-41b6-a83a-22b2a742ba4b"
+   },
+   "_feed_url": {
+    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/space_x/original.json"
+   }
+  },
+  {
    "id": "~space-schedule~launch~russian_federal_space_agency_roscosmos~603f47d2-bc2b-4bab-b623-294c2cbf899c",
    "title": "Soyuz 2.1a | Soyuz MS-20",
    "content_text": "Soyuz MS-20 will carry Roscosmos cosmonaut Aleksandr Misurkin as well as two tourists, a Japanese billionere Yusaku Maezawa and his assistant Yozo Hirano, to the International Space Station.",
@@ -226,9 +263,9 @@
    "title": "Atlas V 551 | STP-3",
    "content_text": "Rideshare mission with the STPSat-6 satellite and six secondary payloads for the US Air Force. STPSat-6 carries the NNSA's Space and Atmospheric Burst Reporting System-3 (SABRS-3) payload and NASA's Laser Communications Relay Demonstration (LCRD) experiment.",
    "url": "https://ll.thespacedevs.com/2.2.0/launch/495fe114-753d-48b1-9d23-eb9adaa3fb23.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520551_image_20190224012316.jpeg",
-   "date_published": "2021-12-05T09:04:00Z",
-   "date_modified": "2021-12-05T09:04:00Z",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20211205093555.jpg",
+   "date_published": "2021-12-06T09:04:00Z",
+   "date_modified": "2021-12-06T09:04:00Z",
    "tags": [
     "launch",
     "united_launch_alliance",
@@ -241,7 +278,7 @@
    "attachments": [
     {
      "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520551_image_20190224012316.jpeg"
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20211205093555.jpg"
     }
    ],
    "_meta": {
@@ -256,43 +293,6 @@
    },
    "_feed_url": {
     "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/united_launch_alliance/original.json"
-   }
-  },
-  {
-   "id": "~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2",
-   "title": "Soyuz STB/Fregat | 2 x Galileo",
-   "content_text": "Payload consists of two satellites for Europe's Galileo navigation system.",
-   "url": "https://ll.thespacedevs.com/2.2.0/launch/8464fae8-48ef-4e35-860c-07347f339ce2.json",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_stb_image_20211130181029.jpeg",
-   "date_published": "2021-12-05T00:19:20Z",
-   "date_modified": "2021-12-05T00:19:20Z",
-   "tags": [
-    "launch",
-    "arianespace",
-    "commercial",
-    "soyuz",
-    "soyuz_stb",
-    "navigation",
-    "soyuz_launch_complex"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_stb_image_20211130181029.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "subtitle": "Arianespace | Launch | Space Schedule"
-   },
-   "_id": {
-    "parent": "8464fae8-48ef-4e35-860c-07347f339ce2",
-    "global": "~space-schedule~launch~arianespace~8464fae8-48ef-4e35-860c-07347f339ce2"
-   },
-   "_feed_url": {
-    "parent": "https://launch-library-rss.multipolygon.net/space-schedule/launch/arianespace/original.json"
    }
   }
  ],

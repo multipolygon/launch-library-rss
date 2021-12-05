@@ -4,84 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "8464fae8-48ef-4e35-860c-07347f339ce2",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/8464fae8-48ef-4e35-860c-07347f339ce2.json",
-            "launch_library_id": 1371,
-            "slug": "soyuz-stbfregat-2-x-galileo",
-            "name": "Soyuz STB/Fregat | 2 x Galileo",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-12-05T00:19:20Z",
-            "window_end": "2021-12-05T00:19:20Z",
-            "window_start": "2021-12-05T00:19:20Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": -1,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 115,
-                "url": "https://ll.thespacedevs.com/2.2.0/agencies/115.json",
-                "name": "Arianespace",
-                "type": "Commercial"
-            },
-            "rocket": {
-                "id": 2701,
-                "configuration": {
-                    "id": 171,
-                    "launch_library_id": 52,
-                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/171.json",
-                    "name": "Soyuz STB",
-                    "family": "Soyuz",
-                    "full_name": "Soyuz STB Fregat",
-                    "variant": "STB/Fregat"
-                }
-            },
-            "mission": {
-                "id": 5846,
-                "launch_library_id": null,
-                "name": "2 x Galileo",
-                "description": "Payload consists of two satellites for Europe's Galileo navigation system.",
-                "launch_designator": null,
-                "type": "Navigation",
-                "orbit": {
-                    "id": 12,
-                    "name": "Medium Earth Orbit",
-                    "abbrev": "MEO"
-                }
-            },
-            "pad": {
-                "id": 81,
-                "url": "https://ll.thespacedevs.com/2.2.0/pad/81.json",
-                "agency_id": 115,
-                "name": "Soyuz Launch Complex",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Ensemble_de_Lancement_Soyouz",
-                "map_url": "https://www.google.com/maps/?q=5.3019,-52.8346",
-                "latitude": "5.3019",
-                "longitude": "-52.8346",
-                "location": {
-                    "id": 13,
-                    "url": "https://ll.thespacedevs.com/2.2.0/location/13.json",
-                    "name": "Kourou, French Guiana",
-                    "country_code": "GUF",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_13_20200803142412.jpg",
-                    "total_launch_count": 309,
-                    "total_landing_count": 0
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_81_20200803143601.jpg",
-                "total_launch_count": 24
-            },
-            "webcast_live": true,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_stb_image_20211130181029.jpeg",
-            "infographic": null,
-            "program": []
-        },
-        {
             "id": "495fe114-753d-48b1-9d23-eb9adaa3fb23",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/495fe114-753d-48b1-9d23-eb9adaa3fb23.json",
             "launch_library_id": 1347,
@@ -91,13 +13,13 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-12-05T09:04:00Z",
-            "window_end": "2021-12-05T11:04:00Z",
-            "window_start": "2021-12-05T09:04:00Z",
+            "net": "2021-12-06T09:04:00Z",
+            "window_end": "2021-12-06T11:04:00Z",
+            "window_start": "2021-12-06T09:04:00Z",
             "inhold": false,
             "tbdtime": true,
             "tbddate": true,
-            "probability": 90,
+            "probability": 80,
             "holdreason": "",
             "failreason": "",
             "hashtag": null,
@@ -155,7 +77,7 @@
                 "total_launch_count": 101
             },
             "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520551_image_20190224012316.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20211205093555.jpg",
             "infographic": null,
             "program": []
         },
@@ -385,6 +307,84 @@
             ]
         },
         {
+            "id": "dfb2cc3b-8cd8-41b6-a83a-22b2a742ba4b",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/dfb2cc3b-8cd8-41b6-a83a-22b2a742ba4b.json",
+            "launch_library_id": 1951,
+            "slug": "falcon-9-block-5-x-ray-polarimetry-explorer-ixpe",
+            "name": "Falcon 9 Block 5 | X-Ray Polarimetry Explorer (IXPE)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-12-09T06:00:00Z",
+            "window_end": "2021-12-09T07:30:00Z",
+            "window_start": "2021-12-09T06:00:00Z",
+            "inhold": false,
+            "tbdtime": false,
+            "tbddate": false,
+            "probability": 70,
+            "holdreason": "",
+            "failreason": "",
+            "hashtag": null,
+            "launch_service_provider": {
+                "id": 121,
+                "url": "https://ll.thespacedevs.com/2.2.0/agencies/121.json",
+                "name": "SpaceX",
+                "type": "Commercial"
+            },
+            "rocket": {
+                "id": 2502,
+                "configuration": {
+                    "id": 164,
+                    "launch_library_id": 188,
+                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/164.json",
+                    "name": "Falcon 9",
+                    "family": "Falcon",
+                    "full_name": "Falcon 9 Block 5",
+                    "variant": "Block 5"
+                }
+            },
+            "mission": {
+                "id": 1427,
+                "launch_library_id": null,
+                "name": "IXPE",
+                "description": "Imaging X-ray Polarimetry Explorer (IXPE) is a space observatory tasked with measuring the polarization of cosmic X-rays. This data will help to learn more about objects that emit these X-rays, such as black holes and neutron stars.",
+                "launch_designator": null,
+                "type": "Astrophysics",
+                "orbit": {
+                    "id": 8,
+                    "name": "Low Earth Orbit",
+                    "abbrev": "LEO"
+                }
+            },
+            "pad": {
+                "id": 87,
+                "url": "https://ll.thespacedevs.com/2.2.0/pad/87.json",
+                "agency_id": null,
+                "name": "Launch Complex 39A",
+                "info_url": null,
+                "wiki_url": "https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A",
+                "map_url": "http://maps.google.com/maps?q=28.608+N,+80.604+W",
+                "latitude": "28.60822681",
+                "longitude": "-80.60428186",
+                "location": {
+                    "id": 27,
+                    "url": "https://ll.thespacedevs.com/2.2.0/location/27.json",
+                    "name": "Kennedy Space Center, FL, USA",
+                    "country_code": "USA",
+                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_27_20200803142447.jpg",
+                    "total_launch_count": 192,
+                    "total_landing_count": 0
+                },
+                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_87_20200803143537.jpg",
+                "total_launch_count": 135
+            },
+            "webcast_live": false,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null,
+            "program": []
+        },
+        {
             "id": "6b0311ed-1ece-4485-89f8-6832cb5e2358",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/6b0311ed-1ece-4485-89f8-6832cb5e2358.json",
             "launch_library_id": null,
@@ -607,7 +607,7 @@
                     "name": "Kourou, French Guiana",
                     "country_code": "GUF",
                     "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_13_20200803142412.jpg",
-                    "total_launch_count": 309,
+                    "total_launch_count": 310,
                     "total_landing_count": 0
                 },
                 "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_77_20200803143458.jpg",
