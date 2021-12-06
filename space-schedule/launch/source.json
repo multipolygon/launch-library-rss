@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-12-06T09:04:00Z",
-            "window_end": "2021-12-06T11:04:00Z",
-            "window_start": "2021-12-06T09:04:00Z",
+            "net": "2021-12-07T09:04:00Z",
+            "window_end": "2021-12-07T11:04:00Z",
+            "window_start": "2021-12-07T09:04:00Z",
             "inhold": false,
             "tbdtime": true,
             "tbddate": true,
@@ -78,84 +78,6 @@
             },
             "webcast_live": false,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20211205093555.jpg",
-            "infographic": null,
-            "program": []
-        },
-        {
-            "id": "029615cc-ef67-4a1e-b98e-08bdbfb3ae7e",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/029615cc-ef67-4a1e-b98e-08bdbfb3ae7e.json",
-            "launch_library_id": null,
-            "slug": "electron-a-data-with-destiny",
-            "name": "Electron | A Data With Destiny",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-12-07T00:40:00Z",
-            "window_end": "2021-12-07T00:40:00Z",
-            "window_start": "2021-12-07T00:40:00Z",
-            "inhold": false,
-            "tbdtime": false,
-            "tbddate": false,
-            "probability": null,
-            "holdreason": "",
-            "failreason": "",
-            "hashtag": null,
-            "launch_service_provider": {
-                "id": 147,
-                "url": "https://ll.thespacedevs.com/2.2.0/agencies/147.json",
-                "name": "Rocket Lab Ltd",
-                "type": "Commercial"
-            },
-            "rocket": {
-                "id": 7474,
-                "configuration": {
-                    "id": 26,
-                    "launch_library_id": 148,
-                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/26.json",
-                    "name": "Electron",
-                    "family": "Electron",
-                    "full_name": "Electron",
-                    "variant": ""
-                }
-            },
-            "mission": {
-                "id": 5874,
-                "launch_library_id": null,
-                "name": "A Data With Destiny",
-                "description": "Payload consists of two BlackSky Gen-2 high-resolution multi-spectral Earth observation satellites.",
-                "launch_designator": null,
-                "type": "Earth Science",
-                "orbit": {
-                    "id": 17,
-                    "name": "Sun-Synchronous Orbit",
-                    "abbrev": "SSO"
-                }
-            },
-            "pad": {
-                "id": 65,
-                "url": "https://ll.thespacedevs.com/2.2.0/pad/65.json",
-                "agency_id": 147,
-                "name": "Rocket Lab Launch Complex 1A",
-                "info_url": null,
-                "wiki_url": "https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1",
-                "map_url": "https://www.google.com/maps/place/-39.262833,177.864469",
-                "latitude": "-39.262833",
-                "longitude": "177.864469",
-                "location": {
-                    "id": 10,
-                    "url": "https://ll.thespacedevs.com/2.2.0/location/10.json",
-                    "name": "Onenui Station, Mahia Peninsula, New Zealand",
-                    "country_code": "NZL",
-                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_10_20200803142509.jpg",
-                    "total_launch_count": 22,
-                    "total_landing_count": 3
-                },
-                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_65_20200803143549.jpg",
-                "total_launch_count": 22
-            },
-            "webcast_live": false,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null,
             "program": []
         },
@@ -305,6 +227,84 @@
                     "wiki_url": "https://en.wikipedia.org/wiki/International_Space_Station_programme"
                 }
             ]
+        },
+        {
+            "id": "029615cc-ef67-4a1e-b98e-08bdbfb3ae7e",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/029615cc-ef67-4a1e-b98e-08bdbfb3ae7e.json",
+            "launch_library_id": null,
+            "slug": "electron-a-data-with-destiny",
+            "name": "Electron | A Data With Destiny",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-12-08T23:45:00Z",
+            "window_end": "2021-12-09T01:50:00Z",
+            "window_start": "2021-12-08T23:45:00Z",
+            "inhold": false,
+            "tbdtime": false,
+            "tbddate": false,
+            "probability": null,
+            "holdreason": "",
+            "failreason": "",
+            "hashtag": null,
+            "launch_service_provider": {
+                "id": 147,
+                "url": "https://ll.thespacedevs.com/2.2.0/agencies/147.json",
+                "name": "Rocket Lab Ltd",
+                "type": "Commercial"
+            },
+            "rocket": {
+                "id": 7474,
+                "configuration": {
+                    "id": 26,
+                    "launch_library_id": 148,
+                    "url": "https://ll.thespacedevs.com/2.2.0/config/launcher/26.json",
+                    "name": "Electron",
+                    "family": "Electron",
+                    "full_name": "Electron",
+                    "variant": ""
+                }
+            },
+            "mission": {
+                "id": 5874,
+                "launch_library_id": null,
+                "name": "A Data With Destiny",
+                "description": "Payload consists of two BlackSky Gen-2 high-resolution multi-spectral Earth observation satellites.",
+                "launch_designator": null,
+                "type": "Earth Science",
+                "orbit": {
+                    "id": 17,
+                    "name": "Sun-Synchronous Orbit",
+                    "abbrev": "SSO"
+                }
+            },
+            "pad": {
+                "id": 65,
+                "url": "https://ll.thespacedevs.com/2.2.0/pad/65.json",
+                "agency_id": 147,
+                "name": "Rocket Lab Launch Complex 1A",
+                "info_url": null,
+                "wiki_url": "https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1",
+                "map_url": "https://www.google.com/maps/place/-39.262833,177.864469",
+                "latitude": "-39.262833",
+                "longitude": "177.864469",
+                "location": {
+                    "id": 10,
+                    "url": "https://ll.thespacedevs.com/2.2.0/location/10.json",
+                    "name": "Onenui Station, Mahia Peninsula, New Zealand",
+                    "country_code": "NZL",
+                    "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/location_10_20200803142509.jpg",
+                    "total_launch_count": 22,
+                    "total_landing_count": 3
+                },
+                "map_image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pad_65_20200803143549.jpg",
+                "total_launch_count": 22
+            },
+            "webcast_live": false,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null,
+            "program": []
         },
         {
             "id": "dfb2cc3b-8cd8-41b6-a83a-22b2a742ba4b",
