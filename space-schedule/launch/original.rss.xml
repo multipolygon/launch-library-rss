@@ -56,6 +56,20 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/proton-m2520briz-m_image_20190224012317.jpeg"/>
     </item>
     <item>
+      <title>Long March 4C | Unknown</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/ee41a4a4-e57c-435e-8445-73c5a3df0e15.json</link>
+      <description>-</description>
+      <category>launch</category>
+      <category>china_aerospace_science_and_technology_corporation</category>
+      <category>government</category>
+      <category>long_march_4</category>
+      <category>long_march_4_c</category>
+      <category>launch_area_4_sls_2_603</category>
+      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~ee41a4a4-e57c-435e-8445-73c5a3df0e15</guid>
+      <pubDate>Fri, 10 Dec 2021 00:03:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"/>
+    </item>
+    <item>
       <title>New Shepard | NS-19</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/6b0311ed-1ece-4485-89f8-6832cb5e2358.json</link>
       <description>NS-19 is the third crewed New Shepard flight, carrying two honorary guests and four paying customers.</description>
@@ -101,7 +115,7 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
     <item>
       <title>Soyuz 2.1a | Soyuz MS-20</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/603f47d2-bc2b-4bab-b623-294c2cbf899c.json</link>
-      <description>Soyuz MS-20 will carry Roscosmos cosmonaut Aleksandr Misurkin as well as two tourists, a Japanese billionere Yusaku Maezawa and his assistant Yozo Hirano, to the International Space Station.</description>
+      <description>Soyuz MS-20 will carry Roscosmos cosmonaut Aleksandr Misurkin as well as two tourists, Japanese billionaire Yusaku Maezawa and his assistant Yozo Hirano, to the International Space Station.</description>
       <category>launch</category>
       <category>russian_federal_space_agency_roscosmos</category>
       <category>government</category>
@@ -113,21 +127,6 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <guid isPermaLink="false">~space-schedule~launch~russian_federal_space_agency_roscosmos~603f47d2-bc2b-4bab-b623-294c2cbf899c</guid>
       <pubDate>Wed, 08 Dec 2021 07:38:15 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
-    </item>
-    <item>
-      <title>Atlas V 551 | STP-3</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/495fe114-753d-48b1-9d23-eb9adaa3fb23.json</link>
-      <description>Rideshare mission with the STPSat-6 satellite and six secondary payloads for the US Air Force. STPSat-6 carries the NNSA's Space and Atmospheric Burst Reporting System-3 (SABRS-3) payload and NASA's Laser Communications Relay Demonstration (LCRD) experiment.</description>
-      <category>launch</category>
-      <category>united_launch_alliance</category>
-      <category>commercial</category>
-      <category>atlas</category>
-      <category>atlas_v_551</category>
-      <category>dedicated_rideshare</category>
-      <category>space_launch_complex_41</category>
-      <guid isPermaLink="false">~space-schedule~launch~united_launch_alliance~495fe114-753d-48b1-9d23-eb9adaa3fb23</guid>
-      <pubDate>Tue, 07 Dec 2021 09:04:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20211205093555.jpg"/>
     </item>
   </channel>
 </rss>
