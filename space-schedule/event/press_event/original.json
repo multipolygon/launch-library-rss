@@ -27,31 +27,6 @@
     "imageCount": 1,
     "youtubeCount": 1
    }
-  },
-  {
-   "id": "440",
-   "title": "2021 NASA Astronaut Candidates Announcement",
-   "content_text": "After evaluating more than 12,000 applications, NASA will introduce its 2021 astronaut candidates from Ellington Field near NASA’s Johnson Space Center in Houston. After completing training, these individuals could be eligible for a variety of flight assignments including missions on and around the Moon under the Artemis program.",
-   "url": "https://www.youtube.com/watch?v=UGpZxV9AJKM",
-   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/2021_nasa_astro_image_20211202132624.jpeg",
-   "date_published": "2021-12-06T17:30:00Z",
-   "date_modified": "2021-12-06T17:30:00Z",
-   "tags": [
-    "event",
-    "press_event"
-   ],
-   "attachments": [
-    {
-     "mime_type": "image/jpeg",
-     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/2021_nasa_astro_image_20211202132624.jpeg"
-    }
-   ],
-   "_meta": {
-    "audioCount": 0,
-    "videoCount": 0,
-    "imageCount": 1,
-    "youtubeCount": 1
-   }
   }
  ],
  "_feed_url": {
@@ -60,7 +35,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Fevent%2Fpress_event%2Foriginal.json",
  "_meta": {
-  "itemCount": 2,
+  "itemCount": 1,
   "pageNumber": 1,
   "pageCount": 1
  }

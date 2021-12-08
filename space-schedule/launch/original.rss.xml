@@ -112,21 +112,5 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <pubDate>Wed, 08 Dec 2021 23:45:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"/>
     </item>
-    <item>
-      <title>Soyuz 2.1a | Soyuz MS-20</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/603f47d2-bc2b-4bab-b623-294c2cbf899c.json</link>
-      <description>Soyuz MS-20 will carry Roscosmos cosmonaut Aleksandr Misurkin as well as two tourists, Japanese billionaire Yusaku Maezawa and his assistant Yozo Hirano, to the International Space Station.</description>
-      <category>launch</category>
-      <category>russian_federal_space_agency_roscosmos</category>
-      <category>government</category>
-      <category>soyuz</category>
-      <category>soyuz_2_1_a</category>
-      <category>human_exploration</category>
-      <category>31_6</category>
-      <category>international_space_station</category>
-      <guid isPermaLink="false">~space-schedule~launch~russian_federal_space_agency_roscosmos~603f47d2-bc2b-4bab-b623-294c2cbf899c</guid>
-      <pubDate>Wed, 08 Dec 2021 07:38:15 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
-    </item>
   </channel>
 </rss>

@@ -70,15 +70,5 @@
       <pubDate>Tue, 07 Dec 2021 22:30:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ixpe_pre-launch_image_20211201070800.jpeg"/>
     </item>
-    <item>
-      <title>2021 NASA Astronaut Candidates Announcement</title>
-      <link>https://www.youtube.com/watch?v=UGpZxV9AJKM</link>
-      <description>After evaluating more than 12,000 applications, NASA will introduce its 2021 astronaut candidates from Ellington Field near NASA’s Johnson Space Center in Houston. After completing training, these individuals could be eligible for a variety of flight assignments including missions on and around the Moon under the Artemis program.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~440</guid>
-      <pubDate>Mon, 06 Dec 2021 17:30:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/2021_nasa_astro_image_20211202132624.jpeg"/>
-    </item>
   </channel>
 </rss>

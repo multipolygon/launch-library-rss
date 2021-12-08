@@ -163,22 +163,6 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg"/>
     </item>
     <item>
-      <title>Soyuz 2.1a | Soyuz MS-20</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/603f47d2-bc2b-4bab-b623-294c2cbf899c.json</link>
-      <description>Soyuz MS-20 will carry Roscosmos cosmonaut Aleksandr Misurkin as well as two tourists, Japanese billionaire Yusaku Maezawa and his assistant Yozo Hirano, to the International Space Station.</description>
-      <category>launch</category>
-      <category>russian_federal_space_agency_roscosmos</category>
-      <category>government</category>
-      <category>soyuz</category>
-      <category>soyuz_2_1_a</category>
-      <category>human_exploration</category>
-      <category>31_6</category>
-      <category>international_space_station</category>
-      <guid isPermaLink="false">~space-schedule~launch~russian_federal_space_agency_roscosmos~603f47d2-bc2b-4bab-b623-294c2cbf899c</guid>
-      <pubDate>Wed, 08 Dec 2021 07:38:15 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg"/>
-    </item>
-    <item>
       <title>IXPE Pre-Launch News Conference</title>
       <link>https://www.youtube.com/watch?v=21X5lGlDOfg</link>
       <description>NASA will host a media briefing about the upcoming launch of the Imaging X-ray Polarimetry Explorer (IXPE) mission.</description>
@@ -187,16 +171,6 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <guid isPermaLink="false">~space-schedule~event~press_event~437</guid>
       <pubDate>Tue, 07 Dec 2021 22:30:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ixpe_pre-launch_image_20211201070800.jpeg"/>
-    </item>
-    <item>
-      <title>2021 NASA Astronaut Candidates Announcement</title>
-      <link>https://www.youtube.com/watch?v=UGpZxV9AJKM</link>
-      <description>After evaluating more than 12,000 applications, NASA will introduce its 2021 astronaut candidates from Ellington Field near NASA’s Johnson Space Center in Houston. After completing training, these individuals could be eligible for a variety of flight assignments including missions on and around the Moon under the Artemis program.</description>
-      <category>event</category>
-      <category>press_event</category>
-      <guid isPermaLink="false">~space-schedule~event~press_event~440</guid>
-      <pubDate>Mon, 06 Dec 2021 17:30:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/2021_nasa_astro_image_20211202132624.jpeg"/>
     </item>
   </channel>
 </rss>
