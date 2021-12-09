@@ -63,15 +63,4 @@
     <category term="event"/>
     <category term="docking"/>
   </entry>
-  <entry>
-    <id>~space-schedule~event~press_event~437</id>
-    <title>IXPE Pre-Launch News Conference</title>
-    <updated>2021-12-07T22:30:00Z</updated>
-    <published>2021-12-07T22:30:00Z</published>
-    <content type="text">NASA will host a media briefing about the upcoming launch of the Imaging X-ray Polarimetry Explorer (IXPE) mission.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/ixpe_pre-launch_image_20211201070800.jpeg"/>
-    <category term="event"/>
-    <category term="press_event"/>
-  </entry>
 </feed>

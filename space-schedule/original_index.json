@@ -6,13 +6,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/launch/original_index.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Flaunch%2Foriginal_index.json",
    "title": "Launch",
-   "content_text": "6 items",
+   "content_text": "4 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_7a_image_20210311201838.jpg",
    "date_published": "2021-12-23T09:30:00Z",
    "date_modified": "2021-12-23T09:30:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 6,
+    "itemCount": 4,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0
@@ -22,13 +22,13 @@
    "id": "https://launch-library-rss.multipolygon.net/space-schedule/event/original_index.json",
    "url": "https://launch-library-rss-app.multipolygon.net/?i=.%2Fspace-schedule%2Fevent%2Foriginal_index.json",
    "title": "Event",
-   "content_text": "4 items",
+   "content_text": "3 items",
    "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/crs-24_dragon_d_image_20210519131141.jpeg",
    "date_published": "2021-12-22T09:30:00Z",
    "date_modified": "2021-12-22T09:30:00Z",
    "_geo": {},
    "_meta": {
-    "itemCount": 4,
+    "itemCount": 3,
     "audioCount": 0,
     "videoCount": 0,
     "imageCount": 0

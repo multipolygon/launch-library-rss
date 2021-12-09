@@ -39,6 +39,20 @@
     <category term="ariane_launch_area_3"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~8bddef41-35c8-4170-9449-33a9ecb6d8fc</id>
+    <title>Long March 3B | Unknown</title>
+    <updated>2021-12-13T16:00:00Z</updated>
+    <published>2021-12-13T16:00:00Z</published>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/8bddef41-35c8-4170-9449-33a9ecb6d8fc.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
+    <category term="launch"/>
+    <category term="china_aerospace_science_and_technology_corporation"/>
+    <category term="government"/>
+    <category term="long_march_3"/>
+    <category term="launch_complex_3_lc_3_la_1"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~khrunichev_state_research_and_production_space_center~700b3892-cff9-4164-b1cb-c60bb3d81635</id>
     <title>Proton-M/Briz-M | Ekspress-AMU3 &amp; AMU7</title>
     <updated>2021-12-12T12:09:00Z</updated>
@@ -57,6 +71,21 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
     <category term="200_39_200_l"/>
   </entry>
   <entry>
+    <id>~space-schedule~launch~blue_origin~6b0311ed-1ece-4485-89f8-6832cb5e2358</id>
+    <title>New Shepard | NS-19</title>
+    <updated>2021-12-11T14:45:00Z</updated>
+    <published>2021-12-11T14:45:00Z</published>
+    <content type="text">NS-19 is the third crewed New Shepard flight, carrying two honorary guests and four paying customers.</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/6b0311ed-1ece-4485-89f8-6832cb5e2358.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"/>
+    <category term="launch"/>
+    <category term="blue_origin"/>
+    <category term="commercial"/>
+    <category term="new_shepard"/>
+    <category term="tourism"/>
+    <category term="west_texas_suborbital_launch_site_corn_ranch"/>
+  </entry>
+  <entry>
     <id>~space-schedule~launch~china_aerospace_science_and_technology_corporation~ee41a4a4-e57c-435e-8445-73c5a3df0e15</id>
     <title>Long March 4C | Unknown</title>
     <updated>2021-12-10T00:03:00Z</updated>
@@ -70,51 +99,5 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
     <category term="long_march_4"/>
     <category term="long_march_4_c"/>
     <category term="launch_area_4_sls_2_603"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~blue_origin~6b0311ed-1ece-4485-89f8-6832cb5e2358</id>
-    <title>New Shepard | NS-19</title>
-    <updated>2021-12-09T15:00:00Z</updated>
-    <published>2021-12-09T15:00:00Z</published>
-    <content type="text">NS-19 is the third crewed New Shepard flight, carrying two honorary guests and four paying customers.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/6b0311ed-1ece-4485-89f8-6832cb5e2358.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"/>
-    <category term="launch"/>
-    <category term="blue_origin"/>
-    <category term="commercial"/>
-    <category term="new_shepard"/>
-    <category term="tourism"/>
-    <category term="west_texas_suborbital_launch_site_corn_ranch"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~space_x~dfb2cc3b-8cd8-41b6-a83a-22b2a742ba4b</id>
-    <title>Falcon 9 Block 5 | X-Ray Polarimetry Explorer (IXPE)</title>
-    <updated>2021-12-09T06:00:00Z</updated>
-    <published>2021-12-09T06:00:00Z</published>
-    <content type="text">Imaging X-ray Polarimetry Explorer (IXPE) is a space observatory tasked with measuring the polarization of cosmic X-rays. This data will help to learn more about objects that emit these X-rays, such as black holes and neutron stars.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/dfb2cc3b-8cd8-41b6-a83a-22b2a742ba4b.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg"/>
-    <category term="launch"/>
-    <category term="space_x"/>
-    <category term="commercial"/>
-    <category term="falcon"/>
-    <category term="falcon_9"/>
-    <category term="astrophysics"/>
-    <category term="launch_complex_39_a"/>
-  </entry>
-  <entry>
-    <id>~space-schedule~launch~rocket_lab_ltd~029615cc-ef67-4a1e-b98e-08bdbfb3ae7e</id>
-    <title>Electron | A Data With Destiny</title>
-    <updated>2021-12-08T23:45:00Z</updated>
-    <published>2021-12-08T23:45:00Z</published>
-    <content type="text">Payload consists of two BlackSky Gen-2 high-resolution multi-spectral Earth observation satellites.</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/029615cc-ef67-4a1e-b98e-08bdbfb3ae7e.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg"/>
-    <category term="launch"/>
-    <category term="rocket_lab_ltd"/>
-    <category term="commercial"/>
-    <category term="electron"/>
-    <category term="earth_science"/>
-    <category term="rocket_lab_launch_complex_1_a"/>
   </entry>
 </feed>

@@ -29,6 +29,33 @@
    }
   },
   {
+   "id": "8bddef41-35c8-4170-9449-33a9ecb6d8fc",
+   "title": "Long March 3B | Unknown",
+   "content_text": "-",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/8bddef41-35c8-4170-9449-33a9ecb6d8fc.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
+   "date_published": "2021-12-13T16:00:00Z",
+   "date_modified": "2021-12-13T16:00:00Z",
+   "tags": [
+    "launch",
+    "china_aerospace_science_and_technology_corporation",
+    "government",
+    "long_march_3",
+    "launch_complex_3_lc_3_la_1"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1
+   }
+  },
+  {
    "id": "ee41a4a4-e57c-435e-8445-73c5a3df0e15",
    "title": "Long March 4C | Unknown",
    "content_text": "-",
@@ -65,7 +92,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Fchina_aerospace_science_and_technology_corporation%2Foriginal.json",
  "_meta": {
-  "itemCount": 2,
+  "itemCount": 3,
   "pageNumber": 1,
   "pageCount": 1
  }

@@ -22,6 +22,20 @@
     <category term="201"/>
   </entry>
   <entry>
+    <id>8bddef41-35c8-4170-9449-33a9ecb6d8fc</id>
+    <title>Long March 3B | Unknown</title>
+    <updated>2021-12-13T16:00:00Z</updated>
+    <published>2021-12-13T16:00:00Z</published>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/8bddef41-35c8-4170-9449-33a9ecb6d8fc.json"/>
+    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
+    <category term="launch"/>
+    <category term="china_aerospace_science_and_technology_corporation"/>
+    <category term="government"/>
+    <category term="long_march_3"/>
+    <category term="launch_complex_3_lc_3_la_1"/>
+  </entry>
+  <entry>
     <id>ee41a4a4-e57c-435e-8445-73c5a3df0e15</id>
     <title>Long March 4C | Unknown</title>
     <updated>2021-12-10T00:03:00Z</updated>
