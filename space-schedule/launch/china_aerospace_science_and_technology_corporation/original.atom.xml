@@ -35,19 +35,4 @@
     <category term="long_march_3"/>
     <category term="launch_complex_3_lc_3_la_1"/>
   </entry>
-  <entry>
-    <id>ee41a4a4-e57c-435e-8445-73c5a3df0e15</id>
-    <title>Long March 4C | Unknown</title>
-    <updated>2021-12-10T00:03:00Z</updated>
-    <published>2021-12-10T00:03:00Z</published>
-    <content type="text">-</content>
-    <link rel="alternate" href="https://ll.thespacedevs.com/2.2.0/launch/ee41a4a4-e57c-435e-8445-73c5a3df0e15.json"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"/>
-    <category term="launch"/>
-    <category term="china_aerospace_science_and_technology_corporation"/>
-    <category term="government"/>
-    <category term="long_march_4"/>
-    <category term="long_march_4_c"/>
-    <category term="launch_area_4_sls_2_603"/>
-  </entry>
 </feed>

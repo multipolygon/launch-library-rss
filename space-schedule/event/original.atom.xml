@@ -52,15 +52,4 @@
     <category term="event"/>
     <category term="spacecraft_undocking"/>
   </entry>
-  <entry>
-    <id>~space-schedule~event~docking~290</id>
-    <title>Soyuz MS-20 Docking</title>
-    <updated>2021-12-08T13:41:00Z</updated>
-    <published>2021-12-08T13:41:00Z</published>
-    <content type="text">The Soyuz MS-20 spacecraft will dock to the International Space Station carrying ROSCOSMOS cosmonaut Alexander Misurkin as well as Japanese entrepreneur Yusaku Maezawa and his cameraman Yozo Hirano.</content>
-    <link rel="alternate" href="https://www.youtube.com/watch?v=21X5lGlDOfg"/>
-    <link rel="enclosure" type="image/jpeg" href="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/event_images/soyuz_ms-20_doc_image_20210519132153.jpeg"/>
-    <category term="event"/>
-    <category term="docking"/>
-  </entry>
 </feed>

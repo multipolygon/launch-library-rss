@@ -2,6 +2,35 @@
  "title": "Arianespace | Launch | Space Schedule",
  "items": [
   {
+   "id": "b4cb5f4f-247d-4a14-918a-a2e56f46289e",
+   "title": "Soyuz 2.1b/Fregat-M | OneWeb 12",
+   "content_text": "A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.",
+   "url": "https://ll.thespacedevs.com/2.2.0/launch/b4cb5f4f-247d-4a14-918a-a2e56f46289e.json",
+   "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz2520stb2_image_20210520090021.jpeg",
+   "date_published": "2021-12-27T13:10:37Z",
+   "date_modified": "2021-12-27T13:10:37Z",
+   "tags": [
+    "launch",
+    "arianespace",
+    "commercial",
+    "soyuz",
+    "soyuz_2_1_b_fregat_m",
+    "communications",
+    "31_6"
+   ],
+   "attachments": [
+    {
+     "mime_type": "image/jpeg",
+     "url": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz2520stb2_image_20210520090021.jpeg"
+    }
+   ],
+   "_meta": {
+    "audioCount": 0,
+    "videoCount": 0,
+    "imageCount": 1
+   }
+  },
+  {
    "id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
    "title": "Ariane 5 ECA+ | James Webb Space Telescope (JWST)",
    "content_text": "The James Webb Space Telescope is a space telescope developed by NASA, ESA and CSA to succeed the Hubble Space Telescope as NASA's flagship astrophysics mission.  Its primary mirror, the Optical Telescope Element, is composed of 18 hexagonal mirror segments which combine to create a 6.5 m diameter mirror, considerably larger than Hubble's 2.4 m mirror. This will allow JWST to provide improved infrared resolution and sensitivity over Hubble, and will enable a broad range of investigations across the fields of astronomy and cosmology, including observing some of the most distant events and objects in the universe, such as the formation of the first galaxies.",
@@ -39,7 +68,7 @@
  },
  "home_page_url": "https://launch-library-rss-app.multipolygon.net/?i=https%3A%2F%2Flaunch-library-rss.multipolygon.net%2Fspace-schedule%2Flaunch%2Farianespace%2Foriginal.json",
  "_meta": {
-  "itemCount": 1,
+  "itemCount": 2,
   "pageNumber": 1,
   "pageCount": 1
  }

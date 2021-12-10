@@ -7,9 +7,24 @@
     <description>All items in Space Schedule &gt; Launch.</description>
     <language>en-us</language>
     <copyright>© 2021 </copyright>
-    <pubDate>Thu, 23 Dec 2021 09:30:00 GMT</pubDate>
+    <pubDate>Mon, 27 Dec 2021 13:10:37 GMT</pubDate>
     <generator>jsonfeed-to-rss 3.0.4 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
     <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Soyuz 2.1b/Fregat-M | OneWeb 12</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/b4cb5f4f-247d-4a14-918a-a2e56f46289e.json</link>
+      <description>A batch of 36 satellites for the OneWeb satellite constellation, which is intended to provide global Internet broadband service for individual consumers. The constellation is planned to have around 648 microsatellites (of which 60 are spares), around 150 kg each, operating in Ku-band from low Earth orbit.</description>
+      <category>launch</category>
+      <category>arianespace</category>
+      <category>commercial</category>
+      <category>soyuz</category>
+      <category>soyuz_2_1_b_fregat_m</category>
+      <category>communications</category>
+      <category>31_6</category>
+      <guid isPermaLink="false">~space-schedule~launch~arianespace~b4cb5f4f-247d-4a14-918a-a2e56f46289e</guid>
+      <pubDate>Mon, 27 Dec 2021 13:10:37 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz2520stb2_image_20210520090021.jpeg"/>
+    </item>
     <item>
       <title>Long March 7A (?) | HOTS (?)</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/edeca0f9-cae5-44ea-a6e4-dc39043b37dc.json</link>
@@ -39,6 +54,25 @@
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg"/>
     </item>
     <item>
+      <title>Falcon 9 Block 5 | Dragon CRS-2 SpX-24</title>
+      <link>https://ll.thespacedevs.com/2.2.0/launch/878ba32c-5e93-4d2b-95c3-24b60c8b05e7.json</link>
+      <description>24th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.&#xD;
+&#xD;
+Cargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.</description>
+      <category>launch</category>
+      <category>space_x</category>
+      <category>commercial</category>
+      <category>falcon</category>
+      <category>falcon_9</category>
+      <category>resupply</category>
+      <category>launch_complex_39_a</category>
+      <category>commercial_resupply_services</category>
+      <category>international_space_station</category>
+      <guid isPermaLink="false">~space-schedule~launch~space_x~878ba32c-5e93-4d2b-95c3-24b60c8b05e7</guid>
+      <pubDate>Tue, 21 Dec 2021 10:06:00 GMT</pubDate>
+      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085653.jpeg"/>
+    </item>
+    <item>
       <title>Long March 3B | Unknown</title>
       <link>https://ll.thespacedevs.com/2.2.0/launch/8bddef41-35c8-4170-9449-33a9ecb6d8fc.json</link>
       <description>-</description>
@@ -50,23 +84,6 @@
       <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~8bddef41-35c8-4170-9449-33a9ecb6d8fc</guid>
       <pubDate>Mon, 13 Dec 2021 16:00:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg"/>
-    </item>
-    <item>
-      <title>Proton-M/Briz-M | Ekspress-AMU3 &amp; AMU7</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/700b3892-cff9-4164-b1cb-c60bb3d81635.json</link>
-      <description>The Ekspress-AMU 3 and Ekspress-AMU 7 are two communications satellite for russian domestic communication services. While the spacecraft themselves are built by russian RSCC (Kosmicheskiya Svyaz), the communication payloads are built by Thales Alenia Space.&#xD;
-&#xD;
-Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 20 C-band transponders. They will be located at 96.5° and 145° East respectively.</description>
-      <category>launch</category>
-      <category>khrunichev_state_research_and_production_space_center</category>
-      <category>government</category>
-      <category>proton</category>
-      <category>proton_m_briz_m</category>
-      <category>communications</category>
-      <category>200_39_200_l</category>
-      <guid isPermaLink="false">~space-schedule~launch~khrunichev_state_research_and_production_space_center~700b3892-cff9-4164-b1cb-c60bb3d81635</guid>
-      <pubDate>Sun, 12 Dec 2021 12:09:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/proton-m2520briz-m_image_20190224012317.jpeg"/>
     </item>
     <item>
       <title>New Shepard | NS-19</title>
@@ -81,20 +98,6 @@ Both satellites are based on the Ekspress-1000 bus and feature 16 Ku-, 1 L- and 
       <guid isPermaLink="false">~space-schedule~launch~blue_origin~6b0311ed-1ece-4485-89f8-6832cb5e2358</guid>
       <pubDate>Sat, 11 Dec 2021 14:45:00 GMT</pubDate>
       <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg"/>
-    </item>
-    <item>
-      <title>Long March 4C | Unknown</title>
-      <link>https://ll.thespacedevs.com/2.2.0/launch/ee41a4a4-e57c-435e-8445-73c5a3df0e15.json</link>
-      <description>-</description>
-      <category>launch</category>
-      <category>china_aerospace_science_and_technology_corporation</category>
-      <category>government</category>
-      <category>long_march_4</category>
-      <category>long_march_4_c</category>
-      <category>launch_area_4_sls_2_603</category>
-      <guid isPermaLink="false">~space-schedule~launch~china_aerospace_science_and_technology_corporation~ee41a4a4-e57c-435e-8445-73c5a3df0e15</guid>
-      <pubDate>Fri, 10 Dec 2021 00:03:00 GMT</pubDate>
-      <enclosure type="image/jpeg" url="https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg"/>
     </item>
   </channel>
 </rss>
